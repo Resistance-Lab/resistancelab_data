@@ -1,0 +1,190 @@
+{
+  "data_asset_type": "Dataset",
+  "expectation_suite_name": "police-population.warning",
+  "expectations": [
+    {
+      "expectation_type": "expect_table_row_count_to_equal",
+      "kwargs": {
+        "value": 42
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_table_column_count_to_equal",
+      "kwargs": {
+        "value": 5
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_table_columns_to_match_ordered_list",
+      "kwargs": {
+        "column_list": [
+          "Force",
+          "Police Officers",
+          "Population",
+          "Police Per 100_000 Population",
+          "Rank"
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_pair_values_A_to_be_greater_than_B",
+      "kwargs": {
+        "column_A": "Population",
+        "column_B": "Police Officers"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "Force"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_of_type",
+      "kwargs": {
+        "column": "Force",
+        "type_": "str"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_unique",
+      "kwargs": {
+        "column": "Force"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "Police Officers"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_of_type",
+      "kwargs": {
+        "column": "Police Officers",
+        "type_": "int64"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "Population"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_of_type",
+      "kwargs": {
+        "column": "Population",
+        "type_": "int64"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "Police Per 100_000 Population"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_of_type",
+      "kwargs": {
+        "column": "Police Per 100_000 Population",
+        "type_": "int64"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "Rank"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_of_type",
+      "kwargs": {
+        "column": "Rank",
+        "type_": "int64"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_unique",
+      "kwargs": {
+        "column": "Rank"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_between",
+      "kwargs": {
+        "column": "Rank",
+        "max_value": 42,
+        "min_value": 1
+      },
+      "meta": {}
+    }
+  ],
+  "meta": {
+    "BasicSuiteBuilderProfiler": {
+      "batch_kwargs": {
+        "datasource": "files_datasource",
+        "path": "output/police-population.csv",
+        "reader_method": "read_csv"
+      },
+      "created_at": 1589480317.039893,
+      "created_by": "BasicSuiteBuilderProfiler"
+    },
+    "citations": [
+      {
+        "batch_kwargs": {
+          "datasource": "files_datasource",
+          "path": "output/police-population.csv",
+          "reader_method": "read_csv"
+        },
+        "batch_markers": {
+          "ge_load_time": "20200514T181836.974689Z",
+          "pandas_data_fingerprint": "6dc2d1b6de564b1929b28e940ef5bc89"
+        },
+        "batch_parameters": null,
+        "citation_date": "2020-05-14T19:18:37.073444",
+        "comment": "BasicSuiteBuilderProfiler added a citation based on the current batch."
+      }
+    ],
+    "columns": {
+      "Force": {
+        "description": "The name of the police force"
+      },
+      "Police Officers": {
+        "description": "Number of police officers belonging to this force"
+      },
+      "Police Per 100_000 Population": {
+        "description": "Number of police officers per 100,000 population"
+      },
+      "Population": {
+        "description": "Population of the area covered by this police force"
+      },
+      "Rank": {
+        "description": ""
+      }
+    },
+    "great_expectations.__version__": "0.10.10",
+    "notes": {
+      "content": [
+        "This data describes the number of police officers and the general population per police force for England and Wales."
+      ],
+      "format": "markdown"
+    }
+  }
+}

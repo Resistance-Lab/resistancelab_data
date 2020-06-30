@@ -1,0 +1,162 @@
+{
+  "data_asset_type": "Dataset",
+  "expectation_suite_name": "tasers-2018.warning",
+  "expectations": [
+    {
+      "expectation_type": "expect_table_row_count_to_be_between",
+      "kwargs": {
+        "max_value": 54,
+        "min_value": 49
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_table_column_count_to_equal",
+      "kwargs": {
+        "value": 13
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_table_columns_to_match_ordered_list",
+      "kwargs": {
+        "column_list": [
+          "Region",
+          "Police force",
+          "Total",
+          "Total non-discharge",
+          "Drawn",
+          "Aimed",
+          "Red-dot",
+          "Arced",
+          "Total discharge",
+          "Drive stun",
+          "Fired",
+          "Angled drive stun",
+          "Not stated"
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "Total"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "Region"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_value_lengths_to_be_between",
+      "kwargs": {
+        "column": "Region",
+        "min_value": 1
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "Police force"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_value_lengths_to_be_between",
+      "kwargs": {
+        "column": "Police force",
+        "min_value": 1
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_pair_values_A_to_be_greater_than_B",
+      "kwargs": {
+        "column_A": "Total non-discharge",
+        "column_B": "Arced"
+      },
+      "meta": {}
+    }
+  ],
+  "meta": {
+    "BasicSuiteBuilderProfiler": {
+      "batch_kwargs": {
+        "datasource": "files_datasource",
+        "path": "output/tasers/by-type-force-region/april2017-march2018.csv",
+        "reader_method": "read_csv"
+      },
+      "created_at": 1589637959.553014,
+      "created_by": "BasicSuiteBuilderProfiler"
+    },
+    "citations": [
+      {
+        "batch_kwargs": {
+          "datasource": "files_datasource",
+          "path": "output/tasers/by-type-force-region/april2017-march2018.csv",
+          "reader_method": "read_csv"
+        },
+        "batch_markers": {
+          "ge_load_time": "20200516T140559.480849Z",
+          "pandas_data_fingerprint": "9a44592b6d23fc46ec46e2bbe90eb981"
+        },
+        "batch_parameters": null,
+        "citation_date": "2020-05-16T15:05:59.564141",
+        "comment": "BasicSuiteBuilderProfiler added a citation based on the current batch."
+      }
+    ],
+    "columns": {
+      "Aimed": {
+        "description": ""
+      },
+      "Angled drive stun": {
+        "description": ""
+      },
+      "Arced": {
+        "description": ""
+      },
+      "Drawn": {
+        "description": ""
+      },
+      "Drive stun": {
+        "description": ""
+      },
+      "Fired": {
+        "description": ""
+      },
+      "Not stated": {
+        "description": ""
+      },
+      "Police force": {
+        "description": ""
+      },
+      "Red-dot": {
+        "description": ""
+      },
+      "Region": {
+        "description": ""
+      },
+      "Total": {
+        "description": ""
+      },
+      "Total discharge": {
+        "description": ""
+      },
+      "Total non-discharge": {
+        "description": ""
+      }
+    },
+    "great_expectations.__version__": "0.10.10",
+    "notes": {
+      "content": [
+        "#### This is an _example_ suite\n\n- This suite was made by quickly glancing at 1000 rows of your data.\n- This is **not a production suite**. It is meant to show examples of expectations.\n- Because this suite was auto-generated using a very basic profiler that does not know your data like you do, many of the expectations may not be meaningful.\n"
+      ],
+      "format": "markdown"
+    }
+  }
+}

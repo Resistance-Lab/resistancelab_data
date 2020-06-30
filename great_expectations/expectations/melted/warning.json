@@ -1,0 +1,210 @@
+{
+  "data_asset_type": "Dataset",
+  "expectation_suite_name": "melted.warning",
+  "expectations": [
+    {
+      "expectation_type": "expect_table_column_count_to_equal",
+      "kwargs": {
+        "value": 6
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "Tactic"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_distinct_values_to_be_in_set",
+      "kwargs": {
+        "column": "Tactic",
+        "value_set": [
+          "*Total Firearms",
+          "*Total Less lethal weapons",
+          "*Total Not reported",
+          "*Total Other",
+          "*Total Other equipment",
+          "*Total Restraint",
+          "*Total Tactics",
+          "*Total Unarmed skills",
+          "AEP aimed",
+          "AEP fired",
+          "AEP, of which",
+          "Baton drawn",
+          "Baton used",
+          "Baton, of which",
+          "CED",
+          "Compliant handcuffing",
+          "Dog bite",
+          "Dog deployed",
+          "Dog use, of which",
+          "Ground restraint",
+          "Handcuffing, of which",
+          "Irritant spray - drawn",
+          "Irritant spray - used",
+          "Irritant spray, of which",
+          "Limb / Body restraints",
+          "Non-compliant handcuffing",
+          "Not stated AEP",
+          "Not stated baton",
+          "Not stated dog",
+          "Not stated handcuffing",
+          "Not stated irritant spray",
+          "Other / improvised",
+          "Shield",
+          "Spit and bite guard",
+          "Tactical communication"
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_kl_divergence_to_be_less_than",
+      "kwargs": {
+        "column": "Tactic",
+        "partition_object": {
+          "values": [
+            "*Total Firearms",
+            "*Total Less lethal weapons",
+            "*Total Not reported",
+            "*Total Other",
+            "*Total Other equipment",
+            "*Total Restraint",
+            "*Total Tactics",
+            "*Total Unarmed skills",
+            "AEP aimed",
+            "AEP fired",
+            "AEP, of which",
+            "Baton drawn",
+            "Baton used",
+            "Baton, of which",
+            "CED",
+            "Compliant handcuffing",
+            "Dog bite",
+            "Dog deployed",
+            "Dog use, of which",
+            "Ground restraint",
+            "Handcuffing, of which",
+            "Irritant spray - drawn",
+            "Irritant spray - used",
+            "Irritant spray, of which",
+            "Limb / Body restraints",
+            "Non-compliant handcuffing",
+            "Not stated AEP",
+            "Not stated baton",
+            "Not stated dog",
+            "Not stated handcuffing",
+            "Not stated irritant spray",
+            "Other / improvised",
+            "Shield",
+            "Spit and bite guard",
+            "Tactical communication"
+          ],
+          "weights": [
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857,
+            0.02857142857142857
+          ]
+        },
+        "threshold": 0.6
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "count"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "Tactic - Output"
+      },
+      "meta": {}
+    }
+  ],
+  "meta": {
+    "BasicSuiteBuilderProfiler": {
+      "batch_kwargs": {
+        "datasource": "files_datasource",
+        "path": "output/use-of-force/by-disability-force/april2018-march2019-melted.csv",
+        "reader_method": "read_csv"
+      },
+      "created_at": 1592146204.0360188,
+      "created_by": "BasicSuiteBuilderProfiler"
+    },
+    "citations": [
+      {
+        "batch_kwargs": {
+          "datasource": "files_datasource",
+          "path": "output/use-of-force/by-disability-force/april2018-march2019-melted.csv",
+          "reader_method": "read_csv"
+        },
+        "batch_markers": {
+          "ge_load_time": "20200614T145003.936403Z",
+          "pandas_data_fingerprint": "fd21e67ad93807e7b6a6fe686386e3b4"
+        },
+        "batch_parameters": null,
+        "citation_date": "2020-06-14T15:50:04.048070",
+        "comment": "BasicSuiteBuilderProfiler added a citation based on the current batch."
+      }
+    ],
+    "columns": {
+      "Disability": {
+        "description": ""
+      },
+      "Police Force": {
+        "description": ""
+      },
+      "Tactic": {
+        "description": ""
+      },
+      "count": {
+        "description": ""
+      }
+    },
+    "great_expectations.__version__": "0.10.10",
+    "notes": {
+      "content": [
+        "#### This is an _example_ suite\n\n- This suite was made by quickly glancing at 1000 rows of your data.\n- This is **not a production suite**. It is meant to show examples of expectations.\n- Because this suite was auto-generated using a very basic profiler that does not know your data like you do, many of the expectations may not be meaningful.\n"
+      ],
+      "format": "markdown"
+    }
+  }
+}
