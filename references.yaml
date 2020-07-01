@@ -1,5 +1,0 @@
-- file: 'output/police-population.csv'
-  description: "Number of police officers per police force and overall population for that force's area"
-  source: 'https://researchbriefings.files.parliament.uk/documents/SN00634/SN00634.pdf'
-  transforms: 'manual extract into csv'
-  tests: 'tests/police-population_test.csv'
