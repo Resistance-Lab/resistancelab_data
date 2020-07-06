@@ -10,3 +10,6 @@ test: venv/bin/python
 .PHONY: pipelines
 pipelines:
 	ls -1 pipelines | xargs -I {} sh -c "cd pipelines/{} && make"
+
+README.md:
+	mdmerge -o README.md README.md.tmpl
