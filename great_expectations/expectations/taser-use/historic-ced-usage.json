@@ -1,18 +1,26 @@
 {
   "data_asset_type": "Dataset",
-  "expectation_suite_name": "police-numbers.warning",
+  "expectation_suite_name": "taser-use.historic-ced-usage",
   "expectations": [
+    {
+      "expectation_type": "expect_table_row_count_to_be_between",
+      "kwargs": {
+        "max_value": 12,
+        "min_value": 9
+      },
+      "meta": {}
+    },
     {
       "expectation_type": "expect_table_row_count_to_equal",
       "kwargs": {
-        "value": 45
+        "value": 11
       },
       "meta": {}
     },
     {
       "expectation_type": "expect_table_column_count_to_equal",
       "kwargs": {
-        "value": 19
+        "value": 9
       },
       "meta": {}
     },
@@ -20,49 +28,74 @@
       "expectation_type": "expect_table_columns_to_match_ordered_list",
       "kwargs": {
         "column_list": [
-          "Force",
-          "2003",
-          "2004",
-          "2005",
-          "2006",
-          "2007",
-          "2008",
-          "2009",
-          "2010",
+          "Action",
           "2011",
           "2012",
           "2013",
           "2014",
           "2015",
           "2016",
-          "2017",
-          "2018",
-          "2019",
-          "As at 30 September 2019"
+          "Numeric change between 2015 to 2016",
+          "% change between 2015 to 2016"
         ]
-      },
-      "meta": {}
-    },
-    {
-      "expectation_type": "expect_column_value_lengths_to_be_between",
-      "kwargs": {
-        "column": "Force",
-        "min_value": 1
       },
       "meta": {}
     },
     {
       "expectation_type": "expect_column_values_to_not_be_null",
       "kwargs": {
-        "column": "Force"
+        "column": "2011"
       },
       "meta": {}
     },
     {
-      "expectation_type": "expect_column_values_to_be_of_type",
+      "expectation_type": "expect_column_min_to_be_between",
       "kwargs": {
-        "column": "2003",
-        "type_": "float64"
+        "column": "2011",
+        "max_value": 5.0,
+        "min_value": 3.0
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_max_to_be_between",
+      "kwargs": {
+        "column": "2011",
+        "max_value": 7878.0,
+        "min_value": 7876.0
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_mean_to_be_between",
+      "kwargs": {
+        "column": "2011",
+        "max_value": 2148.0,
+        "min_value": 2146.0
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_median_to_be_between",
+      "kwargs": {
+        "column": "2011",
+        "max_value": 1507.0,
+        "min_value": 1505.0
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "Action"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_value_lengths_to_be_between",
+      "kwargs": {
+        "column": "Action",
+        "min_value": 1
       },
       "meta": {}
     }
@@ -70,52 +103,33 @@
   "meta": {
     "BasicSuiteBuilderProfiler": {
       "batch_kwargs": {
+        "data_asset_name": "2011-2016",
         "datasource": "files_datasource",
-        "path": "output/police-population/historic/police-numbers.csv",
+        "path": "../../resistancelabs_data/cleaned_data/taser-use/historic-ced-usage/2011-2016.csv",
         "reader_method": "read_csv"
       },
-      "created_at": 1589642544.647804,
+      "created_at": 1594048126.4421718,
       "created_by": "BasicSuiteBuilderProfiler"
     },
     "citations": [
       {
         "batch_kwargs": {
+          "data_asset_name": "2011-2016",
           "datasource": "files_datasource",
-          "path": "output/police-population/historic/police-numbers.csv",
+          "path": "../../resistancelabs_data/cleaned_data/taser-use/historic-ced-usage/2011-2016.csv",
           "reader_method": "read_csv"
         },
         "batch_markers": {
-          "ge_load_time": "20200516T152224.569702Z",
-          "pandas_data_fingerprint": "04b918ee237bdda872ae26cd3a3167da"
+          "ge_load_time": "20200706T150846.388748Z",
+          "pandas_data_fingerprint": "268cf5e4b558573198ea3a7716a19800"
         },
         "batch_parameters": null,
-        "citation_date": "2020-05-16T16:22:24.656865",
+        "citation_date": "20200706T150846.451378Z",
         "comment": "BasicSuiteBuilderProfiler added a citation based on the current batch."
       }
     ],
     "columns": {
-      "2003": {
-        "description": ""
-      },
-      "2004": {
-        "description": ""
-      },
-      "2005": {
-        "description": ""
-      },
-      "2006": {
-        "description": ""
-      },
-      "2007": {
-        "description": ""
-      },
-      "2008": {
-        "description": ""
-      },
-      "2009": {
-        "description": ""
-      },
-      "2010": {
+      "% change between 2015 to 2016": {
         "description": ""
       },
       "2011": {
@@ -136,23 +150,14 @@
       "2016": {
         "description": ""
       },
-      "2017": {
+      "Action": {
         "description": ""
       },
-      "2018": {
-        "description": ""
-      },
-      "2019": {
-        "description": ""
-      },
-      "As at 30 September 2019": {
-        "description": ""
-      },
-      "Unnamed: 0": {
+      "Numeric change between 2015 to 2016": {
         "description": ""
       }
     },
-    "great_expectations.__version__": "0.10.10",
+    "great_expectations.__version__": "0.11.7",
     "notes": {
       "content": [
         "#### This is an _example_ suite\n\n- This suite was made by quickly glancing at 1000 rows of your data.\n- This is **not a production suite**. It is meant to show examples of expectations.\n- Because this suite was auto-generated using a very basic profiler that does not know your data like you do, many of the expectations may not be meaningful.\n"

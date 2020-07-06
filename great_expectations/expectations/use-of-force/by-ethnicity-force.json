@@ -1,6 +1,6 @@
 {
   "data_asset_type": "Dataset",
-  "expectation_suite_name": "police-force-disability.warning",
+  "expectation_suite_name": "use-of-force.by-ethnicity-force",
   "expectations": [
     {
       "expectation_type": "expect_table_row_count_to_be_between",
@@ -13,7 +13,7 @@
     {
       "expectation_type": "expect_table_column_count_to_equal",
       "kwargs": {
-        "value": 11
+        "value": 12
       },
       "meta": {}
     },
@@ -24,15 +24,31 @@
           "Police Force",
           "Type of force",
           "Tactic",
-          "Mental",
-          "Physical",
-          "Physical and mental",
-          "None",
+          "White",
+          "Black (or Black British)",
+          "Asian (or Asian British)",
+          "Chinese",
+          "Mixed",
+          "Other",
+          "Don't know",
           "Not reported",
-          "Number of times tactic reported",
-          "Force type - Output",
-          "Tactic - Output"
+          "Number of times tactic reported"
         ]
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "Police Force"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_value_lengths_to_be_between",
+      "kwargs": {
+        "column": "Police Force",
+        "min_value": 4
       },
       "meta": {}
     },
@@ -92,68 +108,50 @@
         "threshold": 0.6
       },
       "meta": {}
-    },
-    {
-      "expectation_type": "expect_column_values_to_not_be_null",
-      "kwargs": {
-        "column": "Mental"
-      },
-      "meta": {}
-    },
-    {
-      "expectation_type": "expect_column_values_to_not_be_null",
-      "kwargs": {
-        "column": "Police Force"
-      },
-      "meta": {}
-    },
-    {
-      "expectation_type": "expect_column_value_lengths_to_be_between",
-      "kwargs": {
-        "column": "Police Force",
-        "min_value": 4
-      },
-      "meta": {}
-    },
-    {
-      "expectation_type": "expect_column_values_to_not_be_null",
-      "kwargs": {
-        "column": "Tactic - Output"
-      },
-      "meta": {}
     }
   ],
   "meta": {
     "BasicSuiteBuilderProfiler": {
       "batch_kwargs": {
+        "data_asset_name": "april2018-march2019",
         "datasource": "files_datasource",
-        "path": "output/use-of-force/by-disability-force/april2018-march2019.json",
-        "reader_method": "read_json"
+        "path": "../../cleaned_data/use-of-force/by-ethnicity-force/april2018-march2019.csv",
+        "reader_method": "read_csv"
       },
-      "created_at": 1590390753.789942,
+      "created_at": 1594049645.6304169,
       "created_by": "BasicSuiteBuilderProfiler"
     },
     "citations": [
       {
         "batch_kwargs": {
+          "data_asset_name": "april2018-march2019",
           "datasource": "files_datasource",
-          "path": "output/use-of-force/by-disability-force/april2018-march2019.json",
-          "reader_method": "read_json"
+          "path": "../../cleaned_data/use-of-force/by-ethnicity-force/april2018-march2019.csv",
+          "reader_method": "read_csv"
         },
         "batch_markers": {
-          "ge_load_time": "20200525T071233.703100Z",
-          "pandas_data_fingerprint": "d1c9ab85158675f66d1a404737975903"
+          "ge_load_time": "20200706T153405.579154Z",
+          "pandas_data_fingerprint": "768d354f2137e1798e9cf589fe622eb4"
         },
         "batch_parameters": null,
-        "citation_date": "2020-05-25T08:12:33.803892",
+        "citation_date": "20200706T153405.646002Z",
         "comment": "BasicSuiteBuilderProfiler added a citation based on the current batch."
       }
     ],
     "columns": {
-      "Mental": {
+      "Asian (or Asian British)": {
         "description": ""
       },
-      "None": {
+      "Black (or Black British)": {
+        "description": ""
+      },
+      "Chinese": {
+        "description": ""
+      },
+      "Don't know": {
+        "description": ""
+      },
+      "Mixed": {
         "description": ""
       },
       "Not reported": {
@@ -162,10 +160,7 @@
       "Number of times tactic reported": {
         "description": ""
       },
-      "Physical": {
-        "description": ""
-      },
-      "Physical and mental": {
+      "Other": {
         "description": ""
       },
       "Police Force": {
@@ -176,12 +171,15 @@
       },
       "Type of force": {
         "description": ""
+      },
+      "White": {
+        "description": ""
       }
     },
-    "great_expectations.__version__": "0.10.10",
+    "great_expectations.__version__": "0.11.7",
     "notes": {
       "content": [
-        "#### This is an _example_ suite\n\n- This suite was made by quickly glancing at 1000 rows of your data.\n- This is **not a production suite**. It is meant to show examples of expectations.\n- Because this suite was auto-generated using a very basic profiler that does not know your data like you do, many of the expectations may not be meaningful.\n"
+        "_To add additional notes, edit the <code>meta.notes.content</code> field in the appropriate Expectation json file._"
       ],
       "format": "markdown"
     }

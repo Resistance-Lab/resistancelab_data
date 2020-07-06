@@ -1,0 +1,135 @@
+{
+  "data_asset_type": "Dataset",
+  "expectation_suite_name": "taser-use.by-ced-type-force-region",
+  "expectations": [
+    {
+      "expectation_type": "expect_table_row_count_to_be_between",
+      "kwargs": {
+        "max_value": 59,
+        "min_value": 48
+      },
+      "meta": {
+        "BasicSuiteBuilderProfiler": {
+          "confidence": "very low"
+        }
+      }
+    },
+    {
+      "expectation_type": "expect_table_column_count_to_equal",
+      "kwargs": {
+        "value": 14
+      },
+      "meta": {
+        "BasicSuiteBuilderProfiler": {
+          "confidence": "very low"
+        }
+      }
+    },
+    {
+      "expectation_type": "expect_table_columns_to_match_ordered_list",
+      "kwargs": {
+        "column_list": [
+          "Police Force/Region",
+          "Drawn",
+          "Aimed",
+          "Arced",
+          "Red-dot",
+          "Total non-discharge",
+          "Proportion of TASER \u00ae X26 use - non-discharge",
+          "Drive stun",
+          "Angled drive stun",
+          "Fired",
+          "Total discharge",
+          "Proportion of TASER \u00ae X26 use - discharge",
+          "Not stated",
+          "Total"
+        ]
+      },
+      "meta": {
+        "BasicSuiteBuilderProfiler": {
+          "confidence": "very low"
+        }
+      }
+    }
+  ],
+  "meta": {
+    "BasicSuiteBuilderProfiler": {
+      "batch_kwargs": {
+        "data_asset_name": "2015-revised",
+        "datasource": "files_datasource",
+        "path": "../../cleaned_data/taser-use/by-ced-type-force-region/2015-revised.csv",
+        "reader_method": "read_csv"
+      },
+      "created_at": 1594048577.667279,
+      "created_by": "BasicSuiteBuilderProfiler"
+    },
+    "citations": [
+      {
+        "batch_kwargs": {
+          "data_asset_name": "2015-revised",
+          "datasource": "files_datasource",
+          "path": "../../cleaned_data/taser-use/by-ced-type-force-region/2015-revised.csv",
+          "reader_method": "read_csv"
+        },
+        "batch_markers": {
+          "ge_load_time": "20200706T151617.657734Z",
+          "pandas_data_fingerprint": "5db4f92d1a889392108ca53e5ff26f2c"
+        },
+        "batch_parameters": null,
+        "citation_date": "20200706T151617.670032Z",
+        "comment": "BasicSuiteBuilderProfiler added a citation based on the current batch."
+      }
+    ],
+    "columns": {
+      "Aimed": {
+        "description": ""
+      },
+      "Angled drive stun": {
+        "description": ""
+      },
+      "Arced": {
+        "description": ""
+      },
+      "Drawn": {
+        "description": ""
+      },
+      "Drive stun": {
+        "description": ""
+      },
+      "Fired": {
+        "description": ""
+      },
+      "Not stated": {
+        "description": ""
+      },
+      "Police Force/Region": {
+        "description": ""
+      },
+      "Proportion of TASER \u00ae X26 use - discharge": {
+        "description": ""
+      },
+      "Proportion of TASER \u00ae X26 use - non-discharge": {
+        "description": ""
+      },
+      "Red-dot": {
+        "description": ""
+      },
+      "Total": {
+        "description": ""
+      },
+      "Total discharge": {
+        "description": ""
+      },
+      "Total non-discharge": {
+        "description": ""
+      }
+    },
+    "great_expectations.__version__": "0.11.7",
+    "notes": {
+      "content": [
+        "_To add additional notes, edit the <code>meta.notes.content</code> field in the appropriate Expectation json file._"
+      ],
+      "format": "markdown"
+    }
+  }
+}

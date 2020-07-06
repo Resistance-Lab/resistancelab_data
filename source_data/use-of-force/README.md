@@ -1,4 +1,4 @@
-### Use of force (`use-of-force`)
+### Use of force (`source_data/use-of-force`)
 
 > Statistics on incidents where police officers use force; including type of force, reason, outcome, injuries, and subject information (such as age, gender).
 

@@ -6,7 +6,7 @@
 #   - Read our docs: https://docs.greatexpectations.io/en/latest/reference/data_context_reference.html#configuration
 #   - Join our slack channel: http://greatexpectations.io/slack
 
-config_version: 1.0
+config_version: 2
 
 # Datasources tell Great Expectations where your data lives and how to get it.
 # You can use the CLI command `great_expectations datasource new` to help you
@@ -32,15 +32,15 @@ validation_operators:
   action_list_operator:
     class_name: ActionListValidationOperator
     action_list:
-    - name: store_validation_result
-      action:
-        class_name: StoreValidationResultAction
-    - name: store_evaluation_params
-      action:
-        class_name: StoreEvaluationParametersAction
-    - name: update_data_docs
-      action:
-        class_name: UpdateDataDocsAction
+      - name: store_validation_result
+        action:
+          class_name: StoreValidationResultAction
+      - name: store_evaluation_params
+        action:
+          class_name: StoreEvaluationParametersAction
+      - name: update_data_docs
+        action:
+          class_name: UpdateDataDocsAction
 stores:
 # Stores are configurable places to store things like Expectations, Validations
 # Data Docs, and more. These are for advanced users only - most users can simply

@@ -1,4 +1,4 @@
-### Taser use (`taser-use`)
+### Taser use (`source_data/taser-use`)
 
 > Statistics on police use of TASER X26 conducted energy devices, England and Wales, 2016.
 

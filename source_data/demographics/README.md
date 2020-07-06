@@ -1,4 +1,4 @@
-### UK Demographics (`demographics`)
+### UK Demographics (`source_data/demographics`)
 
 Demographic information is sourced from the 2011 UK Census via the "nomisweb" service.
 
