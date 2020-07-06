@@ -14,6 +14,7 @@ Main folders: contain the source, a sensible cleanup, and then a folder for each
 - `analysis`: a set of folders with workspace environments for each specific output
   - `analysis/0001-overall-taser-use`: One directory per use case
     - `analysis/0001-overall-taser-use/README.md`: Description of this work and where it's used, author info, etc
+    - `analysis/0001-overall-taser-use/Makefile`: A makefile for running this pipeline (`make`)
     - `analysis/0001-overall-taser-use/mappings.csv`: Mappings to make source metadata more descriptive and easier to read
     - `analysis/0001-overall-taser-use/overall-taser-use.py`: Script to create the outputs in this directory
     - `analysis/0001-overall-taser-use/2003-2011.csv`: Various outputs from the Python script
@@ -24,7 +25,7 @@ Utility folders
 
 - `.github`: actions to deploy to Netlify
 - `bibliography`: BibTeX files
-- `pipelines`: populates source directory, cleans data
+- `pipelines`: populates source directory, cleans data (run `make pipelines` to run them all)
 
 ## Source data (`source`)
 
