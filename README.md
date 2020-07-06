@@ -4,7 +4,29 @@
 
 This repository contains both datasets we have collected as well as scripts used to collect them.
 
-## Datasets in this repository
+## Layout of this repository
+
+
+Main folders: contain the source, a sensible cleanup, and then a folder for each distinct output.
+
+- `source_data`: raw data sources from government and other state agency websites
+- `cleaned_data`: source files tidied into cleaner formats for easier comparison
+- `analysis`: a set of folders with workspace environments for each specific output
+  - `analysis/0001-overall-taser-use`: One directory per use case
+    - `analysis/0001-overall-taser-use/README.md`: Description of this work and where it's used, author info, etc
+    - `analysis/0001-overall-taser-use/mappings.csv`: Mappings to make source metadata more descriptive and easier to read
+    - `analysis/0001-overall-taser-use/overall-taser-use.py`: Script to create the outputs in this directory
+    - `analysis/0001-overall-taser-use/2003-2011.csv`: Various outputs from the Python script
+    - `analysis/0001-overall-taser-use/2011-2015.csv`: Various outputs from the Python script
+    - `analysis/0001-overall-taser-use/2015-2019.csv`: Various outputs from the Python script
+
+Utility folders
+
+- `.github`: actions to deploy to Netlify
+- `bibliography`: BibTeX files
+- `pipelines`: populates source directory, cleans data
+
+## Source data (`source`)
 
 ### Police Population (`police-population`)
 
