@@ -1,0 +1,64 @@
+<!-- Edit the .tmpl file and build the .md file with `mdmerge -o README.md README.md.tmpl` -->
+
+# Resistance Labs Datasets
+
+![Run tests](https://github.com/Resistance-Lab/data/workflows/Run%20tests/badge.svg?branch=trunk)
+
+This repository contains both datasets we have collected as well as scripts used to collect them.
+
+## Layout of this repository
+
+
+Main folders: contain the source, a sensible cleanup, and then a folder for each distinct output.
+
+- `source_data`: raw data sources from government and other state agency websites
+- `cleaned_data`: source files tidied into cleaner formats for easier comparison
+- `analysis`: a set of folders with workspace environments for each specific output
+  - `analysis/0001-overall-taser-use`: One directory per use case
+    - `analysis/0001-overall-taser-use/README.md`: Description of this work and where it's used, author info, etc
+    - `analysis/0001-overall-taser-use/Makefile`: A makefile for running this pipeline (`make`)
+    - `analysis/0001-overall-taser-use/mappings.csv`: Mappings to make source metadata more descriptive and easier to read
+    - `analysis/0001-overall-taser-use/overall-taser-use.py`: Script to create the outputs in this directory
+    - `analysis/0001-overall-taser-use/2003-2011.csv`: Various outputs from the Python script
+    - `analysis/0001-overall-taser-use/2011-2015.csv`: Various outputs from the Python script
+    - `analysis/0001-overall-taser-use/2015-2019.csv`: Various outputs from the Python script
+
+Utility folders
+
+- `.github`: actions to deploy to Netlify
+- `bibliography`: BibTeX files
+- `pipelines`: populates source directory, cleans data (run `make pipelines` to run them all)
+
+## Source data (`source`)
+
+{{source_data/police-population/README.md}}
+
+{{source_data/taser-use/README.md}}
+
+{{source_data/use-of-force/README.md}}
+
+{{source_data/demographics/README.md}}
+
+## Contributing
+
+If you have relevant datasets then we would like to include them here. We expect datasets to:
+
+* Be automated where possible, with a script in the `scripts` directory
+* Come with [Great Expectations](https://greatexpectations.io/) test suites
+* Be documented in the table above
+
+Feel free to open a ticket or email [kim@resistancelab.network](mailto:kim@resistancelab.network) with any questions.
+
+### Testing
+
+Tests are provided using Great Expectations. You will need a recent version of Python installed to use this.  The rest of the dependencies can then be installed with:
+
+1. Run `python3 -m venv venv && source venv/bin/activate` to create a virtual environment
+2. Install the dependencies with `pip3 install -r requirements.txt`
+3. Run `great_expectations init` to create any missing directories
+
+To create a test suite for your new dataset run `great_expectations suite new`
+
+To edit a test suite run `great expectations suite edit police-population.warning`
+
+To run the tests and show the results run `great_expectations docs build`
