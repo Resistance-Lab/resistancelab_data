@@ -107,23 +107,6 @@ class UseOfForceByAge(TestCase):
         self.assertTrue(validation_result['success'])
 
 
-class PolicePopulation(TestCase):
-    def setUp(self):
-        self.expectation_suite_name = "police-population.warning"
-
-    def test_2020(self):
-        validation_result = run_great_expectations("data/output/police-population/year=2020/police-population.csv",
-                                                   self.expectation_suite_name)
-        self.assertTrue(validation_result['success'])
-
-
-class PoliceNumbers(TestCase):
-    def test_historic(self):
-        validation_result = run_great_expectations("data/output/police-population/historic/police-numbers.csv",
-                                                   "police-numbers.warning")
-        self.assertTrue(validation_result['success'])
-
-
 class MeltedUseOfCorce(TestCase):
     def setUp(self):
         self.expectation_suite_name = "melted.warning"
@@ -140,4 +123,15 @@ class MeltedUseOfCorce(TestCase):
     def test_age(self):
         validation_result = run_great_expectations(
             "data/output/use-of-force/by-age-force/april2018-march2019-melted.csv", self.expectation_suite_name)
+        self.assertTrue(validation_result['success'])
+
+
+class PolicePopulation(TestCase):
+    def officer_fte(self):
+        validation_result = run_great_expectations("data/output/police-population/officer-fte/2019.csv", "police-population.officer_fte")
+        self.assertTrue(validation_result['success'])
+
+    def officer_headcount(self):
+        validation_result = run_great_expectations("data/output/police-population/officer-headcount/2019.csv",
+                                                   "police-population.officer_headcount")
         self.assertTrue(validation_result['success'])
