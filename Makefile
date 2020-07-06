@@ -7,6 +7,6 @@ test: venv/bin/python
 	venv/bin/flake8 --config=.flake8
 	venv/bin/nosetests --verbosity=2
 
-.PHONY: docs
-docs:
-	great_expectations docs build
+.PHONY: pipelines
+pipelines:
+	ls -1 pipelines | xargs -I {} sh -c "cd pipelines/{} && make"
