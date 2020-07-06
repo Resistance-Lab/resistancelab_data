@@ -1,3 +1,5 @@
+<!-- Edit the .tmpl file and build the .md file with `` -->
+
 # Resistance Labs Datasets
 
 ![Run tests](https://github.com/Resistance-Lab/data/workflows/Run%20tests/badge.svg?branch=trunk)
@@ -66,7 +68,6 @@ Demographic information is sourced from the 2011 UK Census via the "nomisweb" se
 | Source | Published | Dates covered | Script | Last loaded |
 | -----  | ----------| -------------------- | ------ | ----------- |
 | [Census 2011: Ethnic group, Nomis official labour market statistics](https://www.nomisweb.co.uk/census/2011/qs201ew) | 2013-01-30 | 2011 | | |
-
 
 ## Contributing
 

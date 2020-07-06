@@ -12,4 +12,4 @@ Initial work done towards Taser report. This is a deep dive into the Use of Forc
 
 For each a melted data source has been added. We have also created a data mapping as the source spreadsheet implies a hierarchy of data that doesn't make sense out of context.
 
-Reading the User Guide is essential to intepret these stats.
+Reading the User Guide is essential to interpret these stats.
