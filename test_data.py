@@ -16,12 +16,12 @@ class Tasers2016(TestCase):
         self.expectation_suite_name = "tasers-2016.warning"
 
     def test_2015(self):
-        validation_result = run_great_expectations("data/output/use-of-force/by-ced-type-force-region/2015-revised.csv",
+        validation_result = run_great_expectations("data/output/taser-use/by-ced-type-force-region/2015-revised.csv",
                                                    self.expectation_suite_name)
         self.assertTrue(validation_result['success'])
 
     def test_2016(self):
-        validation_result = run_great_expectations("data/output/use-of-force/by-ced-type-force-region/2016.csv",
+        validation_result = run_great_expectations("data/output/taser-use/by-ced-type-force-region/2016.csv",
                                                    self.expectation_suite_name)
         self.assertTrue(validation_result['success'])
 
@@ -57,7 +57,7 @@ class TasersType(TestCase):
         self.expectation_suite_name = "tasers-by-type.warning"
 
     def test_historic(self):
-        validation_result = run_great_expectations("data/output/use-of-force/historic-ced-usage/2011-2016.csv",
+        validation_result = run_great_expectations("data/output/taser-use/historic-ced-usage/2011-2016.csv",
                                                    self.expectation_suite_name)
         self.assertTrue(validation_result['success'])
 
