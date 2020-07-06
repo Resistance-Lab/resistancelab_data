@@ -1,0 +1,123 @@
+{
+  "data_asset_type": "Dataset",
+  "expectation_suite_name": "use-of-force.by-age-force",
+  "expectations": [
+    {
+      "expectation_type": "expect_table_row_count_to_be_between",
+      "kwargs": {
+        "max_value": 1694,
+        "min_value": 1386
+      },
+      "meta": {
+        "BasicSuiteBuilderProfiler": {
+          "confidence": "very low"
+        }
+      }
+    },
+    {
+      "expectation_type": "expect_table_column_count_to_equal",
+      "kwargs": {
+        "value": 11
+      },
+      "meta": {
+        "BasicSuiteBuilderProfiler": {
+          "confidence": "very low"
+        }
+      }
+    },
+    {
+      "expectation_type": "expect_table_columns_to_match_ordered_list",
+      "kwargs": {
+        "column_list": [
+          "Police Force",
+          "Type of force",
+          "Tactic",
+          "Under 11 years",
+          "11 - 17 years",
+          "18 - 34 years",
+          "35 - 49 years",
+          "50 - 64 years",
+          "65 and over",
+          "Not reported",
+          "Number of times tactic reported"
+        ]
+      },
+      "meta": {
+        "BasicSuiteBuilderProfiler": {
+          "confidence": "very low"
+        }
+      }
+    }
+  ],
+  "meta": {
+    "BasicSuiteBuilderProfiler": {
+      "batch_kwargs": {
+        "data_asset_name": "april2018-march2019",
+        "datasource": "files_datasource",
+        "path": "../../cleaned_data/use-of-force/by-age-force/april2018-march2019.csv",
+        "reader_method": "read_csv"
+      },
+      "created_at": 1594048917.050931,
+      "created_by": "BasicSuiteBuilderProfiler"
+    },
+    "citations": [
+      {
+        "batch_kwargs": {
+          "data_asset_name": "april2018-march2019",
+          "datasource": "files_datasource",
+          "path": "../../cleaned_data/use-of-force/by-age-force/april2018-march2019.csv",
+          "reader_method": "read_csv"
+        },
+        "batch_markers": {
+          "ge_load_time": "20200706T152157.037005Z",
+          "pandas_data_fingerprint": "f095f169db065cdb2292e02c1752fa91"
+        },
+        "batch_parameters": null,
+        "citation_date": "20200706T152157.053560Z",
+        "comment": "BasicSuiteBuilderProfiler added a citation based on the current batch."
+      }
+    ],
+    "columns": {
+      "11 - 17 years": {
+        "description": ""
+      },
+      "18 - 34 years": {
+        "description": ""
+      },
+      "35 - 49 years": {
+        "description": ""
+      },
+      "50 - 64 years": {
+        "description": ""
+      },
+      "65 and over": {
+        "description": ""
+      },
+      "Not reported": {
+        "description": ""
+      },
+      "Number of times tactic reported": {
+        "description": ""
+      },
+      "Police Force": {
+        "description": ""
+      },
+      "Tactic": {
+        "description": ""
+      },
+      "Type of force": {
+        "description": ""
+      },
+      "Under 11 years": {
+        "description": ""
+      }
+    },
+    "great_expectations.__version__": "0.11.7",
+    "notes": {
+      "content": [
+        "_To add additional notes, edit the <code>meta.notes.content</code> field in the appropriate Expectation json file._"
+      ],
+      "format": "markdown"
+    }
+  }
+}

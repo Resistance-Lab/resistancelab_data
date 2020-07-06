@@ -1,4 +1,4 @@
-### Police Population (`police-population`)
+### Police Population (`source_data/police-population`)
 
 Number of police officers per force and per 100,000 population in England and Wales.
 
