@@ -1,0 +1,103 @@
+{
+  "data_asset_type": "Dataset",
+  "expectation_suite_name": "police-population.officer-fte",
+  "expectations": [
+    {
+      "expectation_type": "expect_table_row_count_to_be_between",
+      "kwargs": {
+        "max_value": 61,
+        "min_value": 50
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_table_column_count_to_equal",
+      "kwargs": {
+        "value": 4
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_table_columns_to_match_ordered_list",
+      "kwargs": {
+        "column_list": [
+          "Force/Region",
+          "September 2018",
+          "March 2019",
+          "September 2019"
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "September 2018"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "Force/Region"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_value_lengths_to_be_between",
+      "kwargs": {
+        "column": "Force/Region",
+        "min_value": 4
+      },
+      "meta": {}
+    }
+  ],
+  "meta": {
+    "BasicSuiteBuilderProfiler": {
+      "batch_kwargs": {
+        "datasource": "files_datasource",
+        "path": "../../data/output/police-population/officer-fte/2019.csv",
+        "reader_method": "read_csv"
+      },
+      "created_at": 1594023891.940018,
+      "created_by": "BasicSuiteBuilderProfiler"
+    },
+    "citations": [
+      {
+        "batch_kwargs": {
+          "datasource": "files_datasource",
+          "path": "../../data/output/police-population/officer-fte/2019.csv",
+          "reader_method": "read_csv"
+        },
+        "batch_markers": {
+          "ge_load_time": "20200706T082451.907888Z",
+          "pandas_data_fingerprint": "73b192d88ad5b8278ca176b36a8fc581"
+        },
+        "batch_parameters": null,
+        "citation_date": "2020-07-06T09:24:51.948411",
+        "comment": "BasicSuiteBuilderProfiler added a citation based on the current batch."
+      }
+    ],
+    "columns": {
+      "Force/Region": {
+        "description": ""
+      },
+      "March 2019": {
+        "description": ""
+      },
+      "September 2018": {
+        "description": ""
+      },
+      "September 2019": {
+        "description": ""
+      }
+    },
+    "great_expectations.__version__": "0.10.10",
+    "notes": {
+      "content": [
+        "#### This is an _example_ suite\n\n- This suite was made by quickly glancing at 1000 rows of your data.\n- This is **not a production suite**. It is meant to show examples of expectations.\n- Because this suite was auto-generated using a very basic profiler that does not know your data like you do, many of the expectations may not be meaningful.\n"
+      ],
+      "format": "markdown"
+    }
+  }
+}
