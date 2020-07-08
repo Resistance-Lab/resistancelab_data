@@ -114,14 +114,20 @@ class PoliceForceNames(TestCase):
         csv_forces = forces_from_csv(csv_path, 'Police Force')
         self.assertTrue(set(FORCES).issubset(set(csv_forces)))
 
-    def police_population_fte_2019(self):
+    def test_police_population_fte_2019(self):
         self.maxDiff = 2000
         csv_path = os.path.join(cwd, '..', 'cleaned_data', 'police-population', 'officer-fte', '2019.csv')
         csv_forces = forces_from_csv(csv_path, 'Force/Region')
-        self.assertEqual(FORCES, csv_forces)
+        self.assertTrue(set(FORCES).issubset(set(csv_forces)))
 
-    def police_population_headcount_2019(self):
+    def test_police_population_headcount_2019(self):
         self.maxDiff = 2000
         csv_path = os.path.join(cwd, '..', 'cleaned_data', 'police-population', 'officer-headcount', '2019.csv')
         csv_forces = forces_from_csv(csv_path, 'Force/Region')
+        self.assertTrue(set(FORCES).issubset(set(csv_forces)))
+
+    def test_demographics(self):
+        self.maxDiff = 2000
+        csv_path = os.path.join(cwd, '..', 'analysis', '0002-demographics-by-police-force-area', 'force-demographics.csv')
+        csv_forces = forces_from_csv(csv_path, 'PFA16NM')
         self.assertEqual(FORCES, csv_forces)
