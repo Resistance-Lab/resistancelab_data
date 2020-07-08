@@ -17,7 +17,7 @@ def save_sheet(sheet, title, year, filename):
         {
             "Financial Year": df[title],
             "Region": df['unnamed.1'],
-            "Police force": df['unnamed.2'].str.replace("\(.+\)", "", regex=True).str.strip(),
+            "Police force": df['unnamed.2'].str.replace("\(.+\)", "", regex=True).str.strip(),  # noqa: W605
             "Total": df['unnamed.3'],
             "Total non-discharge": df['unnamed.4'],
             "Drawn": df['unnamed.5'],

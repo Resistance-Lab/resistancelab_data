@@ -14,7 +14,7 @@ def save_sheet(sheet, title, filename):
     # Build a new dataframe with correct column names
     cleansed = pd.DataFrame(
         {"Region": df[title],
-         "Police force": df['unnamed.1'].str.replace("\(.+\)", "", regex=True).str.strip(),
+         "Police force": df['unnamed.1'].str.replace("\(.+\)", "", regex=True).str.strip(),  # noqa: W605
          "Total": df['unnamed.2'],
          "Total non-discharge": df['unnamed.3'],
          "Drawn": df['unnamed.4'],
@@ -76,7 +76,6 @@ def save_incidents():
 
 
 if __name__ == '__main__':
-
     # Download the file into the raw directory
     ods_file_2018 = 'https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/764895/police-use-of-force-apr2017-mar2018-hosb3018-tables.ods'
     output_file = download(ods_file_2018)
