@@ -42,7 +42,7 @@ def save_annual_by_force_sheet(sheet, title, filename):
     # Build a clean dataframe from the columns which are useful
     # No, you can't just choose your columns in `read_ods`, that doesn't work for messy data
     cleansed = pd.DataFrame(
-        {"Police Force/Region": df[title].str.rstrip(),
+        {"Police Force/Region": df[title].str.replace("Metropolitan Police", "Metropolitan").str.rstrip(),
          "Drawn": df['unnamed.1'],
          "Aimed": df['unnamed.3'],
          "Arced": df['unnamed.5'],

@@ -17,7 +17,7 @@ def save_sheet(sheet, title, year, filename):
         {
             "Financial Year": df[title],
             "Region": df['unnamed.1'],
-            "Police force": df['unnamed.2'].str.rstrip(),
+            "Police force": df['unnamed.2'].str.replace("\(.+\)", "", regex=True).str.strip(),
             "Total": df['unnamed.3'],
             "Total non-discharge": df['unnamed.4'],
             "Drawn": df['unnamed.5'],
@@ -42,7 +42,7 @@ def save_disability():
     cleansed = pd.DataFrame(
         {
             "Police Force": df[
-                'Table 17. Number of times tactics were used, by police force and officer perceived disability of subject'],
+                'Table 17. Number of times tactics were used, by police force and officer perceived disability of subject'].str.strip(),
             "Type of force": df['unnamed.1'],
             "Tactic": df['unnamed.2'],
             "Mental": df['unnamed.3'],
@@ -64,7 +64,7 @@ def save_ethnicity():
     cleansed = pd.DataFrame(
         {
             "Police Force": df[
-                'Table 16. Number of times tactics were used, by police force and officer perceived ethnicity of subject'],
+                'Table 16. Number of times tactics were used, by police force and officer perceived ethnicity of subject'].str.strip(),
             "Type of force": df['unnamed.1'],
             "Tactic": df['unnamed.2'],
             "White": df['unnamed.3'],
@@ -89,7 +89,7 @@ def save_age():
     cleansed = pd.DataFrame(
         {
             "Police Force": df[
-                'Table 14. Number of times tactics were used, by police force and officer perceived age of subject'],
+                'Table 14. Number of times tactics were used, by police force and officer perceived age of subject'].str.strip(),
             "Type of force": df['unnamed.1'],
             "Tactic": df['unnamed.2'],
             "Under 11 years": df['unnamed.3'],

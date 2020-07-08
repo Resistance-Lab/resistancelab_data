@@ -14,7 +14,7 @@ def save_sheet(sheet, title, filename):
     # Build a new dataframe with correct column names
     cleansed = pd.DataFrame(
         {"Region": df[title],
-         "Police force": df['unnamed.1'].str.rstrip(),
+         "Police force": df['unnamed.1'].str.replace("\(.+\)", "", regex=True).str.strip(),
          "Total": df['unnamed.2'],
          "Total non-discharge": df['unnamed.3'],
          "Drawn": df['unnamed.4'],
@@ -44,7 +44,7 @@ def save_revised_sheet(sheet, title, filename):
     cleansed = pd.DataFrame(
         {
             "Region": df[title],
-            "Police force": df['unnamed.1'],
+            "Police force": df['unnamed.1'].str.replace("Metropolitan Police", "Metropolitan").str.strip(),
             "Total": df['unnamed.2'],
             "Total non-discharge": df['unnamed.4'],
             "Drawn": df['unnamed.6'],

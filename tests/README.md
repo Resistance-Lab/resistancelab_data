@@ -1,0 +1,1 @@
+This directory contains integration tests.  That is, tests that make sense to run at a global level rather than referring to specific pipelines.  A good pipeline will also have some tests of its own.
