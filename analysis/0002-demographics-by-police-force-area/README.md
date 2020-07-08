@@ -3,3 +3,6 @@
 This takes the 2011 Census data on ethnic group and joins it to 2016 ONS stats data mapping local authority to police force area.
 
 The main output is being able to show population of different ethnic groups broken down by police force area.
+
+* [force-demographics.csv](force-demographics.csv)
+* [local-authorities-demographics-with-police-force.csv](local-authorities-demographics-with-police-force.csv)
