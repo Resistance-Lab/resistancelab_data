@@ -4,4 +4,5 @@ run:
 	python 2018.py
 	python 2017.py
 	python 2016.py
+	python 2015.py
 	nosetests

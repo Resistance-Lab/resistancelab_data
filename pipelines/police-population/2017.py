@@ -7,7 +7,6 @@ ods_file = download("https://assets.publishing.service.gov.uk/government/uploads
 fte_output = make_output_directory("officer-fte")
 officer_fte = read_ods(ods_file, "Table_1")
 officer_fte.drop([0, 1, 2, 3, 4, 5, 62, 63, 64, 65, 66, 67], inplace=True)
-print(officer_fte)
 officer_fte.drop(["unnamed.4", "unnamed.5", "unnamed.6", "unnamed.7"], inplace=True, axis=1)
 officer_fte.columns = ["Force/Region", "September 2016", "March 2017", "September 2017"]
 officer_fte['Force/Region'] = officer_fte['Force/Region'].str.replace('Metropolitan Police', 'Metropolitan')
