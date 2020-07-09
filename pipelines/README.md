@@ -1,3 +1,3 @@
-- [police-population]
-- [taser-use]
-- [use-of-force]
+- [police-population](police-population)
+- [taser-use](taser-use)
+- [use-of-force](use-of-force)

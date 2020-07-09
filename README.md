@@ -24,7 +24,7 @@ Utility folders
 
 - `.github`: actions to deploy to Netlify
 - `bibliography`: BibTeX files
-- `pipelines`: populates source directory, cleans data (run `make pipelines` to run them all)
+- [pipelines](pipelines): populates source directory, cleans data (run `make pipelines` to run them all)
 
 ## Source data (`source_data`)
 
