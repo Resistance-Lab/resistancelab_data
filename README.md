@@ -10,9 +10,9 @@ This repository contains both datasets we have collected as well as scripts used
 
 Main folders: contain the source, a sensible cleanup, and then a folder for each distinct output.
 
-- `source_data`: raw data sources from government and other state agency websites
-- `cleaned_data`: source files tidied into cleaner formats for easier comparison
-- `analysis`: a set of folders with workspace environments for each specific output
+- [source_data](source_data): raw data sources from government and other state agency websites
+- [cleaned_data](cleaned_data): source files tidied into cleaner formats for easier comparison
+- [analysis](analysis): a set of folders with workspace environments for each specific output
   - `analysis/0001-use-of-force`: One directory per use case, first one given as an example.
     - `analysis/0001-use-of-force/README.md`: Description of this analysis, where it's used, author info, etc.
     - `analysis/0001-use-of-force/Makefile`: A makefile for generating this analysis (`make`)
