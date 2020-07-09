@@ -4,8 +4,6 @@ A single CSV containing FTE workforce count for police forces in England and Wal
 
 [police-workforce-fte-by-year.csv](police-workforce-fte-by-year.csv)
 
-Some years have different rows - some include non-geographical forces and totals
+Totals rows have been removed, so it should be safe to sum and average this data
 
 We use the March numbers to better align to other data which uses financial year
-
-No test, because the only meaningful test is baked into the python script, asserting that the length of output is equal to the length of the inputs
