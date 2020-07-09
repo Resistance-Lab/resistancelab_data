@@ -1,39 +1,4 @@
 Tactic,Police Force,Force type - Output,Tactic - Output,disability,count
-*Total Tactics,Total England and Wales,Total,Total: all,Mental,88428.0
-*Total Restraint,Total England and Wales,Restraint,Total: Restraint,Mental,51395.0
-"Handcuffing, of which",Total England and Wales,Restraint,Total: Handcuffing,Mental,34430.0
-Compliant handcuffing,Total England and Wales,Restraint,Handcuffing: compliant,Mental,13339.0
-Non-compliant handcuffing,Total England and Wales,Restraint,Handcuffing: non-compliant,Mental,19718.0
-Not stated handcuffing,Total England and Wales,Restraint,Handcuffing: not stated,Mental,1373.0
-Limb / Body restraints,Total England and Wales,Restraint,Limb / body restraints,Mental,6287.0
-Ground restraint,Total England and Wales,Restraint,Ground restraint,Mental,10678.0
-*Total Unarmed skills,Total England and Wales,Unarmed skills,Total: unarmed skills,Mental,24260.0
-*Total Other equipment,Total England and Wales,Other equipment,Total: Other equipment,Mental,4152.0
-"Baton, of which",Total England and Wales,Other equipment,Total: Baton,Mental,606.0
-Baton drawn,Total England and Wales,Other equipment,Baton: drawn,Mental,350.0
-Baton used,Total England and Wales,Other equipment,Baton: used,Mental,217.0
-Not stated baton,Total England and Wales,Other equipment,Baton: not stated,Mental,39.0
-"Irritant spray, of which",Total England and Wales,Other equipment,Total: Irritant spray,Mental,2275.0
-Irritant spray - drawn,Total England and Wales,Other equipment,Irritant spray: drawn,Mental,1027.0
-Irritant spray - used,Total England and Wales,Other equipment,Irritant spray: used,Mental,1199.0
-Not stated irritant spray,Total England and Wales,Other equipment,Irritant spray: not stated,Mental,49.0
-Spit and bite guard,Total England and Wales,Other equipment,Spit and bite guard,Mental,922.0
-Shield,Total England and Wales,Other equipment,Shield,Mental,349.0
-*Total Less lethal weapons,Total England and Wales,Less lethal weapons,Total: Less lethal weapons,Mental,4139.0
-CED,Total England and Wales,Less lethal weapons,CED,Mental,4031.0
-"AEP, of which",Total England and Wales,Less lethal weapons,Total: AEP,Mental,108.0
-AEP aimed,Total England and Wales,Less lethal weapons,AEP: Aimed,Mental,74.0
-AEP fired,Total England and Wales,Less lethal weapons,AEP: Fired,Mental,17.0
-Not stated AEP,Total England and Wales,Less lethal weapons,AEP: Not stated,Mental,17.0
-*Total Firearms,Total England and Wales,Firearms,Total: Firearms,Mental,268.0
-*Total Other,Total England and Wales,Other,Total: Other,Mental,4214.0
-"Dog use, of which",Total England and Wales,Other,Total: Dog,Mental,95.0
-Dog deployed,Total England and Wales,Other,Dog: deployed,Mental,77.0
-Dog bite,Total England and Wales,Other,Dog: bite,Mental,12.0
-Not stated dog,Total England and Wales,Other,Dog: not stated,Mental,6.0
-Other / improvised,Total England and Wales,Other,Other / improvised,Mental,4119.0
-*Total Not reported,Total England and Wales,Not reported,Total: Not reported,Mental,142.0
-Tactical communication,Total England and Wales,Excluded: Tactical Communication,Tactical Communication,Mental,30957.0
 *Total Tactics,Avon & Somerset,Total,Total: all,Mental,1897.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,Mental,1133.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,Mental,724.0
@@ -314,41 +279,41 @@ Not stated dog,Derbyshire,Other,Dog: not stated,Mental,0.0
 Other / improvised,Derbyshire,Other,Other / improvised,Mental,77.0
 *Total Not reported,Derbyshire,Not reported,Total: Not reported,Mental,0.0
 Tactical communication,Derbyshire,Excluded: Tactical Communication,Tactical Communication,Mental,795.0
-*Total Tactics,Devon & Cornwall ,Total,Total: all,Mental,3875.0
-*Total Restraint,Devon & Cornwall ,Restraint,Total: Restraint,Mental,1937.0
-"Handcuffing, of which",Devon & Cornwall ,Restraint,Total: Handcuffing,Mental,1624.0
-Compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: compliant,Mental,499.0
-Non-compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: non-compliant,Mental,1125.0
-Not stated handcuffing,Devon & Cornwall ,Restraint,Handcuffing: not stated,Mental,0.0
-Limb / Body restraints,Devon & Cornwall ,Restraint,Limb / body restraints,Mental,53.0
-Ground restraint,Devon & Cornwall ,Restraint,Ground restraint,Mental,260.0
-*Total Unarmed skills,Devon & Cornwall ,Unarmed skills,Total: unarmed skills,Mental,1488.0
-*Total Other equipment,Devon & Cornwall ,Other equipment,Total: Other equipment,Mental,100.0
-"Baton, of which",Devon & Cornwall ,Other equipment,Total: Baton,Mental,3.0
-Baton drawn,Devon & Cornwall ,Other equipment,Baton: drawn,Mental,0.0
-Baton used,Devon & Cornwall ,Other equipment,Baton: used,Mental,1.0
-Not stated baton,Devon & Cornwall ,Other equipment,Baton: not stated,Mental,2.0
-"Irritant spray, of which",Devon & Cornwall ,Other equipment,Total: Irritant spray,Mental,70.0
-Irritant spray - drawn,Devon & Cornwall ,Other equipment,Irritant spray: drawn,Mental,67.0
-Irritant spray - used,Devon & Cornwall ,Other equipment,Irritant spray: used,Mental,3.0
-Not stated irritant spray,Devon & Cornwall ,Other equipment,Irritant spray: not stated,Mental,0.0
-Spit and bite guard,Devon & Cornwall ,Other equipment,Spit and bite guard,Mental,3.0
-Shield,Devon & Cornwall ,Other equipment,Shield,Mental,24.0
-*Total Less lethal weapons,Devon & Cornwall ,Less lethal weapons,Total: Less lethal weapons,Mental,284.0
-CED,Devon & Cornwall ,Less lethal weapons,CED,Mental,270.0
-"AEP, of which",Devon & Cornwall ,Less lethal weapons,Total: AEP,Mental,14.0
-AEP aimed,Devon & Cornwall ,Less lethal weapons,AEP: Aimed,Mental,0.0
-AEP fired,Devon & Cornwall ,Less lethal weapons,AEP: Fired,Mental,0.0
-Not stated AEP,Devon & Cornwall ,Less lethal weapons,AEP: Not stated,Mental,14.0
-*Total Firearms,Devon & Cornwall ,Firearms,Total: Firearms,Mental,19.0
-*Total Other,Devon & Cornwall ,Other,Total: Other,Mental,47.0
-"Dog use, of which",Devon & Cornwall ,Other,Total: Dog,Mental,4.0
-Dog deployed,Devon & Cornwall ,Other,Dog: deployed,Mental,0.0
-Dog bite,Devon & Cornwall ,Other,Dog: bite,Mental,0.0
-Not stated dog,Devon & Cornwall ,Other,Dog: not stated,Mental,4.0
-Other / improvised,Devon & Cornwall ,Other,Other / improvised,Mental,43.0
-*Total Not reported,Devon & Cornwall ,Not reported,Total: Not reported,Mental,0.0
-Tactical communication,Devon & Cornwall ,Excluded: Tactical Communication,Tactical Communication,Mental,2988.0
+*Total Tactics,Devon & Cornwall,Total,Total: all,Mental,3875.0
+*Total Restraint,Devon & Cornwall,Restraint,Total: Restraint,Mental,1937.0
+"Handcuffing, of which",Devon & Cornwall,Restraint,Total: Handcuffing,Mental,1624.0
+Compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: compliant,Mental,499.0
+Non-compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: non-compliant,Mental,1125.0
+Not stated handcuffing,Devon & Cornwall,Restraint,Handcuffing: not stated,Mental,0.0
+Limb / Body restraints,Devon & Cornwall,Restraint,Limb / body restraints,Mental,53.0
+Ground restraint,Devon & Cornwall,Restraint,Ground restraint,Mental,260.0
+*Total Unarmed skills,Devon & Cornwall,Unarmed skills,Total: unarmed skills,Mental,1488.0
+*Total Other equipment,Devon & Cornwall,Other equipment,Total: Other equipment,Mental,100.0
+"Baton, of which",Devon & Cornwall,Other equipment,Total: Baton,Mental,3.0
+Baton drawn,Devon & Cornwall,Other equipment,Baton: drawn,Mental,0.0
+Baton used,Devon & Cornwall,Other equipment,Baton: used,Mental,1.0
+Not stated baton,Devon & Cornwall,Other equipment,Baton: not stated,Mental,2.0
+"Irritant spray, of which",Devon & Cornwall,Other equipment,Total: Irritant spray,Mental,70.0
+Irritant spray - drawn,Devon & Cornwall,Other equipment,Irritant spray: drawn,Mental,67.0
+Irritant spray - used,Devon & Cornwall,Other equipment,Irritant spray: used,Mental,3.0
+Not stated irritant spray,Devon & Cornwall,Other equipment,Irritant spray: not stated,Mental,0.0
+Spit and bite guard,Devon & Cornwall,Other equipment,Spit and bite guard,Mental,3.0
+Shield,Devon & Cornwall,Other equipment,Shield,Mental,24.0
+*Total Less lethal weapons,Devon & Cornwall,Less lethal weapons,Total: Less lethal weapons,Mental,284.0
+CED,Devon & Cornwall,Less lethal weapons,CED,Mental,270.0
+"AEP, of which",Devon & Cornwall,Less lethal weapons,Total: AEP,Mental,14.0
+AEP aimed,Devon & Cornwall,Less lethal weapons,AEP: Aimed,Mental,0.0
+AEP fired,Devon & Cornwall,Less lethal weapons,AEP: Fired,Mental,0.0
+Not stated AEP,Devon & Cornwall,Less lethal weapons,AEP: Not stated,Mental,14.0
+*Total Firearms,Devon & Cornwall,Firearms,Total: Firearms,Mental,19.0
+*Total Other,Devon & Cornwall,Other,Total: Other,Mental,47.0
+"Dog use, of which",Devon & Cornwall,Other,Total: Dog,Mental,4.0
+Dog deployed,Devon & Cornwall,Other,Dog: deployed,Mental,0.0
+Dog bite,Devon & Cornwall,Other,Dog: bite,Mental,0.0
+Not stated dog,Devon & Cornwall,Other,Dog: not stated,Mental,4.0
+Other / improvised,Devon & Cornwall,Other,Other / improvised,Mental,43.0
+*Total Not reported,Devon & Cornwall,Not reported,Total: Not reported,Mental,0.0
+Tactical communication,Devon & Cornwall,Excluded: Tactical Communication,Tactical Communication,Mental,2988.0
 *Total Tactics,Dorset,Total,Total: all,Mental,1509.0
 *Total Restraint,Dorset,Restraint,Total: Restraint,Mental,1183.0
 "Handcuffing, of which",Dorset,Restraint,Total: Handcuffing,Mental,737.0
@@ -1539,41 +1504,6 @@ Not stated dog,Wiltshire,Other,Dog: not stated,Mental,0.0
 Other / improvised,Wiltshire,Other,Other / improvised,Mental,2.0
 *Total Not reported,Wiltshire,Not reported,Total: Not reported,Mental,0.0
 Tactical communication,Wiltshire,Excluded: Tactical Communication,Tactical Communication,Mental,42.0
-*Total Tactics,Total England and Wales,Total,Total: all,Physical,4247.0
-*Total Restraint,Total England and Wales,Restraint,Total: Restraint,Physical,2680.0
-"Handcuffing, of which",Total England and Wales,Restraint,Total: Handcuffing,Physical,2101.0
-Compliant handcuffing,Total England and Wales,Restraint,Handcuffing: compliant,Physical,1209.0
-Non-compliant handcuffing,Total England and Wales,Restraint,Handcuffing: non-compliant,Physical,865.0
-Not stated handcuffing,Total England and Wales,Restraint,Handcuffing: not stated,Physical,27.0
-Limb / Body restraints,Total England and Wales,Restraint,Limb / body restraints,Physical,177.0
-Ground restraint,Total England and Wales,Restraint,Ground restraint,Physical,402.0
-*Total Unarmed skills,Total England and Wales,Unarmed skills,Total: unarmed skills,Physical,988.0
-*Total Other equipment,Total England and Wales,Other equipment,Total: Other equipment,Physical,162.0
-"Baton, of which",Total England and Wales,Other equipment,Total: Baton,Physical,22.0
-Baton drawn,Total England and Wales,Other equipment,Baton: drawn,Physical,18.0
-Baton used,Total England and Wales,Other equipment,Baton: used,Physical,4.0
-Not stated baton,Total England and Wales,Other equipment,Baton: not stated,Physical,0.0
-"Irritant spray, of which",Total England and Wales,Other equipment,Total: Irritant spray,Physical,101.0
-Irritant spray - drawn,Total England and Wales,Other equipment,Irritant spray: drawn,Physical,48.0
-Irritant spray - used,Total England and Wales,Other equipment,Irritant spray: used,Physical,53.0
-Not stated irritant spray,Total England and Wales,Other equipment,Irritant spray: not stated,Physical,0.0
-Spit and bite guard,Total England and Wales,Other equipment,Spit and bite guard,Physical,34.0
-Shield,Total England and Wales,Other equipment,Shield,Physical,5.0
-*Total Less lethal weapons,Total England and Wales,Less lethal weapons,Total: Less lethal weapons,Physical,124.0
-CED,Total England and Wales,Less lethal weapons,CED,Physical,117.0
-"AEP, of which",Total England and Wales,Less lethal weapons,Total: AEP,Physical,7.0
-AEP aimed,Total England and Wales,Less lethal weapons,AEP: Aimed,Physical,6.0
-AEP fired,Total England and Wales,Less lethal weapons,AEP: Fired,Physical,1.0
-Not stated AEP,Total England and Wales,Less lethal weapons,AEP: Not stated,Physical,0.0
-*Total Firearms,Total England and Wales,Firearms,Total: Firearms,Physical,37.0
-*Total Other,Total England and Wales,Other,Total: Other,Physical,256.0
-"Dog use, of which",Total England and Wales,Other,Total: Dog,Physical,5.0
-Dog deployed,Total England and Wales,Other,Dog: deployed,Physical,4.0
-Dog bite,Total England and Wales,Other,Dog: bite,Physical,1.0
-Not stated dog,Total England and Wales,Other,Dog: not stated,Physical,0.0
-Other / improvised,Total England and Wales,Other,Other / improvised,Physical,251.0
-*Total Not reported,Total England and Wales,Not reported,Total: Not reported,Physical,12.0
-Tactical communication,Total England and Wales,Excluded: Tactical Communication,Tactical Communication,Physical,1340.0
 *Total Tactics,Avon & Somerset,Total,Total: all,Physical,65.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,Physical,37.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,Physical,31.0
@@ -1854,41 +1784,41 @@ Not stated dog,Derbyshire,Other,Dog: not stated,Physical,0.0
 Other / improvised,Derbyshire,Other,Other / improvised,Physical,0.0
 *Total Not reported,Derbyshire,Not reported,Total: Not reported,Physical,0.0
 Tactical communication,Derbyshire,Excluded: Tactical Communication,Tactical Communication,Physical,9.0
-*Total Tactics,Devon & Cornwall ,Total,Total: all,Physical,66.0
-*Total Restraint,Devon & Cornwall ,Restraint,Total: Restraint,Physical,36.0
-"Handcuffing, of which",Devon & Cornwall ,Restraint,Total: Handcuffing,Physical,29.0
-Compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: compliant,Physical,12.0
-Non-compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: non-compliant,Physical,17.0
-Not stated handcuffing,Devon & Cornwall ,Restraint,Handcuffing: not stated,Physical,0.0
-Limb / Body restraints,Devon & Cornwall ,Restraint,Limb / body restraints,Physical,3.0
-Ground restraint,Devon & Cornwall ,Restraint,Ground restraint,Physical,4.0
-*Total Unarmed skills,Devon & Cornwall ,Unarmed skills,Total: unarmed skills,Physical,25.0
-*Total Other equipment,Devon & Cornwall ,Other equipment,Total: Other equipment,Physical,1.0
-"Baton, of which",Devon & Cornwall ,Other equipment,Total: Baton,Physical,0.0
-Baton drawn,Devon & Cornwall ,Other equipment,Baton: drawn,Physical,0.0
-Baton used,Devon & Cornwall ,Other equipment,Baton: used,Physical,0.0
-Not stated baton,Devon & Cornwall ,Other equipment,Baton: not stated,Physical,0.0
-"Irritant spray, of which",Devon & Cornwall ,Other equipment,Total: Irritant spray,Physical,0.0
-Irritant spray - drawn,Devon & Cornwall ,Other equipment,Irritant spray: drawn,Physical,0.0
-Irritant spray - used,Devon & Cornwall ,Other equipment,Irritant spray: used,Physical,0.0
-Not stated irritant spray,Devon & Cornwall ,Other equipment,Irritant spray: not stated,Physical,0.0
-Spit and bite guard,Devon & Cornwall ,Other equipment,Spit and bite guard,Physical,1.0
-Shield,Devon & Cornwall ,Other equipment,Shield,Physical,0.0
-*Total Less lethal weapons,Devon & Cornwall ,Less lethal weapons,Total: Less lethal weapons,Physical,4.0
-CED,Devon & Cornwall ,Less lethal weapons,CED,Physical,4.0
-"AEP, of which",Devon & Cornwall ,Less lethal weapons,Total: AEP,Physical,0.0
-AEP aimed,Devon & Cornwall ,Less lethal weapons,AEP: Aimed,Physical,0.0
-AEP fired,Devon & Cornwall ,Less lethal weapons,AEP: Fired,Physical,0.0
-Not stated AEP,Devon & Cornwall ,Less lethal weapons,AEP: Not stated,Physical,0.0
-*Total Firearms,Devon & Cornwall ,Firearms,Total: Firearms,Physical,0.0
-*Total Other,Devon & Cornwall ,Other,Total: Other,Physical,0.0
-"Dog use, of which",Devon & Cornwall ,Other,Total: Dog,Physical,0.0
-Dog deployed,Devon & Cornwall ,Other,Dog: deployed,Physical,0.0
-Dog bite,Devon & Cornwall ,Other,Dog: bite,Physical,0.0
-Not stated dog,Devon & Cornwall ,Other,Dog: not stated,Physical,0.0
-Other / improvised,Devon & Cornwall ,Other,Other / improvised,Physical,0.0
-*Total Not reported,Devon & Cornwall ,Not reported,Total: Not reported,Physical,0.0
-Tactical communication,Devon & Cornwall ,Excluded: Tactical Communication,Tactical Communication,Physical,49.0
+*Total Tactics,Devon & Cornwall,Total,Total: all,Physical,66.0
+*Total Restraint,Devon & Cornwall,Restraint,Total: Restraint,Physical,36.0
+"Handcuffing, of which",Devon & Cornwall,Restraint,Total: Handcuffing,Physical,29.0
+Compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: compliant,Physical,12.0
+Non-compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: non-compliant,Physical,17.0
+Not stated handcuffing,Devon & Cornwall,Restraint,Handcuffing: not stated,Physical,0.0
+Limb / Body restraints,Devon & Cornwall,Restraint,Limb / body restraints,Physical,3.0
+Ground restraint,Devon & Cornwall,Restraint,Ground restraint,Physical,4.0
+*Total Unarmed skills,Devon & Cornwall,Unarmed skills,Total: unarmed skills,Physical,25.0
+*Total Other equipment,Devon & Cornwall,Other equipment,Total: Other equipment,Physical,1.0
+"Baton, of which",Devon & Cornwall,Other equipment,Total: Baton,Physical,0.0
+Baton drawn,Devon & Cornwall,Other equipment,Baton: drawn,Physical,0.0
+Baton used,Devon & Cornwall,Other equipment,Baton: used,Physical,0.0
+Not stated baton,Devon & Cornwall,Other equipment,Baton: not stated,Physical,0.0
+"Irritant spray, of which",Devon & Cornwall,Other equipment,Total: Irritant spray,Physical,0.0
+Irritant spray - drawn,Devon & Cornwall,Other equipment,Irritant spray: drawn,Physical,0.0
+Irritant spray - used,Devon & Cornwall,Other equipment,Irritant spray: used,Physical,0.0
+Not stated irritant spray,Devon & Cornwall,Other equipment,Irritant spray: not stated,Physical,0.0
+Spit and bite guard,Devon & Cornwall,Other equipment,Spit and bite guard,Physical,1.0
+Shield,Devon & Cornwall,Other equipment,Shield,Physical,0.0
+*Total Less lethal weapons,Devon & Cornwall,Less lethal weapons,Total: Less lethal weapons,Physical,4.0
+CED,Devon & Cornwall,Less lethal weapons,CED,Physical,4.0
+"AEP, of which",Devon & Cornwall,Less lethal weapons,Total: AEP,Physical,0.0
+AEP aimed,Devon & Cornwall,Less lethal weapons,AEP: Aimed,Physical,0.0
+AEP fired,Devon & Cornwall,Less lethal weapons,AEP: Fired,Physical,0.0
+Not stated AEP,Devon & Cornwall,Less lethal weapons,AEP: Not stated,Physical,0.0
+*Total Firearms,Devon & Cornwall,Firearms,Total: Firearms,Physical,0.0
+*Total Other,Devon & Cornwall,Other,Total: Other,Physical,0.0
+"Dog use, of which",Devon & Cornwall,Other,Total: Dog,Physical,0.0
+Dog deployed,Devon & Cornwall,Other,Dog: deployed,Physical,0.0
+Dog bite,Devon & Cornwall,Other,Dog: bite,Physical,0.0
+Not stated dog,Devon & Cornwall,Other,Dog: not stated,Physical,0.0
+Other / improvised,Devon & Cornwall,Other,Other / improvised,Physical,0.0
+*Total Not reported,Devon & Cornwall,Not reported,Total: Not reported,Physical,0.0
+Tactical communication,Devon & Cornwall,Excluded: Tactical Communication,Tactical Communication,Physical,49.0
 *Total Tactics,Dorset,Total,Total: all,Physical,495.0
 *Total Restraint,Dorset,Restraint,Total: Restraint,Physical,375.0
 "Handcuffing, of which",Dorset,Restraint,Total: Handcuffing,Physical,249.0
@@ -3079,41 +3009,6 @@ Not stated dog,Wiltshire,Other,Dog: not stated,Physical,0.0
 Other / improvised,Wiltshire,Other,Other / improvised,Physical,1.0
 *Total Not reported,Wiltshire,Not reported,Total: Not reported,Physical,0.0
 Tactical communication,Wiltshire,Excluded: Tactical Communication,Tactical Communication,Physical,2.0
-*Total Tactics,Total England and Wales,Total,Total: all,Physical and mental,2767.0
-*Total Restraint,Total England and Wales,Restraint,Total: Restraint,Physical and mental,1550.0
-"Handcuffing, of which",Total England and Wales,Restraint,Total: Handcuffing,Physical and mental,1096.0
-Compliant handcuffing,Total England and Wales,Restraint,Handcuffing: compliant,Physical and mental,459.0
-Non-compliant handcuffing,Total England and Wales,Restraint,Handcuffing: non-compliant,Physical and mental,617.0
-Not stated handcuffing,Total England and Wales,Restraint,Handcuffing: not stated,Physical and mental,20.0
-Limb / Body restraints,Total England and Wales,Restraint,Limb / body restraints,Physical and mental,167.0
-Ground restraint,Total England and Wales,Restraint,Ground restraint,Physical and mental,287.0
-*Total Unarmed skills,Total England and Wales,Unarmed skills,Total: unarmed skills,Physical and mental,789.0
-*Total Other equipment,Total England and Wales,Other equipment,Total: Other equipment,Physical and mental,125.0
-"Baton, of which",Total England and Wales,Other equipment,Total: Baton,Physical and mental,18.0
-Baton drawn,Total England and Wales,Other equipment,Baton: drawn,Physical and mental,12.0
-Baton used,Total England and Wales,Other equipment,Baton: used,Physical and mental,6.0
-Not stated baton,Total England and Wales,Other equipment,Baton: not stated,Physical and mental,0.0
-"Irritant spray, of which",Total England and Wales,Other equipment,Total: Irritant spray,Physical and mental,58.0
-Irritant spray - drawn,Total England and Wales,Other equipment,Irritant spray: drawn,Physical and mental,30.0
-Irritant spray - used,Total England and Wales,Other equipment,Irritant spray: used,Physical and mental,28.0
-Not stated irritant spray,Total England and Wales,Other equipment,Irritant spray: not stated,Physical and mental,0.0
-Spit and bite guard,Total England and Wales,Other equipment,Spit and bite guard,Physical and mental,34.0
-Shield,Total England and Wales,Other equipment,Shield,Physical and mental,15.0
-*Total Less lethal weapons,Total England and Wales,Less lethal weapons,Total: Less lethal weapons,Physical and mental,123.0
-CED,Total England and Wales,Less lethal weapons,CED,Physical and mental,119.0
-"AEP, of which",Total England and Wales,Less lethal weapons,Total: AEP,Physical and mental,4.0
-AEP aimed,Total England and Wales,Less lethal weapons,AEP: Aimed,Physical and mental,4.0
-AEP fired,Total England and Wales,Less lethal weapons,AEP: Fired,Physical and mental,0.0
-Not stated AEP,Total England and Wales,Less lethal weapons,AEP: Not stated,Physical and mental,0.0
-*Total Firearms,Total England and Wales,Firearms,Total: Firearms,Physical and mental,15.0
-*Total Other,Total England and Wales,Other,Total: Other,Physical and mental,165.0
-"Dog use, of which",Total England and Wales,Other,Total: Dog,Physical and mental,4.0
-Dog deployed,Total England and Wales,Other,Dog: deployed,Physical and mental,4.0
-Dog bite,Total England and Wales,Other,Dog: bite,Physical and mental,0.0
-Not stated dog,Total England and Wales,Other,Dog: not stated,Physical and mental,0.0
-Other / improvised,Total England and Wales,Other,Other / improvised,Physical and mental,161.0
-*Total Not reported,Total England and Wales,Not reported,Total: Not reported,Physical and mental,4.0
-Tactical communication,Total England and Wales,Excluded: Tactical Communication,Tactical Communication,Physical and mental,1083.0
 *Total Tactics,Avon & Somerset,Total,Total: all,Physical and mental,73.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,Physical and mental,38.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,Physical and mental,29.0
@@ -3394,41 +3289,41 @@ Not stated dog,Derbyshire,Other,Dog: not stated,Physical and mental,0.0
 Other / improvised,Derbyshire,Other,Other / improvised,Physical and mental,1.0
 *Total Not reported,Derbyshire,Not reported,Total: Not reported,Physical and mental,0.0
 Tactical communication,Derbyshire,Excluded: Tactical Communication,Tactical Communication,Physical and mental,13.0
-*Total Tactics,Devon & Cornwall ,Total,Total: all,Physical and mental,97.0
-*Total Restraint,Devon & Cornwall ,Restraint,Total: Restraint,Physical and mental,48.0
-"Handcuffing, of which",Devon & Cornwall ,Restraint,Total: Handcuffing,Physical and mental,42.0
-Compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: compliant,Physical and mental,12.0
-Non-compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: non-compliant,Physical and mental,30.0
-Not stated handcuffing,Devon & Cornwall ,Restraint,Handcuffing: not stated,Physical and mental,0.0
-Limb / Body restraints,Devon & Cornwall ,Restraint,Limb / body restraints,Physical and mental,1.0
-Ground restraint,Devon & Cornwall ,Restraint,Ground restraint,Physical and mental,5.0
-*Total Unarmed skills,Devon & Cornwall ,Unarmed skills,Total: unarmed skills,Physical and mental,37.0
-*Total Other equipment,Devon & Cornwall ,Other equipment,Total: Other equipment,Physical and mental,0.0
-"Baton, of which",Devon & Cornwall ,Other equipment,Total: Baton,Physical and mental,0.0
-Baton drawn,Devon & Cornwall ,Other equipment,Baton: drawn,Physical and mental,0.0
-Baton used,Devon & Cornwall ,Other equipment,Baton: used,Physical and mental,0.0
-Not stated baton,Devon & Cornwall ,Other equipment,Baton: not stated,Physical and mental,0.0
-"Irritant spray, of which",Devon & Cornwall ,Other equipment,Total: Irritant spray,Physical and mental,0.0
-Irritant spray - drawn,Devon & Cornwall ,Other equipment,Irritant spray: drawn,Physical and mental,0.0
-Irritant spray - used,Devon & Cornwall ,Other equipment,Irritant spray: used,Physical and mental,0.0
-Not stated irritant spray,Devon & Cornwall ,Other equipment,Irritant spray: not stated,Physical and mental,0.0
-Spit and bite guard,Devon & Cornwall ,Other equipment,Spit and bite guard,Physical and mental,0.0
-Shield,Devon & Cornwall ,Other equipment,Shield,Physical and mental,0.0
-*Total Less lethal weapons,Devon & Cornwall ,Less lethal weapons,Total: Less lethal weapons,Physical and mental,8.0
-CED,Devon & Cornwall ,Less lethal weapons,CED,Physical and mental,8.0
-"AEP, of which",Devon & Cornwall ,Less lethal weapons,Total: AEP,Physical and mental,0.0
-AEP aimed,Devon & Cornwall ,Less lethal weapons,AEP: Aimed,Physical and mental,0.0
-AEP fired,Devon & Cornwall ,Less lethal weapons,AEP: Fired,Physical and mental,0.0
-Not stated AEP,Devon & Cornwall ,Less lethal weapons,AEP: Not stated,Physical and mental,0.0
-*Total Firearms,Devon & Cornwall ,Firearms,Total: Firearms,Physical and mental,2.0
-*Total Other,Devon & Cornwall ,Other,Total: Other,Physical and mental,2.0
-"Dog use, of which",Devon & Cornwall ,Other,Total: Dog,Physical and mental,0.0
-Dog deployed,Devon & Cornwall ,Other,Dog: deployed,Physical and mental,0.0
-Dog bite,Devon & Cornwall ,Other,Dog: bite,Physical and mental,0.0
-Not stated dog,Devon & Cornwall ,Other,Dog: not stated,Physical and mental,0.0
-Other / improvised,Devon & Cornwall ,Other,Other / improvised,Physical and mental,2.0
-*Total Not reported,Devon & Cornwall ,Not reported,Total: Not reported,Physical and mental,0.0
-Tactical communication,Devon & Cornwall ,Excluded: Tactical Communication,Tactical Communication,Physical and mental,80.0
+*Total Tactics,Devon & Cornwall,Total,Total: all,Physical and mental,97.0
+*Total Restraint,Devon & Cornwall,Restraint,Total: Restraint,Physical and mental,48.0
+"Handcuffing, of which",Devon & Cornwall,Restraint,Total: Handcuffing,Physical and mental,42.0
+Compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: compliant,Physical and mental,12.0
+Non-compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: non-compliant,Physical and mental,30.0
+Not stated handcuffing,Devon & Cornwall,Restraint,Handcuffing: not stated,Physical and mental,0.0
+Limb / Body restraints,Devon & Cornwall,Restraint,Limb / body restraints,Physical and mental,1.0
+Ground restraint,Devon & Cornwall,Restraint,Ground restraint,Physical and mental,5.0
+*Total Unarmed skills,Devon & Cornwall,Unarmed skills,Total: unarmed skills,Physical and mental,37.0
+*Total Other equipment,Devon & Cornwall,Other equipment,Total: Other equipment,Physical and mental,0.0
+"Baton, of which",Devon & Cornwall,Other equipment,Total: Baton,Physical and mental,0.0
+Baton drawn,Devon & Cornwall,Other equipment,Baton: drawn,Physical and mental,0.0
+Baton used,Devon & Cornwall,Other equipment,Baton: used,Physical and mental,0.0
+Not stated baton,Devon & Cornwall,Other equipment,Baton: not stated,Physical and mental,0.0
+"Irritant spray, of which",Devon & Cornwall,Other equipment,Total: Irritant spray,Physical and mental,0.0
+Irritant spray - drawn,Devon & Cornwall,Other equipment,Irritant spray: drawn,Physical and mental,0.0
+Irritant spray - used,Devon & Cornwall,Other equipment,Irritant spray: used,Physical and mental,0.0
+Not stated irritant spray,Devon & Cornwall,Other equipment,Irritant spray: not stated,Physical and mental,0.0
+Spit and bite guard,Devon & Cornwall,Other equipment,Spit and bite guard,Physical and mental,0.0
+Shield,Devon & Cornwall,Other equipment,Shield,Physical and mental,0.0
+*Total Less lethal weapons,Devon & Cornwall,Less lethal weapons,Total: Less lethal weapons,Physical and mental,8.0
+CED,Devon & Cornwall,Less lethal weapons,CED,Physical and mental,8.0
+"AEP, of which",Devon & Cornwall,Less lethal weapons,Total: AEP,Physical and mental,0.0
+AEP aimed,Devon & Cornwall,Less lethal weapons,AEP: Aimed,Physical and mental,0.0
+AEP fired,Devon & Cornwall,Less lethal weapons,AEP: Fired,Physical and mental,0.0
+Not stated AEP,Devon & Cornwall,Less lethal weapons,AEP: Not stated,Physical and mental,0.0
+*Total Firearms,Devon & Cornwall,Firearms,Total: Firearms,Physical and mental,2.0
+*Total Other,Devon & Cornwall,Other,Total: Other,Physical and mental,2.0
+"Dog use, of which",Devon & Cornwall,Other,Total: Dog,Physical and mental,0.0
+Dog deployed,Devon & Cornwall,Other,Dog: deployed,Physical and mental,0.0
+Dog bite,Devon & Cornwall,Other,Dog: bite,Physical and mental,0.0
+Not stated dog,Devon & Cornwall,Other,Dog: not stated,Physical and mental,0.0
+Other / improvised,Devon & Cornwall,Other,Other / improvised,Physical and mental,2.0
+*Total Not reported,Devon & Cornwall,Not reported,Total: Not reported,Physical and mental,0.0
+Tactical communication,Devon & Cornwall,Excluded: Tactical Communication,Tactical Communication,Physical and mental,80.0
 *Total Tactics,Dorset,Total,Total: all,Physical and mental,84.0
 *Total Restraint,Dorset,Restraint,Total: Restraint,Physical and mental,66.0
 "Handcuffing, of which",Dorset,Restraint,Total: Handcuffing,Physical and mental,42.0
@@ -4619,41 +4514,6 @@ Not stated dog,Wiltshire,Other,Dog: not stated,Physical and mental,0.0
 Other / improvised,Wiltshire,Other,Other / improvised,Physical and mental,0.0
 *Total Not reported,Wiltshire,Not reported,Total: Not reported,Physical and mental,0.0
 Tactical communication,Wiltshire,Excluded: Tactical Communication,Tactical Communication,Physical and mental,4.0
-*Total Tactics,Total England and Wales,Total,Total: all,None,533976.0
-*Total Restraint,Total England and Wales,Restraint,Total: Restraint,None,344652.0
-"Handcuffing, of which",Total England and Wales,Restraint,Total: Handcuffing,None,264137.0
-Compliant handcuffing,Total England and Wales,Restraint,Handcuffing: compliant,None,162297.0
-Non-compliant handcuffing,Total England and Wales,Restraint,Handcuffing: non-compliant,None,93355.0
-Not stated handcuffing,Total England and Wales,Restraint,Handcuffing: not stated,None,8485.0
-Limb / Body restraints,Total England and Wales,Restraint,Limb / body restraints,None,23316.0
-Ground restraint,Total England and Wales,Restraint,Ground restraint,None,57199.0
-*Total Unarmed skills,Total England and Wales,Unarmed skills,Total: unarmed skills,None,118456.0
-*Total Other equipment,Total England and Wales,Other equipment,Total: Other equipment,None,25392.0
-"Baton, of which",Total England and Wales,Other equipment,Total: Baton,None,5931.0
-Baton drawn,Total England and Wales,Other equipment,Baton: drawn,None,3643.0
-Baton used,Total England and Wales,Other equipment,Baton: used,None,2087.0
-Not stated baton,Total England and Wales,Other equipment,Baton: not stated,None,201.0
-"Irritant spray, of which",Total England and Wales,Other equipment,Total: Irritant spray,None,15006.0
-Irritant spray - drawn,Total England and Wales,Other equipment,Irritant spray: drawn,None,6427.0
-Irritant spray - used,Total England and Wales,Other equipment,Irritant spray: used,None,8193.0
-Not stated irritant spray,Total England and Wales,Other equipment,Irritant spray: not stated,None,386.0
-Spit and bite guard,Total England and Wales,Other equipment,Spit and bite guard,None,3892.0
-Shield,Total England and Wales,Other equipment,Shield,None,563.0
-*Total Less lethal weapons,Total England and Wales,Less lethal weapons,Total: Less lethal weapons,None,18324.0
-CED,Total England and Wales,Less lethal weapons,CED,None,17706.0
-"AEP, of which",Total England and Wales,Less lethal weapons,Total: AEP,None,618.0
-AEP aimed,Total England and Wales,Less lethal weapons,AEP: Aimed,None,550.0
-AEP fired,Total England and Wales,Less lethal weapons,AEP: Fired,None,25.0
-Not stated AEP,Total England and Wales,Less lethal weapons,AEP: Not stated,None,43.0
-*Total Firearms,Total England and Wales,Firearms,Total: Firearms,None,4169.0
-*Total Other,Total England and Wales,Other,Total: Other,None,22983.0
-"Dog use, of which",Total England and Wales,Other,Total: Dog,None,2167.0
-Dog deployed,Total England and Wales,Other,Dog: deployed,None,1499.0
-Dog bite,Total England and Wales,Other,Dog: bite,None,602.0
-Not stated dog,Total England and Wales,Other,Dog: not stated,None,66.0
-Other / improvised,Total England and Wales,Other,Other / improvised,None,20816.0
-*Total Not reported,Total England and Wales,Not reported,Total: Not reported,None,1354.0
-Tactical communication,Total England and Wales,Excluded: Tactical Communication,Tactical Communication,None,169350.0
 *Total Tactics,Avon & Somerset,Total,Total: all,None,13135.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,None,8197.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,None,6018.0
@@ -4934,41 +4794,41 @@ Not stated dog,Derbyshire,Other,Dog: not stated,None,0.0
 Other / improvised,Derbyshire,Other,Other / improvised,None,124.0
 *Total Not reported,Derbyshire,Not reported,Total: Not reported,None,34.0
 Tactical communication,Derbyshire,Excluded: Tactical Communication,Tactical Communication,None,1694.0
-*Total Tactics,Devon & Cornwall ,Total,Total: all,None,7503.0
-*Total Restraint,Devon & Cornwall ,Restraint,Total: Restraint,None,4550.0
-"Handcuffing, of which",Devon & Cornwall ,Restraint,Total: Handcuffing,None,3911.0
-Compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: compliant,None,1932.0
-Non-compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: non-compliant,None,1979.0
-Not stated handcuffing,Devon & Cornwall ,Restraint,Handcuffing: not stated,None,0.0
-Limb / Body restraints,Devon & Cornwall ,Restraint,Limb / body restraints,None,97.0
-Ground restraint,Devon & Cornwall ,Restraint,Ground restraint,None,542.0
-*Total Unarmed skills,Devon & Cornwall ,Unarmed skills,Total: unarmed skills,None,2186.0
-*Total Other equipment,Devon & Cornwall ,Other equipment,Total: Other equipment,None,183.0
-"Baton, of which",Devon & Cornwall ,Other equipment,Total: Baton,None,26.0
-Baton drawn,Devon & Cornwall ,Other equipment,Baton: drawn,None,6.0
-Baton used,Devon & Cornwall ,Other equipment,Baton: used,None,0.0
-Not stated baton,Devon & Cornwall ,Other equipment,Baton: not stated,None,20.0
-"Irritant spray, of which",Devon & Cornwall ,Other equipment,Total: Irritant spray,None,133.0
-Irritant spray - drawn,Devon & Cornwall ,Other equipment,Irritant spray: drawn,None,107.0
-Irritant spray - used,Devon & Cornwall ,Other equipment,Irritant spray: used,None,26.0
-Not stated irritant spray,Devon & Cornwall ,Other equipment,Irritant spray: not stated,None,0.0
-Spit and bite guard,Devon & Cornwall ,Other equipment,Spit and bite guard,None,12.0
-Shield,Devon & Cornwall ,Other equipment,Shield,None,12.0
-*Total Less lethal weapons,Devon & Cornwall ,Less lethal weapons,Total: Less lethal weapons,None,427.0
-CED,Devon & Cornwall ,Less lethal weapons,CED,None,414.0
-"AEP, of which",Devon & Cornwall ,Less lethal weapons,Total: AEP,None,13.0
-AEP aimed,Devon & Cornwall ,Less lethal weapons,AEP: Aimed,None,3.0
-AEP fired,Devon & Cornwall ,Less lethal weapons,AEP: Fired,None,0.0
-Not stated AEP,Devon & Cornwall ,Less lethal weapons,AEP: Not stated,None,10.0
-*Total Firearms,Devon & Cornwall ,Firearms,Total: Firearms,None,69.0
-*Total Other,Devon & Cornwall ,Other,Total: Other,None,88.0
-"Dog use, of which",Devon & Cornwall ,Other,Total: Dog,None,27.0
-Dog deployed,Devon & Cornwall ,Other,Dog: deployed,None,3.0
-Dog bite,Devon & Cornwall ,Other,Dog: bite,None,0.0
-Not stated dog,Devon & Cornwall ,Other,Dog: not stated,None,24.0
-Other / improvised,Devon & Cornwall ,Other,Other / improvised,None,61.0
-*Total Not reported,Devon & Cornwall ,Not reported,Total: Not reported,None,5.0
-Tactical communication,Devon & Cornwall ,Excluded: Tactical Communication,Tactical Communication,None,5375.0
+*Total Tactics,Devon & Cornwall,Total,Total: all,None,7503.0
+*Total Restraint,Devon & Cornwall,Restraint,Total: Restraint,None,4550.0
+"Handcuffing, of which",Devon & Cornwall,Restraint,Total: Handcuffing,None,3911.0
+Compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: compliant,None,1932.0
+Non-compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: non-compliant,None,1979.0
+Not stated handcuffing,Devon & Cornwall,Restraint,Handcuffing: not stated,None,0.0
+Limb / Body restraints,Devon & Cornwall,Restraint,Limb / body restraints,None,97.0
+Ground restraint,Devon & Cornwall,Restraint,Ground restraint,None,542.0
+*Total Unarmed skills,Devon & Cornwall,Unarmed skills,Total: unarmed skills,None,2186.0
+*Total Other equipment,Devon & Cornwall,Other equipment,Total: Other equipment,None,183.0
+"Baton, of which",Devon & Cornwall,Other equipment,Total: Baton,None,26.0
+Baton drawn,Devon & Cornwall,Other equipment,Baton: drawn,None,6.0
+Baton used,Devon & Cornwall,Other equipment,Baton: used,None,0.0
+Not stated baton,Devon & Cornwall,Other equipment,Baton: not stated,None,20.0
+"Irritant spray, of which",Devon & Cornwall,Other equipment,Total: Irritant spray,None,133.0
+Irritant spray - drawn,Devon & Cornwall,Other equipment,Irritant spray: drawn,None,107.0
+Irritant spray - used,Devon & Cornwall,Other equipment,Irritant spray: used,None,26.0
+Not stated irritant spray,Devon & Cornwall,Other equipment,Irritant spray: not stated,None,0.0
+Spit and bite guard,Devon & Cornwall,Other equipment,Spit and bite guard,None,12.0
+Shield,Devon & Cornwall,Other equipment,Shield,None,12.0
+*Total Less lethal weapons,Devon & Cornwall,Less lethal weapons,Total: Less lethal weapons,None,427.0
+CED,Devon & Cornwall,Less lethal weapons,CED,None,414.0
+"AEP, of which",Devon & Cornwall,Less lethal weapons,Total: AEP,None,13.0
+AEP aimed,Devon & Cornwall,Less lethal weapons,AEP: Aimed,None,3.0
+AEP fired,Devon & Cornwall,Less lethal weapons,AEP: Fired,None,0.0
+Not stated AEP,Devon & Cornwall,Less lethal weapons,AEP: Not stated,None,10.0
+*Total Firearms,Devon & Cornwall,Firearms,Total: Firearms,None,69.0
+*Total Other,Devon & Cornwall,Other,Total: Other,None,88.0
+"Dog use, of which",Devon & Cornwall,Other,Total: Dog,None,27.0
+Dog deployed,Devon & Cornwall,Other,Dog: deployed,None,3.0
+Dog bite,Devon & Cornwall,Other,Dog: bite,None,0.0
+Not stated dog,Devon & Cornwall,Other,Dog: not stated,None,24.0
+Other / improvised,Devon & Cornwall,Other,Other / improvised,None,61.0
+*Total Not reported,Devon & Cornwall,Not reported,Total: Not reported,None,5.0
+Tactical communication,Devon & Cornwall,Excluded: Tactical Communication,Tactical Communication,None,5375.0
 *Total Tactics,Dorset,Total,Total: all,None,11051.0
 *Total Restraint,Dorset,Restraint,Total: Restraint,None,8724.0
 "Handcuffing, of which",Dorset,Restraint,Total: Handcuffing,None,6138.0
@@ -6159,41 +6019,6 @@ Not stated dog,Wiltshire,Other,Dog: not stated,None,0.0
 Other / improvised,Wiltshire,Other,Other / improvised,None,37.0
 *Total Not reported,Wiltshire,Not reported,Total: Not reported,None,0.0
 Tactical communication,Wiltshire,Excluded: Tactical Communication,Tactical Communication,None,386.0
-*Total Tactics,Total England and Wales,Total,Total: all,Not reported,1375.0
-*Total Restraint,Total England and Wales,Restraint,Total: Restraint,Not reported,748.0
-"Handcuffing, of which",Total England and Wales,Restraint,Total: Handcuffing,Not reported,685.0
-Compliant handcuffing,Total England and Wales,Restraint,Handcuffing: compliant,Not reported,287.0
-Non-compliant handcuffing,Total England and Wales,Restraint,Handcuffing: non-compliant,Not reported,38.0
-Not stated handcuffing,Total England and Wales,Restraint,Handcuffing: not stated,Not reported,360.0
-Limb / Body restraints,Total England and Wales,Restraint,Limb / body restraints,Not reported,47.0
-Ground restraint,Total England and Wales,Restraint,Ground restraint,Not reported,16.0
-*Total Unarmed skills,Total England and Wales,Unarmed skills,Total: unarmed skills,Not reported,216.0
-*Total Other equipment,Total England and Wales,Other equipment,Total: Other equipment,Not reported,194.0
-"Baton, of which",Total England and Wales,Other equipment,Total: Baton,Not reported,118.0
-Baton drawn,Total England and Wales,Other equipment,Baton: drawn,Not reported,78.0
-Baton used,Total England and Wales,Other equipment,Baton: used,Not reported,33.0
-Not stated baton,Total England and Wales,Other equipment,Baton: not stated,Not reported,7.0
-"Irritant spray, of which",Total England and Wales,Other equipment,Total: Irritant spray,Not reported,70.0
-Irritant spray - drawn,Total England and Wales,Other equipment,Irritant spray: drawn,Not reported,20.0
-Irritant spray - used,Total England and Wales,Other equipment,Irritant spray: used,Not reported,28.0
-Not stated irritant spray,Total England and Wales,Other equipment,Irritant spray: not stated,Not reported,22.0
-Spit and bite guard,Total England and Wales,Other equipment,Spit and bite guard,Not reported,5.0
-Shield,Total England and Wales,Other equipment,Shield,Not reported,1.0
-*Total Less lethal weapons,Total England and Wales,Less lethal weapons,Total: Less lethal weapons,Not reported,94.0
-CED,Total England and Wales,Less lethal weapons,CED,Not reported,86.0
-"AEP, of which",Total England and Wales,Less lethal weapons,Total: AEP,Not reported,8.0
-AEP aimed,Total England and Wales,Less lethal weapons,AEP: Aimed,Not reported,8.0
-AEP fired,Total England and Wales,Less lethal weapons,AEP: Fired,Not reported,0.0
-Not stated AEP,Total England and Wales,Less lethal weapons,AEP: Not stated,Not reported,0.0
-*Total Firearms,Total England and Wales,Firearms,Total: Firearms,Not reported,36.0
-*Total Other,Total England and Wales,Other,Total: Other,Not reported,87.0
-"Dog use, of which",Total England and Wales,Other,Total: Dog,Not reported,33.0
-Dog deployed,Total England and Wales,Other,Dog: deployed,Not reported,26.0
-Dog bite,Total England and Wales,Other,Dog: bite,Not reported,6.0
-Not stated dog,Total England and Wales,Other,Dog: not stated,Not reported,1.0
-Other / improvised,Total England and Wales,Other,Other / improvised,Not reported,54.0
-*Total Not reported,Total England and Wales,Not reported,Total: Not reported,Not reported,217.0
-Tactical communication,Total England and Wales,Excluded: Tactical Communication,Tactical Communication,Not reported,411.0
 *Total Tactics,Avon & Somerset,Total,Total: all,Not reported,204.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,Not reported,22.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,Not reported,14.0
@@ -6474,41 +6299,41 @@ Not stated dog,Derbyshire,Other,Dog: not stated,Not reported,0.0
 Other / improvised,Derbyshire,Other,Other / improvised,Not reported,0.0
 *Total Not reported,Derbyshire,Not reported,Total: Not reported,Not reported,0.0
 Tactical communication,Derbyshire,Excluded: Tactical Communication,Tactical Communication,Not reported,0.0
-*Total Tactics,Devon & Cornwall ,Total,Total: all,Not reported,0.0
-*Total Restraint,Devon & Cornwall ,Restraint,Total: Restraint,Not reported,0.0
-"Handcuffing, of which",Devon & Cornwall ,Restraint,Total: Handcuffing,Not reported,0.0
-Compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: compliant,Not reported,0.0
-Non-compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: non-compliant,Not reported,0.0
-Not stated handcuffing,Devon & Cornwall ,Restraint,Handcuffing: not stated,Not reported,0.0
-Limb / Body restraints,Devon & Cornwall ,Restraint,Limb / body restraints,Not reported,0.0
-Ground restraint,Devon & Cornwall ,Restraint,Ground restraint,Not reported,0.0
-*Total Unarmed skills,Devon & Cornwall ,Unarmed skills,Total: unarmed skills,Not reported,0.0
-*Total Other equipment,Devon & Cornwall ,Other equipment,Total: Other equipment,Not reported,0.0
-"Baton, of which",Devon & Cornwall ,Other equipment,Total: Baton,Not reported,0.0
-Baton drawn,Devon & Cornwall ,Other equipment,Baton: drawn,Not reported,0.0
-Baton used,Devon & Cornwall ,Other equipment,Baton: used,Not reported,0.0
-Not stated baton,Devon & Cornwall ,Other equipment,Baton: not stated,Not reported,0.0
-"Irritant spray, of which",Devon & Cornwall ,Other equipment,Total: Irritant spray,Not reported,0.0
-Irritant spray - drawn,Devon & Cornwall ,Other equipment,Irritant spray: drawn,Not reported,0.0
-Irritant spray - used,Devon & Cornwall ,Other equipment,Irritant spray: used,Not reported,0.0
-Not stated irritant spray,Devon & Cornwall ,Other equipment,Irritant spray: not stated,Not reported,0.0
-Spit and bite guard,Devon & Cornwall ,Other equipment,Spit and bite guard,Not reported,0.0
-Shield,Devon & Cornwall ,Other equipment,Shield,Not reported,0.0
-*Total Less lethal weapons,Devon & Cornwall ,Less lethal weapons,Total: Less lethal weapons,Not reported,0.0
-CED,Devon & Cornwall ,Less lethal weapons,CED,Not reported,0.0
-"AEP, of which",Devon & Cornwall ,Less lethal weapons,Total: AEP,Not reported,0.0
-AEP aimed,Devon & Cornwall ,Less lethal weapons,AEP: Aimed,Not reported,0.0
-AEP fired,Devon & Cornwall ,Less lethal weapons,AEP: Fired,Not reported,0.0
-Not stated AEP,Devon & Cornwall ,Less lethal weapons,AEP: Not stated,Not reported,0.0
-*Total Firearms,Devon & Cornwall ,Firearms,Total: Firearms,Not reported,0.0
-*Total Other,Devon & Cornwall ,Other,Total: Other,Not reported,0.0
-"Dog use, of which",Devon & Cornwall ,Other,Total: Dog,Not reported,0.0
-Dog deployed,Devon & Cornwall ,Other,Dog: deployed,Not reported,0.0
-Dog bite,Devon & Cornwall ,Other,Dog: bite,Not reported,0.0
-Not stated dog,Devon & Cornwall ,Other,Dog: not stated,Not reported,0.0
-Other / improvised,Devon & Cornwall ,Other,Other / improvised,Not reported,0.0
-*Total Not reported,Devon & Cornwall ,Not reported,Total: Not reported,Not reported,0.0
-Tactical communication,Devon & Cornwall ,Excluded: Tactical Communication,Tactical Communication,Not reported,0.0
+*Total Tactics,Devon & Cornwall,Total,Total: all,Not reported,0.0
+*Total Restraint,Devon & Cornwall,Restraint,Total: Restraint,Not reported,0.0
+"Handcuffing, of which",Devon & Cornwall,Restraint,Total: Handcuffing,Not reported,0.0
+Compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: compliant,Not reported,0.0
+Non-compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: non-compliant,Not reported,0.0
+Not stated handcuffing,Devon & Cornwall,Restraint,Handcuffing: not stated,Not reported,0.0
+Limb / Body restraints,Devon & Cornwall,Restraint,Limb / body restraints,Not reported,0.0
+Ground restraint,Devon & Cornwall,Restraint,Ground restraint,Not reported,0.0
+*Total Unarmed skills,Devon & Cornwall,Unarmed skills,Total: unarmed skills,Not reported,0.0
+*Total Other equipment,Devon & Cornwall,Other equipment,Total: Other equipment,Not reported,0.0
+"Baton, of which",Devon & Cornwall,Other equipment,Total: Baton,Not reported,0.0
+Baton drawn,Devon & Cornwall,Other equipment,Baton: drawn,Not reported,0.0
+Baton used,Devon & Cornwall,Other equipment,Baton: used,Not reported,0.0
+Not stated baton,Devon & Cornwall,Other equipment,Baton: not stated,Not reported,0.0
+"Irritant spray, of which",Devon & Cornwall,Other equipment,Total: Irritant spray,Not reported,0.0
+Irritant spray - drawn,Devon & Cornwall,Other equipment,Irritant spray: drawn,Not reported,0.0
+Irritant spray - used,Devon & Cornwall,Other equipment,Irritant spray: used,Not reported,0.0
+Not stated irritant spray,Devon & Cornwall,Other equipment,Irritant spray: not stated,Not reported,0.0
+Spit and bite guard,Devon & Cornwall,Other equipment,Spit and bite guard,Not reported,0.0
+Shield,Devon & Cornwall,Other equipment,Shield,Not reported,0.0
+*Total Less lethal weapons,Devon & Cornwall,Less lethal weapons,Total: Less lethal weapons,Not reported,0.0
+CED,Devon & Cornwall,Less lethal weapons,CED,Not reported,0.0
+"AEP, of which",Devon & Cornwall,Less lethal weapons,Total: AEP,Not reported,0.0
+AEP aimed,Devon & Cornwall,Less lethal weapons,AEP: Aimed,Not reported,0.0
+AEP fired,Devon & Cornwall,Less lethal weapons,AEP: Fired,Not reported,0.0
+Not stated AEP,Devon & Cornwall,Less lethal weapons,AEP: Not stated,Not reported,0.0
+*Total Firearms,Devon & Cornwall,Firearms,Total: Firearms,Not reported,0.0
+*Total Other,Devon & Cornwall,Other,Total: Other,Not reported,0.0
+"Dog use, of which",Devon & Cornwall,Other,Total: Dog,Not reported,0.0
+Dog deployed,Devon & Cornwall,Other,Dog: deployed,Not reported,0.0
+Dog bite,Devon & Cornwall,Other,Dog: bite,Not reported,0.0
+Not stated dog,Devon & Cornwall,Other,Dog: not stated,Not reported,0.0
+Other / improvised,Devon & Cornwall,Other,Other / improvised,Not reported,0.0
+*Total Not reported,Devon & Cornwall,Not reported,Total: Not reported,Not reported,0.0
+Tactical communication,Devon & Cornwall,Excluded: Tactical Communication,Tactical Communication,Not reported,0.0
 *Total Tactics,Dorset,Total,Total: all,Not reported,0.0
 *Total Restraint,Dorset,Restraint,Total: Restraint,Not reported,0.0
 "Handcuffing, of which",Dorset,Restraint,Total: Handcuffing,Not reported,0.0

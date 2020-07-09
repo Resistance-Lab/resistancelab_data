@@ -10,6 +10,8 @@ Initial work done towards Taser report. This is a deep dive into the Use of Forc
 - Police Taser use against children and young people
 - Police Taser use against people with mental and physical health conditions
 
+It is safe to sum individual types of force across multiple police forces, however it is not safe to sum different types of force.
+
 For each a melted data source has been added. We have also created a data mapping as the source spreadsheet implies a hierarchy of data that doesn't make sense out of context.
 
 Reading the User Guide is essential to interpret these stats.

@@ -20,9 +20,11 @@ def by_age():
 def by_type(breakdown_type):
     Path(f"by-{breakdown_type}").mkdir(exist_ok=True)
     df = pd.read_csv(
-        os.path.join(cwd, '..', '..', 'cleaned_data', 'use-of-force', f"by-{breakdown_type}-force", 'april2018-march2019.csv'))
+        os.path.join(cwd, '..', '..', 'cleaned_data', 'use-of-force', f"by-{breakdown_type}-force",
+                     'april2018-march2019.csv'))
     mapping = pd.read_csv('force-mappings.csv').set_index("Tactic - Input")
     cleansed = df.join(mapping, on=["Tactic"]).drop("Type of force - Input", axis=1)
+    cleansed = cleansed[~cleansed["Police Force"].isin(["Total England and Wales"])]
     cleansed.to_csv(os.path.join(f"by-{breakdown_type}", "april2018-march2019.csv"), index=False)
 
     rebuilt = cleansed.drop(columns=["Number of times tactic reported", "Type of force"])

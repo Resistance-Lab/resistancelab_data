@@ -1,39 +1,4 @@
 Tactic,Police Force,Force type - Output,Tactic - Output,age,count
-*Total Tactics,Total England and Wales,Total,Total: all,Under 11 years,853.0
-*Total Restraint,Total England and Wales,Restraint,Total: Restraint,Under 11 years,377.0
-"Handcuffing, of which",Total England and Wales,Restraint,Total: Handcuffing,Under 11 years,225.0
-Compliant handcuffing,Total England and Wales,Restraint,Handcuffing: compliant,Under 11 years,116.0
-Non-compliant handcuffing,Total England and Wales,Restraint,Handcuffing: non-compliant,Under 11 years,107.0
-Not stated handcuffing,Total England and Wales,Restraint,Handcuffing: not stated,Under 11 years,2.0
-Limb / Body restraints,Total England and Wales,Restraint,Limb / body restraints,Under 11 years,42.0
-Ground restraint,Total England and Wales,Restraint,Ground restraint,Under 11 years,110.0
-*Total Unarmed skills,Total England and Wales,Unarmed skills,Total: unarmed skills,Under 11 years,311.0
-*Total Other equipment,Total England and Wales,Other equipment,Total: Other equipment,Under 11 years,31.0
-"Baton, of which",Total England and Wales,Other equipment,Total: Baton,Under 11 years,6.0
-Baton drawn,Total England and Wales,Other equipment,Baton: drawn,Under 11 years,4.0
-Baton used,Total England and Wales,Other equipment,Baton: used,Under 11 years,2.0
-Not stated baton,Total England and Wales,Other equipment,Baton: not stated,Under 11 years,0.0
-"Irritant spray, of which",Total England and Wales,Other equipment,Total: Irritant spray,Under 11 years,21.0
-Irritant spray - drawn,Total England and Wales,Other equipment,Irritant spray: drawn,Under 11 years,11.0
-Irritant spray - used,Total England and Wales,Other equipment,Irritant spray: used,Under 11 years,10.0
-Not stated irritant spray,Total England and Wales,Other equipment,Irritant spray: not stated,Under 11 years,0.0
-Spit and bite guard,Total England and Wales,Other equipment,Spit and bite guard,Under 11 years,4.0
-Shield,Total England and Wales,Other equipment,Shield,Under 11 years,0.0
-*Total Less lethal weapons,Total England and Wales,Less lethal weapons,Total: Less lethal weapons,Under 11 years,34.0
-CED,Total England and Wales,Less lethal weapons,CED,Under 11 years,29.0
-"AEP, of which",Total England and Wales,Less lethal weapons,Total: AEP,Under 11 years,5.0
-AEP aimed,Total England and Wales,Less lethal weapons,AEP: Aimed,Under 11 years,5.0
-AEP fired,Total England and Wales,Less lethal weapons,AEP: Fired,Under 11 years,0.0
-Not stated AEP,Total England and Wales,Less lethal weapons,AEP: Not stated,Under 11 years,0.0
-*Total Firearms,Total England and Wales,Firearms,Total: Firearms,Under 11 years,5.0
-*Total Other,Total England and Wales,Other,Total: Other,Under 11 years,95.0
-"Dog use, of which",Total England and Wales,Other,Total: Dog,Under 11 years,0.0
-Dog deployed,Total England and Wales,Other,Dog: deployed,Under 11 years,0.0
-Dog bite,Total England and Wales,Other,Dog: bite,Under 11 years,0.0
-Not stated dog,Total England and Wales,Other,Dog: not stated,Under 11 years,0.0
-Other / improvised,Total England and Wales,Other,Other / improvised,Under 11 years,95.0
-*Total Not reported,Total England and Wales,Not reported,Total: Not reported,Under 11 years,3.0
-Tactical communication,Total England and Wales,Excluded: Tactical Communication,Tactical Communication,Under 11 years,408.0
 *Total Tactics,Avon & Somerset,Total,Total: all,Under 11 years,69.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,Under 11 years,44.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,Under 11 years,33.0
@@ -314,41 +279,41 @@ Not stated dog,Derbyshire,Other,Dog: not stated,Under 11 years,0.0
 Other / improvised,Derbyshire,Other,Other / improvised,Under 11 years,1.0
 *Total Not reported,Derbyshire,Not reported,Total: Not reported,Under 11 years,0.0
 Tactical communication,Derbyshire,Excluded: Tactical Communication,Tactical Communication,Under 11 years,3.0
-*Total Tactics,Devon & Cornwall ,Total,Total: all,Under 11 years,13.0
-*Total Restraint,Devon & Cornwall ,Restraint,Total: Restraint,Under 11 years,3.0
-"Handcuffing, of which",Devon & Cornwall ,Restraint,Total: Handcuffing,Under 11 years,3.0
-Compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: compliant,Under 11 years,0.0
-Non-compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: non-compliant,Under 11 years,3.0
-Not stated handcuffing,Devon & Cornwall ,Restraint,Handcuffing: not stated,Under 11 years,0.0
-Limb / Body restraints,Devon & Cornwall ,Restraint,Limb / body restraints,Under 11 years,0.0
-Ground restraint,Devon & Cornwall ,Restraint,Ground restraint,Under 11 years,0.0
-*Total Unarmed skills,Devon & Cornwall ,Unarmed skills,Total: unarmed skills,Under 11 years,8.0
-*Total Other equipment,Devon & Cornwall ,Other equipment,Total: Other equipment,Under 11 years,1.0
-"Baton, of which",Devon & Cornwall ,Other equipment,Total: Baton,Under 11 years,0.0
-Baton drawn,Devon & Cornwall ,Other equipment,Baton: drawn,Under 11 years,0.0
-Baton used,Devon & Cornwall ,Other equipment,Baton: used,Under 11 years,0.0
-Not stated baton,Devon & Cornwall ,Other equipment,Baton: not stated,Under 11 years,0.0
-"Irritant spray, of which",Devon & Cornwall ,Other equipment,Total: Irritant spray,Under 11 years,1.0
-Irritant spray - drawn,Devon & Cornwall ,Other equipment,Irritant spray: drawn,Under 11 years,1.0
-Irritant spray - used,Devon & Cornwall ,Other equipment,Irritant spray: used,Under 11 years,0.0
-Not stated irritant spray,Devon & Cornwall ,Other equipment,Irritant spray: not stated,Under 11 years,0.0
-Spit and bite guard,Devon & Cornwall ,Other equipment,Spit and bite guard,Under 11 years,0.0
-Shield,Devon & Cornwall ,Other equipment,Shield,Under 11 years,0.0
-*Total Less lethal weapons,Devon & Cornwall ,Less lethal weapons,Total: Less lethal weapons,Under 11 years,0.0
-CED,Devon & Cornwall ,Less lethal weapons,CED,Under 11 years,0.0
-"AEP, of which",Devon & Cornwall ,Less lethal weapons,Total: AEP,Under 11 years,0.0
-AEP aimed,Devon & Cornwall ,Less lethal weapons,AEP: Aimed,Under 11 years,0.0
-AEP fired,Devon & Cornwall ,Less lethal weapons,AEP: Fired,Under 11 years,0.0
-Not stated AEP,Devon & Cornwall ,Less lethal weapons,AEP: Not stated,Under 11 years,0.0
-*Total Firearms,Devon & Cornwall ,Firearms,Total: Firearms,Under 11 years,0.0
-*Total Other,Devon & Cornwall ,Other,Total: Other,Under 11 years,1.0
-"Dog use, of which",Devon & Cornwall ,Other,Total: Dog,Under 11 years,0.0
-Dog deployed,Devon & Cornwall ,Other,Dog: deployed,Under 11 years,0.0
-Dog bite,Devon & Cornwall ,Other,Dog: bite,Under 11 years,0.0
-Not stated dog,Devon & Cornwall ,Other,Dog: not stated,Under 11 years,0.0
-Other / improvised,Devon & Cornwall ,Other,Other / improvised,Under 11 years,1.0
-*Total Not reported,Devon & Cornwall ,Not reported,Total: Not reported,Under 11 years,0.0
-Tactical communication,Devon & Cornwall ,Excluded: Tactical Communication,Tactical Communication,Under 11 years,12.0
+*Total Tactics,Devon & Cornwall,Total,Total: all,Under 11 years,13.0
+*Total Restraint,Devon & Cornwall,Restraint,Total: Restraint,Under 11 years,3.0
+"Handcuffing, of which",Devon & Cornwall,Restraint,Total: Handcuffing,Under 11 years,3.0
+Compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: compliant,Under 11 years,0.0
+Non-compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: non-compliant,Under 11 years,3.0
+Not stated handcuffing,Devon & Cornwall,Restraint,Handcuffing: not stated,Under 11 years,0.0
+Limb / Body restraints,Devon & Cornwall,Restraint,Limb / body restraints,Under 11 years,0.0
+Ground restraint,Devon & Cornwall,Restraint,Ground restraint,Under 11 years,0.0
+*Total Unarmed skills,Devon & Cornwall,Unarmed skills,Total: unarmed skills,Under 11 years,8.0
+*Total Other equipment,Devon & Cornwall,Other equipment,Total: Other equipment,Under 11 years,1.0
+"Baton, of which",Devon & Cornwall,Other equipment,Total: Baton,Under 11 years,0.0
+Baton drawn,Devon & Cornwall,Other equipment,Baton: drawn,Under 11 years,0.0
+Baton used,Devon & Cornwall,Other equipment,Baton: used,Under 11 years,0.0
+Not stated baton,Devon & Cornwall,Other equipment,Baton: not stated,Under 11 years,0.0
+"Irritant spray, of which",Devon & Cornwall,Other equipment,Total: Irritant spray,Under 11 years,1.0
+Irritant spray - drawn,Devon & Cornwall,Other equipment,Irritant spray: drawn,Under 11 years,1.0
+Irritant spray - used,Devon & Cornwall,Other equipment,Irritant spray: used,Under 11 years,0.0
+Not stated irritant spray,Devon & Cornwall,Other equipment,Irritant spray: not stated,Under 11 years,0.0
+Spit and bite guard,Devon & Cornwall,Other equipment,Spit and bite guard,Under 11 years,0.0
+Shield,Devon & Cornwall,Other equipment,Shield,Under 11 years,0.0
+*Total Less lethal weapons,Devon & Cornwall,Less lethal weapons,Total: Less lethal weapons,Under 11 years,0.0
+CED,Devon & Cornwall,Less lethal weapons,CED,Under 11 years,0.0
+"AEP, of which",Devon & Cornwall,Less lethal weapons,Total: AEP,Under 11 years,0.0
+AEP aimed,Devon & Cornwall,Less lethal weapons,AEP: Aimed,Under 11 years,0.0
+AEP fired,Devon & Cornwall,Less lethal weapons,AEP: Fired,Under 11 years,0.0
+Not stated AEP,Devon & Cornwall,Less lethal weapons,AEP: Not stated,Under 11 years,0.0
+*Total Firearms,Devon & Cornwall,Firearms,Total: Firearms,Under 11 years,0.0
+*Total Other,Devon & Cornwall,Other,Total: Other,Under 11 years,1.0
+"Dog use, of which",Devon & Cornwall,Other,Total: Dog,Under 11 years,0.0
+Dog deployed,Devon & Cornwall,Other,Dog: deployed,Under 11 years,0.0
+Dog bite,Devon & Cornwall,Other,Dog: bite,Under 11 years,0.0
+Not stated dog,Devon & Cornwall,Other,Dog: not stated,Under 11 years,0.0
+Other / improvised,Devon & Cornwall,Other,Other / improvised,Under 11 years,1.0
+*Total Not reported,Devon & Cornwall,Not reported,Total: Not reported,Under 11 years,0.0
+Tactical communication,Devon & Cornwall,Excluded: Tactical Communication,Tactical Communication,Under 11 years,12.0
 *Total Tactics,Dorset,Total,Total: all,Under 11 years,20.0
 *Total Restraint,Dorset,Restraint,Total: Restraint,Under 11 years,15.0
 "Handcuffing, of which",Dorset,Restraint,Total: Handcuffing,Under 11 years,9.0
@@ -1539,41 +1504,6 @@ Not stated dog,Wiltshire,Other,Dog: not stated,Under 11 years,0.0
 Other / improvised,Wiltshire,Other,Other / improvised,Under 11 years,1.0
 *Total Not reported,Wiltshire,Not reported,Total: Not reported,Under 11 years,0.0
 Tactical communication,Wiltshire,Excluded: Tactical Communication,Tactical Communication,Under 11 years,2.0
-*Total Tactics,Total England and Wales,Total,Total: all,11 - 17 years,59220.0
-*Total Restraint,Total England and Wales,Restraint,Total: Restraint,11 - 17 years,38027.0
-"Handcuffing, of which",Total England and Wales,Restraint,Total: Handcuffing,11 - 17 years,28770.0
-Compliant handcuffing,Total England and Wales,Restraint,Handcuffing: compliant,11 - 17 years,16235.0
-Non-compliant handcuffing,Total England and Wales,Restraint,Handcuffing: non-compliant,11 - 17 years,11600.0
-Not stated handcuffing,Total England and Wales,Restraint,Handcuffing: not stated,11 - 17 years,935.0
-Limb / Body restraints,Total England and Wales,Restraint,Limb / body restraints,11 - 17 years,2811.0
-Ground restraint,Total England and Wales,Restraint,Ground restraint,11 - 17 years,6446.0
-*Total Unarmed skills,Total England and Wales,Unarmed skills,Total: unarmed skills,11 - 17 years,14857.0
-*Total Other equipment,Total England and Wales,Other equipment,Total: Other equipment,11 - 17 years,1873.0
-"Baton, of which",Total England and Wales,Other equipment,Total: Baton,11 - 17 years,537.0
-Baton drawn,Total England and Wales,Other equipment,Baton: drawn,11 - 17 years,414.0
-Baton used,Total England and Wales,Other equipment,Baton: used,11 - 17 years,114.0
-Not stated baton,Total England and Wales,Other equipment,Baton: not stated,11 - 17 years,9.0
-"Irritant spray, of which",Total England and Wales,Other equipment,Total: Irritant spray,11 - 17 years,996.0
-Irritant spray - drawn,Total England and Wales,Other equipment,Irritant spray: drawn,11 - 17 years,528.0
-Irritant spray - used,Total England and Wales,Other equipment,Irritant spray: used,11 - 17 years,458.0
-Not stated irritant spray,Total England and Wales,Other equipment,Irritant spray: not stated,11 - 17 years,10.0
-Spit and bite guard,Total England and Wales,Other equipment,Spit and bite guard,11 - 17 years,308.0
-Shield,Total England and Wales,Other equipment,Shield,11 - 17 years,32.0
-*Total Less lethal weapons,Total England and Wales,Less lethal weapons,Total: Less lethal weapons,11 - 17 years,1716.0
-CED,Total England and Wales,Less lethal weapons,CED,11 - 17 years,1671.0
-"AEP, of which",Total England and Wales,Less lethal weapons,Total: AEP,11 - 17 years,45.0
-AEP aimed,Total England and Wales,Less lethal weapons,AEP: Aimed,11 - 17 years,40.0
-AEP fired,Total England and Wales,Less lethal weapons,AEP: Fired,11 - 17 years,2.0
-Not stated AEP,Total England and Wales,Less lethal weapons,AEP: Not stated,11 - 17 years,3.0
-*Total Firearms,Total England and Wales,Firearms,Total: Firearms,11 - 17 years,233.0
-*Total Other,Total England and Wales,Other,Total: Other,11 - 17 years,2514.0
-"Dog use, of which",Total England and Wales,Other,Total: Dog,11 - 17 years,262.0
-Dog deployed,Total England and Wales,Other,Dog: deployed,11 - 17 years,184.0
-Dog bite,Total England and Wales,Other,Dog: bite,11 - 17 years,69.0
-Not stated dog,Total England and Wales,Other,Dog: not stated,11 - 17 years,9.0
-Other / improvised,Total England and Wales,Other,Other / improvised,11 - 17 years,2252.0
-*Total Not reported,Total England and Wales,Not reported,Total: Not reported,11 - 17 years,114.0
-Tactical communication,Total England and Wales,Excluded: Tactical Communication,Tactical Communication,11 - 17 years,19489.0
 *Total Tactics,Avon & Somerset,Total,Total: all,11 - 17 years,1282.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,11 - 17 years,792.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,11 - 17 years,572.0
@@ -1854,41 +1784,41 @@ Not stated dog,Derbyshire,Other,Dog: not stated,11 - 17 years,0.0
 Other / improvised,Derbyshire,Other,Other / improvised,11 - 17 years,26.0
 *Total Not reported,Derbyshire,Not reported,Total: Not reported,11 - 17 years,0.0
 Tactical communication,Derbyshire,Excluded: Tactical Communication,Tactical Communication,11 - 17 years,202.0
-*Total Tactics,Devon & Cornwall ,Total,Total: all,11 - 17 years,845.0
-*Total Restraint,Devon & Cornwall ,Restraint,Total: Restraint,11 - 17 years,438.0
-"Handcuffing, of which",Devon & Cornwall ,Restraint,Total: Handcuffing,11 - 17 years,371.0
-Compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: compliant,11 - 17 years,147.0
-Non-compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: non-compliant,11 - 17 years,224.0
-Not stated handcuffing,Devon & Cornwall ,Restraint,Handcuffing: not stated,11 - 17 years,0.0
-Limb / Body restraints,Devon & Cornwall ,Restraint,Limb / body restraints,11 - 17 years,12.0
-Ground restraint,Devon & Cornwall ,Restraint,Ground restraint,11 - 17 years,55.0
-*Total Unarmed skills,Devon & Cornwall ,Unarmed skills,Total: unarmed skills,11 - 17 years,353.0
-*Total Other equipment,Devon & Cornwall ,Other equipment,Total: Other equipment,11 - 17 years,12.0
-"Baton, of which",Devon & Cornwall ,Other equipment,Total: Baton,11 - 17 years,1.0
-Baton drawn,Devon & Cornwall ,Other equipment,Baton: drawn,11 - 17 years,0.0
-Baton used,Devon & Cornwall ,Other equipment,Baton: used,11 - 17 years,0.0
-Not stated baton,Devon & Cornwall ,Other equipment,Baton: not stated,11 - 17 years,1.0
-"Irritant spray, of which",Devon & Cornwall ,Other equipment,Total: Irritant spray,11 - 17 years,6.0
-Irritant spray - drawn,Devon & Cornwall ,Other equipment,Irritant spray: drawn,11 - 17 years,5.0
-Irritant spray - used,Devon & Cornwall ,Other equipment,Irritant spray: used,11 - 17 years,1.0
-Not stated irritant spray,Devon & Cornwall ,Other equipment,Irritant spray: not stated,11 - 17 years,0.0
-Spit and bite guard,Devon & Cornwall ,Other equipment,Spit and bite guard,11 - 17 years,3.0
-Shield,Devon & Cornwall ,Other equipment,Shield,11 - 17 years,2.0
-*Total Less lethal weapons,Devon & Cornwall ,Less lethal weapons,Total: Less lethal weapons,11 - 17 years,30.0
-CED,Devon & Cornwall ,Less lethal weapons,CED,11 - 17 years,28.0
-"AEP, of which",Devon & Cornwall ,Less lethal weapons,Total: AEP,11 - 17 years,2.0
-AEP aimed,Devon & Cornwall ,Less lethal weapons,AEP: Aimed,11 - 17 years,0.0
-AEP fired,Devon & Cornwall ,Less lethal weapons,AEP: Fired,11 - 17 years,0.0
-Not stated AEP,Devon & Cornwall ,Less lethal weapons,AEP: Not stated,11 - 17 years,2.0
-*Total Firearms,Devon & Cornwall ,Firearms,Total: Firearms,11 - 17 years,0.0
-*Total Other,Devon & Cornwall ,Other,Total: Other,11 - 17 years,12.0
-"Dog use, of which",Devon & Cornwall ,Other,Total: Dog,11 - 17 years,1.0
-Dog deployed,Devon & Cornwall ,Other,Dog: deployed,11 - 17 years,0.0
-Dog bite,Devon & Cornwall ,Other,Dog: bite,11 - 17 years,0.0
-Not stated dog,Devon & Cornwall ,Other,Dog: not stated,11 - 17 years,1.0
-Other / improvised,Devon & Cornwall ,Other,Other / improvised,11 - 17 years,11.0
-*Total Not reported,Devon & Cornwall ,Not reported,Total: Not reported,11 - 17 years,0.0
-Tactical communication,Devon & Cornwall ,Excluded: Tactical Communication,Tactical Communication,11 - 17 years,650.0
+*Total Tactics,Devon & Cornwall,Total,Total: all,11 - 17 years,845.0
+*Total Restraint,Devon & Cornwall,Restraint,Total: Restraint,11 - 17 years,438.0
+"Handcuffing, of which",Devon & Cornwall,Restraint,Total: Handcuffing,11 - 17 years,371.0
+Compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: compliant,11 - 17 years,147.0
+Non-compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: non-compliant,11 - 17 years,224.0
+Not stated handcuffing,Devon & Cornwall,Restraint,Handcuffing: not stated,11 - 17 years,0.0
+Limb / Body restraints,Devon & Cornwall,Restraint,Limb / body restraints,11 - 17 years,12.0
+Ground restraint,Devon & Cornwall,Restraint,Ground restraint,11 - 17 years,55.0
+*Total Unarmed skills,Devon & Cornwall,Unarmed skills,Total: unarmed skills,11 - 17 years,353.0
+*Total Other equipment,Devon & Cornwall,Other equipment,Total: Other equipment,11 - 17 years,12.0
+"Baton, of which",Devon & Cornwall,Other equipment,Total: Baton,11 - 17 years,1.0
+Baton drawn,Devon & Cornwall,Other equipment,Baton: drawn,11 - 17 years,0.0
+Baton used,Devon & Cornwall,Other equipment,Baton: used,11 - 17 years,0.0
+Not stated baton,Devon & Cornwall,Other equipment,Baton: not stated,11 - 17 years,1.0
+"Irritant spray, of which",Devon & Cornwall,Other equipment,Total: Irritant spray,11 - 17 years,6.0
+Irritant spray - drawn,Devon & Cornwall,Other equipment,Irritant spray: drawn,11 - 17 years,5.0
+Irritant spray - used,Devon & Cornwall,Other equipment,Irritant spray: used,11 - 17 years,1.0
+Not stated irritant spray,Devon & Cornwall,Other equipment,Irritant spray: not stated,11 - 17 years,0.0
+Spit and bite guard,Devon & Cornwall,Other equipment,Spit and bite guard,11 - 17 years,3.0
+Shield,Devon & Cornwall,Other equipment,Shield,11 - 17 years,2.0
+*Total Less lethal weapons,Devon & Cornwall,Less lethal weapons,Total: Less lethal weapons,11 - 17 years,30.0
+CED,Devon & Cornwall,Less lethal weapons,CED,11 - 17 years,28.0
+"AEP, of which",Devon & Cornwall,Less lethal weapons,Total: AEP,11 - 17 years,2.0
+AEP aimed,Devon & Cornwall,Less lethal weapons,AEP: Aimed,11 - 17 years,0.0
+AEP fired,Devon & Cornwall,Less lethal weapons,AEP: Fired,11 - 17 years,0.0
+Not stated AEP,Devon & Cornwall,Less lethal weapons,AEP: Not stated,11 - 17 years,2.0
+*Total Firearms,Devon & Cornwall,Firearms,Total: Firearms,11 - 17 years,0.0
+*Total Other,Devon & Cornwall,Other,Total: Other,11 - 17 years,12.0
+"Dog use, of which",Devon & Cornwall,Other,Total: Dog,11 - 17 years,1.0
+Dog deployed,Devon & Cornwall,Other,Dog: deployed,11 - 17 years,0.0
+Dog bite,Devon & Cornwall,Other,Dog: bite,11 - 17 years,0.0
+Not stated dog,Devon & Cornwall,Other,Dog: not stated,11 - 17 years,1.0
+Other / improvised,Devon & Cornwall,Other,Other / improvised,11 - 17 years,11.0
+*Total Not reported,Devon & Cornwall,Not reported,Total: Not reported,11 - 17 years,0.0
+Tactical communication,Devon & Cornwall,Excluded: Tactical Communication,Tactical Communication,11 - 17 years,650.0
 *Total Tactics,Dorset,Total,Total: all,11 - 17 years,847.0
 *Total Restraint,Dorset,Restraint,Total: Restraint,11 - 17 years,669.0
 "Handcuffing, of which",Dorset,Restraint,Total: Handcuffing,11 - 17 years,473.0
@@ -3079,41 +3009,6 @@ Not stated dog,Wiltshire,Other,Dog: not stated,11 - 17 years,0.0
 Other / improvised,Wiltshire,Other,Other / improvised,11 - 17 years,8.0
 *Total Not reported,Wiltshire,Not reported,Total: Not reported,11 - 17 years,9.0
 Tactical communication,Wiltshire,Excluded: Tactical Communication,Tactical Communication,11 - 17 years,66.0
-*Total Tactics,Total England and Wales,Total,Total: all,18 - 34 years,349432.0
-*Total Restraint,Total England and Wales,Restraint,Total: Restraint,18 - 34 years,222928.0
-"Handcuffing, of which",Total England and Wales,Restraint,Total: Handcuffing,18 - 34 years,165572.0
-Compliant handcuffing,Total England and Wales,Restraint,Handcuffing: compliant,18 - 34 years,98227.0
-Non-compliant handcuffing,Total England and Wales,Restraint,Handcuffing: non-compliant,18 - 34 years,61669.0
-Not stated handcuffing,Total England and Wales,Restraint,Handcuffing: not stated,18 - 34 years,5676.0
-Limb / Body restraints,Total England and Wales,Restraint,Limb / body restraints,18 - 34 years,17323.0
-Ground restraint,Total England and Wales,Restraint,Ground restraint,18 - 34 years,40033.0
-*Total Unarmed skills,Total England and Wales,Unarmed skills,Total: unarmed skills,18 - 34 years,78666.0
-*Total Other equipment,Total England and Wales,Other equipment,Total: Other equipment,18 - 34 years,17507.0
-"Baton, of which",Total England and Wales,Other equipment,Total: Baton,18 - 34 years,4130.0
-Baton drawn,Total England and Wales,Other equipment,Baton: drawn,18 - 34 years,2449.0
-Baton used,Total England and Wales,Other equipment,Baton: used,18 - 34 years,1532.0
-Not stated baton,Total England and Wales,Other equipment,Baton: not stated,18 - 34 years,149.0
-"Irritant spray, of which",Total England and Wales,Other equipment,Total: Irritant spray,18 - 34 years,10029.0
-Irritant spray - drawn,Total England and Wales,Other equipment,Irritant spray: drawn,18 - 34 years,4270.0
-Irritant spray - used,Total England and Wales,Other equipment,Irritant spray: used,18 - 34 years,5483.0
-Not stated irritant spray,Total England and Wales,Other equipment,Irritant spray: not stated,18 - 34 years,276.0
-Spit and bite guard,Total England and Wales,Other equipment,Spit and bite guard,18 - 34 years,2873.0
-Shield,Total England and Wales,Other equipment,Shield,18 - 34 years,475.0
-*Total Less lethal weapons,Total England and Wales,Less lethal weapons,Total: Less lethal weapons,18 - 34 years,13232.0
-CED,Total England and Wales,Less lethal weapons,CED,18 - 34 years,12800.0
-"AEP, of which",Total England and Wales,Less lethal weapons,Total: AEP,18 - 34 years,432.0
-AEP aimed,Total England and Wales,Less lethal weapons,AEP: Aimed,18 - 34 years,377.0
-AEP fired,Total England and Wales,Less lethal weapons,AEP: Fired,18 - 34 years,27.0
-Not stated AEP,Total England and Wales,Less lethal weapons,AEP: Not stated,18 - 34 years,28.0
-*Total Firearms,Total England and Wales,Firearms,Total: Firearms,18 - 34 years,2760.0
-*Total Other,Total England and Wales,Other,Total: Other,18 - 34 years,14339.0
-"Dog use, of which",Total England and Wales,Other,Total: Dog,18 - 34 years,1277.0
-Dog deployed,Total England and Wales,Other,Dog: deployed,18 - 34 years,828.0
-Dog bite,Total England and Wales,Other,Dog: bite,18 - 34 years,407.0
-Not stated dog,Total England and Wales,Other,Dog: not stated,18 - 34 years,42.0
-Other / improvised,Total England and Wales,Other,Other / improvised,18 - 34 years,13062.0
-*Total Not reported,Total England and Wales,Not reported,Total: Not reported,18 - 34 years,736.0
-Tactical communication,Total England and Wales,Excluded: Tactical Communication,Tactical Communication,18 - 34 years,110453.0
 *Total Tactics,Avon & Somerset,Total,Total: all,18 - 34 years,8718.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,18 - 34 years,5372.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,18 - 34 years,3847.0
@@ -3394,41 +3289,41 @@ Not stated dog,Derbyshire,Other,Dog: not stated,18 - 34 years,0.0
 Other / improvised,Derbyshire,Other,Other / improvised,18 - 34 years,91.0
 *Total Not reported,Derbyshire,Not reported,Total: Not reported,18 - 34 years,13.0
 Tactical communication,Derbyshire,Excluded: Tactical Communication,Tactical Communication,18 - 34 years,1399.0
-*Total Tactics,Devon & Cornwall ,Total,Total: all,18 - 34 years,5268.0
-*Total Restraint,Devon & Cornwall ,Restraint,Total: Restraint,18 - 34 years,3026.0
-"Handcuffing, of which",Devon & Cornwall ,Restraint,Total: Handcuffing,18 - 34 years,2518.0
-Compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: compliant,18 - 34 years,1057.0
-Non-compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: non-compliant,18 - 34 years,1461.0
-Not stated handcuffing,Devon & Cornwall ,Restraint,Handcuffing: not stated,18 - 34 years,0.0
-Limb / Body restraints,Devon & Cornwall ,Restraint,Limb / body restraints,18 - 34 years,81.0
-Ground restraint,Devon & Cornwall ,Restraint,Ground restraint,18 - 34 years,427.0
-*Total Unarmed skills,Devon & Cornwall ,Unarmed skills,Total: unarmed skills,18 - 34 years,1685.0
-*Total Other equipment,Devon & Cornwall ,Other equipment,Total: Other equipment,18 - 34 years,147.0
-"Baton, of which",Devon & Cornwall ,Other equipment,Total: Baton,18 - 34 years,12.0
-Baton drawn,Devon & Cornwall ,Other equipment,Baton: drawn,18 - 34 years,2.0
-Baton used,Devon & Cornwall ,Other equipment,Baton: used,18 - 34 years,0.0
-Not stated baton,Devon & Cornwall ,Other equipment,Baton: not stated,18 - 34 years,10.0
-"Irritant spray, of which",Devon & Cornwall ,Other equipment,Total: Irritant spray,18 - 34 years,118.0
-Irritant spray - drawn,Devon & Cornwall ,Other equipment,Irritant spray: drawn,18 - 34 years,98.0
-Irritant spray - used,Devon & Cornwall ,Other equipment,Irritant spray: used,18 - 34 years,20.0
-Not stated irritant spray,Devon & Cornwall ,Other equipment,Irritant spray: not stated,18 - 34 years,0.0
-Spit and bite guard,Devon & Cornwall ,Other equipment,Spit and bite guard,18 - 34 years,8.0
-Shield,Devon & Cornwall ,Other equipment,Shield,18 - 34 years,9.0
-*Total Less lethal weapons,Devon & Cornwall ,Less lethal weapons,Total: Less lethal weapons,18 - 34 years,322.0
-CED,Devon & Cornwall ,Less lethal weapons,CED,18 - 34 years,312.0
-"AEP, of which",Devon & Cornwall ,Less lethal weapons,Total: AEP,18 - 34 years,10.0
-AEP aimed,Devon & Cornwall ,Less lethal weapons,AEP: Aimed,18 - 34 years,1.0
-AEP fired,Devon & Cornwall ,Less lethal weapons,AEP: Fired,18 - 34 years,0.0
-Not stated AEP,Devon & Cornwall ,Less lethal weapons,AEP: Not stated,18 - 34 years,9.0
-*Total Firearms,Devon & Cornwall ,Firearms,Total: Firearms,18 - 34 years,35.0
-*Total Other,Devon & Cornwall ,Other,Total: Other,18 - 34 years,53.0
-"Dog use, of which",Devon & Cornwall ,Other,Total: Dog,18 - 34 years,15.0
-Dog deployed,Devon & Cornwall ,Other,Dog: deployed,18 - 34 years,1.0
-Dog bite,Devon & Cornwall ,Other,Dog: bite,18 - 34 years,0.0
-Not stated dog,Devon & Cornwall ,Other,Dog: not stated,18 - 34 years,14.0
-Other / improvised,Devon & Cornwall ,Other,Other / improvised,18 - 34 years,38.0
-*Total Not reported,Devon & Cornwall ,Not reported,Total: Not reported,18 - 34 years,4.0
-Tactical communication,Devon & Cornwall ,Excluded: Tactical Communication,Tactical Communication,18 - 34 years,3743.0
+*Total Tactics,Devon & Cornwall,Total,Total: all,18 - 34 years,5268.0
+*Total Restraint,Devon & Cornwall,Restraint,Total: Restraint,18 - 34 years,3026.0
+"Handcuffing, of which",Devon & Cornwall,Restraint,Total: Handcuffing,18 - 34 years,2518.0
+Compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: compliant,18 - 34 years,1057.0
+Non-compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: non-compliant,18 - 34 years,1461.0
+Not stated handcuffing,Devon & Cornwall,Restraint,Handcuffing: not stated,18 - 34 years,0.0
+Limb / Body restraints,Devon & Cornwall,Restraint,Limb / body restraints,18 - 34 years,81.0
+Ground restraint,Devon & Cornwall,Restraint,Ground restraint,18 - 34 years,427.0
+*Total Unarmed skills,Devon & Cornwall,Unarmed skills,Total: unarmed skills,18 - 34 years,1685.0
+*Total Other equipment,Devon & Cornwall,Other equipment,Total: Other equipment,18 - 34 years,147.0
+"Baton, of which",Devon & Cornwall,Other equipment,Total: Baton,18 - 34 years,12.0
+Baton drawn,Devon & Cornwall,Other equipment,Baton: drawn,18 - 34 years,2.0
+Baton used,Devon & Cornwall,Other equipment,Baton: used,18 - 34 years,0.0
+Not stated baton,Devon & Cornwall,Other equipment,Baton: not stated,18 - 34 years,10.0
+"Irritant spray, of which",Devon & Cornwall,Other equipment,Total: Irritant spray,18 - 34 years,118.0
+Irritant spray - drawn,Devon & Cornwall,Other equipment,Irritant spray: drawn,18 - 34 years,98.0
+Irritant spray - used,Devon & Cornwall,Other equipment,Irritant spray: used,18 - 34 years,20.0
+Not stated irritant spray,Devon & Cornwall,Other equipment,Irritant spray: not stated,18 - 34 years,0.0
+Spit and bite guard,Devon & Cornwall,Other equipment,Spit and bite guard,18 - 34 years,8.0
+Shield,Devon & Cornwall,Other equipment,Shield,18 - 34 years,9.0
+*Total Less lethal weapons,Devon & Cornwall,Less lethal weapons,Total: Less lethal weapons,18 - 34 years,322.0
+CED,Devon & Cornwall,Less lethal weapons,CED,18 - 34 years,312.0
+"AEP, of which",Devon & Cornwall,Less lethal weapons,Total: AEP,18 - 34 years,10.0
+AEP aimed,Devon & Cornwall,Less lethal weapons,AEP: Aimed,18 - 34 years,1.0
+AEP fired,Devon & Cornwall,Less lethal weapons,AEP: Fired,18 - 34 years,0.0
+Not stated AEP,Devon & Cornwall,Less lethal weapons,AEP: Not stated,18 - 34 years,9.0
+*Total Firearms,Devon & Cornwall,Firearms,Total: Firearms,18 - 34 years,35.0
+*Total Other,Devon & Cornwall,Other,Total: Other,18 - 34 years,53.0
+"Dog use, of which",Devon & Cornwall,Other,Total: Dog,18 - 34 years,15.0
+Dog deployed,Devon & Cornwall,Other,Dog: deployed,18 - 34 years,1.0
+Dog bite,Devon & Cornwall,Other,Dog: bite,18 - 34 years,0.0
+Not stated dog,Devon & Cornwall,Other,Dog: not stated,18 - 34 years,14.0
+Other / improvised,Devon & Cornwall,Other,Other / improvised,18 - 34 years,38.0
+*Total Not reported,Devon & Cornwall,Not reported,Total: Not reported,18 - 34 years,4.0
+Tactical communication,Devon & Cornwall,Excluded: Tactical Communication,Tactical Communication,18 - 34 years,3743.0
 *Total Tactics,Dorset,Total,Total: all,18 - 34 years,6325.0
 *Total Restraint,Dorset,Restraint,Total: Restraint,18 - 34 years,5006.0
 "Handcuffing, of which",Dorset,Restraint,Total: Handcuffing,18 - 34 years,3351.0
@@ -4619,41 +4514,6 @@ Not stated dog,Wiltshire,Other,Dog: not stated,18 - 34 years,1.0
 Other / improvised,Wiltshire,Other,Other / improvised,18 - 34 years,42.0
 *Total Not reported,Wiltshire,Not reported,Total: Not reported,18 - 34 years,46.0
 Tactical communication,Wiltshire,Excluded: Tactical Communication,Tactical Communication,18 - 34 years,322.0
-*Total Tactics,Total England and Wales,Total,Total: all,35 - 49 years,148318.0
-*Total Restraint,Total England and Wales,Restraint,Total: Restraint,35 - 49 years,96141.0
-"Handcuffing, of which",Total England and Wales,Restraint,Total: Handcuffing,35 - 49 years,74454.0
-Compliant handcuffing,Total England and Wales,Restraint,Handcuffing: compliant,35 - 49 years,45360.0
-Non-compliant handcuffing,Total England and Wales,Restraint,Handcuffing: non-compliant,35 - 49 years,26528.0
-Not stated handcuffing,Total England and Wales,Restraint,Handcuffing: not stated,35 - 49 years,2566.0
-Limb / Body restraints,Total England and Wales,Restraint,Limb / body restraints,35 - 49 years,6767.0
-Ground restraint,Total England and Wales,Restraint,Ground restraint,35 - 49 years,14920.0
-*Total Unarmed skills,Total England and Wales,Unarmed skills,Total: unarmed skills,35 - 49 years,33015.0
-*Total Other equipment,Total England and Wales,Other equipment,Total: Other equipment,35 - 49 years,6768.0
-"Baton, of which",Total England and Wales,Other equipment,Total: Baton,35 - 49 years,1307.0
-Baton drawn,Total England and Wales,Other equipment,Baton: drawn,35 - 49 years,777.0
-Baton used,Total England and Wales,Other equipment,Baton: used,35 - 49 years,470.0
-Not stated baton,Total England and Wales,Other equipment,Baton: not stated,35 - 49 years,60.0
-"Irritant spray, of which",Total England and Wales,Other equipment,Total: Irritant spray,35 - 49 years,4015.0
-Irritant spray - drawn,Total England and Wales,Other equipment,Irritant spray: drawn,35 - 49 years,1693.0
-Irritant spray - used,Total England and Wales,Other equipment,Irritant spray: used,35 - 49 years,2220.0
-Not stated irritant spray,Total England and Wales,Other equipment,Irritant spray: not stated,35 - 49 years,102.0
-Spit and bite guard,Total England and Wales,Other equipment,Spit and bite guard,35 - 49 years,1169.0
-Shield,Total England and Wales,Other equipment,Shield,35 - 49 years,277.0
-*Total Less lethal weapons,Total England and Wales,Less lethal weapons,Total: Less lethal weapons,35 - 49 years,5481.0
-CED,Total England and Wales,Less lethal weapons,CED,35 - 49 years,5315.0
-"AEP, of which",Total England and Wales,Less lethal weapons,Total: AEP,35 - 49 years,166.0
-AEP aimed,Total England and Wales,Less lethal weapons,AEP: Aimed,35 - 49 years,144.0
-AEP fired,Total England and Wales,Less lethal weapons,AEP: Fired,35 - 49 years,10.0
-Not stated AEP,Total England and Wales,Less lethal weapons,AEP: Not stated,35 - 49 years,12.0
-*Total Firearms,Total England and Wales,Firearms,Total: Firearms,35 - 49 years,864.0
-*Total Other,Total England and Wales,Other,Total: Other,35 - 49 years,6049.0
-"Dog use, of which",Total England and Wales,Other,Total: Dog,35 - 49 years,373.0
-Dog deployed,Total England and Wales,Other,Dog: deployed,35 - 49 years,264.0
-Dog bite,Total England and Wales,Other,Dog: bite,35 - 49 years,98.0
-Not stated dog,Total England and Wales,Other,Dog: not stated,35 - 49 years,11.0
-Other / improvised,Total England and Wales,Other,Other / improvised,35 - 49 years,5676.0
-*Total Not reported,Total England and Wales,Not reported,Total: Not reported,35 - 49 years,253.0
-Tactical communication,Total England and Wales,Excluded: Tactical Communication,Tactical Communication,35 - 49 years,49041.0
 *Total Tactics,Avon & Somerset,Total,Total: all,35 - 49 years,3938.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,35 - 49 years,2416.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,35 - 49 years,1786.0
@@ -4934,41 +4794,41 @@ Not stated dog,Derbyshire,Other,Dog: not stated,35 - 49 years,0.0
 Other / improvised,Derbyshire,Other,Other / improvised,35 - 49 years,58.0
 *Total Not reported,Derbyshire,Not reported,Total: Not reported,35 - 49 years,0.0
 Tactical communication,Derbyshire,Excluded: Tactical Communication,Tactical Communication,35 - 49 years,649.0
-*Total Tactics,Devon & Cornwall ,Total,Total: all,35 - 49 years,2339.0
-*Total Restraint,Devon & Cornwall ,Restraint,Total: Restraint,35 - 49 years,1352.0
-"Handcuffing, of which",Devon & Cornwall ,Restraint,Total: Handcuffing,35 - 49 years,1192.0
-Compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: compliant,35 - 49 years,583.0
-Non-compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: non-compliant,35 - 49 years,609.0
-Not stated handcuffing,Devon & Cornwall ,Restraint,Handcuffing: not stated,35 - 49 years,0.0
-Limb / Body restraints,Devon & Cornwall ,Restraint,Limb / body restraints,35 - 49 years,31.0
-Ground restraint,Devon & Cornwall ,Restraint,Ground restraint,35 - 49 years,129.0
-*Total Unarmed skills,Devon & Cornwall ,Unarmed skills,Total: unarmed skills,35 - 49 years,705.0
-*Total Other equipment,Devon & Cornwall ,Other equipment,Total: Other equipment,35 - 49 years,65.0
-"Baton, of which",Devon & Cornwall ,Other equipment,Total: Baton,35 - 49 years,9.0
-Baton drawn,Devon & Cornwall ,Other equipment,Baton: drawn,35 - 49 years,1.0
-Baton used,Devon & Cornwall ,Other equipment,Baton: used,35 - 49 years,0.0
-Not stated baton,Devon & Cornwall ,Other equipment,Baton: not stated,35 - 49 years,8.0
-"Irritant spray, of which",Devon & Cornwall ,Other equipment,Total: Irritant spray,35 - 49 years,43.0
-Irritant spray - drawn,Devon & Cornwall ,Other equipment,Irritant spray: drawn,35 - 49 years,36.0
-Irritant spray - used,Devon & Cornwall ,Other equipment,Irritant spray: used,35 - 49 years,7.0
-Not stated irritant spray,Devon & Cornwall ,Other equipment,Irritant spray: not stated,35 - 49 years,0.0
-Spit and bite guard,Devon & Cornwall ,Other equipment,Spit and bite guard,35 - 49 years,4.0
-Shield,Devon & Cornwall ,Other equipment,Shield,35 - 49 years,9.0
-*Total Less lethal weapons,Devon & Cornwall ,Less lethal weapons,Total: Less lethal weapons,35 - 49 years,158.0
-CED,Devon & Cornwall ,Less lethal weapons,CED,35 - 49 years,152.0
-"AEP, of which",Devon & Cornwall ,Less lethal weapons,Total: AEP,35 - 49 years,6.0
-AEP aimed,Devon & Cornwall ,Less lethal weapons,AEP: Aimed,35 - 49 years,1.0
-AEP fired,Devon & Cornwall ,Less lethal weapons,AEP: Fired,35 - 49 years,0.0
-Not stated AEP,Devon & Cornwall ,Less lethal weapons,AEP: Not stated,35 - 49 years,5.0
-*Total Firearms,Devon & Cornwall ,Firearms,Total: Firearms,35 - 49 years,33.0
-*Total Other,Devon & Cornwall ,Other,Total: Other,35 - 49 years,26.0
-"Dog use, of which",Devon & Cornwall ,Other,Total: Dog,35 - 49 years,5.0
-Dog deployed,Devon & Cornwall ,Other,Dog: deployed,35 - 49 years,1.0
-Dog bite,Devon & Cornwall ,Other,Dog: bite,35 - 49 years,0.0
-Not stated dog,Devon & Cornwall ,Other,Dog: not stated,35 - 49 years,4.0
-Other / improvised,Devon & Cornwall ,Other,Other / improvised,35 - 49 years,21.0
-*Total Not reported,Devon & Cornwall ,Not reported,Total: Not reported,35 - 49 years,1.0
-Tactical communication,Devon & Cornwall ,Excluded: Tactical Communication,Tactical Communication,35 - 49 years,1753.0
+*Total Tactics,Devon & Cornwall,Total,Total: all,35 - 49 years,2339.0
+*Total Restraint,Devon & Cornwall,Restraint,Total: Restraint,35 - 49 years,1352.0
+"Handcuffing, of which",Devon & Cornwall,Restraint,Total: Handcuffing,35 - 49 years,1192.0
+Compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: compliant,35 - 49 years,583.0
+Non-compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: non-compliant,35 - 49 years,609.0
+Not stated handcuffing,Devon & Cornwall,Restraint,Handcuffing: not stated,35 - 49 years,0.0
+Limb / Body restraints,Devon & Cornwall,Restraint,Limb / body restraints,35 - 49 years,31.0
+Ground restraint,Devon & Cornwall,Restraint,Ground restraint,35 - 49 years,129.0
+*Total Unarmed skills,Devon & Cornwall,Unarmed skills,Total: unarmed skills,35 - 49 years,705.0
+*Total Other equipment,Devon & Cornwall,Other equipment,Total: Other equipment,35 - 49 years,65.0
+"Baton, of which",Devon & Cornwall,Other equipment,Total: Baton,35 - 49 years,9.0
+Baton drawn,Devon & Cornwall,Other equipment,Baton: drawn,35 - 49 years,1.0
+Baton used,Devon & Cornwall,Other equipment,Baton: used,35 - 49 years,0.0
+Not stated baton,Devon & Cornwall,Other equipment,Baton: not stated,35 - 49 years,8.0
+"Irritant spray, of which",Devon & Cornwall,Other equipment,Total: Irritant spray,35 - 49 years,43.0
+Irritant spray - drawn,Devon & Cornwall,Other equipment,Irritant spray: drawn,35 - 49 years,36.0
+Irritant spray - used,Devon & Cornwall,Other equipment,Irritant spray: used,35 - 49 years,7.0
+Not stated irritant spray,Devon & Cornwall,Other equipment,Irritant spray: not stated,35 - 49 years,0.0
+Spit and bite guard,Devon & Cornwall,Other equipment,Spit and bite guard,35 - 49 years,4.0
+Shield,Devon & Cornwall,Other equipment,Shield,35 - 49 years,9.0
+*Total Less lethal weapons,Devon & Cornwall,Less lethal weapons,Total: Less lethal weapons,35 - 49 years,158.0
+CED,Devon & Cornwall,Less lethal weapons,CED,35 - 49 years,152.0
+"AEP, of which",Devon & Cornwall,Less lethal weapons,Total: AEP,35 - 49 years,6.0
+AEP aimed,Devon & Cornwall,Less lethal weapons,AEP: Aimed,35 - 49 years,1.0
+AEP fired,Devon & Cornwall,Less lethal weapons,AEP: Fired,35 - 49 years,0.0
+Not stated AEP,Devon & Cornwall,Less lethal weapons,AEP: Not stated,35 - 49 years,5.0
+*Total Firearms,Devon & Cornwall,Firearms,Total: Firearms,35 - 49 years,33.0
+*Total Other,Devon & Cornwall,Other,Total: Other,35 - 49 years,26.0
+"Dog use, of which",Devon & Cornwall,Other,Total: Dog,35 - 49 years,5.0
+Dog deployed,Devon & Cornwall,Other,Dog: deployed,35 - 49 years,1.0
+Dog bite,Devon & Cornwall,Other,Dog: bite,35 - 49 years,0.0
+Not stated dog,Devon & Cornwall,Other,Dog: not stated,35 - 49 years,4.0
+Other / improvised,Devon & Cornwall,Other,Other / improvised,35 - 49 years,21.0
+*Total Not reported,Devon & Cornwall,Not reported,Total: Not reported,35 - 49 years,1.0
+Tactical communication,Devon & Cornwall,Excluded: Tactical Communication,Tactical Communication,35 - 49 years,1753.0
 *Total Tactics,Dorset,Total,Total: all,35 - 49 years,3123.0
 *Total Restraint,Dorset,Restraint,Total: Restraint,35 - 49 years,2444.0
 "Handcuffing, of which",Dorset,Restraint,Total: Handcuffing,35 - 49 years,1740.0
@@ -6159,41 +6019,6 @@ Not stated dog,Wiltshire,Other,Dog: not stated,35 - 49 years,0.0
 Other / improvised,Wiltshire,Other,Other / improvised,35 - 49 years,16.0
 *Total Not reported,Wiltshire,Not reported,Total: Not reported,35 - 49 years,22.0
 Tactical communication,Wiltshire,Excluded: Tactical Communication,Tactical Communication,35 - 49 years,109.0
-*Total Tactics,Total England and Wales,Total,Total: all,50 - 64 years,35924.0
-*Total Restraint,Total England and Wales,Restraint,Total: Restraint,50 - 64 years,23006.0
-"Handcuffing, of which",Total England and Wales,Restraint,Total: Handcuffing,50 - 64 years,18410.0
-Compliant handcuffing,Total England and Wales,Restraint,Handcuffing: compliant,50 - 64 years,10850.0
-Non-compliant handcuffing,Total England and Wales,Restraint,Handcuffing: non-compliant,50 - 64 years,6826.0
-Not stated handcuffing,Total England and Wales,Restraint,Handcuffing: not stated,50 - 64 years,734.0
-Limb / Body restraints,Total England and Wales,Restraint,Limb / body restraints,50 - 64 years,1588.0
-Ground restraint,Total England and Wales,Restraint,Ground restraint,50 - 64 years,3008.0
-*Total Unarmed skills,Total England and Wales,Unarmed skills,Total: unarmed skills,50 - 64 years,8199.0
-*Total Other equipment,Total England and Wales,Other equipment,Total: Other equipment,50 - 64 years,1398.0
-"Baton, of which",Total England and Wales,Other equipment,Total: Baton,50 - 64 years,263.0
-Baton drawn,Total England and Wales,Other equipment,Baton: drawn,50 - 64 years,175.0
-Baton used,Total England and Wales,Other equipment,Baton: used,50 - 64 years,77.0
-Not stated baton,Total England and Wales,Other equipment,Baton: not stated,50 - 64 years,11.0
-"Irritant spray, of which",Total England and Wales,Other equipment,Total: Irritant spray,50 - 64 years,855.0
-Irritant spray - drawn,Total England and Wales,Other equipment,Irritant spray: drawn,50 - 64 years,380.0
-Irritant spray - used,Total England and Wales,Other equipment,Irritant spray: used,50 - 64 years,452.0
-Not stated irritant spray,Total England and Wales,Other equipment,Irritant spray: not stated,50 - 64 years,23.0
-Spit and bite guard,Total England and Wales,Other equipment,Spit and bite guard,50 - 64 years,213.0
-Shield,Total England and Wales,Other equipment,Shield,50 - 64 years,67.0
-*Total Less lethal weapons,Total England and Wales,Less lethal weapons,Total: Less lethal weapons,50 - 64 years,1450.0
-CED,Total England and Wales,Less lethal weapons,CED,50 - 64 years,1391.0
-"AEP, of which",Total England and Wales,Less lethal weapons,Total: AEP,50 - 64 years,59.0
-AEP aimed,Total England and Wales,Less lethal weapons,AEP: Aimed,50 - 64 years,47.0
-AEP fired,Total England and Wales,Less lethal weapons,AEP: Fired,50 - 64 years,3.0
-Not stated AEP,Total England and Wales,Less lethal weapons,AEP: Not stated,50 - 64 years,9.0
-*Total Firearms,Total England and Wales,Firearms,Total: Firearms,50 - 64 years,308.0
-*Total Other,Total England and Wales,Other,Total: Other,50 - 64 years,1563.0
-"Dog use, of which",Total England and Wales,Other,Total: Dog,50 - 64 years,38.0
-Dog deployed,Total England and Wales,Other,Dog: deployed,50 - 64 years,30.0
-Dog bite,Total England and Wales,Other,Dog: bite,50 - 64 years,7.0
-Not stated dog,Total England and Wales,Other,Dog: not stated,50 - 64 years,1.0
-Other / improvised,Total England and Wales,Other,Other / improvised,50 - 64 years,1525.0
-*Total Not reported,Total England and Wales,Not reported,Total: Not reported,50 - 64 years,63.0
-Tactical communication,Total England and Wales,Excluded: Tactical Communication,Tactical Communication,50 - 64 years,12130.0
 *Total Tactics,Avon & Somerset,Total,Total: all,50 - 64 years,1084.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,50 - 64 years,668.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,50 - 64 years,475.0
@@ -6474,41 +6299,41 @@ Not stated dog,Derbyshire,Other,Dog: not stated,50 - 64 years,0.0
 Other / improvised,Derbyshire,Other,Other / improvised,50 - 64 years,10.0
 *Total Not reported,Derbyshire,Not reported,Total: Not reported,50 - 64 years,0.0
 Tactical communication,Derbyshire,Excluded: Tactical Communication,Tactical Communication,50 - 64 years,176.0
-*Total Tactics,Devon & Cornwall ,Total,Total: all,50 - 64 years,512.0
-*Total Restraint,Devon & Cornwall ,Restraint,Total: Restraint,50 - 64 years,289.0
-"Handcuffing, of which",Devon & Cornwall ,Restraint,Total: Handcuffing,50 - 64 years,254.0
-Compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: compliant,50 - 64 years,129.0
-Non-compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: non-compliant,50 - 64 years,125.0
-Not stated handcuffing,Devon & Cornwall ,Restraint,Handcuffing: not stated,50 - 64 years,0.0
-Limb / Body restraints,Devon & Cornwall ,Restraint,Limb / body restraints,50 - 64 years,3.0
-Ground restraint,Devon & Cornwall ,Restraint,Ground restraint,50 - 64 years,32.0
-*Total Unarmed skills,Devon & Cornwall ,Unarmed skills,Total: unarmed skills,50 - 64 years,168.0
-*Total Other equipment,Devon & Cornwall ,Other equipment,Total: Other equipment,50 - 64 years,13.0
-"Baton, of which",Devon & Cornwall ,Other equipment,Total: Baton,50 - 64 years,0.0
-Baton drawn,Devon & Cornwall ,Other equipment,Baton: drawn,50 - 64 years,0.0
-Baton used,Devon & Cornwall ,Other equipment,Baton: used,50 - 64 years,0.0
-Not stated baton,Devon & Cornwall ,Other equipment,Baton: not stated,50 - 64 years,0.0
-"Irritant spray, of which",Devon & Cornwall ,Other equipment,Total: Irritant spray,50 - 64 years,4.0
-Irritant spray - drawn,Devon & Cornwall ,Other equipment,Irritant spray: drawn,50 - 64 years,4.0
-Irritant spray - used,Devon & Cornwall ,Other equipment,Irritant spray: used,50 - 64 years,0.0
-Not stated irritant spray,Devon & Cornwall ,Other equipment,Irritant spray: not stated,50 - 64 years,0.0
-Spit and bite guard,Devon & Cornwall ,Other equipment,Spit and bite guard,50 - 64 years,0.0
-Shield,Devon & Cornwall ,Other equipment,Shield,50 - 64 years,9.0
-*Total Less lethal weapons,Devon & Cornwall ,Less lethal weapons,Total: Less lethal weapons,50 - 64 years,31.0
-CED,Devon & Cornwall ,Less lethal weapons,CED,50 - 64 years,30.0
-"AEP, of which",Devon & Cornwall ,Less lethal weapons,Total: AEP,50 - 64 years,1.0
-AEP aimed,Devon & Cornwall ,Less lethal weapons,AEP: Aimed,50 - 64 years,0.0
-AEP fired,Devon & Cornwall ,Less lethal weapons,AEP: Fired,50 - 64 years,0.0
-Not stated AEP,Devon & Cornwall ,Less lethal weapons,AEP: Not stated,50 - 64 years,1.0
-*Total Firearms,Devon & Cornwall ,Firearms,Total: Firearms,50 - 64 years,3.0
-*Total Other,Devon & Cornwall ,Other,Total: Other,50 - 64 years,8.0
-"Dog use, of which",Devon & Cornwall ,Other,Total: Dog,50 - 64 years,1.0
-Dog deployed,Devon & Cornwall ,Other,Dog: deployed,50 - 64 years,0.0
-Dog bite,Devon & Cornwall ,Other,Dog: bite,50 - 64 years,0.0
-Not stated dog,Devon & Cornwall ,Other,Dog: not stated,50 - 64 years,1.0
-Other / improvised,Devon & Cornwall ,Other,Other / improvised,50 - 64 years,7.0
-*Total Not reported,Devon & Cornwall ,Not reported,Total: Not reported,50 - 64 years,0.0
-Tactical communication,Devon & Cornwall ,Excluded: Tactical Communication,Tactical Communication,50 - 64 years,390.0
+*Total Tactics,Devon & Cornwall,Total,Total: all,50 - 64 years,512.0
+*Total Restraint,Devon & Cornwall,Restraint,Total: Restraint,50 - 64 years,289.0
+"Handcuffing, of which",Devon & Cornwall,Restraint,Total: Handcuffing,50 - 64 years,254.0
+Compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: compliant,50 - 64 years,129.0
+Non-compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: non-compliant,50 - 64 years,125.0
+Not stated handcuffing,Devon & Cornwall,Restraint,Handcuffing: not stated,50 - 64 years,0.0
+Limb / Body restraints,Devon & Cornwall,Restraint,Limb / body restraints,50 - 64 years,3.0
+Ground restraint,Devon & Cornwall,Restraint,Ground restraint,50 - 64 years,32.0
+*Total Unarmed skills,Devon & Cornwall,Unarmed skills,Total: unarmed skills,50 - 64 years,168.0
+*Total Other equipment,Devon & Cornwall,Other equipment,Total: Other equipment,50 - 64 years,13.0
+"Baton, of which",Devon & Cornwall,Other equipment,Total: Baton,50 - 64 years,0.0
+Baton drawn,Devon & Cornwall,Other equipment,Baton: drawn,50 - 64 years,0.0
+Baton used,Devon & Cornwall,Other equipment,Baton: used,50 - 64 years,0.0
+Not stated baton,Devon & Cornwall,Other equipment,Baton: not stated,50 - 64 years,0.0
+"Irritant spray, of which",Devon & Cornwall,Other equipment,Total: Irritant spray,50 - 64 years,4.0
+Irritant spray - drawn,Devon & Cornwall,Other equipment,Irritant spray: drawn,50 - 64 years,4.0
+Irritant spray - used,Devon & Cornwall,Other equipment,Irritant spray: used,50 - 64 years,0.0
+Not stated irritant spray,Devon & Cornwall,Other equipment,Irritant spray: not stated,50 - 64 years,0.0
+Spit and bite guard,Devon & Cornwall,Other equipment,Spit and bite guard,50 - 64 years,0.0
+Shield,Devon & Cornwall,Other equipment,Shield,50 - 64 years,9.0
+*Total Less lethal weapons,Devon & Cornwall,Less lethal weapons,Total: Less lethal weapons,50 - 64 years,31.0
+CED,Devon & Cornwall,Less lethal weapons,CED,50 - 64 years,30.0
+"AEP, of which",Devon & Cornwall,Less lethal weapons,Total: AEP,50 - 64 years,1.0
+AEP aimed,Devon & Cornwall,Less lethal weapons,AEP: Aimed,50 - 64 years,0.0
+AEP fired,Devon & Cornwall,Less lethal weapons,AEP: Fired,50 - 64 years,0.0
+Not stated AEP,Devon & Cornwall,Less lethal weapons,AEP: Not stated,50 - 64 years,1.0
+*Total Firearms,Devon & Cornwall,Firearms,Total: Firearms,50 - 64 years,3.0
+*Total Other,Devon & Cornwall,Other,Total: Other,50 - 64 years,8.0
+"Dog use, of which",Devon & Cornwall,Other,Total: Dog,50 - 64 years,1.0
+Dog deployed,Devon & Cornwall,Other,Dog: deployed,50 - 64 years,0.0
+Dog bite,Devon & Cornwall,Other,Dog: bite,50 - 64 years,0.0
+Not stated dog,Devon & Cornwall,Other,Dog: not stated,50 - 64 years,1.0
+Other / improvised,Devon & Cornwall,Other,Other / improvised,50 - 64 years,7.0
+*Total Not reported,Devon & Cornwall,Not reported,Total: Not reported,50 - 64 years,0.0
+Tactical communication,Devon & Cornwall,Excluded: Tactical Communication,Tactical Communication,50 - 64 years,390.0
 *Total Tactics,Dorset,Total,Total: all,50 - 64 years,973.0
 *Total Restraint,Dorset,Restraint,Total: Restraint,50 - 64 years,777.0
 "Handcuffing, of which",Dorset,Restraint,Total: Handcuffing,50 - 64 years,551.0
@@ -7699,41 +7524,6 @@ Not stated dog,Wiltshire,Other,Dog: not stated,50 - 64 years,0.0
 Other / improvised,Wiltshire,Other,Other / improvised,50 - 64 years,2.0
 *Total Not reported,Wiltshire,Not reported,Total: Not reported,50 - 64 years,4.0
 Tactical communication,Wiltshire,Excluded: Tactical Communication,Tactical Communication,50 - 64 years,30.0
-*Total Tactics,Total England and Wales,Total,Total: all,65 and over,3109.0
-*Total Restraint,Total England and Wales,Restraint,Total: Restraint,65 and over,1794.0
-"Handcuffing, of which",Total England and Wales,Restraint,Total: Handcuffing,65 and over,1433.0
-Compliant handcuffing,Total England and Wales,Restraint,Handcuffing: compliant,65 and over,732.0
-Non-compliant handcuffing,Total England and Wales,Restraint,Handcuffing: non-compliant,65 and over,623.0
-Not stated handcuffing,Total England and Wales,Restraint,Handcuffing: not stated,65 and over,78.0
-Limb / Body restraints,Total England and Wales,Restraint,Limb / body restraints,65 and over,172.0
-Ground restraint,Total England and Wales,Restraint,Ground restraint,65 and over,189.0
-*Total Unarmed skills,Total England and Wales,Unarmed skills,Total: unarmed skills,65 and over,889.0
-*Total Other equipment,Total England and Wales,Other equipment,Total: Other equipment,65 and over,92.0
-"Baton, of which",Total England and Wales,Other equipment,Total: Baton,65 and over,11.0
-Baton drawn,Total England and Wales,Other equipment,Baton: drawn,65 and over,7.0
-Baton used,Total England and Wales,Other equipment,Baton: used,65 and over,2.0
-Not stated baton,Total England and Wales,Other equipment,Baton: not stated,65 and over,2.0
-"Irritant spray, of which",Total England and Wales,Other equipment,Total: Irritant spray,65 and over,49.0
-Irritant spray - drawn,Total England and Wales,Other equipment,Irritant spray: drawn,65 and over,19.0
-Irritant spray - used,Total England and Wales,Other equipment,Irritant spray: used,65 and over,25.0
-Not stated irritant spray,Total England and Wales,Other equipment,Irritant spray: not stated,65 and over,5.0
-Spit and bite guard,Total England and Wales,Other equipment,Spit and bite guard,65 and over,20.0
-Shield,Total England and Wales,Other equipment,Shield,65 and over,12.0
-*Total Less lethal weapons,Total England and Wales,Less lethal weapons,Total: Less lethal weapons,65 and over,119.0
-CED,Total England and Wales,Less lethal weapons,CED,65 and over,118.0
-"AEP, of which",Total England and Wales,Less lethal weapons,Total: AEP,65 and over,1.0
-AEP aimed,Total England and Wales,Less lethal weapons,AEP: Aimed,65 and over,1.0
-AEP fired,Total England and Wales,Less lethal weapons,AEP: Fired,65 and over,0.0
-Not stated AEP,Total England and Wales,Less lethal weapons,AEP: Not stated,65 and over,0.0
-*Total Firearms,Total England and Wales,Firearms,Total: Firearms,65 and over,31.0
-*Total Other,Total England and Wales,Other,Total: Other,65 and over,184.0
-"Dog use, of which",Total England and Wales,Other,Total: Dog,65 and over,2.0
-Dog deployed,Total England and Wales,Other,Dog: deployed,65 and over,2.0
-Dog bite,Total England and Wales,Other,Dog: bite,65 and over,0.0
-Not stated dog,Total England and Wales,Other,Dog: not stated,65 and over,0.0
-Other / improvised,Total England and Wales,Other,Other / improvised,65 and over,182.0
-*Total Not reported,Total England and Wales,Not reported,Total: Not reported,65 and over,5.0
-Tactical communication,Total England and Wales,Excluded: Tactical Communication,Tactical Communication,65 and over,1153.0
 *Total Tactics,Avon & Somerset,Total,Total: all,65 and over,62.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,65 and over,38.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,65 and over,31.0
@@ -8014,41 +7804,41 @@ Not stated dog,Derbyshire,Other,Dog: not stated,65 and over,0.0
 Other / improvised,Derbyshire,Other,Other / improvised,65 and over,4.0
 *Total Not reported,Derbyshire,Not reported,Total: Not reported,65 and over,0.0
 Tactical communication,Derbyshire,Excluded: Tactical Communication,Tactical Communication,65 and over,16.0
-*Total Tactics,Devon & Cornwall ,Total,Total: all,65 and over,74.0
-*Total Restraint,Devon & Cornwall ,Restraint,Total: Restraint,65 and over,28.0
-"Handcuffing, of which",Devon & Cornwall ,Restraint,Total: Handcuffing,65 and over,24.0
-Compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: compliant,65 and over,12.0
-Non-compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: non-compliant,65 and over,12.0
-Not stated handcuffing,Devon & Cornwall ,Restraint,Handcuffing: not stated,65 and over,0.0
-Limb / Body restraints,Devon & Cornwall ,Restraint,Limb / body restraints,65 and over,1.0
-Ground restraint,Devon & Cornwall ,Restraint,Ground restraint,65 and over,3.0
-*Total Unarmed skills,Devon & Cornwall ,Unarmed skills,Total: unarmed skills,65 and over,33.0
-*Total Other equipment,Devon & Cornwall ,Other equipment,Total: Other equipment,65 and over,1.0
-"Baton, of which",Devon & Cornwall ,Other equipment,Total: Baton,65 and over,0.0
-Baton drawn,Devon & Cornwall ,Other equipment,Baton: drawn,65 and over,0.0
-Baton used,Devon & Cornwall ,Other equipment,Baton: used,65 and over,0.0
-Not stated baton,Devon & Cornwall ,Other equipment,Baton: not stated,65 and over,0.0
-"Irritant spray, of which",Devon & Cornwall ,Other equipment,Total: Irritant spray,65 and over,0.0
-Irritant spray - drawn,Devon & Cornwall ,Other equipment,Irritant spray: drawn,65 and over,0.0
-Irritant spray - used,Devon & Cornwall ,Other equipment,Irritant spray: used,65 and over,0.0
-Not stated irritant spray,Devon & Cornwall ,Other equipment,Irritant spray: not stated,65 and over,0.0
-Spit and bite guard,Devon & Cornwall ,Other equipment,Spit and bite guard,65 and over,0.0
-Shield,Devon & Cornwall ,Other equipment,Shield,65 and over,1.0
-*Total Less lethal weapons,Devon & Cornwall ,Less lethal weapons,Total: Less lethal weapons,65 and over,8.0
-CED,Devon & Cornwall ,Less lethal weapons,CED,65 and over,8.0
-"AEP, of which",Devon & Cornwall ,Less lethal weapons,Total: AEP,65 and over,0.0
-AEP aimed,Devon & Cornwall ,Less lethal weapons,AEP: Aimed,65 and over,0.0
-AEP fired,Devon & Cornwall ,Less lethal weapons,AEP: Fired,65 and over,0.0
-Not stated AEP,Devon & Cornwall ,Less lethal weapons,AEP: Not stated,65 and over,0.0
-*Total Firearms,Devon & Cornwall ,Firearms,Total: Firearms,65 and over,2.0
-*Total Other,Devon & Cornwall ,Other,Total: Other,65 and over,2.0
-"Dog use, of which",Devon & Cornwall ,Other,Total: Dog,65 and over,0.0
-Dog deployed,Devon & Cornwall ,Other,Dog: deployed,65 and over,0.0
-Dog bite,Devon & Cornwall ,Other,Dog: bite,65 and over,0.0
-Not stated dog,Devon & Cornwall ,Other,Dog: not stated,65 and over,0.0
-Other / improvised,Devon & Cornwall ,Other,Other / improvised,65 and over,2.0
-*Total Not reported,Devon & Cornwall ,Not reported,Total: Not reported,65 and over,0.0
-Tactical communication,Devon & Cornwall ,Excluded: Tactical Communication,Tactical Communication,65 and over,59.0
+*Total Tactics,Devon & Cornwall,Total,Total: all,65 and over,74.0
+*Total Restraint,Devon & Cornwall,Restraint,Total: Restraint,65 and over,28.0
+"Handcuffing, of which",Devon & Cornwall,Restraint,Total: Handcuffing,65 and over,24.0
+Compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: compliant,65 and over,12.0
+Non-compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: non-compliant,65 and over,12.0
+Not stated handcuffing,Devon & Cornwall,Restraint,Handcuffing: not stated,65 and over,0.0
+Limb / Body restraints,Devon & Cornwall,Restraint,Limb / body restraints,65 and over,1.0
+Ground restraint,Devon & Cornwall,Restraint,Ground restraint,65 and over,3.0
+*Total Unarmed skills,Devon & Cornwall,Unarmed skills,Total: unarmed skills,65 and over,33.0
+*Total Other equipment,Devon & Cornwall,Other equipment,Total: Other equipment,65 and over,1.0
+"Baton, of which",Devon & Cornwall,Other equipment,Total: Baton,65 and over,0.0
+Baton drawn,Devon & Cornwall,Other equipment,Baton: drawn,65 and over,0.0
+Baton used,Devon & Cornwall,Other equipment,Baton: used,65 and over,0.0
+Not stated baton,Devon & Cornwall,Other equipment,Baton: not stated,65 and over,0.0
+"Irritant spray, of which",Devon & Cornwall,Other equipment,Total: Irritant spray,65 and over,0.0
+Irritant spray - drawn,Devon & Cornwall,Other equipment,Irritant spray: drawn,65 and over,0.0
+Irritant spray - used,Devon & Cornwall,Other equipment,Irritant spray: used,65 and over,0.0
+Not stated irritant spray,Devon & Cornwall,Other equipment,Irritant spray: not stated,65 and over,0.0
+Spit and bite guard,Devon & Cornwall,Other equipment,Spit and bite guard,65 and over,0.0
+Shield,Devon & Cornwall,Other equipment,Shield,65 and over,1.0
+*Total Less lethal weapons,Devon & Cornwall,Less lethal weapons,Total: Less lethal weapons,65 and over,8.0
+CED,Devon & Cornwall,Less lethal weapons,CED,65 and over,8.0
+"AEP, of which",Devon & Cornwall,Less lethal weapons,Total: AEP,65 and over,0.0
+AEP aimed,Devon & Cornwall,Less lethal weapons,AEP: Aimed,65 and over,0.0
+AEP fired,Devon & Cornwall,Less lethal weapons,AEP: Fired,65 and over,0.0
+Not stated AEP,Devon & Cornwall,Less lethal weapons,AEP: Not stated,65 and over,0.0
+*Total Firearms,Devon & Cornwall,Firearms,Total: Firearms,65 and over,2.0
+*Total Other,Devon & Cornwall,Other,Total: Other,65 and over,2.0
+"Dog use, of which",Devon & Cornwall,Other,Total: Dog,65 and over,0.0
+Dog deployed,Devon & Cornwall,Other,Dog: deployed,65 and over,0.0
+Dog bite,Devon & Cornwall,Other,Dog: bite,65 and over,0.0
+Not stated dog,Devon & Cornwall,Other,Dog: not stated,65 and over,0.0
+Other / improvised,Devon & Cornwall,Other,Other / improvised,65 and over,2.0
+*Total Not reported,Devon & Cornwall,Not reported,Total: Not reported,65 and over,0.0
+Tactical communication,Devon & Cornwall,Excluded: Tactical Communication,Tactical Communication,65 and over,59.0
 *Total Tactics,Dorset,Total,Total: all,65 and over,81.0
 *Total Restraint,Dorset,Restraint,Total: Restraint,65 and over,63.0
 "Handcuffing, of which",Dorset,Restraint,Total: Handcuffing,65 and over,49.0
@@ -9239,41 +9029,6 @@ Not stated dog,Wiltshire,Other,Dog: not stated,65 and over,0.0
 Other / improvised,Wiltshire,Other,Other / improvised,65 and over,1.0
 *Total Not reported,Wiltshire,Not reported,Total: Not reported,65 and over,0.0
 Tactical communication,Wiltshire,Excluded: Tactical Communication,Tactical Communication,65 and over,10.0
-*Total Tactics,Total England and Wales,Total,Total: all,Not reported,33937.0
-*Total Restraint,Total England and Wales,Restraint,Total: Restraint,Not reported,18752.0
-"Handcuffing, of which",Total England and Wales,Restraint,Total: Handcuffing,Not reported,13585.0
-Compliant handcuffing,Total England and Wales,Restraint,Handcuffing: compliant,Not reported,6071.0
-Non-compliant handcuffing,Total England and Wales,Restraint,Handcuffing: non-compliant,Not reported,7240.0
-Not stated handcuffing,Total England and Wales,Restraint,Handcuffing: not stated,Not reported,274.0
-Limb / Body restraints,Total England and Wales,Restraint,Limb / body restraints,Not reported,1291.0
-Ground restraint,Total England and Wales,Restraint,Ground restraint,Not reported,3876.0
-*Total Unarmed skills,Total England and Wales,Unarmed skills,Total: unarmed skills,Not reported,8772.0
-*Total Other equipment,Total England and Wales,Other equipment,Total: Other equipment,Not reported,2356.0
-"Baton, of which",Total England and Wales,Other equipment,Total: Baton,Not reported,441.0
-Baton drawn,Total England and Wales,Other equipment,Baton: drawn,Not reported,275.0
-Baton used,Total England and Wales,Other equipment,Baton: used,Not reported,150.0
-Not stated baton,Total England and Wales,Other equipment,Baton: not stated,Not reported,16.0
-"Irritant spray, of which",Total England and Wales,Other equipment,Total: Irritant spray,Not reported,1545.0
-Irritant spray - drawn,Total England and Wales,Other equipment,Irritant spray: drawn,Not reported,651.0
-Irritant spray - used,Total England and Wales,Other equipment,Irritant spray: used,Not reported,853.0
-Not stated irritant spray,Total England and Wales,Other equipment,Irritant spray: not stated,Not reported,41.0
-Spit and bite guard,Total England and Wales,Other equipment,Spit and bite guard,Not reported,300.0
-Shield,Total England and Wales,Other equipment,Shield,Not reported,70.0
-*Total Less lethal weapons,Total England and Wales,Less lethal weapons,Total: Less lethal weapons,Not reported,772.0
-CED,Total England and Wales,Less lethal weapons,CED,Not reported,735.0
-"AEP, of which",Total England and Wales,Less lethal weapons,Total: AEP,Not reported,37.0
-AEP aimed,Total England and Wales,Less lethal weapons,AEP: Aimed,Not reported,28.0
-AEP fired,Total England and Wales,Less lethal weapons,AEP: Fired,Not reported,1.0
-Not stated AEP,Total England and Wales,Less lethal weapons,AEP: Not stated,Not reported,8.0
-*Total Firearms,Total England and Wales,Firearms,Total: Firearms,Not reported,324.0
-*Total Other,Total England and Wales,Other,Total: Other,Not reported,2961.0
-"Dog use, of which",Total England and Wales,Other,Total: Dog,Not reported,352.0
-Dog deployed,Total England and Wales,Other,Dog: deployed,Not reported,302.0
-Dog bite,Total England and Wales,Other,Dog: bite,Not reported,40.0
-Not stated dog,Total England and Wales,Other,Dog: not stated,Not reported,10.0
-Other / improvised,Total England and Wales,Other,Other / improvised,Not reported,2609.0
-*Total Not reported,Total England and Wales,Not reported,Total: Not reported,Not reported,555.0
-Tactical communication,Total England and Wales,Excluded: Tactical Communication,Tactical Communication,Not reported,10467.0
 *Total Tactics,Avon & Somerset,Total,Total: all,Not reported,221.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,Not reported,97.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,Not reported,72.0
@@ -9554,41 +9309,41 @@ Not stated dog,Derbyshire,Other,Dog: not stated,Not reported,0.0
 Other / improvised,Derbyshire,Other,Other / improvised,Not reported,12.0
 *Total Not reported,Derbyshire,Not reported,Total: Not reported,Not reported,21.0
 Tactical communication,Derbyshire,Excluded: Tactical Communication,Tactical Communication,Not reported,66.0
-*Total Tactics,Devon & Cornwall ,Total,Total: all,Not reported,2490.0
-*Total Restraint,Devon & Cornwall ,Restraint,Total: Restraint,Not reported,1435.0
-"Handcuffing, of which",Devon & Cornwall ,Restraint,Total: Handcuffing,Not reported,1244.0
-Compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: compliant,Not reported,527.0
-Non-compliant handcuffing,Devon & Cornwall ,Restraint,Handcuffing: non-compliant,Not reported,717.0
-Not stated handcuffing,Devon & Cornwall ,Restraint,Handcuffing: not stated,Not reported,0.0
-Limb / Body restraints,Devon & Cornwall ,Restraint,Limb / body restraints,Not reported,26.0
-Ground restraint,Devon & Cornwall ,Restraint,Ground restraint,Not reported,165.0
-*Total Unarmed skills,Devon & Cornwall ,Unarmed skills,Total: unarmed skills,Not reported,784.0
-*Total Other equipment,Devon & Cornwall ,Other equipment,Total: Other equipment,Not reported,45.0
-"Baton, of which",Devon & Cornwall ,Other equipment,Total: Baton,Not reported,7.0
-Baton drawn,Devon & Cornwall ,Other equipment,Baton: drawn,Not reported,3.0
-Baton used,Devon & Cornwall ,Other equipment,Baton: used,Not reported,1.0
-Not stated baton,Devon & Cornwall ,Other equipment,Baton: not stated,Not reported,3.0
-"Irritant spray, of which",Devon & Cornwall ,Other equipment,Total: Irritant spray,Not reported,31.0
-Irritant spray - drawn,Devon & Cornwall ,Other equipment,Irritant spray: drawn,Not reported,30.0
-Irritant spray - used,Devon & Cornwall ,Other equipment,Irritant spray: used,Not reported,1.0
-Not stated irritant spray,Devon & Cornwall ,Other equipment,Irritant spray: not stated,Not reported,0.0
-Spit and bite guard,Devon & Cornwall ,Other equipment,Spit and bite guard,Not reported,1.0
-Shield,Devon & Cornwall ,Other equipment,Shield,Not reported,6.0
-*Total Less lethal weapons,Devon & Cornwall ,Less lethal weapons,Total: Less lethal weapons,Not reported,174.0
-CED,Devon & Cornwall ,Less lethal weapons,CED,Not reported,166.0
-"AEP, of which",Devon & Cornwall ,Less lethal weapons,Total: AEP,Not reported,8.0
-AEP aimed,Devon & Cornwall ,Less lethal weapons,AEP: Aimed,Not reported,1.0
-AEP fired,Devon & Cornwall ,Less lethal weapons,AEP: Fired,Not reported,0.0
-Not stated AEP,Devon & Cornwall ,Less lethal weapons,AEP: Not stated,Not reported,7.0
-*Total Firearms,Devon & Cornwall ,Firearms,Total: Firearms,Not reported,17.0
-*Total Other,Devon & Cornwall ,Other,Total: Other,Not reported,35.0
-"Dog use, of which",Devon & Cornwall ,Other,Total: Dog,Not reported,9.0
-Dog deployed,Devon & Cornwall ,Other,Dog: deployed,Not reported,1.0
-Dog bite,Devon & Cornwall ,Other,Dog: bite,Not reported,0.0
-Not stated dog,Devon & Cornwall ,Other,Dog: not stated,Not reported,8.0
-Other / improvised,Devon & Cornwall ,Other,Other / improvised,Not reported,26.0
-*Total Not reported,Devon & Cornwall ,Not reported,Total: Not reported,Not reported,0.0
-Tactical communication,Devon & Cornwall ,Excluded: Tactical Communication,Tactical Communication,Not reported,1885.0
+*Total Tactics,Devon & Cornwall,Total,Total: all,Not reported,2490.0
+*Total Restraint,Devon & Cornwall,Restraint,Total: Restraint,Not reported,1435.0
+"Handcuffing, of which",Devon & Cornwall,Restraint,Total: Handcuffing,Not reported,1244.0
+Compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: compliant,Not reported,527.0
+Non-compliant handcuffing,Devon & Cornwall,Restraint,Handcuffing: non-compliant,Not reported,717.0
+Not stated handcuffing,Devon & Cornwall,Restraint,Handcuffing: not stated,Not reported,0.0
+Limb / Body restraints,Devon & Cornwall,Restraint,Limb / body restraints,Not reported,26.0
+Ground restraint,Devon & Cornwall,Restraint,Ground restraint,Not reported,165.0
+*Total Unarmed skills,Devon & Cornwall,Unarmed skills,Total: unarmed skills,Not reported,784.0
+*Total Other equipment,Devon & Cornwall,Other equipment,Total: Other equipment,Not reported,45.0
+"Baton, of which",Devon & Cornwall,Other equipment,Total: Baton,Not reported,7.0
+Baton drawn,Devon & Cornwall,Other equipment,Baton: drawn,Not reported,3.0
+Baton used,Devon & Cornwall,Other equipment,Baton: used,Not reported,1.0
+Not stated baton,Devon & Cornwall,Other equipment,Baton: not stated,Not reported,3.0
+"Irritant spray, of which",Devon & Cornwall,Other equipment,Total: Irritant spray,Not reported,31.0
+Irritant spray - drawn,Devon & Cornwall,Other equipment,Irritant spray: drawn,Not reported,30.0
+Irritant spray - used,Devon & Cornwall,Other equipment,Irritant spray: used,Not reported,1.0
+Not stated irritant spray,Devon & Cornwall,Other equipment,Irritant spray: not stated,Not reported,0.0
+Spit and bite guard,Devon & Cornwall,Other equipment,Spit and bite guard,Not reported,1.0
+Shield,Devon & Cornwall,Other equipment,Shield,Not reported,6.0
+*Total Less lethal weapons,Devon & Cornwall,Less lethal weapons,Total: Less lethal weapons,Not reported,174.0
+CED,Devon & Cornwall,Less lethal weapons,CED,Not reported,166.0
+"AEP, of which",Devon & Cornwall,Less lethal weapons,Total: AEP,Not reported,8.0
+AEP aimed,Devon & Cornwall,Less lethal weapons,AEP: Aimed,Not reported,1.0
+AEP fired,Devon & Cornwall,Less lethal weapons,AEP: Fired,Not reported,0.0
+Not stated AEP,Devon & Cornwall,Less lethal weapons,AEP: Not stated,Not reported,7.0
+*Total Firearms,Devon & Cornwall,Firearms,Total: Firearms,Not reported,17.0
+*Total Other,Devon & Cornwall,Other,Total: Other,Not reported,35.0
+"Dog use, of which",Devon & Cornwall,Other,Total: Dog,Not reported,9.0
+Dog deployed,Devon & Cornwall,Other,Dog: deployed,Not reported,1.0
+Dog bite,Devon & Cornwall,Other,Dog: bite,Not reported,0.0
+Not stated dog,Devon & Cornwall,Other,Dog: not stated,Not reported,8.0
+Other / improvised,Devon & Cornwall,Other,Other / improvised,Not reported,26.0
+*Total Not reported,Devon & Cornwall,Not reported,Total: Not reported,Not reported,0.0
+Tactical communication,Devon & Cornwall,Excluded: Tactical Communication,Tactical Communication,Not reported,1885.0
 *Total Tactics,Dorset,Total,Total: all,Not reported,1770.0
 *Total Restraint,Dorset,Restraint,Total: Restraint,Not reported,1374.0
 "Handcuffing, of which",Dorset,Restraint,Total: Handcuffing,Not reported,993.0
