@@ -1,6 +1,6 @@
-Historical taser usage (prior to the use-of-force reports started)
+# Historical taser usage
 
-We've gone back as far as we can with this data, but a lot of the older data is not all that useful.
+We've gone back as far as we can with this data, but a lot of the older data is not all that useful.  Newer data is included in the [use-of-force](../use-of-force) data.
 
 In rough order of time period:
 

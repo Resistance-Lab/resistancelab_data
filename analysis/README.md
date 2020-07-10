@@ -1,3 +1,5 @@
+# Analysis
+
 This directory contains analysis output, with some of the most enriched data, typically for specific purposes.
 
 - [0001-use-of-force](0001-use-of-force) has data around police use of force across police forces in England and Wales, broken down by age, disability, and ethnicity

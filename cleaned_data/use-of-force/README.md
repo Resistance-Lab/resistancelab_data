@@ -1,3 +1,5 @@
+# Police Use of Force
+
 This data started being published in 2017, and replaces the [taser-use](../taser-use) reporting data as well as adding wider data around police use of force.  It uses financial years rather than calendar years, and so there is some cross-over with the previous reporting by calendar year:
 
 - [by-ced-type-force-region/january-december2016-revised.csv](by-ced-type-force-region/january-december2016-revised.csv)

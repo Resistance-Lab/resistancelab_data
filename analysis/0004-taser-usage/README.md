@@ -1,4 +1,4 @@
-Collated type of taser use broken down by police force and year
+# Collated type of taser use broken down by police force and year
 
 [taser-use-by-force-by-year.csv](taser-use-by-force-by-year.csv)
 
