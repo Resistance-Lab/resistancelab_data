@@ -1,5 +1,3 @@
-<!-- Edit the .tmpl file and build the .md file with "mdmerge -o README.md README.md.tmpl" -->
-
 # Resistance Labs Datasets
 
 ![Run tests](https://github.com/Resistance-Lab/data/workflows/Run%20tests/badge.svg?branch=trunk)
@@ -22,58 +20,9 @@ Main folders: contain the source, a sensible cleanup, and then a folder for each
 
 Utility folders
 
-- `.github`: actions to deploy to Netlify
+- `.github`: actions to test the pipelines
 - `bibliography`: BibTeX files
 - [pipelines](pipelines): populates source directory, cleans data (run `make pipelines` to run them all)
-
-## Source data (`source_data`)
-
-These are the source files used for analysis. Each one maps onto one or more files in `cleaned_data` via a `pipeline`. A `pipeline` may work on multiple source files (e.g. one per year), and a source file may generate multiple `cleaned_data` outputs (e.g. one per sheet in a spreadsheet).
-
-### Police Population (`source_data/police-population`)
-
-Number of police officers per force and per 100,000 population in England and Wales.
-
-| Source | Published | Dates covered | Script | Last loaded |
-| -----  | ----------| -------------------- | ------ | ----------- |
-| [Police workforce, England and Wales (UK Home Office)](https://www.gov.uk/government/statistics/police-workforce-england-and-wales-30-september-2019) | 2020-01-30 | 2018-09-30 - 2019-09-30 | `police-population/2019.py` | 2020-07-06 |
-| [Police workforce, England and Wales (UK Home Office)](https://www.gov.uk/government/statistics/police-workforce-england-and-wales-30-september-2018) | 2019-01-24 | 2017-09-30 - 2018-09-30 | `police-population/2018.py` | 2020-07-08 |
-| [Police workforce, England and Wales (UK Home Office)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/675788/police-workforce-tables-jan17.ods) | 2018-01-25 | 2017-09-30 - 2018-09-30 | `police-population/2017.py` | 2020-07-08 |
-| [Police workforce, England and Wales (UK Home Office)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/585709/police-workforce-tables-sep16.ods) | 2017-01-26 | 2015-09-30 - 2016-09-30 | `police-population/2016.py` | 2020-07-08 |
-| [Police workforce, England and Wales (UK Home Office)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/494752/police-workforce-tabs-30sep15.ods) | 2016-01-28 | 2014-09-30 - 2015-09-30 | `police-population/2015.py` | 2020-07-09 |
-
-### Taser use (`source_data/taser-use`)
-
-> Statistics on police use of TASER X26 conducted energy devices, England and Wales, 2016.
-
-This dataset is the most granular and shows where it has been drawn, arced, red-dotted etc. However it seemingly only exists for this one year, after which it's integrated into the Use of Force data.
-
-| Source | Published | Dates covered | Script | Last loaded |
-| -----  | ----------| -------------------- | ------ | ----------- |
-| [Police use of TASER ® X26 conducted energy devices statistics, England and Wales: 1 January to 31 December 2016: data tables, UK Home Office](https://www.gov.uk/government/statistics/police-use-of-taser-x26-conducted-energy-devices-statistics-england-and-wales-1-january-to-31-december-2016-data-tables) | 2017-04-13 | 2016-01-01 - 2016-12-31 |
-| [Taser Data 31 March 2010](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/115676/taser-figures-march-2010.pdf) | 2011-03-21 | 2004-2010 | manual load | 2020-07-07 |
-
-### Use of force (`source_data/use-of-force`)
-
-> Statistics on incidents where police officers use force; including type of force, reason, outcome, injuries, and subject information (such as age, gender).
-
-This has actual taser information in a simpler format (just drawn and fired), but seems to be the new reporting format that will be used in perpetuity. It has it's own [user guide](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/763512/user-guide-police-use-of-force.pdf) which is a **must read** to understand this data.
-
-| Source | Published | Dates covered | Script | Last loaded |
-| -----  | ----------| -------------------- | ------ | ----------- |
-| [Police use of force statistics, England and Wales: April 2017 to March 2018, UK Home Office](https://www.gov.uk/government/statistics/police-use-of-force-statistics-england-and-wales-april-2017-to-march-2018) | 2018-12-13 | 2017-04-01 - 2018-03-31
-| [Police use of force statistics, England and Wales: April 2018 to March 2019, UK Home Office](https://www.gov.uk/government/statistics/police-use-of-force-statistics-england-and-wales-april-2018-to-march-2019) | 2019-12-19 | 2018-04-01 - 2019-03-31 | |
-
-### UK Demographics (`source_data/demographics`)
-
-Demographic information is sourced from the 2011 UK Census via the "nomisweb" service.
-
-> This dataset provides 2011 estimates that classify usual residents in England and Wales by ethnic group. The ethnic group classification used is the standard 18-category classification corresponding to the tick box response options on the census questionnaire. The estimates are as at census day, 27 March 2011.
-
-| Source | Published | Dates covered | Script | Last loaded |
-| -----  | ----------| -------------------- | ------ | ----------- |
-| [Census 2011: Ethnic group, Nomis official labour market statistics](https://www.nomisweb.co.uk/census/2011/qs201ew) | 2013-01-30 | 2011 | | 2020-07-08 |
-| [Local Authority District to Community Safety Partnerships to Police Force Areas (December 2016) Lookup in England and Wales](https://geoportal.statistics.gov.uk/datasets/local-authority-district-to-community-safety-partnerships-to-police-force-areas-december-2016-lookup-in-england-and-wales) | 2019-03-08 | 2016 | | 2020-07-08 |
 
 ## Contributing
 
