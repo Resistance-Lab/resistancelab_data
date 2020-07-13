@@ -8,3 +8,15 @@ defaults:
       path: ""
     values:
       layout: article
+
+navigation:
+  - title: Home
+    path:
+  - title: Source data
+    path: source_data
+  - title: Cleaned data
+    path: cleaned_data
+  - title: Analysis
+    path: analysis
+  - title: Pipelines
+    path: pipelines
