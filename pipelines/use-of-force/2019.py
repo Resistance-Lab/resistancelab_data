@@ -10,7 +10,7 @@ def save_sheet(sheet, title, year, filename):
     df = read_ods(output_file, sheet)
 
     # Drop the empty rows
-    df.drop([0, 1, 57, 58, 59, 60, 61], inplace=True)
+    df.drop([0, 1, 111, 112, 113, 114, 115, 116, 117], inplace=True)
 
     # Build a new dataframe with correct column names
     cleansed = pd.DataFrame(
