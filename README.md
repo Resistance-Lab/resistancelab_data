@@ -1,7 +1,4 @@
----
-title: Resistance Lab Datasets
-layout: article
----
+# Resistance Lab Datasets
 
 ![Run tests](https://github.com/Resistance-Lab/data/workflows/Run%20tests/badge.svg?branch=trunk)
 
