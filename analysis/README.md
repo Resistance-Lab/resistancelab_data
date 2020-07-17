@@ -7,4 +7,4 @@ This directory contains analysis output, with some of the most enriched data, ty
 - [0003-police-workforce-by-year](0003-police-workforce-by-year) provides annual data on police workforce FTE by police force and year
 - [0004-taser-usage](0004-taser-usage) joins multiple datasets together to be able to show the amount of different types of taser usage, broken down by police force and year
 - [0005-taser-use-by-ethnicity](0005-taser-use-by-ethnicity) shows analysis of racial disproportionality in 2018-19 reporting period
-- [0006-taser-use-by-disability](0005-taser-use-by-disability) ditto but for disability stats
+- [0006-taser-use-by-disability](0006-taser-use-by-disability) ditto but for disability stats
