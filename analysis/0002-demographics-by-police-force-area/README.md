@@ -1,5 +1,7 @@
 # 2011 Census data by police force area
 
+Author: @WheresAlice
+
 This takes the 2011 Census data on ethnic group and joins it to 2016 ONS stats data mapping local authority to police force area.  The main output is being able to show the total population of different ethnic groups in each police force area.
 
 Whilst we show total populations in this data, it is important to note that they are unlikely to be as accurate as would appear.  There will be some small overlap of local authority areas and police force areas, plus some groups have a history of being underrepresented in census data.

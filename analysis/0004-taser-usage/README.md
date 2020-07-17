@@ -1,5 +1,7 @@
 # Collated type of taser use broken down by police force and year
 
+- Author: @WheresAlice
+
 [taser-use-by-force-by-year.csv](taser-use-by-force-by-year.csv)
 
 Note that the reporting dates change from calendar year to financial year part way through this file.  The following year-ends are currently included in this file:
