@@ -8,3 +8,4 @@ This directory contains analysis output, with some of the most enriched data, ty
 - [0004-taser-usage](0004-taser-usage) joins multiple datasets together to be able to show the amount of different types of taser usage, broken down by police force and year
 - [0005-taser-use-by-ethnicity](0005-taser-use-by-ethnicity) shows analysis of racial disproportionality in 2018-19 reporting period
 - [0006-taser-use-by-disability](0006-taser-use-by-disability) ditto but for disability stats
+- [0007-taser-use-by-age](0007-taser-use-by-age) ditto but for age stats

@@ -1,0 +1,345 @@
+Police Force,Tactic,variable,value
+Avon & Somerset,CED,0-11,1.0
+Bedfordshire,CED,0-11,0.0
+Cambridgeshire,CED,0-11,0.0
+Cheshire,CED,0-11,0.0
+City of London,CED,0-11,0.0
+Cleveland,CED,0-11,0.0
+Cumbria,CED,0-11,1.0
+Derbyshire,CED,0-11,0.0
+Devon & Cornwall,CED,0-11,0.0
+Dorset,CED,0-11,0.0
+Durham,CED,0-11,0.0
+Dyfed-Powys,CED,0-11,2.0
+Essex,CED,0-11,1.0
+Gloucestershire,CED,0-11,2.0
+Greater Manchester,CED,0-11,8.0
+Gwent,CED,0-11,0.0
+Hampshire,CED,0-11,1.0
+Hertfordshire,CED,0-11,0.0
+Humberside,CED,0-11,1.0
+Kent,CED,0-11,3.0
+Lancashire,CED,0-11,1.0
+Leicestershire,CED,0-11,0.0
+Lincolnshire,CED,0-11,0.0
+Merseyside,CED,0-11,0.0
+Metropolitan,CED,0-11,0.0
+Norfolk,CED,0-11,0.0
+North Wales,CED,0-11,0.0
+North Yorkshire,CED,0-11,0.0
+Northamptonshire,CED,0-11,0.0
+Northumbria,CED,0-11,0.0
+Nottinghamshire,CED,0-11,0.0
+South Wales,CED,0-11,2.0
+South Yorkshire,CED,0-11,4.0
+Staffordshire,CED,0-11,0.0
+Suffolk,CED,0-11,0.0
+Surrey,CED,0-11,0.0
+Sussex,CED,0-11,0.0
+Thames Valley,CED,0-11,0.0
+Warwickshire,CED,0-11,0.0
+West Mercia,CED,0-11,0.0
+West Midlands,CED,0-11,1.0
+West Yorkshire,CED,0-11,0.0
+Wiltshire,CED,0-11,1.0
+Avon & Somerset,CED,11-17,62.0
+Bedfordshire,CED,11-17,20.0
+Cambridgeshire,CED,11-17,18.0
+Cheshire,CED,11-17,25.0
+City of London,CED,11-17,2.0
+Cleveland,CED,11-17,18.0
+Cumbria,CED,11-17,7.0
+Derbyshire,CED,11-17,7.0
+Devon & Cornwall,CED,11-17,28.0
+Dorset,CED,11-17,10.0
+Durham,CED,11-17,16.0
+Dyfed-Powys,CED,11-17,9.0
+Essex,CED,11-17,20.0
+Gloucestershire,CED,11-17,8.0
+Greater Manchester,CED,11-17,110.0
+Gwent,CED,11-17,5.0
+Hampshire,CED,11-17,6.0
+Hertfordshire,CED,11-17,30.0
+Humberside,CED,11-17,24.0
+Kent,CED,11-17,31.0
+Lancashire,CED,11-17,7.0
+Leicestershire,CED,11-17,59.0
+Lincolnshire,CED,11-17,16.0
+Merseyside,CED,11-17,17.0
+Metropolitan,CED,11-17,783.0
+Norfolk,CED,11-17,0.0
+North Wales,CED,11-17,6.0
+North Yorkshire,CED,11-17,13.0
+Northamptonshire,CED,11-17,45.0
+Northumbria,CED,11-17,6.0
+Nottinghamshire,CED,11-17,10.0
+South Wales,CED,11-17,35.0
+South Yorkshire,CED,11-17,16.0
+Staffordshire,CED,11-17,0.0
+Suffolk,CED,11-17,0.0
+Surrey,CED,11-17,22.0
+Sussex,CED,11-17,23.0
+Thames Valley,CED,11-17,47.0
+Warwickshire,CED,11-17,0.0
+West Mercia,CED,11-17,0.0
+West Midlands,CED,11-17,37.0
+West Yorkshire,CED,11-17,50.0
+Wiltshire,CED,11-17,23.0
+Avon & Somerset,CED,18-34,399.0
+Bedfordshire,CED,18-34,132.0
+Cambridgeshire,CED,18-34,112.0
+Cheshire,CED,18-34,269.0
+City of London,CED,18-34,14.0
+Cleveland,CED,18-34,166.0
+Cumbria,CED,18-34,141.0
+Derbyshire,CED,18-34,82.0
+Devon & Cornwall,CED,18-34,312.0
+Dorset,CED,18-34,134.0
+Durham,CED,18-34,201.0
+Dyfed-Powys,CED,18-34,117.0
+Essex,CED,18-34,144.0
+Gloucestershire,CED,18-34,68.0
+Greater Manchester,CED,18-34,899.0
+Gwent,CED,18-34,101.0
+Hampshire,CED,18-34,92.0
+Hertfordshire,CED,18-34,185.0
+Humberside,CED,18-34,347.0
+Kent,CED,18-34,327.0
+Lancashire,CED,18-34,108.0
+Leicestershire,CED,18-34,357.0
+Lincolnshire,CED,18-34,145.0
+Merseyside,CED,18-34,178.0
+Metropolitan,CED,18-34,4461.0
+Norfolk,CED,18-34,0.0
+North Wales,CED,18-34,79.0
+North Yorkshire,CED,18-34,136.0
+Northamptonshire,CED,18-34,308.0
+Northumbria,CED,18-34,157.0
+Nottinghamshire,CED,18-34,122.0
+South Wales,CED,18-34,242.0
+South Yorkshire,CED,18-34,311.0
+Staffordshire,CED,18-34,0.0
+Suffolk,CED,18-34,0.0
+Surrey,CED,18-34,161.0
+Sussex,CED,18-34,227.0
+Thames Valley,CED,18-34,475.0
+Warwickshire,CED,18-34,0.0
+West Mercia,CED,18-34,0.0
+West Midlands,CED,18-34,434.0
+West Yorkshire,CED,18-34,461.0
+Wiltshire,CED,18-34,196.0
+Avon & Somerset,CED,35-49,209.0
+Bedfordshire,CED,35-49,73.0
+Cambridgeshire,CED,35-49,58.0
+Cheshire,CED,35-49,115.0
+City of London,CED,35-49,12.0
+Cleveland,CED,35-49,50.0
+Cumbria,CED,35-49,43.0
+Derbyshire,CED,35-49,48.0
+Devon & Cornwall,CED,35-49,152.0
+Dorset,CED,35-49,53.0
+Durham,CED,35-49,64.0
+Dyfed-Powys,CED,35-49,61.0
+Essex,CED,35-49,54.0
+Gloucestershire,CED,35-49,46.0
+Greater Manchester,CED,35-49,356.0
+Gwent,CED,35-49,32.0
+Hampshire,CED,35-49,33.0
+Hertfordshire,CED,35-49,60.0
+Humberside,CED,35-49,165.0
+Kent,CED,35-49,170.0
+Lancashire,CED,35-49,40.0
+Leicestershire,CED,35-49,154.0
+Lincolnshire,CED,35-49,81.0
+Merseyside,CED,35-49,97.0
+Metropolitan,CED,35-49,1625.0
+Norfolk,CED,35-49,0.0
+North Wales,CED,35-49,43.0
+North Yorkshire,CED,35-49,73.0
+Northamptonshire,CED,35-49,148.0
+Northumbria,CED,35-49,64.0
+Nottinghamshire,CED,35-49,56.0
+South Wales,CED,35-49,119.0
+South Yorkshire,CED,35-49,144.0
+Staffordshire,CED,35-49,0.0
+Suffolk,CED,35-49,0.0
+Surrey,CED,35-49,65.0
+Sussex,CED,35-49,89.0
+Thames Valley,CED,35-49,204.0
+Warwickshire,CED,35-49,0.0
+West Mercia,CED,35-49,0.0
+West Midlands,CED,35-49,192.0
+West Yorkshire,CED,35-49,195.0
+Wiltshire,CED,35-49,72.0
+Avon & Somerset,CED,50-64,55.0
+Bedfordshire,CED,50-64,17.0
+Cambridgeshire,CED,50-64,14.0
+Cheshire,CED,50-64,26.0
+City of London,CED,50-64,3.0
+Cleveland,CED,50-64,10.0
+Cumbria,CED,50-64,11.0
+Derbyshire,CED,50-64,11.0
+Devon & Cornwall,CED,50-64,30.0
+Dorset,CED,50-64,15.0
+Durham,CED,50-64,18.0
+Dyfed-Powys,CED,50-64,15.0
+Essex,CED,50-64,24.0
+Gloucestershire,CED,50-64,11.0
+Greater Manchester,CED,50-64,64.0
+Gwent,CED,50-64,13.0
+Hampshire,CED,50-64,11.0
+Hertfordshire,CED,50-64,17.0
+Humberside,CED,50-64,32.0
+Kent,CED,50-64,48.0
+Lancashire,CED,50-64,11.0
+Leicestershire,CED,50-64,42.0
+Lincolnshire,CED,50-64,22.0
+Merseyside,CED,50-64,17.0
+Metropolitan,CED,50-64,492.0
+Norfolk,CED,50-64,0.0
+North Wales,CED,50-64,2.0
+North Yorkshire,CED,50-64,22.0
+Northamptonshire,CED,50-64,58.0
+Northumbria,CED,50-64,15.0
+Nottinghamshire,CED,50-64,9.0
+South Wales,CED,50-64,33.0
+South Yorkshire,CED,50-64,35.0
+Staffordshire,CED,50-64,0.0
+Suffolk,CED,50-64,0.0
+Surrey,CED,50-64,22.0
+Sussex,CED,50-64,27.0
+Thames Valley,CED,50-64,35.0
+Warwickshire,CED,50-64,0.0
+West Mercia,CED,50-64,0.0
+West Midlands,CED,50-64,37.0
+West Yorkshire,CED,50-64,55.0
+Wiltshire,CED,50-64,12.0
+Avon & Somerset,CED,65+,3.0
+Bedfordshire,CED,65+,1.0
+Cambridgeshire,CED,65+,2.0
+Cheshire,CED,65+,3.0
+City of London,CED,65+,0.0
+Cleveland,CED,65+,1.0
+Cumbria,CED,65+,1.0
+Derbyshire,CED,65+,1.0
+Devon & Cornwall,CED,65+,8.0
+Dorset,CED,65+,2.0
+Durham,CED,65+,0.0
+Dyfed-Powys,CED,65+,2.0
+Essex,CED,65+,2.0
+Gloucestershire,CED,65+,1.0
+Greater Manchester,CED,65+,5.0
+Gwent,CED,65+,1.0
+Hampshire,CED,65+,0.0
+Hertfordshire,CED,65+,2.0
+Humberside,CED,65+,3.0
+Kent,CED,65+,8.0
+Lancashire,CED,65+,0.0
+Leicestershire,CED,65+,1.0
+Lincolnshire,CED,65+,2.0
+Merseyside,CED,65+,1.0
+Metropolitan,CED,65+,35.0
+Norfolk,CED,65+,0.0
+North Wales,CED,65+,0.0
+North Yorkshire,CED,65+,2.0
+Northamptonshire,CED,65+,1.0
+Northumbria,CED,65+,0.0
+Nottinghamshire,CED,65+,0.0
+South Wales,CED,65+,5.0
+South Yorkshire,CED,65+,0.0
+Staffordshire,CED,65+,0.0
+Suffolk,CED,65+,0.0
+Surrey,CED,65+,5.0
+Sussex,CED,65+,2.0
+Thames Valley,CED,65+,5.0
+Warwickshire,CED,65+,0.0
+West Mercia,CED,65+,0.0
+West Midlands,CED,65+,5.0
+West Yorkshire,CED,65+,3.0
+Wiltshire,CED,65+,5.0
+Avon & Somerset,CED,Not reported,4.0
+Bedfordshire,CED,Not reported,5.0
+Cambridgeshire,CED,Not reported,1.0
+Cheshire,CED,Not reported,0.0
+City of London,CED,Not reported,18.0
+Cleveland,CED,Not reported,4.0
+Cumbria,CED,Not reported,10.0
+Derbyshire,CED,Not reported,4.0
+Devon & Cornwall,CED,Not reported,166.0
+Dorset,CED,Not reported,38.0
+Durham,CED,Not reported,5.0
+Dyfed-Powys,CED,Not reported,15.0
+Essex,CED,Not reported,2.0
+Gloucestershire,CED,Not reported,1.0
+Greater Manchester,CED,Not reported,0.0
+Gwent,CED,Not reported,19.0
+Hampshire,CED,Not reported,66.0
+Hertfordshire,CED,Not reported,3.0
+Humberside,CED,Not reported,0.0
+Kent,CED,Not reported,1.0
+Lancashire,CED,Not reported,261.0
+Leicestershire,CED,Not reported,2.0
+Lincolnshire,CED,Not reported,1.0
+Merseyside,CED,Not reported,11.0
+Metropolitan,CED,Not reported,0.0
+Norfolk,CED,Not reported,0.0
+North Wales,CED,Not reported,0.0
+North Yorkshire,CED,Not reported,0.0
+Northamptonshire,CED,Not reported,0.0
+Northumbria,CED,Not reported,0.0
+Nottinghamshire,CED,Not reported,0.0
+South Wales,CED,Not reported,31.0
+South Yorkshire,CED,Not reported,0.0
+Staffordshire,CED,Not reported,0.0
+Suffolk,CED,Not reported,0.0
+Surrey,CED,Not reported,12.0
+Sussex,CED,Not reported,23.0
+Thames Valley,CED,Not reported,12.0
+Warwickshire,CED,Not reported,0.0
+West Mercia,CED,Not reported,0.0
+West Midlands,CED,Not reported,0.0
+West Yorkshire,CED,Not reported,20.0
+Wiltshire,CED,Not reported,0.0
+Avon & Somerset,CED,Total,733.0
+Bedfordshire,CED,Total,248.0
+Cambridgeshire,CED,Total,205.0
+Cheshire,CED,Total,438.0
+City of London,CED,Total,49.0
+Cleveland,CED,Total,249.0
+Cumbria,CED,Total,214.0
+Derbyshire,CED,Total,153.0
+Devon & Cornwall,CED,Total,696.0
+Dorset,CED,Total,252.0
+Durham,CED,Total,304.0
+Dyfed-Powys,CED,Total,221.0
+Essex,CED,Total,247.0
+Gloucestershire,CED,Total,137.0
+Greater Manchester,CED,Total,1442.0
+Gwent,CED,Total,171.0
+Hampshire,CED,Total,209.0
+Hertfordshire,CED,Total,297.0
+Humberside,CED,Total,572.0
+Kent,CED,Total,588.0
+Lancashire,CED,Total,428.0
+Leicestershire,CED,Total,615.0
+Lincolnshire,CED,Total,267.0
+Merseyside,CED,Total,321.0
+Metropolitan,CED,Total,7396.0
+Norfolk,CED,Total,0.0
+North Wales,CED,Total,130.0
+North Yorkshire,CED,Total,246.0
+Northamptonshire,CED,Total,560.0
+Northumbria,CED,Total,242.0
+Nottinghamshire,CED,Total,197.0
+South Wales,CED,Total,467.0
+South Yorkshire,CED,Total,510.0
+Staffordshire,CED,Total,0.0
+Suffolk,CED,Total,0.0
+Surrey,CED,Total,287.0
+Sussex,CED,Total,391.0
+Thames Valley,CED,Total,778.0
+Warwickshire,CED,Total,0.0
+West Mercia,CED,Total,0.0
+West Midlands,CED,Total,706.0
+West Yorkshire,CED,Total,784.0
+Wiltshire,CED,Total,309.0
