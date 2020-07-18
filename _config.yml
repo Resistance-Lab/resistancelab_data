@@ -20,3 +20,4 @@ navigation:
     path: analysis
   - title: Pipelines
     path: pipelines
+exclude: ["venv"]
