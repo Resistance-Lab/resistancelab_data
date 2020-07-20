@@ -18,3 +18,10 @@ taser_use
 
 pivoted = taser_use.pivot_table(index='Police force', columns='ytd', values='Total')
 pivoted.to_csv("analysis/0004-taser-usage/year-to-force.csv")
+pivoted['Δ% 15-16'] = (pivoted['2016-12-31'] / pivoted['2015-12-31'] * 100) - 100
+pivoted['Δ% 16-18'] = (pivoted['2018-03-31'] / pivoted['2016-12-31'] * 100) - 100
+pivoted['Δ% 18-19'] = (pivoted['2019-03-31'] / pivoted['2018-03-31'] * 100) - 100
+pivoted['Δ% 15-19'] = (pivoted['2019-03-31'] / pivoted['2015-12-31'] * 100) - 100
+pivoted.sort_values(by=['Δ% 18-19'], ascending=False, inplace=True)
+pivoted.to_csv("analysis/0004-taser-usage/year-to-force-with-increases.csv")
+pivoted

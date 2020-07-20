@@ -4,6 +4,7 @@
 
  * [taser-use-by-force-by-year.csv](taser-use-by-force-by-year.csv)
  * [year-to-force.csv](year-to-force.csv)
+ * [year-to-force-with-increases.csv](year-to-force-with-increases.csv)
 
 Note that the reporting dates change from calendar year to financial year part way through this file.  The following year-ends are currently included in this file:
 
@@ -23,3 +24,7 @@ We have similar data for 2009-2010 in `cleaned_data/taser-use/pre-2011`, but bec
 ## Pivoted years to forces
 
 <iframe style="border-style: none;" src="https://csv.resistancelab.network/#/analysis/0004-taser-usage/year-to-force.csv" height="800" width="900"></iframe>
+
+## Pivoted years to forces with percentage changes
+
+<iframe style="border-style: none;" src="https://csv.resistancelab.network/#/analysis/0004-taser-usage/year-to-force-with-increases.csv" height="800" width="900"></iframe>
