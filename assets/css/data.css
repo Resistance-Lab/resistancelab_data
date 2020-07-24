@@ -1,3 +1,35 @@
 .article h1 {
  display: none;
 }
+
+.header {
+  background-color: $secondary;
+  position: relative;
+}
+
+.header__h2 {
+  background: url('/assets/images/header.png');
+  background-position: 50%;
+  background-size: cover;
+}
+
+@media (min-width: 600px) {
+  .header:before {
+    /* background: linear-gradient(to bottom, $secondary 50%, $tertiary 50%); */
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 50%;
+    left: 0;
+    right: 0;
+    background: url('/assets/images/header.png');
+    background-position: 50%;
+    background-size: cover;
+  }
+}
+
+@media (min-width: 900px) {
+  .header:before {
+    bottom: 40%;
+  }
+}
