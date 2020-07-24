@@ -9,6 +9,17 @@ defaults:
     values:
       layout: article
 
+site_name: Resistance Lab Data Portal
+site_description: A collection of data and tools exploring UK state violence
+
+theme_primary_colour: "#C1272D"
+theme_secondary_colour: "#000000"
+
+contact_email: info@resistancelab.network
+contact_twitter: ResLabMcr
+contact_instagram: ResLabMcr
+contact_github: Resistance_Lab
+
 navigation:
   - title: Home
     path:
