@@ -30,7 +30,7 @@ If you have relevant datasets then we would like to include them here. We expect
 
 * Be automated where possible, with a script in the `scripts` directory
 * Come with [Great Expectations](https://greatexpectations.io/) test suites
-* Be documented in the table above
+* Be well documented with README files
 
 Feel free to open a ticket or email [kim@resistancelab.network](mailto:kim@resistancelab.network) with any questions.
 
