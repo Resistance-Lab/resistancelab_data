@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 | force | ytd | type 1 | type 2 | ... |
 |------|--------------|--------|-------|------|
@@ -45,5 +46,5 @@ output = pd.concat(dataframes)
 output = output[~output["Police force"].str.contains("Total")]
 output = output[~output["Police force"].isin(
     ["England and Wales", "East of England", "South West", "South East", "London", "Wales", "Yorkshire and the Humber",
-     "North East", "North West"])]
+     "North East", "North West", "East Midlands"])]
 output.to_csv("taser-use-by-force-by-year.csv", index=False)
