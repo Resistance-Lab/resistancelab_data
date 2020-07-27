@@ -34,7 +34,7 @@ output = pd.concat([fte_15, fte_16, fte_17, fte_18, fte_19])
 output = output[~output["Force/Region"].str.contains("Total")]
 output = output[~output["Force/Region"].isin(
     ["England and Wales", "East of England", "South West", "South East", "London", "Wales", "Yorkshire and the Humber",
-     "North East", "North West", "Eastern"])]
+     "North East", "North West", "Eastern", "East Midlands"])]
 output.rename(columns={"Force/Region": "Police force"}, inplace=True)
 
 output.to_csv("police-workforce-fte-by-year.csv", index=False)
