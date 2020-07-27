@@ -9,3 +9,4 @@ This directory contains analysis output, with some of the most enriched data, ty
 - [0005-taser-use-by-ethnicity](0005-taser-use-by-ethnicity) shows analysis of racial disproportionality in 2018-19 reporting period
 - [0006-taser-use-by-disability](0006-taser-use-by-disability) ditto but for disability stats
 - [0007-taser-use-by-age](0007-taser-use-by-age) ditto but for age stats
+- [0008-total-taser-use-by-year](0008-total-taser-use-by-year) use of taser totals across the whole of England and Wales, most useful for earlier years where this data is not broken down by police force
