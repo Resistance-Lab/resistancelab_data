@@ -13,6 +13,10 @@ issue, a Trello card, or another pull request? Link it here.
  * Suggested path: what do you think this set should be called? E.g. 'deaths-following-police-contact'.
 -->
 
+ * Goal:
+ * Research question(s):
+ * Suggested path:
+
 # Newly introduced dataset(s):
 <!---
 Describe any new datasets being added, detailing the formats, sources and licenses (if you know). If you are adding more than one dataset, let us know if they should be added in separate places or combined together.
@@ -23,6 +27,10 @@ Example:
  * URL: https://policeconduct.gov.uk/research-and-learning/statistics/annual-deaths-during-or-following-police-contact-statistics
  * File format: ODS
 -->
+
+ * License:
+ * URL:
+ * File format:
 
 # Impact on existing dataset(s):
 <!---
