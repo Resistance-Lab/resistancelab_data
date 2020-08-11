@@ -9,7 +9,7 @@ Describe your changes, and why you're making them. Is this linked to an open
 issue, a Trello card, or another pull request? Link it here.
 
  * Goal: what you want to do with this dataset, e.g. "Look at patterns in deaths following police custody"
- * Research questions: what kinds of questions you might want to answer with this if you know, e.g. "Find out corrolation between race and deaths in police custody". This isn't essential but helps us plan what we call things and where we put them.
+ * Research questions: what kinds of questions you might want to answer with this if you know, e.g. "Find out corrolation between race and deaths in police custody". This isn't essential but helps us plan what we call things and where we put them, especially if you plan to use this in conjunction with other datasets.
  * Suggested path: what do you think this set should be called? E.g. 'deaths-following-police-contact'.
 -->
 
