@@ -12,3 +12,10 @@ The following tables are available:
 - [other deaths following police contact](other_contact_by_force/fatalities.csv)
 - [incidents involving other deaths following police contact](other_contact_by_force/incidents.csv)
 
+In addition to the standard list of regional forces that we use throughout this repository, this data also includes data for the following non-regional forces:
+
+- British Transport
+- HMRC
+- Home Office
+- Ministry of Defence
+- SOCA / NCA
