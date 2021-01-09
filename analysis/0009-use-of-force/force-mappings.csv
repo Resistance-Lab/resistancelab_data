@@ -1,0 +1,36 @@
+Type of force - Input,Tactic - Input,Force type - Output,Tactic - Output
+Firearms,*Total Firearms,Firearms,Total: Firearms
+Less lethal weapons,*Total Less lethal weapons,Less lethal weapons,Total: Less lethal weapons
+Less lethal weapons,AEP aimed,Less lethal weapons,AEP: Aimed
+Less lethal weapons,AEP fired,Less lethal weapons,AEP: Fired
+Less lethal weapons,"AEP, of which",Less lethal weapons,Total: AEP
+Less lethal weapons,CED,Less lethal weapons,CED
+Less lethal weapons,Not stated AEP,Less lethal weapons,AEP: Not stated
+Not reported,*Total Not reported,Not reported,Total: Not reported
+Other,*Total Other,Other,Total: Other
+Other,Dog bite,Other,Dog: bite
+Other,Dog deployed,Other,Dog: deployed
+Other,"Dog use, of which",Other,Total: Dog
+Other,Not stated dog,Other,Dog: not stated
+Other,Other / improvised,Other,Other / improvised
+Other equipment,*Total Other equipment,Other equipment,Total: Other equipment
+Other equipment,Baton drawn,Other equipment,Baton: drawn
+Other equipment,Baton used,Other equipment,Baton: used
+Other equipment,"Baton, of which",Other equipment,Total: Baton
+Other equipment,Irritant spray - drawn,Other equipment,Irritant spray: drawn
+Other equipment,Irritant spray - used,Other equipment,Irritant spray: used
+Other equipment,"Irritant spray, of which",Other equipment,Total: Irritant spray
+Other equipment,Not stated baton,Other equipment,Baton: not stated
+Other equipment,Not stated irritant spray,Other equipment,Irritant spray: not stated
+Other equipment,Shield,Other equipment,Shield
+Other equipment,Spit and bite guard,Other equipment,Spit and bite guard
+Restraint,*Total Restraint,Restraint,Total: Restraint
+Restraint,Compliant handcuffing,Restraint,Handcuffing: compliant
+Restraint,Ground restraint,Restraint,Ground restraint
+Restraint,"Handcuffing, of which",Restraint,Total: Handcuffing
+Restraint,Limb / Body restraints,Restraint,Limb / body restraints
+Restraint,Non-compliant handcuffing,Restraint,Handcuffing: non-compliant
+Restraint,Not stated handcuffing,Restraint,Handcuffing: not stated
+Tactical communication,Tactical communication,Excluded: Tactical Communication,Tactical Communication
+Total (excluding not reported and tactical com...,*Total Tactics,Total,Total: all
+Unarmed skills,*Total Unarmed skills,Unarmed skills,Total: unarmed skills
