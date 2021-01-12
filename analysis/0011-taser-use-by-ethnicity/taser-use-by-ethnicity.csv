@@ -1,0 +1,345 @@
+Police Force,Tactic,ytd,variable,value
+Avon & Somerset,CED,2019-03-31,White,570.0
+Bedfordshire,CED,2019-03-31,White,134.0
+Cambridgeshire,CED,2019-03-31,White,157.0
+Cheshire,CED,2019-03-31,White,327.0
+City of London,CED,2019-03-31,White,20.0
+Cleveland,CED,2019-03-31,White,238.0
+Cumbria,CED,2019-03-31,White,206.0
+Derbyshire,CED,2019-03-31,White,131.0
+Devon & Cornwall,CED,2019-03-31,White,644.0
+Dorset,CED,2019-03-31,White,182.0
+Durham,CED,2019-03-31,White,290.0
+Dyfed-Powys,CED,2019-03-31,White,194.0
+Essex,CED,2019-03-31,White,198.0
+Gloucestershire,CED,2019-03-31,White,115.0
+Greater Manchester,CED,2019-03-31,White,1118.0
+Gwent,CED,2019-03-31,White,147.0
+Hampshire,CED,2019-03-31,White,176.0
+Hertfordshire,CED,2019-03-31,White,190.0
+Humberside,CED,2019-03-31,White,538.0
+Kent,CED,2019-03-31,White,495.0
+Lancashire,CED,2019-03-31,White,386.0
+Leicestershire,CED,2019-03-31,White,439.0
+Lincolnshire,CED,2019-03-31,White,232.0
+Merseyside,CED,2019-03-31,White,290.0
+Metropolitan,CED,2019-03-31,White,3017.0
+Norfolk,CED,2019-03-31,White,0.0
+North Wales,CED,2019-03-31,White,127.0
+North Yorkshire,CED,2019-03-31,White,230.0
+Northamptonshire,CED,2019-03-31,White,446.0
+Northumbria,CED,2019-03-31,White,235.0
+Nottinghamshire,CED,2019-03-31,White,154.0
+South Wales,CED,2019-03-31,White,362.0
+South Yorkshire,CED,2019-03-31,White,438.0
+Staffordshire,CED,2019-03-31,White,0.0
+Suffolk,CED,2019-03-31,White,0.0
+Surrey,CED,2019-03-31,White,210.0
+Sussex,CED,2019-03-31,White,183.0
+Thames Valley,CED,2019-03-31,White,534.0
+Warwickshire,CED,2019-03-31,White,0.0
+West Mercia,CED,2019-03-31,White,0.0
+West Midlands,CED,2019-03-31,White,390.0
+West Yorkshire,CED,2019-03-31,White,580.0
+Wiltshire,CED,2019-03-31,White,239.0
+Avon & Somerset,CED,2019-03-31,Black (or Black British),91.0
+Bedfordshire,CED,2019-03-31,Black (or Black British),58.0
+Cambridgeshire,CED,2019-03-31,Black (or Black British),19.0
+Cheshire,CED,2019-03-31,Black (or Black British),9.0
+City of London,CED,2019-03-31,Black (or Black British),19.0
+Cleveland,CED,2019-03-31,Black (or Black British),4.0
+Cumbria,CED,2019-03-31,Black (or Black British),1.0
+Derbyshire,CED,2019-03-31,Black (or Black British),10.0
+Devon & Cornwall,CED,2019-03-31,Black (or Black British),17.0
+Dorset,CED,2019-03-31,Black (or Black British),22.0
+Durham,CED,2019-03-31,Black (or Black British),4.0
+Dyfed-Powys,CED,2019-03-31,Black (or Black British),2.0
+Essex,CED,2019-03-31,Black (or Black British),28.0
+Gloucestershire,CED,2019-03-31,Black (or Black British),11.0
+Greater Manchester,CED,2019-03-31,Black (or Black British),142.0
+Gwent,CED,2019-03-31,Black (or Black British),3.0
+Hampshire,CED,2019-03-31,Black (or Black British),12.0
+Hertfordshire,CED,2019-03-31,Black (or Black British),58.0
+Humberside,CED,2019-03-31,Black (or Black British),11.0
+Kent,CED,2019-03-31,Black (or Black British),63.0
+Lancashire,CED,2019-03-31,Black (or Black British),12.0
+Leicestershire,CED,2019-03-31,Black (or Black British),88.0
+Lincolnshire,CED,2019-03-31,Black (or Black British),16.0
+Merseyside,CED,2019-03-31,Black (or Black British),17.0
+Metropolitan,CED,2019-03-31,Black (or Black British),3055.0
+Norfolk,CED,2019-03-31,Black (or Black British),0.0
+North Wales,CED,2019-03-31,Black (or Black British),1.0
+North Yorkshire,CED,2019-03-31,Black (or Black British),6.0
+Northamptonshire,CED,2019-03-31,Black (or Black British),70.0
+Northumbria,CED,2019-03-31,Black (or Black British),6.0
+Nottinghamshire,CED,2019-03-31,Black (or Black British),29.0
+South Wales,CED,2019-03-31,Black (or Black British),63.0
+South Yorkshire,CED,2019-03-31,Black (or Black British),28.0
+Staffordshire,CED,2019-03-31,Black (or Black British),0.0
+Suffolk,CED,2019-03-31,Black (or Black British),0.0
+Surrey,CED,2019-03-31,Black (or Black British),35.0
+Sussex,CED,2019-03-31,Black (or Black British),23.0
+Thames Valley,CED,2019-03-31,Black (or Black British),144.0
+Warwickshire,CED,2019-03-31,Black (or Black British),0.0
+West Mercia,CED,2019-03-31,Black (or Black British),0.0
+West Midlands,CED,2019-03-31,Black (or Black British),125.0
+West Yorkshire,CED,2019-03-31,Black (or Black British),58.0
+Wiltshire,CED,2019-03-31,Black (or Black British),21.0
+Avon & Somerset,CED,2019-03-31,Asian (or Asian British),15.0
+Bedfordshire,CED,2019-03-31,Asian (or Asian British),27.0
+Cambridgeshire,CED,2019-03-31,Asian (or Asian British),12.0
+Cheshire,CED,2019-03-31,Asian (or Asian British),5.0
+City of London,CED,2019-03-31,Asian (or Asian British),8.0
+Cleveland,CED,2019-03-31,Asian (or Asian British),2.0
+Cumbria,CED,2019-03-31,Asian (or Asian British),1.0
+Derbyshire,CED,2019-03-31,Asian (or Asian British),7.0
+Devon & Cornwall,CED,2019-03-31,Asian (or Asian British),4.0
+Dorset,CED,2019-03-31,Asian (or Asian British),3.0
+Durham,CED,2019-03-31,Asian (or Asian British),5.0
+Dyfed-Powys,CED,2019-03-31,Asian (or Asian British),3.0
+Essex,CED,2019-03-31,Asian (or Asian British),7.0
+Gloucestershire,CED,2019-03-31,Asian (or Asian British),2.0
+Greater Manchester,CED,2019-03-31,Asian (or Asian British),94.0
+Gwent,CED,2019-03-31,Asian (or Asian British),9.0
+Hampshire,CED,2019-03-31,Asian (or Asian British),4.0
+Hertfordshire,CED,2019-03-31,Asian (or Asian British),20.0
+Humberside,CED,2019-03-31,Asian (or Asian British),10.0
+Kent,CED,2019-03-31,Asian (or Asian British),9.0
+Lancashire,CED,2019-03-31,Asian (or Asian British),20.0
+Leicestershire,CED,2019-03-31,Asian (or Asian British),49.0
+Lincolnshire,CED,2019-03-31,Asian (or Asian British),5.0
+Merseyside,CED,2019-03-31,Asian (or Asian British),2.0
+Metropolitan,CED,2019-03-31,Asian (or Asian British),745.0
+Norfolk,CED,2019-03-31,Asian (or Asian British),0.0
+North Wales,CED,2019-03-31,Asian (or Asian British),0.0
+North Yorkshire,CED,2019-03-31,Asian (or Asian British),5.0
+Northamptonshire,CED,2019-03-31,Asian (or Asian British),15.0
+Northumbria,CED,2019-03-31,Asian (or Asian British),1.0
+Nottinghamshire,CED,2019-03-31,Asian (or Asian British),4.0
+South Wales,CED,2019-03-31,Asian (or Asian British),9.0
+South Yorkshire,CED,2019-03-31,Asian (or Asian British),25.0
+Staffordshire,CED,2019-03-31,Asian (or Asian British),0.0
+Suffolk,CED,2019-03-31,Asian (or Asian British),0.0
+Surrey,CED,2019-03-31,Asian (or Asian British),6.0
+Sussex,CED,2019-03-31,Asian (or Asian British),8.0
+Thames Valley,CED,2019-03-31,Asian (or Asian British),52.0
+Warwickshire,CED,2019-03-31,Asian (or Asian British),0.0
+West Mercia,CED,2019-03-31,Asian (or Asian British),0.0
+West Midlands,CED,2019-03-31,Asian (or Asian British),133.0
+West Yorkshire,CED,2019-03-31,Asian (or Asian British),103.0
+Wiltshire,CED,2019-03-31,Asian (or Asian British),11.0
+Avon & Somerset,CED,2019-03-31,Chinese,0.0
+Bedfordshire,CED,2019-03-31,Chinese,1.0
+Cambridgeshire,CED,2019-03-31,Chinese,0.0
+Cheshire,CED,2019-03-31,Chinese,0.0
+City of London,CED,2019-03-31,Chinese,0.0
+Cleveland,CED,2019-03-31,Chinese,0.0
+Cumbria,CED,2019-03-31,Chinese,0.0
+Derbyshire,CED,2019-03-31,Chinese,0.0
+Devon & Cornwall,CED,2019-03-31,Chinese,1.0
+Dorset,CED,2019-03-31,Chinese,0.0
+Durham,CED,2019-03-31,Chinese,2.0
+Dyfed-Powys,CED,2019-03-31,Chinese,1.0
+Essex,CED,2019-03-31,Chinese,0.0
+Gloucestershire,CED,2019-03-31,Chinese,0.0
+Greater Manchester,CED,2019-03-31,Chinese,2.0
+Gwent,CED,2019-03-31,Chinese,1.0
+Hampshire,CED,2019-03-31,Chinese,0.0
+Hertfordshire,CED,2019-03-31,Chinese,0.0
+Humberside,CED,2019-03-31,Chinese,1.0
+Kent,CED,2019-03-31,Chinese,0.0
+Lancashire,CED,2019-03-31,Chinese,0.0
+Leicestershire,CED,2019-03-31,Chinese,1.0
+Lincolnshire,CED,2019-03-31,Chinese,0.0
+Merseyside,CED,2019-03-31,Chinese,0.0
+Metropolitan,CED,2019-03-31,Chinese,27.0
+Norfolk,CED,2019-03-31,Chinese,0.0
+North Wales,CED,2019-03-31,Chinese,0.0
+North Yorkshire,CED,2019-03-31,Chinese,0.0
+Northamptonshire,CED,2019-03-31,Chinese,0.0
+Northumbria,CED,2019-03-31,Chinese,0.0
+Nottinghamshire,CED,2019-03-31,Chinese,0.0
+South Wales,CED,2019-03-31,Chinese,0.0
+South Yorkshire,CED,2019-03-31,Chinese,0.0
+Staffordshire,CED,2019-03-31,Chinese,0.0
+Suffolk,CED,2019-03-31,Chinese,0.0
+Surrey,CED,2019-03-31,Chinese,1.0
+Sussex,CED,2019-03-31,Chinese,0.0
+Thames Valley,CED,2019-03-31,Chinese,0.0
+Warwickshire,CED,2019-03-31,Chinese,0.0
+West Mercia,CED,2019-03-31,Chinese,0.0
+West Midlands,CED,2019-03-31,Chinese,1.0
+West Yorkshire,CED,2019-03-31,Chinese,0.0
+Wiltshire,CED,2019-03-31,Chinese,0.0
+Avon & Somerset,CED,2019-03-31,Mixed,29.0
+Bedfordshire,CED,2019-03-31,Mixed,12.0
+Cambridgeshire,CED,2019-03-31,Mixed,5.0
+Cheshire,CED,2019-03-31,Mixed,5.0
+City of London,CED,2019-03-31,Mixed,0.0
+Cleveland,CED,2019-03-31,Mixed,1.0
+Cumbria,CED,2019-03-31,Mixed,0.0
+Derbyshire,CED,2019-03-31,Mixed,0.0
+Devon & Cornwall,CED,2019-03-31,Mixed,10.0
+Dorset,CED,2019-03-31,Mixed,0.0
+Durham,CED,2019-03-31,Mixed,0.0
+Dyfed-Powys,CED,2019-03-31,Mixed,0.0
+Essex,CED,2019-03-31,Mixed,13.0
+Gloucestershire,CED,2019-03-31,Mixed,6.0
+Greater Manchester,CED,2019-03-31,Mixed,48.0
+Gwent,CED,2019-03-31,Mixed,5.0
+Hampshire,CED,2019-03-31,Mixed,3.0
+Hertfordshire,CED,2019-03-31,Mixed,18.0
+Humberside,CED,2019-03-31,Mixed,6.0
+Kent,CED,2019-03-31,Mixed,11.0
+Lancashire,CED,2019-03-31,Mixed,5.0
+Leicestershire,CED,2019-03-31,Mixed,24.0
+Lincolnshire,CED,2019-03-31,Mixed,7.0
+Merseyside,CED,2019-03-31,Mixed,0.0
+Metropolitan,CED,2019-03-31,Mixed,214.0
+Norfolk,CED,2019-03-31,Mixed,0.0
+North Wales,CED,2019-03-31,Mixed,0.0
+North Yorkshire,CED,2019-03-31,Mixed,5.0
+Northamptonshire,CED,2019-03-31,Mixed,24.0
+Northumbria,CED,2019-03-31,Mixed,0.0
+Nottinghamshire,CED,2019-03-31,Mixed,9.0
+South Wales,CED,2019-03-31,Mixed,26.0
+South Yorkshire,CED,2019-03-31,Mixed,7.0
+Staffordshire,CED,2019-03-31,Mixed,0.0
+Suffolk,CED,2019-03-31,Mixed,0.0
+Surrey,CED,2019-03-31,Mixed,5.0
+Sussex,CED,2019-03-31,Mixed,2.0
+Thames Valley,CED,2019-03-31,Mixed,29.0
+Warwickshire,CED,2019-03-31,Mixed,0.0
+West Mercia,CED,2019-03-31,Mixed,0.0
+West Midlands,CED,2019-03-31,Mixed,45.0
+West Yorkshire,CED,2019-03-31,Mixed,28.0
+Wiltshire,CED,2019-03-31,Mixed,8.0
+Avon & Somerset,CED,2019-03-31,Other,8.0
+Bedfordshire,CED,2019-03-31,Other,9.0
+Cambridgeshire,CED,2019-03-31,Other,8.0
+Cheshire,CED,2019-03-31,Other,1.0
+City of London,CED,2019-03-31,Other,1.0
+Cleveland,CED,2019-03-31,Other,1.0
+Cumbria,CED,2019-03-31,Other,0.0
+Derbyshire,CED,2019-03-31,Other,1.0
+Devon & Cornwall,CED,2019-03-31,Other,7.0
+Dorset,CED,2019-03-31,Other,1.0
+Durham,CED,2019-03-31,Other,0.0
+Dyfed-Powys,CED,2019-03-31,Other,3.0
+Essex,CED,2019-03-31,Other,0.0
+Gloucestershire,CED,2019-03-31,Other,2.0
+Greater Manchester,CED,2019-03-31,Other,20.0
+Gwent,CED,2019-03-31,Other,2.0
+Hampshire,CED,2019-03-31,Other,0.0
+Hertfordshire,CED,2019-03-31,Other,4.0
+Humberside,CED,2019-03-31,Other,2.0
+Kent,CED,2019-03-31,Other,4.0
+Lancashire,CED,2019-03-31,Other,2.0
+Leicestershire,CED,2019-03-31,Other,4.0
+Lincolnshire,CED,2019-03-31,Other,0.0
+Merseyside,CED,2019-03-31,Other,4.0
+Metropolitan,CED,2019-03-31,Other,223.0
+Norfolk,CED,2019-03-31,Other,0.0
+North Wales,CED,2019-03-31,Other,0.0
+North Yorkshire,CED,2019-03-31,Other,0.0
+Northamptonshire,CED,2019-03-31,Other,2.0
+Northumbria,CED,2019-03-31,Other,0.0
+Nottinghamshire,CED,2019-03-31,Other,0.0
+South Wales,CED,2019-03-31,Other,6.0
+South Yorkshire,CED,2019-03-31,Other,6.0
+Staffordshire,CED,2019-03-31,Other,0.0
+Suffolk,CED,2019-03-31,Other,0.0
+Surrey,CED,2019-03-31,Other,6.0
+Sussex,CED,2019-03-31,Other,0.0
+Thames Valley,CED,2019-03-31,Other,14.0
+Warwickshire,CED,2019-03-31,Other,0.0
+West Mercia,CED,2019-03-31,Other,0.0
+West Midlands,CED,2019-03-31,Other,10.0
+West Yorkshire,CED,2019-03-31,Other,2.0
+Wiltshire,CED,2019-03-31,Other,4.0
+Avon & Somerset,CED,2019-03-31,Don't know,7.0
+Bedfordshire,CED,2019-03-31,Don't know,3.0
+Cambridgeshire,CED,2019-03-31,Don't know,3.0
+Cheshire,CED,2019-03-31,Don't know,91.0
+City of London,CED,2019-03-31,Don't know,1.0
+Cleveland,CED,2019-03-31,Don't know,3.0
+Cumbria,CED,2019-03-31,Don't know,6.0
+Derbyshire,CED,2019-03-31,Don't know,4.0
+Devon & Cornwall,CED,2019-03-31,Don't know,13.0
+Dorset,CED,2019-03-31,Don't know,44.0
+Durham,CED,2019-03-31,Don't know,3.0
+Dyfed-Powys,CED,2019-03-31,Don't know,18.0
+Essex,CED,2019-03-31,Don't know,1.0
+Gloucestershire,CED,2019-03-31,Don't know,1.0
+Greater Manchester,CED,2019-03-31,Don't know,18.0
+Gwent,CED,2019-03-31,Don't know,4.0
+Hampshire,CED,2019-03-31,Don't know,14.0
+Hertfordshire,CED,2019-03-31,Don't know,4.0
+Humberside,CED,2019-03-31,Don't know,4.0
+Kent,CED,2019-03-31,Don't know,6.0
+Lancashire,CED,2019-03-31,Don't know,1.0
+Leicestershire,CED,2019-03-31,Don't know,10.0
+Lincolnshire,CED,2019-03-31,Don't know,7.0
+Merseyside,CED,2019-03-31,Don't know,8.0
+Metropolitan,CED,2019-03-31,Don't know,115.0
+Norfolk,CED,2019-03-31,Don't know,0.0
+North Wales,CED,2019-03-31,Don't know,2.0
+North Yorkshire,CED,2019-03-31,Don't know,0.0
+Northamptonshire,CED,2019-03-31,Don't know,3.0
+Northumbria,CED,2019-03-31,Don't know,0.0
+Nottinghamshire,CED,2019-03-31,Don't know,1.0
+South Wales,CED,2019-03-31,Don't know,1.0
+South Yorkshire,CED,2019-03-31,Don't know,6.0
+Staffordshire,CED,2019-03-31,Don't know,0.0
+Suffolk,CED,2019-03-31,Don't know,0.0
+Surrey,CED,2019-03-31,Don't know,24.0
+Sussex,CED,2019-03-31,Don't know,175.0
+Thames Valley,CED,2019-03-31,Don't know,5.0
+Warwickshire,CED,2019-03-31,Don't know,0.0
+West Mercia,CED,2019-03-31,Don't know,0.0
+West Midlands,CED,2019-03-31,Don't know,2.0
+West Yorkshire,CED,2019-03-31,Don't know,3.0
+Wiltshire,CED,2019-03-31,Don't know,3.0
+Avon & Somerset,CED,2019-03-31,Not reported,13.0
+Bedfordshire,CED,2019-03-31,Not reported,4.0
+Cambridgeshire,CED,2019-03-31,Not reported,1.0
+Cheshire,CED,2019-03-31,Not reported,0.0
+City of London,CED,2019-03-31,Not reported,0.0
+Cleveland,CED,2019-03-31,Not reported,0.0
+Cumbria,CED,2019-03-31,Not reported,0.0
+Derbyshire,CED,2019-03-31,Not reported,0.0
+Devon & Cornwall,CED,2019-03-31,Not reported,0.0
+Dorset,CED,2019-03-31,Not reported,0.0
+Durham,CED,2019-03-31,Not reported,0.0
+Dyfed-Powys,CED,2019-03-31,Not reported,0.0
+Essex,CED,2019-03-31,Not reported,0.0
+Gloucestershire,CED,2019-03-31,Not reported,0.0
+Greater Manchester,CED,2019-03-31,Not reported,0.0
+Gwent,CED,2019-03-31,Not reported,0.0
+Hampshire,CED,2019-03-31,Not reported,0.0
+Hertfordshire,CED,2019-03-31,Not reported,3.0
+Humberside,CED,2019-03-31,Not reported,0.0
+Kent,CED,2019-03-31,Not reported,0.0
+Lancashire,CED,2019-03-31,Not reported,2.0
+Leicestershire,CED,2019-03-31,Not reported,0.0
+Lincolnshire,CED,2019-03-31,Not reported,0.0
+Merseyside,CED,2019-03-31,Not reported,0.0
+Metropolitan,CED,2019-03-31,Not reported,0.0
+Norfolk,CED,2019-03-31,Not reported,0.0
+North Wales,CED,2019-03-31,Not reported,0.0
+North Yorkshire,CED,2019-03-31,Not reported,0.0
+Northamptonshire,CED,2019-03-31,Not reported,0.0
+Northumbria,CED,2019-03-31,Not reported,0.0
+Nottinghamshire,CED,2019-03-31,Not reported,0.0
+South Wales,CED,2019-03-31,Not reported,0.0
+South Yorkshire,CED,2019-03-31,Not reported,0.0
+Staffordshire,CED,2019-03-31,Not reported,0.0
+Suffolk,CED,2019-03-31,Not reported,0.0
+Surrey,CED,2019-03-31,Not reported,0.0
+Sussex,CED,2019-03-31,Not reported,0.0
+Thames Valley,CED,2019-03-31,Not reported,0.0
+Warwickshire,CED,2019-03-31,Not reported,0.0
+West Mercia,CED,2019-03-31,Not reported,0.0
+West Midlands,CED,2019-03-31,Not reported,0.0
+West Yorkshire,CED,2019-03-31,Not reported,10.0
+Wiltshire,CED,2019-03-31,Not reported,23.0
