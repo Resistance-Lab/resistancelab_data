@@ -4,36 +4,6 @@ import os
 from utils import download, make_output_directory
 
 
-def save_sheet(sheet, title, year, filename):
-    directory = make_output_directory("by-ced-type-force-region")
-    df = read_ods(output_file, sheet)
-
-    # Drop the empty rows
-    df.drop([0, 1, 111, 112, 113, 114, 115, 116, 117], inplace=True)
-
-    # Build a new dataframe with correct column names
-    cleansed = pd.DataFrame(
-        {
-            "Financial Year": df[title],
-            "Region": df['unnamed.1'],
-            "Police force": df['unnamed.2'].str.replace("\(.+\)", "", regex=True).str.strip(),  # noqa: W605
-            "Total": df['unnamed.3'],
-            "Total non-discharge": df['unnamed.4'],
-            "Drawn": df['unnamed.5'],
-            "Aimed": df['unnamed.6'],
-            "Red-dot": df['unnamed.7'],
-            "Arced": df['unnamed.8'],
-            "Total discharge": df['unnamed.9'],
-            "Drive stun": df['unnamed.10'],
-            "Fired": df['unnamed.11'],
-            "Angled drive stun": df['unnamed.12'],
-            "Not stated": df['unnamed.13']})[1:]
-
-    # Write to file
-    cleansed[cleansed['Financial Year'] == year].drop(columns=['Financial Year']).to_csv(
-        os.path.join(directory, filename), index=False)
-
-
 def save_health_condition():
     directory = make_output_directory("by-health-condition-force")
     df = read_ods(output_file, "Table_17")
@@ -54,6 +24,8 @@ def save_health_condition():
         }
     )[1:]
     cleansed['Tactic'] = cleansed['Tactic'].str.replace(r'\d+', '')
+    for i in ['Mental', 'Physical', 'Physical and mental', 'None', 'Not reported', 'Number of times tactic reported']:
+        cleansed[i] = cleansed[i].apply(pd.to_numeric, errors='coerce')
     cleansed.to_csv(os.path.join(directory, 'april2019-march2020.csv'), index=False)
 
 
@@ -78,6 +50,9 @@ def save_ethnicity():
         }
     )[1:]
     cleansed['Tactic'] = cleansed['Tactic'].str.replace(r'\d+', '')
+    # Some columns have ':' to represent not available, so coerce to numeric
+    for i in ['White', 'Black (or Black British)', 'Asian (or Asian British)', 'Mixed', 'Other', 'Not reported', 'Number of times tactic reported']:
+        cleansed[i] = cleansed[i].apply(pd.to_numeric, errors='coerce')
     cleansed.to_csv(os.path.join(directory, 'april2019-march2020.csv'), index=False)
 
 
@@ -103,6 +78,8 @@ def save_age():
         }
     )[1:]
     cleansed['Tactic'] = cleansed['Tactic'].str.replace(r'\d+', '')
+    for i in ['Under 11 years', '11 - 17 years', '18 - 34 years', '35 - 49 years', '50 - 64 years', '65 and over', 'Not reported', 'Number of times tactic reported']:
+        cleansed[i] = cleansed[i].apply(pd.to_numeric, errors='coerce')
     cleansed.to_csv(os.path.join(directory, 'april2019-march2020.csv'), index=False)
 
 
@@ -118,6 +95,7 @@ def save_incidents():
             "Total": df['unnamed.2']
         }
     )
+    cleansed['Total'] = cleansed['Total'].apply(pd.to_numeric, errors='coerce')
     cleansed.to_csv(os.path.join(directory, "april2019-march2020.csv"), index=False)
 
 
