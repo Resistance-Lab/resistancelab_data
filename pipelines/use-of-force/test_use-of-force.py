@@ -29,7 +29,7 @@ class UseOfForce(TestCase):
         self.assertTrue(validation_result['success'])
 
     def test_by_health_condition_2020(self):
-        validation_result = run_great_expectations("../../cleaned_data/use-of-force/by-health-condition-force/april2019-march2020.csv", "use-of-force.by-disability-force")
+        validation_result = run_great_expectations("../../cleaned_data/use-of-force/by-health-condition-force/april2019-march2020.csv", "use-of-force.by-health-condition-force")
         self.assertTrue(validation_result['success'])
 
     def test_by_ethnicity_2020(self):
