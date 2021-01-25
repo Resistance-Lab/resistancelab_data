@@ -1,0 +1,1635 @@
+Police Force,Type of force,Tactic,Under 11 years,11 - 17 years,18 - 34 years,35 - 49 years,50 - 64 years,65 and over,Not reported,Number of times tactic reported,Force type - Output,Tactic - Output
+Avon & Somerset,Total (excluding not reported and tactical communication),*Total Tactics,21.0,1905.0,11799.0,5513.0,1623.0,121.0,111.0,21093.0,Total,Total: all
+Avon & Somerset,Restraint,*Total Restraint,6.0,901.0,5621.0,2585.0,735.0,48.0,31.0,9927.0,Restraint,Total: Restraint
+Avon & Somerset,Restraint,"Handcuffing, of which",4.0,693.0,4278.0,2042.0,592.0,45.0,26.0,7680.0,Restraint,Total: Handcuffing
+Avon & Somerset,Restraint,Compliant handcuffing,:,:,:,:,:,:,:,:,Restraint,Handcuffing: compliant
+Avon & Somerset,Restraint,Non-compliant handcuffing,:,:,:,:,:,:,:,:,Restraint,Handcuffing: non-compliant
+Avon & Somerset,Restraint,Handcuffing not stated,4.0,693.0,4278.0,2042.0,592.0,45.0,26.0,7680.0,,
+Avon & Somerset,Restraint,Limb / Body restraints,2.0,79.0,555.0,184.0,48.0,1.0,1.0,870.0,Restraint,Limb / body restraints
+Avon & Somerset,Restraint,Ground restraint,0.0,129.0,788.0,359.0,95.0,2.0,4.0,1377.0,Restraint,Ground restraint
+Avon & Somerset,Unarmed skills,*Total Unarmed skills,11.0,797.0,4467.0,2068.0,627.0,58.0,42.0,8070.0,Unarmed skills,Total: unarmed skills
+Avon & Somerset,Other equipment,*Total Other equipment,0.0,46.0,530.0,256.0,77.0,1.0,16.0,926.0,Other equipment,Total: Other equipment
+Avon & Somerset,Other equipment,"Baton, of which",0.0,8.0,28.0,9.0,2.0,0.0,12.0,59.0,Other equipment,Total: Baton
+Avon & Somerset,Other equipment,Baton drawn,:,:,:,:,:,:,:,:,Other equipment,Baton: drawn
+Avon & Somerset,Other equipment,Baton used,:,:,:,:,:,:,:,:,Other equipment,Baton: used
+Avon & Somerset,Other equipment,Baton not stated,0.0,8.0,28.0,9.0,2.0,0.0,12.0,59.0,,
+Avon & Somerset,Other equipment,"Irritant spray, of which",0.0,29.0,340.0,181.0,53.0,1.0,4.0,608.0,Other equipment,Total: Irritant spray
+Avon & Somerset,Other equipment,Irritant spray - drawn,:,:,:,:,:,:,:,:,Other equipment,Irritant spray: drawn
+Avon & Somerset,Other equipment,Irritant spray - used,:,:,:,:,:,:,:,:,Other equipment,Irritant spray: used
+Avon & Somerset,Other equipment,Irritant spray not stated,0.0,29.0,340.0,181.0,53.0,1.0,4.0,608.0,,
+Avon & Somerset,Other equipment,Spit and bite guard,0.0,9.0,162.0,66.0,22.0,0.0,0.0,259.0,Other equipment,Spit and bite guard
+Avon & Somerset,Other equipment,Shield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Other equipment,Shield
+Avon & Somerset,Less lethal weapons,*Total Less lethal weapons,0.0,71.0,636.0,278.0,87.0,1.0,5.0,1078.0,Less lethal weapons,Total: Less lethal weapons
+Avon & Somerset,Less lethal weapons,CED of which,0.0,71.0,636.0,278.0,87.0,1.0,5.0,1078.0,,
+Avon & Somerset,Less lethal weapons,CED non-discharge,0.0,64.0,516.0,216.0,69.0,1.0,5.0,871.0,,
+Avon & Somerset,Less lethal weapons,CED discharge,0.0,6.0,112.0,59.0,11.0,0.0,0.0,188.0,,
+Avon & Somerset,Less lethal weapons,CED not stated,0.0,1.0,8.0,3.0,7.0,0.0,0.0,19.0,,
+Avon & Somerset,Less lethal weapons,"AEP, of which",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Less lethal weapons,Total: AEP
+Avon & Somerset,Less lethal weapons,AEP drawn,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Avon & Somerset,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Avon & Somerset,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Avon & Somerset,Firearms,*Total Firearms,0.0,0.0,15.0,3.0,3.0,1.0,0.0,22.0,Firearms,Total: Firearms
+Avon & Somerset,Other,*Total Other,4.0,90.0,530.0,323.0,94.0,12.0,17.0,1070.0,Other,Total: Other
+Avon & Somerset,Other,"Dog use, of which",0.0,2.0,10.0,2.0,0.0,0.0,0.0,14.0,Other,Total: Dog
+Avon & Somerset,Other,Dog deployed,:,:,:,:,:,:,:,:,Other,Dog: deployed
+Avon & Somerset,Other,Dog bite,:,:,:,:,:,:,:,:,Other,Dog: bite
+Avon & Somerset,Other,Dog not stated,0.0,2.0,10.0,2.0,0.0,0.0,0.0,14.0,,
+Avon & Somerset,Other,Other / improvised,4.0,88.0,520.0,321.0,94.0,12.0,17.0,1056.0,Other,Other / improvised
+Avon & Somerset,Not reported,*Total Not reported,0.0,17.0,88.0,39.0,11.0,3.0,3.0,161.0,Not reported,Total: Not reported
+Avon & Somerset,Tactical communication,Tactical communication,3.0,222.0,1492.0,711.0,194.0,14.0,21.0,2657.0,Excluded: Tactical Communication,Tactical Communication
+Bedfordshire,Total (excluding not reported and tactical communication),*Total Tactics,4.0,619.0,3792.0,1563.0,451.0,38.0,63.0,6530.0,Total,Total: all
+Bedfordshire,Restraint,*Total Restraint,0.0,369.0,2150.0,920.0,288.0,23.0,32.0,3782.0,Restraint,Total: Restraint
+Bedfordshire,Restraint,"Handcuffing, of which",0.0,270.0,1445.0,689.0,224.0,17.0,21.0,2666.0,Restraint,Total: Handcuffing
+Bedfordshire,Restraint,Compliant handcuffing,0.0,158.0,755.0,388.0,137.0,8.0,10.0,1456.0,Restraint,Handcuffing: compliant
+Bedfordshire,Restraint,Non-compliant handcuffing,0.0,112.0,690.0,301.0,87.0,9.0,11.0,1210.0,Restraint,Handcuffing: non-compliant
+Bedfordshire,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Bedfordshire,Restraint,Limb / Body restraints,0.0,33.0,266.0,89.0,31.0,4.0,5.0,428.0,Restraint,Limb / body restraints
+Bedfordshire,Restraint,Ground restraint,0.0,66.0,439.0,142.0,33.0,2.0,6.0,688.0,Restraint,Ground restraint
+Bedfordshire,Unarmed skills,*Total Unarmed skills,3.0,174.0,1134.0,429.0,124.0,11.0,19.0,1894.0,Unarmed skills,Total: unarmed skills
+Bedfordshire,Other equipment,*Total Other equipment,0.0,29.0,228.0,103.0,17.0,0.0,5.0,382.0,Other equipment,Total: Other equipment
+Bedfordshire,Other equipment,"Baton, of which",0.0,6.0,45.0,20.0,1.0,0.0,0.0,72.0,Other equipment,Total: Baton
+Bedfordshire,Other equipment,Baton drawn,0.0,3.0,29.0,13.0,1.0,0.0,0.0,46.0,Other equipment,Baton: drawn
+Bedfordshire,Other equipment,Baton used,0.0,3.0,16.0,7.0,0.0,0.0,0.0,26.0,Other equipment,Baton: used
+Bedfordshire,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Bedfordshire,Other equipment,"Irritant spray, of which",0.0,18.0,130.0,56.0,11.0,0.0,4.0,219.0,Other equipment,Total: Irritant spray
+Bedfordshire,Other equipment,Irritant spray - drawn,0.0,10.0,70.0,29.0,6.0,0.0,2.0,117.0,Other equipment,Irritant spray: drawn
+Bedfordshire,Other equipment,Irritant spray - used,0.0,8.0,58.0,26.0,5.0,0.0,2.0,99.0,Other equipment,Irritant spray: used
+Bedfordshire,Other equipment,Irritant spray not stated,0.0,0.0,2.0,1.0,0.0,0.0,0.0,3.0,,
+Bedfordshire,Other equipment,Spit and bite guard,0.0,5.0,47.0,23.0,4.0,0.0,1.0,80.0,Other equipment,Spit and bite guard
+Bedfordshire,Other equipment,Shield,0.0,0.0,6.0,4.0,1.0,0.0,0.0,11.0,Other equipment,Shield
+Bedfordshire,Less lethal weapons,*Total Less lethal weapons,0.0,28.0,141.0,61.0,12.0,2.0,5.0,250.0,Less lethal weapons,Total: Less lethal weapons
+Bedfordshire,Less lethal weapons,CED of which,0.0,28.0,138.0,61.0,12.0,2.0,5.0,247.0,,
+Bedfordshire,Less lethal weapons,CED non-discharge,0.0,25.0,124.0,53.0,10.0,2.0,3.0,217.0,,
+Bedfordshire,Less lethal weapons,CED discharge,0.0,3.0,10.0,6.0,2.0,0.0,2.0,24.0,,
+Bedfordshire,Less lethal weapons,CED not stated,0.0,0.0,4.0,2.0,0.0,0.0,0.0,6.0,,
+Bedfordshire,Less lethal weapons,"AEP, of which",0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,Less lethal weapons,Total: AEP
+Bedfordshire,Less lethal weapons,AEP drawn,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,,
+Bedfordshire,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Bedfordshire,Less lethal weapons,AEP not stated,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,
+Bedfordshire,Firearms,*Total Firearms,0.0,0.0,14.0,2.0,0.0,0.0,0.0,16.0,Firearms,Total: Firearms
+Bedfordshire,Other,*Total Other,0.0,19.0,125.0,48.0,10.0,2.0,2.0,206.0,Other,Total: Other
+Bedfordshire,Other,"Dog use, of which",0.0,2.0,8.0,2.0,0.0,0.0,0.0,12.0,Other,Total: Dog
+Bedfordshire,Other,Dog deployed,0.0,1.0,4.0,1.0,0.0,0.0,0.0,6.0,Other,Dog: deployed
+Bedfordshire,Other,Dog bite,0.0,1.0,4.0,1.0,0.0,0.0,0.0,6.0,Other,Dog: bite
+Bedfordshire,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Bedfordshire,Other,Other / improvised,0.0,17.0,117.0,46.0,10.0,2.0,2.0,194.0,Other,Other / improvised
+Bedfordshire,Not reported,*Total Not reported,0.0,1.0,4.0,3.0,1.0,0.0,0.0,9.0,Not reported,Total: Not reported
+Bedfordshire,Tactical communication,Tactical communication,4.0,363.0,1959.0,835.0,253.0,26.0,34.0,3474.0,Excluded: Tactical Communication,Tactical Communication
+Cambridgeshire,Total (excluding not reported and tactical communication),*Total Tactics,4.0,795.0,4468.0,2090.0,528.0,48.0,59.0,7992.0,Total,Total: all
+Cambridgeshire,Restraint,*Total Restraint,0.0,408.0,2264.0,1070.0,252.0,17.0,24.0,4035.0,Restraint,Total: Restraint
+Cambridgeshire,Restraint,"Handcuffing, of which",0.0,275.0,1453.0,762.0,198.0,14.0,13.0,2715.0,Restraint,Total: Handcuffing
+Cambridgeshire,Restraint,Compliant handcuffing,0.0,127.0,653.0,373.0,95.0,7.0,8.0,1263.0,Restraint,Handcuffing: compliant
+Cambridgeshire,Restraint,Non-compliant handcuffing,0.0,148.0,800.0,389.0,103.0,7.0,5.0,1452.0,Restraint,Handcuffing: non-compliant
+Cambridgeshire,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cambridgeshire,Restraint,Limb / Body restraints,0.0,41.0,274.0,88.0,21.0,2.0,6.0,432.0,Restraint,Limb / body restraints
+Cambridgeshire,Restraint,Ground restraint,0.0,92.0,537.0,220.0,33.0,1.0,5.0,888.0,Restraint,Ground restraint
+Cambridgeshire,Unarmed skills,*Total Unarmed skills,3.0,248.0,1285.0,623.0,166.0,25.0,20.0,2370.0,Unarmed skills,Total: unarmed skills
+Cambridgeshire,Other equipment,*Total Other equipment,0.0,75.0,530.0,216.0,65.0,2.0,8.0,896.0,Other equipment,Total: Other equipment
+Cambridgeshire,Other equipment,"Baton, of which",0.0,7.0,72.0,22.0,6.0,0.0,3.0,110.0,Other equipment,Total: Baton
+Cambridgeshire,Other equipment,Baton drawn,0.0,4.0,49.0,13.0,4.0,0.0,3.0,73.0,Other equipment,Baton: drawn
+Cambridgeshire,Other equipment,Baton used,0.0,3.0,23.0,9.0,2.0,0.0,0.0,37.0,Other equipment,Baton: used
+Cambridgeshire,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cambridgeshire,Other equipment,"Irritant spray, of which",0.0,41.0,370.0,172.0,51.0,1.0,4.0,639.0,Other equipment,Total: Irritant spray
+Cambridgeshire,Other equipment,Irritant spray - drawn,0.0,29.0,229.0,104.0,30.0,1.0,2.0,395.0,Other equipment,Irritant spray: drawn
+Cambridgeshire,Other equipment,Irritant spray - used,0.0,12.0,141.0,67.0,21.0,0.0,2.0,243.0,Other equipment,Irritant spray: used
+Cambridgeshire,Other equipment,Irritant spray not stated,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,
+Cambridgeshire,Other equipment,Spit and bite guard,0.0,21.0,76.0,17.0,6.0,1.0,1.0,122.0,Other equipment,Spit and bite guard
+Cambridgeshire,Other equipment,Shield,0.0,6.0,12.0,5.0,2.0,0.0,0.0,25.0,Other equipment,Shield
+Cambridgeshire,Less lethal weapons,*Total Less lethal weapons,0.0,12.0,127.0,60.0,12.0,1.0,2.0,214.0,Less lethal weapons,Total: Less lethal weapons
+Cambridgeshire,Less lethal weapons,CED of which,0.0,12.0,124.0,57.0,12.0,1.0,2.0,208.0,,
+Cambridgeshire,Less lethal weapons,CED non-discharge,0.0,10.0,111.0,51.0,12.0,1.0,2.0,187.0,,
+Cambridgeshire,Less lethal weapons,CED discharge,0.0,2.0,13.0,6.0,0.0,0.0,0.0,21.0,,
+Cambridgeshire,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cambridgeshire,Less lethal weapons,"AEP, of which",0.0,0.0,3.0,3.0,0.0,0.0,0.0,6.0,Less lethal weapons,Total: AEP
+Cambridgeshire,Less lethal weapons,AEP drawn,0.0,0.0,3.0,2.0,0.0,0.0,0.0,5.0,,
+Cambridgeshire,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cambridgeshire,Less lethal weapons,AEP not stated,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,
+Cambridgeshire,Firearms,*Total Firearms,0.0,1.0,9.0,8.0,0.0,0.0,0.0,18.0,Firearms,Total: Firearms
+Cambridgeshire,Other,*Total Other,1.0,51.0,253.0,113.0,33.0,3.0,5.0,459.0,Other,Total: Other
+Cambridgeshire,Other,"Dog use, of which",0.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,Other,Total: Dog
+Cambridgeshire,Other,Dog deployed,0.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,Other,Dog: deployed
+Cambridgeshire,Other,Dog bite,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Other,Dog: bite
+Cambridgeshire,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cambridgeshire,Other,Other / improvised,1.0,51.0,252.0,112.0,33.0,3.0,5.0,457.0,Other,Other / improvised
+Cambridgeshire,Not reported,*Total Not reported,0.0,1.0,15.0,10.0,2.0,0.0,0.0,28.0,Not reported,Total: Not reported
+Cambridgeshire,Tactical communication,Tactical communication,4.0,400.0,2154.0,1074.0,282.0,32.0,27.0,3973.0,Excluded: Tactical Communication,Tactical Communication
+Cheshire,Total (excluding not reported and tactical communication),*Total Tactics,10.0,1317.0,6461.0,3105.0,927.0,100.0,0.0,11920.0,Total,Total: all
+Cheshire,Restraint,*Total Restraint,9.0,978.0,4790.0,2358.0,699.0,71.0,0.0,8905.0,Restraint,Total: Restraint
+Cheshire,Restraint,"Handcuffing, of which",1.0,589.0,3114.0,1613.0,511.0,47.0,0.0,5875.0,Restraint,Total: Handcuffing
+Cheshire,Restraint,Compliant handcuffing,1.0,317.0,1979.0,1098.0,306.0,26.0,0.0,3727.0,Restraint,Handcuffing: compliant
+Cheshire,Restraint,Non-compliant handcuffing,0.0,272.0,1135.0,515.0,205.0,21.0,0.0,2148.0,Restraint,Handcuffing: non-compliant
+Cheshire,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cheshire,Restraint,Limb / Body restraints,0.0,42.0,198.0,60.0,14.0,2.0,0.0,316.0,Restraint,Limb / body restraints
+Cheshire,Restraint,Ground restraint,8.0,347.0,1478.0,685.0,174.0,22.0,0.0,2714.0,Restraint,Ground restraint
+Cheshire,Unarmed skills,*Total Unarmed skills,1.0,230.0,827.0,383.0,132.0,24.0,0.0,1597.0,Unarmed skills,Total: unarmed skills
+Cheshire,Other equipment,*Total Other equipment,0.0,60.0,544.0,227.0,62.0,2.0,0.0,895.0,Other equipment,Total: Other equipment
+Cheshire,Other equipment,"Baton, of which",0.0,3.0,29.0,10.0,2.0,0.0,0.0,44.0,Other equipment,Total: Baton
+Cheshire,Other equipment,Baton drawn,0.0,3.0,21.0,6.0,1.0,0.0,0.0,31.0,Other equipment,Baton: drawn
+Cheshire,Other equipment,Baton used,0.0,0.0,8.0,4.0,1.0,0.0,0.0,13.0,Other equipment,Baton: used
+Cheshire,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cheshire,Other equipment,"Irritant spray, of which",0.0,53.0,456.0,205.0,53.0,1.0,0.0,768.0,Other equipment,Total: Irritant spray
+Cheshire,Other equipment,Irritant spray - drawn,0.0,23.0,159.0,76.0,22.0,1.0,0.0,281.0,Other equipment,Irritant spray: drawn
+Cheshire,Other equipment,Irritant spray - used,0.0,30.0,297.0,129.0,31.0,0.0,0.0,487.0,Other equipment,Irritant spray: used
+Cheshire,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cheshire,Other equipment,Spit and bite guard,0.0,4.0,58.0,12.0,7.0,1.0,0.0,82.0,Other equipment,Spit and bite guard
+Cheshire,Other equipment,Shield,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Other equipment,Shield
+Cheshire,Less lethal weapons,*Total Less lethal weapons,0.0,42.0,281.0,132.0,30.0,2.0,0.0,487.0,Less lethal weapons,Total: Less lethal weapons
+Cheshire,Less lethal weapons,CED of which,0.0,42.0,281.0,132.0,30.0,2.0,0.0,487.0,,
+Cheshire,Less lethal weapons,CED non-discharge,0.0,40.0,259.0,115.0,25.0,2.0,0.0,441.0,,
+Cheshire,Less lethal weapons,CED discharge,0.0,2.0,22.0,17.0,5.0,0.0,0.0,46.0,,
+Cheshire,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cheshire,Less lethal weapons,"AEP, of which",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Less lethal weapons,Total: AEP
+Cheshire,Less lethal weapons,AEP drawn,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cheshire,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cheshire,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cheshire,Firearms,*Total Firearms,0.0,0.0,1.0,2.0,2.0,1.0,0.0,6.0,Firearms,Total: Firearms
+Cheshire,Other,*Total Other,0.0,7.0,18.0,3.0,2.0,0.0,0.0,30.0,Other,Total: Other
+Cheshire,Other,"Dog use, of which",0.0,7.0,18.0,3.0,2.0,0.0,0.0,30.0,Other,Total: Dog
+Cheshire,Other,Dog deployed,0.0,5.0,15.0,2.0,2.0,0.0,0.0,24.0,Other,Dog: deployed
+Cheshire,Other,Dog bite,0.0,2.0,3.0,1.0,0.0,0.0,0.0,6.0,Other,Dog: bite
+Cheshire,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cheshire,Other,Other / improvised,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Other,Other / improvised
+Cheshire,Not reported,*Total Not reported,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Not reported,Total: Not reported
+Cheshire,Tactical communication,Tactical communication,7.0,562.0,2469.0,1259.0,373.0,53.0,0.0,4723.0,Excluded: Tactical Communication,Tactical Communication
+City of London,Total (excluding not reported and tactical communication),*Total Tactics,0.0,185.0,2220.0,684.0,222.0,5.0,382.0,3698.0,Total,Total: all
+City of London,Restraint,*Total Restraint,0.0,124.0,1502.0,501.0,136.0,4.0,131.0,2398.0,Restraint,Total: Restraint
+City of London,Restraint,"Handcuffing, of which",0.0,110.0,1346.0,469.0,121.0,4.0,104.0,2154.0,Restraint,Total: Handcuffing
+City of London,Restraint,Compliant handcuffing,0.0,53.0,655.0,235.0,52.0,2.0,31.0,1028.0,Restraint,Handcuffing: compliant
+City of London,Restraint,Non-compliant handcuffing,0.0,57.0,691.0,234.0,69.0,2.0,73.0,1126.0,Restraint,Handcuffing: non-compliant
+City of London,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+City of London,Restraint,Limb / Body restraints,0.0,4.0,65.0,7.0,5.0,0.0,9.0,90.0,Restraint,Limb / body restraints
+City of London,Restraint,Ground restraint,0.0,10.0,91.0,25.0,10.0,0.0,18.0,154.0,Restraint,Ground restraint
+City of London,Unarmed skills,*Total Unarmed skills,0.0,42.0,502.0,124.0,55.0,1.0,146.0,870.0,Unarmed skills,Total: unarmed skills
+City of London,Other equipment,*Total Other equipment,0.0,3.0,76.0,23.0,5.0,0.0,29.0,136.0,Other equipment,Total: Other equipment
+City of London,Other equipment,"Baton, of which",0.0,0.0,17.0,6.0,0.0,0.0,15.0,38.0,Other equipment,Total: Baton
+City of London,Other equipment,Baton drawn,0.0,0.0,13.0,4.0,0.0,0.0,10.0,27.0,Other equipment,Baton: drawn
+City of London,Other equipment,Baton used,0.0,0.0,4.0,2.0,0.0,0.0,5.0,11.0,Other equipment,Baton: used
+City of London,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+City of London,Other equipment,"Irritant spray, of which",0.0,2.0,50.0,12.0,1.0,0.0,10.0,75.0,Other equipment,Total: Irritant spray
+City of London,Other equipment,Irritant spray - drawn,0.0,2.0,36.0,8.0,1.0,0.0,9.0,56.0,Other equipment,Irritant spray: drawn
+City of London,Other equipment,Irritant spray - used,0.0,0.0,14.0,4.0,0.0,0.0,1.0,19.0,Other equipment,Irritant spray: used
+City of London,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+City of London,Other equipment,Spit and bite guard,0.0,1.0,8.0,4.0,4.0,0.0,2.0,19.0,Other equipment,Spit and bite guard
+City of London,Other equipment,Shield,0.0,0.0,1.0,1.0,0.0,0.0,2.0,4.0,Other equipment,Shield
+City of London,Less lethal weapons,*Total Less lethal weapons,0.0,10.0,78.0,11.0,4.0,0.0,31.0,134.0,Less lethal weapons,Total: Less lethal weapons
+City of London,Less lethal weapons,CED of which,0.0,10.0,78.0,11.0,4.0,0.0,31.0,134.0,,
+City of London,Less lethal weapons,CED non-discharge,0.0,10.0,74.0,10.0,3.0,0.0,31.0,128.0,,
+City of London,Less lethal weapons,CED discharge,0.0,0.0,4.0,1.0,1.0,0.0,0.0,6.0,,
+City of London,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+City of London,Less lethal weapons,"AEP, of which",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Less lethal weapons,Total: AEP
+City of London,Less lethal weapons,AEP drawn,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+City of London,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+City of London,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+City of London,Firearms,*Total Firearms,0.0,5.0,21.0,8.0,3.0,0.0,10.0,47.0,Firearms,Total: Firearms
+City of London,Other,*Total Other,0.0,1.0,41.0,17.0,19.0,0.0,35.0,113.0,Other,Total: Other
+City of London,Other,"Dog use, of which",0.0,0.0,0.0,0.0,0.0,0.0,15.0,15.0,Other,Total: Dog
+City of London,Other,Dog deployed,0.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,Other,Dog: deployed
+City of London,Other,Dog bite,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,Other,Dog: bite
+City of London,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+City of London,Other,Other / improvised,0.0,1.0,41.0,17.0,19.0,0.0,20.0,98.0,Other,Other / improvised
+City of London,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+City of London,Tactical communication,Tactical communication,0.0,87.0,998.0,362.0,122.0,2.0,210.0,1781.0,Excluded: Tactical Communication,Tactical Communication
+Cleveland,Total (excluding not reported and tactical communication),*Total Tactics,16.0,1074.0,6592.0,3512.0,622.0,122.0,0.0,11938.0,Total,Total: all
+Cleveland,Restraint,*Total Restraint,16.0,940.0,5591.0,3073.0,543.0,86.0,0.0,10249.0,Restraint,Total: Restraint
+Cleveland,Restraint,"Handcuffing, of which",16.0,926.0,5515.0,3007.0,523.0,86.0,0.0,10073.0,Restraint,Total: Handcuffing
+Cleveland,Restraint,Compliant handcuffing,0.0,20.0,163.0,78.0,20.0,2.0,0.0,283.0,Restraint,Handcuffing: compliant
+Cleveland,Restraint,Non-compliant handcuffing,0.0,14.0,67.0,49.0,11.0,1.0,0.0,142.0,Restraint,Handcuffing: non-compliant
+Cleveland,Restraint,Handcuffing not stated,16.0,892.0,5285.0,2880.0,492.0,83.0,0.0,9648.0,,
+Cleveland,Restraint,Limb / Body restraints,0.0,2.0,10.0,4.0,2.0,0.0,0.0,18.0,Restraint,Limb / body restraints
+Cleveland,Restraint,Ground restraint,0.0,12.0,66.0,62.0,18.0,0.0,0.0,158.0,Restraint,Ground restraint
+Cleveland,Unarmed skills,*Total Unarmed skills,0.0,40.0,328.0,159.0,30.0,11.0,0.0,568.0,Unarmed skills,Total: unarmed skills
+Cleveland,Other equipment,*Total Other equipment,0.0,23.0,156.0,76.0,9.0,2.0,0.0,266.0,Other equipment,Total: Other equipment
+Cleveland,Other equipment,"Baton, of which",0.0,8.0,46.0,24.0,3.0,0.0,0.0,81.0,Other equipment,Total: Baton
+Cleveland,Other equipment,Baton drawn,0.0,0.0,1.0,1.0,1.0,0.0,0.0,3.0,Other equipment,Baton: drawn
+Cleveland,Other equipment,Baton used,0.0,0.0,1.0,2.0,0.0,0.0,0.0,3.0,Other equipment,Baton: used
+Cleveland,Other equipment,Baton not stated,0.0,8.0,44.0,21.0,2.0,0.0,0.0,75.0,,
+Cleveland,Other equipment,"Irritant spray, of which",0.0,15.0,109.0,48.0,6.0,2.0,0.0,180.0,Other equipment,Total: Irritant spray
+Cleveland,Other equipment,Irritant spray - drawn,0.0,4.0,16.0,10.0,2.0,1.0,0.0,33.0,Other equipment,Irritant spray: drawn
+Cleveland,Other equipment,Irritant spray - used,0.0,11.0,87.0,36.0,4.0,1.0,0.0,139.0,Other equipment,Irritant spray: used
+Cleveland,Other equipment,Irritant spray not stated,0.0,0.0,6.0,2.0,0.0,0.0,0.0,8.0,,
+Cleveland,Other equipment,Spit and bite guard,0.0,0.0,0.0,4.0,0.0,0.0,0.0,4.0,Other equipment,Spit and bite guard
+Cleveland,Other equipment,Shield,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Other equipment,Shield
+Cleveland,Less lethal weapons,*Total Less lethal weapons,0.0,24.0,215.0,77.0,11.0,4.0,0.0,331.0,Less lethal weapons,Total: Less lethal weapons
+Cleveland,Less lethal weapons,CED of which,0.0,24.0,214.0,77.0,11.0,4.0,0.0,330.0,,
+Cleveland,Less lethal weapons,CED non-discharge,0.0,24.0,197.0,67.0,11.0,3.0,0.0,302.0,,
+Cleveland,Less lethal weapons,CED discharge,0.0,0.0,14.0,6.0,0.0,1.0,0.0,21.0,,
+Cleveland,Less lethal weapons,CED not stated,0.0,0.0,3.0,4.0,0.0,0.0,0.0,7.0,,
+Cleveland,Less lethal weapons,"AEP, of which",0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Less lethal weapons,Total: AEP
+Cleveland,Less lethal weapons,AEP drawn,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,
+Cleveland,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cleveland,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cleveland,Firearms,*Total Firearms,0.0,8.0,48.0,10.0,3.0,5.0,0.0,74.0,Firearms,Total: Firearms
+Cleveland,Other,*Total Other,0.0,39.0,254.0,117.0,26.0,14.0,0.0,450.0,Other,Total: Other
+Cleveland,Other,"Dog use, of which",0.0,5.0,22.0,8.0,0.0,0.0,0.0,35.0,Other,Total: Dog
+Cleveland,Other,Dog deployed,0.0,0.0,3.0,1.0,0.0,0.0,0.0,4.0,Other,Dog: deployed
+Cleveland,Other,Dog bite,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,Other,Dog: bite
+Cleveland,Other,Dog not stated,0.0,5.0,17.0,7.0,0.0,0.0,0.0,29.0,,
+Cleveland,Other,Other / improvised,0.0,34.0,232.0,109.0,26.0,14.0,0.0,415.0,Other,Other / improvised
+Cleveland,Not reported,*Total Not reported,0.0,18.0,116.0,61.0,19.0,2.0,0.0,216.0,Not reported,Total: Not reported
+Cleveland,Tactical communication,Tactical communication,3.0,210.0,1180.0,614.0,117.0,25.0,0.0,2149.0,Excluded: Tactical Communication,Tactical Communication
+Cumbria,Total (excluding not reported and tactical communication),*Total Tactics,3.0,560.0,3842.0,1723.0,375.0,70.0,192.0,6765.0,Total,Total: all
+Cumbria,Restraint,*Total Restraint,2.0,316.0,2100.0,972.0,219.0,40.0,97.0,3746.0,Restraint,Total: Restraint
+Cumbria,Restraint,"Handcuffing, of which",2.0,239.0,1491.0,742.0,188.0,34.0,62.0,2758.0,Restraint,Total: Handcuffing
+Cumbria,Restraint,Compliant handcuffing,0.0,69.0,560.0,317.0,90.0,9.0,22.0,1067.0,Restraint,Handcuffing: compliant
+Cumbria,Restraint,Non-compliant handcuffing,2.0,170.0,931.0,425.0,98.0,25.0,40.0,1691.0,Restraint,Handcuffing: non-compliant
+Cumbria,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cumbria,Restraint,Limb / Body restraints,0.0,16.0,91.0,47.0,2.0,3.0,3.0,162.0,Restraint,Limb / body restraints
+Cumbria,Restraint,Ground restraint,0.0,61.0,518.0,183.0,29.0,3.0,32.0,826.0,Restraint,Ground restraint
+Cumbria,Unarmed skills,*Total Unarmed skills,1.0,166.0,1073.0,452.0,103.0,21.0,61.0,1877.0,Unarmed skills,Total: unarmed skills
+Cumbria,Other equipment,*Total Other equipment,0.0,36.0,344.0,143.0,23.0,2.0,12.0,560.0,Other equipment,Total: Other equipment
+Cumbria,Other equipment,"Baton, of which",0.0,1.0,9.0,12.0,0.0,0.0,2.0,24.0,Other equipment,Total: Baton
+Cumbria,Other equipment,Baton drawn,0.0,0.0,7.0,6.0,0.0,0.0,2.0,15.0,Other equipment,Baton: drawn
+Cumbria,Other equipment,Baton used,0.0,1.0,2.0,6.0,0.0,0.0,0.0,9.0,Other equipment,Baton: used
+Cumbria,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cumbria,Other equipment,"Irritant spray, of which",0.0,24.0,296.0,118.0,20.0,2.0,10.0,470.0,Other equipment,Total: Irritant spray
+Cumbria,Other equipment,Irritant spray - drawn,0.0,11.0,102.0,36.0,9.0,1.0,6.0,165.0,Other equipment,Irritant spray: drawn
+Cumbria,Other equipment,Irritant spray - used,0.0,13.0,194.0,82.0,11.0,1.0,4.0,305.0,Other equipment,Irritant spray: used
+Cumbria,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cumbria,Other equipment,Spit and bite guard,0.0,11.0,34.0,13.0,3.0,0.0,0.0,61.0,Other equipment,Spit and bite guard
+Cumbria,Other equipment,Shield,0.0,0.0,5.0,0.0,0.0,0.0,0.0,5.0,Other equipment,Shield
+Cumbria,Less lethal weapons,*Total Less lethal weapons,0.0,19.0,172.0,95.0,15.0,2.0,13.0,316.0,Less lethal weapons,Total: Less lethal weapons
+Cumbria,Less lethal weapons,CED of which,0.0,19.0,171.0,95.0,15.0,2.0,13.0,315.0,,
+Cumbria,Less lethal weapons,CED non-discharge,0.0,19.0,154.0,82.0,15.0,2.0,12.0,284.0,,
+Cumbria,Less lethal weapons,CED discharge,0.0,0.0,16.0,12.0,0.0,0.0,1.0,29.0,,
+Cumbria,Less lethal weapons,CED not stated,0.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,
+Cumbria,Less lethal weapons,"AEP, of which",0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Less lethal weapons,Total: AEP
+Cumbria,Less lethal weapons,AEP drawn,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,
+Cumbria,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cumbria,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cumbria,Firearms,*Total Firearms,0.0,0.0,7.0,2.0,0.0,0.0,1.0,10.0,Firearms,Total: Firearms
+Cumbria,Other,*Total Other,0.0,23.0,146.0,59.0,15.0,5.0,8.0,256.0,Other,Total: Other
+Cumbria,Other,"Dog use, of which",0.0,2.0,13.0,6.0,0.0,0.0,0.0,21.0,Other,Total: Dog
+Cumbria,Other,Dog deployed,0.0,2.0,12.0,6.0,0.0,0.0,0.0,20.0,Other,Dog: deployed
+Cumbria,Other,Dog bite,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Other,Dog: bite
+Cumbria,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Cumbria,Other,Other / improvised,0.0,21.0,133.0,53.0,15.0,5.0,8.0,235.0,Other,Other / improvised
+Cumbria,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Cumbria,Tactical communication,Tactical communication,2.0,229.0,1482.0,702.0,171.0,30.0,79.0,2695.0,Excluded: Tactical Communication,Tactical Communication
+Derbyshire,Total (excluding not reported and tactical communication),*Total Tactics,2.0,691.0,4286.0,2178.0,475.0,80.0,244.0,7956.0,Total,Total: all
+Derbyshire,Restraint,*Total Restraint,0.0,349.0,2229.0,1184.0,273.0,41.0,59.0,4135.0,Restraint,Total: Restraint
+Derbyshire,Restraint,"Handcuffing, of which",0.0,274.0,1731.0,980.0,235.0,38.0,46.0,3304.0,Restraint,Total: Handcuffing
+Derbyshire,Restraint,Compliant handcuffing,:,:,:,:,:,:,:,:,Restraint,Handcuffing: compliant
+Derbyshire,Restraint,Non-compliant handcuffing,:,:,:,:,:,:,:,:,Restraint,Handcuffing: non-compliant
+Derbyshire,Restraint,Handcuffing not stated,0.0,274.0,1731.0,980.0,235.0,38.0,46.0,3304.0,,
+Derbyshire,Restraint,Limb / Body restraints,0.0,41.0,236.0,99.0,22.0,2.0,5.0,405.0,Restraint,Limb / body restraints
+Derbyshire,Restraint,Ground restraint,0.0,34.0,262.0,105.0,16.0,1.0,8.0,426.0,Restraint,Ground restraint
+Derbyshire,Unarmed skills,*Total Unarmed skills,1.0,241.0,1322.0,634.0,140.0,22.0,123.0,2483.0,Unarmed skills,Total: unarmed skills
+Derbyshire,Other equipment,*Total Other equipment,0.0,46.0,399.0,209.0,37.0,6.0,32.0,729.0,Other equipment,Total: Other equipment
+Derbyshire,Other equipment,"Baton, of which",0.0,2.0,36.0,21.0,6.0,0.0,7.0,72.0,Other equipment,Total: Baton
+Derbyshire,Other equipment,Baton drawn,0.0,2.0,24.0,14.0,4.0,0.0,5.0,49.0,Other equipment,Baton: drawn
+Derbyshire,Other equipment,Baton used,0.0,0.0,12.0,7.0,2.0,0.0,2.0,23.0,Other equipment,Baton: used
+Derbyshire,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Derbyshire,Other equipment,"Irritant spray, of which",0.0,36.0,305.0,167.0,28.0,2.0,22.0,560.0,Other equipment,Total: Irritant spray
+Derbyshire,Other equipment,Irritant spray - drawn,0.0,19.0,132.0,66.0,10.0,1.0,10.0,238.0,Other equipment,Irritant spray: drawn
+Derbyshire,Other equipment,Irritant spray - used,0.0,17.0,173.0,101.0,18.0,1.0,12.0,322.0,Other equipment,Irritant spray: used
+Derbyshire,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Derbyshire,Other equipment,Spit and bite guard,0.0,8.0,54.0,21.0,2.0,1.0,3.0,89.0,Other equipment,Spit and bite guard
+Derbyshire,Other equipment,Shield,0.0,0.0,4.0,0.0,1.0,3.0,0.0,8.0,Other equipment,Shield
+Derbyshire,Less lethal weapons,*Total Less lethal weapons,0.0,10.0,131.0,55.0,13.0,1.0,8.0,218.0,Less lethal weapons,Total: Less lethal weapons
+Derbyshire,Less lethal weapons,CED of which,0.0,9.0,126.0,55.0,13.0,1.0,7.0,211.0,,
+Derbyshire,Less lethal weapons,CED non-discharge,0.0,9.0,117.0,45.0,12.0,1.0,5.0,189.0,,
+Derbyshire,Less lethal weapons,CED discharge,0.0,0.0,9.0,9.0,1.0,0.0,2.0,21.0,,
+Derbyshire,Less lethal weapons,CED not stated,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,
+Derbyshire,Less lethal weapons,"AEP, of which",0.0,1.0,5.0,0.0,0.0,0.0,1.0,7.0,Less lethal weapons,Total: AEP
+Derbyshire,Less lethal weapons,AEP drawn,0.0,1.0,5.0,0.0,0.0,0.0,1.0,7.0,,
+Derbyshire,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Derbyshire,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Derbyshire,Firearms,*Total Firearms,0.0,3.0,35.0,7.0,0.0,0.0,0.0,45.0,Firearms,Total: Firearms
+Derbyshire,Other,*Total Other,1.0,42.0,170.0,89.0,12.0,10.0,22.0,346.0,Other,Total: Other
+Derbyshire,Other,"Dog use, of which",0.0,4.0,25.0,4.0,0.0,0.0,3.0,36.0,Other,Total: Dog
+Derbyshire,Other,Dog deployed,0.0,4.0,22.0,4.0,0.0,0.0,3.0,33.0,Other,Dog: deployed
+Derbyshire,Other,Dog bite,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,Other,Dog: bite
+Derbyshire,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Derbyshire,Other,Other / improvised,1.0,38.0,145.0,85.0,12.0,10.0,19.0,310.0,Other,Other / improvised
+Derbyshire,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,42.0,42.0,Not reported,Total: Not reported
+Derbyshire,Tactical communication,Tactical communication,2.0,317.0,1828.0,970.0,235.0,41.0,145.0,3538.0,Excluded: Tactical Communication,Tactical Communication
+Devon & Cornwall,Total (excluding not reported and tactical communication),*Total Tactics,10.0,1446.0,9115.0,4175.0,982.0,129.0,1838.0,17695.0,Total,Total: all
+Devon & Cornwall,Restraint,*Total Restraint,1.0,887.0,5611.0,2602.0,608.0,69.0,1055.0,10833.0,Restraint,Total: Restraint
+Devon & Cornwall,Restraint,"Handcuffing, of which",1.0,651.0,3921.0,1913.0,498.0,59.0,651.0,7694.0,Restraint,Total: Handcuffing
+Devon & Cornwall,Restraint,Compliant handcuffing,1.0,237.0,1605.0,867.0,246.0,20.0,180.0,3156.0,Restraint,Handcuffing: compliant
+Devon & Cornwall,Restraint,Non-compliant handcuffing,0.0,414.0,2316.0,1046.0,252.0,39.0,471.0,4538.0,Restraint,Handcuffing: non-compliant
+Devon & Cornwall,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Devon & Cornwall,Restraint,Limb / Body restraints,0.0,67.0,367.0,132.0,16.0,5.0,85.0,672.0,Restraint,Limb / body restraints
+Devon & Cornwall,Restraint,Ground restraint,0.0,169.0,1323.0,557.0,94.0,5.0,319.0,2467.0,Restraint,Ground restraint
+Devon & Cornwall,Unarmed skills,*Total Unarmed skills,7.0,451.0,2523.0,1138.0,284.0,49.0,563.0,5015.0,Unarmed skills,Total: unarmed skills
+Devon & Cornwall,Other equipment,*Total Other equipment,0.0,47.0,412.0,175.0,29.0,1.0,74.0,738.0,Other equipment,Total: Other equipment
+Devon & Cornwall,Other equipment,"Baton, of which",0.0,1.0,23.0,10.0,2.0,0.0,1.0,37.0,Other equipment,Total: Baton
+Devon & Cornwall,Other equipment,Baton drawn,0.0,1.0,14.0,6.0,1.0,0.0,1.0,23.0,Other equipment,Baton: drawn
+Devon & Cornwall,Other equipment,Baton used,0.0,0.0,9.0,4.0,1.0,0.0,0.0,14.0,Other equipment,Baton: used
+Devon & Cornwall,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Devon & Cornwall,Other equipment,"Irritant spray, of which",0.0,24.0,183.0,99.0,20.0,0.0,39.0,365.0,Other equipment,Total: Irritant spray
+Devon & Cornwall,Other equipment,Irritant spray - drawn,0.0,14.0,68.0,43.0,12.0,0.0,24.0,161.0,Other equipment,Irritant spray: drawn
+Devon & Cornwall,Other equipment,Irritant spray - used,0.0,10.0,115.0,56.0,8.0,0.0,15.0,204.0,Other equipment,Irritant spray: used
+Devon & Cornwall,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Devon & Cornwall,Other equipment,Spit and bite guard,0.0,20.0,197.0,59.0,7.0,1.0,30.0,314.0,Other equipment,Spit and bite guard
+Devon & Cornwall,Other equipment,Shield,0.0,2.0,9.0,7.0,0.0,0.0,4.0,22.0,Other equipment,Shield
+Devon & Cornwall,Less lethal weapons,*Total Less lethal weapons,0.0,43.0,386.0,190.0,44.0,3.0,87.0,753.0,Less lethal weapons,Total: Less lethal weapons
+Devon & Cornwall,Less lethal weapons,CED of which,0.0,43.0,382.0,179.0,42.0,3.0,84.0,733.0,,
+Devon & Cornwall,Less lethal weapons,CED non-discharge,0.0,39.0,331.0,150.0,41.0,1.0,63.0,625.0,,
+Devon & Cornwall,Less lethal weapons,CED discharge,0.0,4.0,44.0,26.0,1.0,2.0,13.0,90.0,,
+Devon & Cornwall,Less lethal weapons,CED not stated,0.0,0.0,7.0,3.0,0.0,0.0,8.0,18.0,,
+Devon & Cornwall,Less lethal weapons,"AEP, of which",0.0,0.0,4.0,11.0,2.0,0.0,3.0,20.0,Less lethal weapons,Total: AEP
+Devon & Cornwall,Less lethal weapons,AEP drawn,0.0,0.0,4.0,10.0,2.0,0.0,2.0,18.0,,
+Devon & Cornwall,Less lethal weapons,AEP used,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,,
+Devon & Cornwall,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Devon & Cornwall,Firearms,*Total Firearms,0.0,3.0,31.0,12.0,2.0,5.0,19.0,72.0,Firearms,Total: Firearms
+Devon & Cornwall,Other,*Total Other,2.0,15.0,152.0,58.0,15.0,2.0,40.0,284.0,Other,Total: Other
+Devon & Cornwall,Other,"Dog use, of which",0.0,2.0,16.0,3.0,1.0,0.0,5.0,27.0,Other,Total: Dog
+Devon & Cornwall,Other,Dog deployed,0.0,1.0,10.0,2.0,0.0,0.0,2.0,15.0,Other,Dog: deployed
+Devon & Cornwall,Other,Dog bite,0.0,1.0,6.0,1.0,1.0,0.0,3.0,12.0,Other,Dog: bite
+Devon & Cornwall,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Devon & Cornwall,Other,Other / improvised,2.0,13.0,136.0,55.0,14.0,2.0,35.0,257.0,Other,Other / improvised
+Devon & Cornwall,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Devon & Cornwall,Tactical communication,Tactical communication,10.0,780.0,4711.0,2254.0,586.0,83.0,818.0,9242.0,Excluded: Tactical Communication,Tactical Communication
+Dorset,Total (excluding not reported and tactical communication),*Total Tactics,21.0,1013.0,7158.0,3363.0,1041.0,102.0,10.0,12708.0,Total,Total: all
+Dorset,Restraint,*Total Restraint,13.0,786.0,5521.0,2625.0,800.0,76.0,6.0,9827.0,Restraint,Total: Restraint
+Dorset,Restraint,"Handcuffing, of which",9.0,531.0,3540.0,1848.0,599.0,57.0,4.0,6588.0,Restraint,Total: Handcuffing
+Dorset,Restraint,Compliant handcuffing,0.0,145.0,1132.0,720.0,214.0,19.0,1.0,2231.0,Restraint,Handcuffing: compliant
+Dorset,Restraint,Non-compliant handcuffing,9.0,386.0,2408.0,1128.0,385.0,38.0,3.0,4357.0,Restraint,Handcuffing: non-compliant
+Dorset,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Dorset,Restraint,Limb / Body restraints,0.0,44.0,463.0,182.0,46.0,5.0,1.0,741.0,Restraint,Limb / body restraints
+Dorset,Restraint,Ground restraint,4.0,211.0,1518.0,595.0,155.0,14.0,1.0,2498.0,Restraint,Ground restraint
+Dorset,Unarmed skills,*Total Unarmed skills,8.0,156.0,1006.0,486.0,171.0,21.0,0.0,1848.0,Unarmed skills,Total: unarmed skills
+Dorset,Other equipment,*Total Other equipment,0.0,37.0,330.0,134.0,26.0,1.0,3.0,531.0,Other equipment,Total: Other equipment
+Dorset,Other equipment,"Baton, of which",0.0,1.0,26.0,9.0,3.0,0.0,1.0,40.0,Other equipment,Total: Baton
+Dorset,Other equipment,Baton drawn,0.0,1.0,17.0,6.0,2.0,0.0,1.0,27.0,Other equipment,Baton: drawn
+Dorset,Other equipment,Baton used,0.0,0.0,9.0,3.0,1.0,0.0,0.0,13.0,Other equipment,Baton: used
+Dorset,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Dorset,Other equipment,"Irritant spray, of which",0.0,18.0,200.0,76.0,20.0,1.0,2.0,317.0,Other equipment,Total: Irritant spray
+Dorset,Other equipment,Irritant spray - drawn,0.0,8.0,52.0,17.0,3.0,0.0,1.0,81.0,Other equipment,Irritant spray: drawn
+Dorset,Other equipment,Irritant spray - used,0.0,10.0,148.0,59.0,17.0,1.0,1.0,236.0,Other equipment,Irritant spray: used
+Dorset,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Dorset,Other equipment,Spit and bite guard,0.0,18.0,103.0,47.0,3.0,0.0,0.0,171.0,Other equipment,Spit and bite guard
+Dorset,Other equipment,Shield,0.0,0.0,1.0,2.0,0.0,0.0,0.0,3.0,Other equipment,Shield
+Dorset,Less lethal weapons,*Total Less lethal weapons,0.0,15.0,117.0,55.0,17.0,1.0,1.0,206.0,Less lethal weapons,Total: Less lethal weapons
+Dorset,Less lethal weapons,CED of which,0.0,15.0,117.0,55.0,17.0,1.0,1.0,206.0,,
+Dorset,Less lethal weapons,CED non-discharge,0.0,14.0,103.0,51.0,16.0,1.0,1.0,186.0,,
+Dorset,Less lethal weapons,CED discharge,0.0,1.0,14.0,4.0,1.0,0.0,0.0,20.0,,
+Dorset,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Dorset,Less lethal weapons,"AEP, of which",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Less lethal weapons,Total: AEP
+Dorset,Less lethal weapons,AEP drawn,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Dorset,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Dorset,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Dorset,Firearms,*Total Firearms,0.0,4.0,105.0,25.0,7.0,2.0,0.0,143.0,Firearms,Total: Firearms
+Dorset,Other,*Total Other,0.0,15.0,79.0,38.0,20.0,1.0,0.0,153.0,Other,Total: Other
+Dorset,Other,"Dog use, of which",0.0,1.0,18.0,6.0,2.0,0.0,0.0,27.0,Other,Total: Dog
+Dorset,Other,Dog deployed,0.0,1.0,17.0,5.0,2.0,0.0,0.0,25.0,Other,Dog: deployed
+Dorset,Other,Dog bite,0.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,Other,Dog: bite
+Dorset,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Dorset,Other,Other / improvised,0.0,14.0,61.0,32.0,18.0,1.0,0.0,126.0,Other,Other / improvised
+Dorset,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Dorset,Tactical communication,Tactical communication,1.0,28.0,194.0,75.0,29.0,2.0,0.0,329.0,Excluded: Tactical Communication,Tactical Communication
+Durham,Total (excluding not reported and tactical communication),*Total Tactics,11.0,793.0,5679.0,2928.0,583.0,30.0,60.0,10084.0,Total,Total: all
+Durham,Restraint,*Total Restraint,5.0,504.0,3810.0,2004.0,419.0,19.0,34.0,6795.0,Restraint,Total: Restraint
+Durham,Restraint,"Handcuffing, of which",4.0,396.0,3072.0,1699.0,373.0,17.0,27.0,5588.0,Restraint,Total: Handcuffing
+Durham,Restraint,Compliant handcuffing,4.0,260.0,2296.0,1322.0,285.0,15.0,18.0,4200.0,Restraint,Handcuffing: compliant
+Durham,Restraint,Non-compliant handcuffing,0.0,136.0,776.0,377.0,88.0,2.0,9.0,1388.0,Restraint,Handcuffing: non-compliant
+Durham,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Durham,Restraint,Limb / Body restraints,1.0,12.0,76.0,32.0,3.0,0.0,1.0,125.0,Restraint,Limb / body restraints
+Durham,Restraint,Ground restraint,0.0,96.0,662.0,273.0,43.0,2.0,6.0,1082.0,Restraint,Ground restraint
+Durham,Unarmed skills,*Total Unarmed skills,3.0,211.0,1341.0,643.0,110.0,8.0,21.0,2337.0,Unarmed skills,Total: unarmed skills
+Durham,Other equipment,*Total Other equipment,0.0,16.0,176.0,90.0,12.0,0.0,2.0,296.0,Other equipment,Total: Other equipment
+Durham,Other equipment,"Baton, of which",0.0,3.0,19.0,14.0,1.0,0.0,1.0,38.0,Other equipment,Total: Baton
+Durham,Other equipment,Baton drawn,0.0,2.0,10.0,4.0,1.0,0.0,0.0,17.0,Other equipment,Baton: drawn
+Durham,Other equipment,Baton used,0.0,1.0,9.0,10.0,0.0,0.0,1.0,21.0,Other equipment,Baton: used
+Durham,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Durham,Other equipment,"Irritant spray, of which",0.0,11.0,146.0,69.0,11.0,0.0,1.0,238.0,Other equipment,Total: Irritant spray
+Durham,Other equipment,Irritant spray - drawn,0.0,5.0,44.0,24.0,5.0,0.0,0.0,78.0,Other equipment,Irritant spray: drawn
+Durham,Other equipment,Irritant spray - used,0.0,6.0,102.0,45.0,6.0,0.0,1.0,160.0,Other equipment,Irritant spray: used
+Durham,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Durham,Other equipment,Spit and bite guard,0.0,2.0,10.0,4.0,0.0,0.0,0.0,16.0,Other equipment,Spit and bite guard
+Durham,Other equipment,Shield,0.0,0.0,1.0,3.0,0.0,0.0,0.0,4.0,Other equipment,Shield
+Durham,Less lethal weapons,*Total Less lethal weapons,1.0,22.0,218.0,102.0,21.0,0.0,0.0,364.0,Less lethal weapons,Total: Less lethal weapons
+Durham,Less lethal weapons,CED of which,1.0,20.0,209.0,97.0,21.0,0.0,0.0,348.0,,
+Durham,Less lethal weapons,CED non-discharge,1.0,19.0,175.0,78.0,17.0,0.0,0.0,290.0,,
+Durham,Less lethal weapons,CED discharge,0.0,1.0,25.0,17.0,4.0,0.0,0.0,47.0,,
+Durham,Less lethal weapons,CED not stated,0.0,0.0,9.0,2.0,0.0,0.0,0.0,11.0,,
+Durham,Less lethal weapons,"AEP, of which",0.0,2.0,9.0,5.0,0.0,0.0,0.0,16.0,Less lethal weapons,Total: AEP
+Durham,Less lethal weapons,AEP drawn,0.0,2.0,8.0,5.0,0.0,0.0,0.0,15.0,,
+Durham,Less lethal weapons,AEP used,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,
+Durham,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Durham,Firearms,*Total Firearms,0.0,1.0,4.0,5.0,0.0,0.0,0.0,10.0,Firearms,Total: Firearms
+Durham,Other,*Total Other,2.0,39.0,130.0,84.0,21.0,3.0,3.0,282.0,Other,Total: Other
+Durham,Other,"Dog use, of which",0.0,2.0,20.0,11.0,3.0,0.0,1.0,37.0,Other,Total: Dog
+Durham,Other,Dog deployed,0.0,2.0,18.0,10.0,3.0,0.0,1.0,34.0,Other,Dog: deployed
+Durham,Other,Dog bite,0.0,0.0,2.0,1.0,0.0,0.0,0.0,3.0,Other,Dog: bite
+Durham,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Durham,Other,Other / improvised,2.0,37.0,110.0,73.0,18.0,3.0,2.0,245.0,Other,Other / improvised
+Durham,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Durham,Tactical communication,Tactical communication,0.0,130.0,893.0,476.0,75.0,5.0,10.0,1589.0,Excluded: Tactical Communication,Tactical Communication
+Dyfed-Powys,Total (excluding not reported and tactical communication),*Total Tactics,14.0,583.0,2880.0,1015.0,325.0,65.0,428.0,5310.0,Total,Total: all
+Dyfed-Powys,Restraint,*Total Restraint,2.0,290.0,1620.0,575.0,196.0,29.0,187.0,2899.0,Restraint,Total: Restraint
+Dyfed-Powys,Restraint,"Handcuffing, of which",1.0,244.0,1372.0,530.0,170.0,27.0,164.0,2508.0,Restraint,Total: Handcuffing
+Dyfed-Powys,Restraint,Compliant handcuffing,1.0,88.0,777.0,357.0,107.0,11.0,92.0,1433.0,Restraint,Handcuffing: compliant
+Dyfed-Powys,Restraint,Non-compliant handcuffing,0.0,156.0,595.0,173.0,63.0,16.0,72.0,1075.0,Restraint,Handcuffing: non-compliant
+Dyfed-Powys,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Dyfed-Powys,Restraint,Limb / Body restraints,1.0,20.0,73.0,14.0,10.0,1.0,6.0,125.0,Restraint,Limb / body restraints
+Dyfed-Powys,Restraint,Ground restraint,0.0,26.0,175.0,31.0,16.0,1.0,17.0,266.0,Restraint,Ground restraint
+Dyfed-Powys,Unarmed skills,*Total Unarmed skills,8.0,241.0,870.0,284.0,90.0,26.0,138.0,1657.0,Unarmed skills,Total: unarmed skills
+Dyfed-Powys,Other equipment,*Total Other equipment,0.0,8.0,76.0,42.0,4.0,1.0,24.0,155.0,Other equipment,Total: Other equipment
+Dyfed-Powys,Other equipment,"Baton, of which",0.0,0.0,9.0,2.0,0.0,0.0,8.0,19.0,Other equipment,Total: Baton
+Dyfed-Powys,Other equipment,Baton drawn,0.0,0.0,6.0,2.0,0.0,0.0,6.0,14.0,Other equipment,Baton: drawn
+Dyfed-Powys,Other equipment,Baton used,0.0,0.0,3.0,0.0,0.0,0.0,2.0,5.0,Other equipment,Baton: used
+Dyfed-Powys,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Dyfed-Powys,Other equipment,"Irritant spray, of which",0.0,3.0,40.0,37.0,4.0,1.0,13.0,98.0,Other equipment,Total: Irritant spray
+Dyfed-Powys,Other equipment,Irritant spray - drawn,0.0,2.0,17.0,14.0,2.0,0.0,3.0,38.0,Other equipment,Irritant spray: drawn
+Dyfed-Powys,Other equipment,Irritant spray - used,0.0,1.0,23.0,23.0,2.0,1.0,10.0,60.0,Other equipment,Irritant spray: used
+Dyfed-Powys,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Dyfed-Powys,Other equipment,Spit and bite guard,0.0,5.0,20.0,3.0,0.0,0.0,3.0,31.0,Other equipment,Spit and bite guard
+Dyfed-Powys,Other equipment,Shield,0.0,0.0,7.0,0.0,0.0,0.0,0.0,7.0,Other equipment,Shield
+Dyfed-Powys,Less lethal weapons,*Total Less lethal weapons,1.0,12.0,189.0,61.0,17.0,2.0,40.0,322.0,Less lethal weapons,Total: Less lethal weapons
+Dyfed-Powys,Less lethal weapons,CED of which,1.0,12.0,174.0,57.0,16.0,1.0,38.0,299.0,,
+Dyfed-Powys,Less lethal weapons,CED non-discharge,1.0,12.0,159.0,51.0,15.0,1.0,34.0,273.0,,
+Dyfed-Powys,Less lethal weapons,CED discharge,0.0,0.0,15.0,6.0,1.0,0.0,4.0,26.0,,
+Dyfed-Powys,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Dyfed-Powys,Less lethal weapons,"AEP, of which",0.0,0.0,15.0,4.0,1.0,1.0,2.0,23.0,Less lethal weapons,Total: AEP
+Dyfed-Powys,Less lethal weapons,AEP drawn,0.0,0.0,15.0,4.0,1.0,1.0,2.0,23.0,,
+Dyfed-Powys,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Dyfed-Powys,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Dyfed-Powys,Firearms,*Total Firearms,0.0,8.0,50.0,15.0,8.0,3.0,9.0,93.0,Firearms,Total: Firearms
+Dyfed-Powys,Other,*Total Other,3.0,24.0,75.0,38.0,10.0,4.0,30.0,184.0,Other,Total: Other
+Dyfed-Powys,Other,"Dog use, of which",0.0,4.0,3.0,0.0,1.0,0.0,3.0,11.0,Other,Total: Dog
+Dyfed-Powys,Other,Dog deployed,0.0,4.0,3.0,0.0,1.0,0.0,3.0,11.0,Other,Dog: deployed
+Dyfed-Powys,Other,Dog bite,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Other,Dog: bite
+Dyfed-Powys,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Dyfed-Powys,Other,Other / improvised,3.0,20.0,72.0,38.0,9.0,4.0,27.0,173.0,Other,Other / improvised
+Dyfed-Powys,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Dyfed-Powys,Tactical communication,Tactical communication,10.0,250.0,1248.0,451.0,152.0,33.0,187.0,2331.0,Excluded: Tactical Communication,Tactical Communication
+Essex,Total (excluding not reported and tactical communication),*Total Tactics,170.0,2294.0,11464.0,5659.0,1275.0,93.0,243.0,21198.0,Total,Total: all
+Essex,Restraint,*Total Restraint,115.0,1511.0,7810.0,3856.0,837.0,49.0,152.0,14330.0,Restraint,Total: Restraint
+Essex,Restraint,"Handcuffing, of which",73.0,958.0,5071.0,2572.0,630.0,41.0,92.0,9437.0,Restraint,Total: Handcuffing
+Essex,Restraint,Compliant handcuffing,48.0,525.0,3222.0,1646.0,377.0,26.0,55.0,5899.0,Restraint,Handcuffing: compliant
+Essex,Restraint,Non-compliant handcuffing,25.0,433.0,1849.0,926.0,253.0,15.0,37.0,3538.0,Restraint,Handcuffing: non-compliant
+Essex,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Essex,Restraint,Limb / Body restraints,11.0,179.0,761.0,381.0,61.0,1.0,15.0,1409.0,Restraint,Limb / body restraints
+Essex,Restraint,Ground restraint,31.0,374.0,1978.0,903.0,146.0,7.0,45.0,3484.0,Restraint,Ground restraint
+Essex,Unarmed skills,*Total Unarmed skills,24.0,409.0,1848.0,956.0,231.0,20.0,61.0,3549.0,Unarmed skills,Total: unarmed skills
+Essex,Other equipment,*Total Other equipment,5.0,69.0,349.0,148.0,29.0,1.0,7.0,608.0,Other equipment,Total: Other equipment
+Essex,Other equipment,"Baton, of which",3.0,11.0,93.0,26.0,12.0,0.0,0.0,145.0,Other equipment,Total: Baton
+Essex,Other equipment,Baton drawn,3.0,11.0,69.0,15.0,9.0,0.0,0.0,107.0,Other equipment,Baton: drawn
+Essex,Other equipment,Baton used,0.0,0.0,24.0,11.0,3.0,0.0,0.0,38.0,Other equipment,Baton: used
+Essex,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Essex,Other equipment,"Irritant spray, of which",1.0,16.0,97.0,39.0,5.0,1.0,1.0,160.0,Other equipment,Total: Irritant spray
+Essex,Other equipment,Irritant spray - drawn,0.0,11.0,45.0,17.0,2.0,1.0,1.0,77.0,Other equipment,Irritant spray: drawn
+Essex,Other equipment,Irritant spray - used,1.0,5.0,52.0,22.0,3.0,0.0,0.0,83.0,Other equipment,Irritant spray: used
+Essex,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Essex,Other equipment,Spit and bite guard,1.0,37.0,148.0,74.0,11.0,0.0,6.0,277.0,Other equipment,Spit and bite guard
+Essex,Other equipment,Shield,0.0,5.0,11.0,9.0,1.0,0.0,0.0,26.0,Other equipment,Shield
+Essex,Less lethal weapons,*Total Less lethal weapons,0.0,36.0,214.0,97.0,27.0,1.0,6.0,381.0,Less lethal weapons,Total: Less lethal weapons
+Essex,Less lethal weapons,CED of which,0.0,36.0,214.0,97.0,27.0,1.0,6.0,381.0,,
+Essex,Less lethal weapons,CED non-discharge,0.0,24.0,133.0,58.0,14.0,1.0,3.0,233.0,,
+Essex,Less lethal weapons,CED discharge,0.0,1.0,17.0,9.0,0.0,0.0,2.0,29.0,,
+Essex,Less lethal weapons,CED not stated,0.0,11.0,64.0,30.0,13.0,0.0,1.0,119.0,,
+Essex,Less lethal weapons,"AEP, of which",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Less lethal weapons,Total: AEP
+Essex,Less lethal weapons,AEP drawn,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Essex,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Essex,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Essex,Firearms,*Total Firearms,0.0,27.0,88.0,32.0,13.0,1.0,1.0,162.0,Firearms,Total: Firearms
+Essex,Other,*Total Other,26.0,242.0,1155.0,570.0,138.0,21.0,16.0,2168.0,Other,Total: Other
+Essex,Other,"Dog use, of which",0.0,23.0,113.0,26.0,4.0,0.0,1.0,167.0,Other,Total: Dog
+Essex,Other,Dog deployed,0.0,16.0,87.0,22.0,4.0,0.0,1.0,130.0,Other,Dog: deployed
+Essex,Other,Dog bite,0.0,7.0,26.0,4.0,0.0,0.0,0.0,37.0,Other,Dog: bite
+Essex,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Essex,Other,Other / improvised,26.0,219.0,1042.0,544.0,134.0,21.0,15.0,2001.0,Other,Other / improvised
+Essex,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Essex,Tactical communication,Tactical communication,34.0,541.0,2597.0,1308.0,330.0,31.0,55.0,4896.0,Excluded: Tactical Communication,Tactical Communication
+Gloucestershire,Total (excluding not reported and tactical communication),*Total Tactics,0.0,212.0,1051.0,510.0,176.0,10.0,177.0,2136.0,Total,Total: all
+Gloucestershire,Restraint,*Total Restraint,0.0,148.0,685.0,324.0,117.0,5.0,115.0,1394.0,Restraint,Total: Restraint
+Gloucestershire,Restraint,"Handcuffing, of which",0.0,99.0,438.0,236.0,77.0,5.0,75.0,930.0,Restraint,Total: Handcuffing
+Gloucestershire,Restraint,Compliant handcuffing,0.0,58.0,253.0,138.0,44.0,3.0,46.0,542.0,Restraint,Handcuffing: compliant
+Gloucestershire,Restraint,Non-compliant handcuffing,0.0,41.0,185.0,98.0,33.0,2.0,29.0,388.0,Restraint,Handcuffing: non-compliant
+Gloucestershire,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Gloucestershire,Restraint,Limb / Body restraints,0.0,8.0,53.0,12.0,10.0,0.0,6.0,89.0,Restraint,Limb / body restraints
+Gloucestershire,Restraint,Ground restraint,0.0,41.0,194.0,76.0,30.0,0.0,34.0,375.0,Restraint,Ground restraint
+Gloucestershire,Unarmed skills,*Total Unarmed skills,0.0,41.0,186.0,104.0,33.0,5.0,26.0,395.0,Unarmed skills,Total: unarmed skills
+Gloucestershire,Other equipment,*Total Other equipment,0.0,8.0,82.0,26.0,11.0,0.0,10.0,137.0,Other equipment,Total: Other equipment
+Gloucestershire,Other equipment,"Baton, of which",0.0,1.0,11.0,7.0,4.0,0.0,2.0,25.0,Other equipment,Total: Baton
+Gloucestershire,Other equipment,Baton drawn,0.0,0.0,7.0,3.0,3.0,0.0,1.0,14.0,Other equipment,Baton: drawn
+Gloucestershire,Other equipment,Baton used,0.0,1.0,4.0,4.0,1.0,0.0,1.0,11.0,Other equipment,Baton: used
+Gloucestershire,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Gloucestershire,Other equipment,"Irritant spray, of which",0.0,2.0,49.0,12.0,5.0,0.0,6.0,74.0,Other equipment,Total: Irritant spray
+Gloucestershire,Other equipment,Irritant spray - drawn,0.0,2.0,26.0,7.0,3.0,0.0,4.0,42.0,Other equipment,Irritant spray: drawn
+Gloucestershire,Other equipment,Irritant spray - used,0.0,0.0,23.0,5.0,2.0,0.0,2.0,32.0,Other equipment,Irritant spray: used
+Gloucestershire,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Gloucestershire,Other equipment,Spit and bite guard,0.0,2.0,18.0,3.0,1.0,0.0,2.0,26.0,Other equipment,Spit and bite guard
+Gloucestershire,Other equipment,Shield,0.0,3.0,4.0,4.0,1.0,0.0,0.0,12.0,Other equipment,Shield
+Gloucestershire,Less lethal weapons,*Total Less lethal weapons,0.0,1.0,60.0,32.0,9.0,0.0,19.0,121.0,Less lethal weapons,Total: Less lethal weapons
+Gloucestershire,Less lethal weapons,CED of which,0.0,0.0,50.0,27.0,7.0,0.0,18.0,102.0,,
+Gloucestershire,Less lethal weapons,CED non-discharge,0.0,0.0,30.0,17.0,5.0,0.0,11.0,63.0,,
+Gloucestershire,Less lethal weapons,CED discharge,0.0,0.0,8.0,6.0,1.0,0.0,7.0,22.0,,
+Gloucestershire,Less lethal weapons,CED not stated,0.0,0.0,12.0,4.0,1.0,0.0,0.0,17.0,,
+Gloucestershire,Less lethal weapons,"AEP, of which",0.0,1.0,10.0,5.0,2.0,0.0,1.0,19.0,Less lethal weapons,Total: AEP
+Gloucestershire,Less lethal weapons,AEP drawn,0.0,1.0,9.0,4.0,2.0,0.0,1.0,17.0,,
+Gloucestershire,Less lethal weapons,AEP used,0.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,
+Gloucestershire,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Gloucestershire,Firearms,*Total Firearms,0.0,1.0,2.0,4.0,0.0,0.0,0.0,7.0,Firearms,Total: Firearms
+Gloucestershire,Other,*Total Other,0.0,13.0,36.0,20.0,6.0,0.0,7.0,82.0,Other,Total: Other
+Gloucestershire,Other,"Dog use, of which",0.0,4.0,17.0,12.0,3.0,0.0,6.0,42.0,Other,Total: Dog
+Gloucestershire,Other,Dog deployed,0.0,4.0,15.0,12.0,3.0,0.0,5.0,39.0,Other,Dog: deployed
+Gloucestershire,Other,Dog bite,0.0,0.0,2.0,0.0,0.0,0.0,1.0,3.0,Other,Dog: bite
+Gloucestershire,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Gloucestershire,Other,Other / improvised,0.0,9.0,19.0,8.0,3.0,0.0,1.0,40.0,Other,Other / improvised
+Gloucestershire,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Gloucestershire,Tactical communication,Tactical communication,0.0,109.0,484.0,252.0,97.0,8.0,77.0,1027.0,Excluded: Tactical Communication,Tactical Communication
+Greater Manchester,Total (excluding not reported and tactical communication),*Total Tactics,45.0,1920.0,9514.0,4060.0,814.0,83.0,0.0,16436.0,Total,Total: all
+Greater Manchester,Restraint,*Total Restraint,7.0,1239.0,5866.0,2535.0,489.0,51.0,0.0,10187.0,Restraint,Total: Restraint
+Greater Manchester,Restraint,"Handcuffing, of which",2.0,616.0,2714.0,1202.0,242.0,22.0,0.0,4798.0,Restraint,Total: Handcuffing
+Greater Manchester,Restraint,Compliant handcuffing,0.0,258.0,1084.0,487.0,88.0,5.0,0.0,1922.0,Restraint,Handcuffing: compliant
+Greater Manchester,Restraint,Non-compliant handcuffing,2.0,358.0,1630.0,715.0,154.0,17.0,0.0,2876.0,Restraint,Handcuffing: non-compliant
+Greater Manchester,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Greater Manchester,Restraint,Limb / Body restraints,4.0,352.0,1632.0,716.0,137.0,16.0,0.0,2857.0,Restraint,Limb / body restraints
+Greater Manchester,Restraint,Ground restraint,1.0,271.0,1520.0,617.0,110.0,13.0,0.0,2532.0,Restraint,Ground restraint
+Greater Manchester,Unarmed skills,*Total Unarmed skills,13.0,458.0,1977.0,889.0,192.0,22.0,0.0,3551.0,Unarmed skills,Total: unarmed skills
+Greater Manchester,Other equipment,*Total Other equipment,10.0,66.0,477.0,177.0,37.0,2.0,0.0,769.0,Other equipment,Total: Other equipment
+Greater Manchester,Other equipment,"Baton, of which",4.0,34.0,198.0,73.0,11.0,0.0,0.0,320.0,Other equipment,Total: Baton
+Greater Manchester,Other equipment,Baton drawn,4.0,26.0,134.0,48.0,7.0,0.0,0.0,219.0,Other equipment,Baton: drawn
+Greater Manchester,Other equipment,Baton used,0.0,8.0,64.0,25.0,4.0,0.0,0.0,101.0,Other equipment,Baton: used
+Greater Manchester,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Greater Manchester,Other equipment,"Irritant spray, of which",3.0,23.0,163.0,63.0,12.0,1.0,0.0,265.0,Other equipment,Total: Irritant spray
+Greater Manchester,Other equipment,Irritant spray - drawn,2.0,14.0,100.0,34.0,8.0,1.0,0.0,159.0,Other equipment,Irritant spray: drawn
+Greater Manchester,Other equipment,Irritant spray - used,1.0,9.0,63.0,29.0,4.0,0.0,0.0,106.0,Other equipment,Irritant spray: used
+Greater Manchester,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Greater Manchester,Other equipment,Spit and bite guard,0.0,8.0,44.0,14.0,6.0,0.0,0.0,72.0,Other equipment,Spit and bite guard
+Greater Manchester,Other equipment,Shield,3.0,1.0,72.0,27.0,8.0,1.0,0.0,112.0,Other equipment,Shield
+Greater Manchester,Less lethal weapons,*Total Less lethal weapons,11.0,121.0,946.0,375.0,81.0,8.0,0.0,1546.0,Less lethal weapons,Total: Less lethal weapons
+Greater Manchester,Less lethal weapons,CED of which,11.0,121.0,946.0,372.0,81.0,8.0,0.0,1543.0,,
+Greater Manchester,Less lethal weapons,CED non-discharge,5.0,109.0,686.0,290.0,64.0,4.0,0.0,1158.0,,
+Greater Manchester,Less lethal weapons,CED discharge,0.0,7.0,109.0,45.0,8.0,1.0,0.0,174.0,,
+Greater Manchester,Less lethal weapons,CED not stated,6.0,5.0,151.0,37.0,9.0,3.0,0.0,211.0,,
+Greater Manchester,Less lethal weapons,"AEP, of which",0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,Less lethal weapons,Total: AEP
+Greater Manchester,Less lethal weapons,AEP drawn,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,
+Greater Manchester,Less lethal weapons,AEP used,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,
+Greater Manchester,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Greater Manchester,Firearms,*Total Firearms,0.0,2.0,27.0,15.0,1.0,0.0,0.0,45.0,Firearms,Total: Firearms
+Greater Manchester,Other,*Total Other,0.0,34.0,221.0,69.0,14.0,0.0,0.0,338.0,Other,Total: Other
+Greater Manchester,Other,"Dog use, of which",0.0,10.0,48.0,5.0,0.0,0.0,0.0,63.0,Other,Total: Dog
+Greater Manchester,Other,Dog deployed,0.0,5.0,28.0,3.0,0.0,0.0,0.0,36.0,Other,Dog: deployed
+Greater Manchester,Other,Dog bite,0.0,5.0,20.0,2.0,0.0,0.0,0.0,27.0,Other,Dog: bite
+Greater Manchester,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Greater Manchester,Other,Other / improvised,0.0,24.0,173.0,64.0,14.0,0.0,0.0,275.0,Other,Other / improvised
+Greater Manchester,Not reported,*Total Not reported,1.0,4.0,17.0,10.0,2.0,0.0,0.0,34.0,Not reported,Total: Not reported
+Greater Manchester,Tactical communication,Tactical communication,22.0,859.0,3979.0,1730.0,359.0,37.0,0.0,6986.0,Excluded: Tactical Communication,Tactical Communication
+Gwent,Total (excluding not reported and tactical communication),*Total Tactics,11.0,890.0,5657.0,1975.0,418.0,27.0,48.0,9026.0,Total,Total: all
+Gwent,Restraint,*Total Restraint,4.0,542.0,3691.0,1377.0,275.0,14.0,32.0,5935.0,Restraint,Total: Restraint
+Gwent,Restraint,"Handcuffing, of which",2.0,455.0,3172.0,1255.0,258.0,14.0,28.0,5184.0,Restraint,Total: Handcuffing
+Gwent,Restraint,Compliant handcuffing,2.0,251.0,2168.0,904.0,174.0,7.0,21.0,3527.0,Restraint,Handcuffing: compliant
+Gwent,Restraint,Non-compliant handcuffing,0.0,204.0,1004.0,351.0,84.0,7.0,7.0,1657.0,Restraint,Handcuffing: non-compliant
+Gwent,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Gwent,Restraint,Limb / Body restraints,0.0,0.0,4.0,3.0,0.0,0.0,0.0,7.0,Restraint,Limb / body restraints
+Gwent,Restraint,Ground restraint,2.0,87.0,515.0,119.0,17.0,0.0,4.0,744.0,Restraint,Ground restraint
+Gwent,Unarmed skills,*Total Unarmed skills,6.0,259.0,1340.0,407.0,100.0,13.0,10.0,2135.0,Unarmed skills,Total: unarmed skills
+Gwent,Other equipment,*Total Other equipment,0.0,38.0,322.0,88.0,16.0,0.0,0.0,464.0,Other equipment,Total: Other equipment
+Gwent,Other equipment,"Baton, of which",0.0,1.0,10.0,6.0,1.0,0.0,0.0,18.0,Other equipment,Total: Baton
+Gwent,Other equipment,Baton drawn,0.0,1.0,5.0,3.0,1.0,0.0,0.0,10.0,Other equipment,Baton: drawn
+Gwent,Other equipment,Baton used,0.0,0.0,5.0,3.0,0.0,0.0,0.0,8.0,Other equipment,Baton: used
+Gwent,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Gwent,Other equipment,"Irritant spray, of which",0.0,19.0,216.0,58.0,14.0,0.0,0.0,307.0,Other equipment,Total: Irritant spray
+Gwent,Other equipment,Irritant spray - drawn,0.0,12.0,76.0,27.0,8.0,0.0,0.0,123.0,Other equipment,Irritant spray: drawn
+Gwent,Other equipment,Irritant spray - used,0.0,7.0,140.0,31.0,6.0,0.0,0.0,184.0,Other equipment,Irritant spray: used
+Gwent,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Gwent,Other equipment,Spit and bite guard,0.0,17.0,93.0,23.0,1.0,0.0,0.0,134.0,Other equipment,Spit and bite guard
+Gwent,Other equipment,Shield,0.0,1.0,3.0,1.0,0.0,0.0,0.0,5.0,Other equipment,Shield
+Gwent,Less lethal weapons,*Total Less lethal weapons,0.0,13.0,131.0,55.0,19.0,0.0,4.0,222.0,Less lethal weapons,Total: Less lethal weapons
+Gwent,Less lethal weapons,CED of which,0.0,12.0,130.0,54.0,19.0,0.0,3.0,218.0,,
+Gwent,Less lethal weapons,CED non-discharge,0.0,8.0,93.0,37.0,15.0,0.0,3.0,156.0,,
+Gwent,Less lethal weapons,CED discharge,0.0,1.0,15.0,7.0,1.0,0.0,0.0,24.0,,
+Gwent,Less lethal weapons,CED not stated,0.0,3.0,22.0,10.0,3.0,0.0,0.0,38.0,,
+Gwent,Less lethal weapons,"AEP, of which",0.0,1.0,1.0,1.0,0.0,0.0,1.0,4.0,Less lethal weapons,Total: AEP
+Gwent,Less lethal weapons,AEP drawn,0.0,1.0,1.0,1.0,0.0,0.0,1.0,4.0,,
+Gwent,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Gwent,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Gwent,Firearms,*Total Firearms,0.0,0.0,20.0,7.0,2.0,0.0,0.0,29.0,Firearms,Total: Firearms
+Gwent,Other,*Total Other,1.0,38.0,153.0,41.0,6.0,0.0,2.0,241.0,Other,Total: Other
+Gwent,Other,"Dog use, of which",0.0,5.0,25.0,2.0,1.0,0.0,0.0,33.0,Other,Total: Dog
+Gwent,Other,Dog deployed,0.0,5.0,23.0,2.0,1.0,0.0,0.0,31.0,Other,Dog: deployed
+Gwent,Other,Dog bite,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,Other,Dog: bite
+Gwent,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Gwent,Other,Other / improvised,1.0,33.0,128.0,39.0,5.0,0.0,2.0,208.0,Other,Other / improvised
+Gwent,Not reported,*Total Not reported,0.0,27.0,130.0,51.0,17.0,1.0,30.0,256.0,Not reported,Total: Not reported
+Gwent,Tactical communication,Tactical communication,4.0,229.0,1214.0,439.0,104.0,13.0,10.0,2013.0,Excluded: Tactical Communication,Tactical Communication
+Hampshire,Total (excluding not reported and tactical communication),*Total Tactics,18.0,974.0,5957.0,2223.0,554.0,30.0,142.0,9898.0,Total,Total: all
+Hampshire,Restraint,*Total Restraint,6.0,588.0,3547.0,1310.0,324.0,16.0,26.0,5817.0,Restraint,Total: Restraint
+Hampshire,Restraint,"Handcuffing, of which",3.0,305.0,1794.0,731.0,202.0,11.0,16.0,3062.0,Restraint,Total: Handcuffing
+Hampshire,Restraint,Compliant handcuffing,0.0,77.0,442.0,192.0,60.0,2.0,3.0,776.0,Restraint,Handcuffing: compliant
+Hampshire,Restraint,Non-compliant handcuffing,3.0,228.0,1352.0,539.0,142.0,9.0,13.0,2286.0,Restraint,Handcuffing: non-compliant
+Hampshire,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Hampshire,Restraint,Limb / Body restraints,1.0,76.0,468.0,144.0,43.0,4.0,1.0,737.0,Restraint,Limb / body restraints
+Hampshire,Restraint,Ground restraint,2.0,207.0,1285.0,435.0,79.0,1.0,9.0,2018.0,Restraint,Ground restraint
+Hampshire,Unarmed skills,*Total Unarmed skills,8.0,296.0,1618.0,602.0,164.0,11.0,47.0,2746.0,Unarmed skills,Total: unarmed skills
+Hampshire,Other equipment,*Total Other equipment,2.0,40.0,321.0,121.0,27.0,1.0,52.0,564.0,Other equipment,Total: Other equipment
+Hampshire,Other equipment,"Baton, of which",0.0,4.0,58.0,21.0,2.0,0.0,50.0,135.0,Other equipment,Total: Baton
+Hampshire,Other equipment,Baton drawn,0.0,4.0,32.0,10.0,0.0,0.0,50.0,96.0,Other equipment,Baton: drawn
+Hampshire,Other equipment,Baton used,0.0,0.0,22.0,9.0,2.0,0.0,0.0,33.0,Other equipment,Baton: used
+Hampshire,Other equipment,Baton not stated,0.0,0.0,4.0,2.0,0.0,0.0,0.0,6.0,,
+Hampshire,Other equipment,"Irritant spray, of which",1.0,26.0,171.0,70.0,19.0,0.0,0.0,287.0,Other equipment,Total: Irritant spray
+Hampshire,Other equipment,Irritant spray - drawn,0.0,16.0,78.0,29.0,8.0,0.0,0.0,131.0,Other equipment,Irritant spray: drawn
+Hampshire,Other equipment,Irritant spray - used,1.0,10.0,93.0,41.0,11.0,0.0,0.0,156.0,Other equipment,Irritant spray: used
+Hampshire,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Hampshire,Other equipment,Spit and bite guard,0.0,9.0,74.0,19.0,2.0,1.0,1.0,106.0,Other equipment,Spit and bite guard
+Hampshire,Other equipment,Shield,1.0,1.0,18.0,11.0,4.0,0.0,1.0,36.0,Other equipment,Shield
+Hampshire,Less lethal weapons,*Total Less lethal weapons,0.0,27.0,313.0,122.0,16.0,0.0,6.0,484.0,Less lethal weapons,Total: Less lethal weapons
+Hampshire,Less lethal weapons,CED of which,0.0,27.0,309.0,122.0,16.0,0.0,6.0,480.0,,
+Hampshire,Less lethal weapons,CED non-discharge,0.0,21.0,237.0,89.0,16.0,0.0,5.0,368.0,,
+Hampshire,Less lethal weapons,CED discharge,0.0,2.0,31.0,18.0,0.0,0.0,0.0,51.0,,
+Hampshire,Less lethal weapons,CED not stated,0.0,4.0,41.0,15.0,0.0,0.0,1.0,61.0,,
+Hampshire,Less lethal weapons,"AEP, of which",0.0,0.0,4.0,0.0,0.0,0.0,0.0,4.0,Less lethal weapons,Total: AEP
+Hampshire,Less lethal weapons,AEP drawn,0.0,0.0,4.0,0.0,0.0,0.0,0.0,4.0,,
+Hampshire,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Hampshire,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Hampshire,Firearms,*Total Firearms,0.0,0.0,4.0,0.0,0.0,0.0,0.0,4.0,Firearms,Total: Firearms
+Hampshire,Other,*Total Other,2.0,23.0,154.0,68.0,23.0,2.0,11.0,283.0,Other,Total: Other
+Hampshire,Other,"Dog use, of which",0.0,3.0,10.0,4.0,1.0,0.0,1.0,19.0,Other,Total: Dog
+Hampshire,Other,Dog deployed,0.0,3.0,7.0,3.0,1.0,0.0,1.0,15.0,Other,Dog: deployed
+Hampshire,Other,Dog bite,0.0,0.0,3.0,1.0,0.0,0.0,0.0,4.0,Other,Dog: bite
+Hampshire,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Hampshire,Other,Other / improvised,2.0,20.0,144.0,64.0,22.0,2.0,10.0,264.0,Other,Other / improvised
+Hampshire,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Hampshire,Tactical communication,Tactical communication,9.0,424.0,2420.0,950.0,273.0,18.0,78.0,4172.0,Excluded: Tactical Communication,Tactical Communication
+Hertfordshire,Total (excluding not reported and tactical communication),*Total Tactics,12.0,1624.0,8317.0,3485.0,863.0,96.0,100.0,14497.0,Total,Total: all
+Hertfordshire,Restraint,*Total Restraint,3.0,975.0,4923.0,2047.0,483.0,48.0,48.0,8527.0,Restraint,Total: Restraint
+Hertfordshire,Restraint,"Handcuffing, of which",1.0,761.0,3608.0,1558.0,390.0,41.0,29.0,6388.0,Restraint,Total: Handcuffing
+Hertfordshire,Restraint,Compliant handcuffing,0.0,505.0,2265.0,976.0,244.0,22.0,18.0,4030.0,Restraint,Handcuffing: compliant
+Hertfordshire,Restraint,Non-compliant handcuffing,1.0,256.0,1343.0,582.0,146.0,19.0,11.0,2358.0,Restraint,Handcuffing: non-compliant
+Hertfordshire,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Hertfordshire,Restraint,Limb / Body restraints,0.0,58.0,469.0,157.0,34.0,5.0,7.0,730.0,Restraint,Limb / body restraints
+Hertfordshire,Restraint,Ground restraint,2.0,156.0,846.0,332.0,59.0,2.0,12.0,1409.0,Restraint,Ground restraint
+Hertfordshire,Unarmed skills,*Total Unarmed skills,9.0,523.0,2311.0,1004.0,281.0,37.0,41.0,4206.0,Unarmed skills,Total: unarmed skills
+Hertfordshire,Other equipment,*Total Other equipment,0.0,48.0,660.0,244.0,47.0,6.0,6.0,1011.0,Other equipment,Total: Other equipment
+Hertfordshire,Other equipment,"Baton, of which",0.0,9.0,70.0,44.0,9.0,0.0,4.0,136.0,Other equipment,Total: Baton
+Hertfordshire,Other equipment,Baton drawn,0.0,6.0,47.0,29.0,7.0,0.0,2.0,91.0,Other equipment,Baton: drawn
+Hertfordshire,Other equipment,Baton used,0.0,3.0,23.0,15.0,2.0,0.0,2.0,45.0,Other equipment,Baton: used
+Hertfordshire,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Hertfordshire,Other equipment,"Irritant spray, of which",0.0,32.0,465.0,163.0,27.0,3.0,2.0,692.0,Other equipment,Total: Irritant spray
+Hertfordshire,Other equipment,Irritant spray - drawn,0.0,21.0,264.0,92.0,15.0,2.0,1.0,395.0,Other equipment,Irritant spray: drawn
+Hertfordshire,Other equipment,Irritant spray - used,0.0,11.0,200.0,70.0,12.0,1.0,1.0,295.0,Other equipment,Irritant spray: used
+Hertfordshire,Other equipment,Irritant spray not stated,0.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,
+Hertfordshire,Other equipment,Spit and bite guard,0.0,6.0,97.0,30.0,7.0,3.0,0.0,143.0,Other equipment,Spit and bite guard
+Hertfordshire,Other equipment,Shield,0.0,1.0,28.0,7.0,4.0,0.0,0.0,40.0,Other equipment,Shield
+Hertfordshire,Less lethal weapons,*Total Less lethal weapons,0.0,48.0,238.0,97.0,32.0,1.0,5.0,421.0,Less lethal weapons,Total: Less lethal weapons
+Hertfordshire,Less lethal weapons,CED of which,0.0,48.0,238.0,97.0,32.0,1.0,5.0,421.0,,
+Hertfordshire,Less lethal weapons,CED non-discharge,0.0,44.0,217.0,83.0,29.0,1.0,4.0,378.0,,
+Hertfordshire,Less lethal weapons,CED discharge,0.0,4.0,20.0,14.0,3.0,0.0,1.0,42.0,,
+Hertfordshire,Less lethal weapons,CED not stated,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,
+Hertfordshire,Less lethal weapons,"AEP, of which",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Less lethal weapons,Total: AEP
+Hertfordshire,Less lethal weapons,AEP drawn,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Hertfordshire,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Hertfordshire,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Hertfordshire,Firearms,*Total Firearms,0.0,1.0,9.0,2.0,0.0,0.0,0.0,12.0,Firearms,Total: Firearms
+Hertfordshire,Other,*Total Other,0.0,29.0,176.0,91.0,20.0,4.0,0.0,320.0,Other,Total: Other
+Hertfordshire,Other,"Dog use, of which",0.0,1.0,5.0,0.0,0.0,0.0,0.0,6.0,Other,Total: Dog
+Hertfordshire,Other,Dog deployed,0.0,1.0,3.0,0.0,0.0,0.0,0.0,4.0,Other,Dog: deployed
+Hertfordshire,Other,Dog bite,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,Other,Dog: bite
+Hertfordshire,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Hertfordshire,Other,Other / improvised,0.0,28.0,171.0,91.0,20.0,4.0,0.0,314.0,Other,Other / improvised
+Hertfordshire,Not reported,*Total Not reported,1.0,9.0,19.0,3.0,2.0,0.0,1.0,35.0,Not reported,Total: Not reported
+Hertfordshire,Tactical communication,Tactical communication,11.0,945.0,4347.0,1849.0,508.0,62.0,52.0,7774.0,Excluded: Tactical Communication,Tactical Communication
+Humberside,Total (excluding not reported and tactical communication),*Total Tactics,16.0,872.0,5003.0,2402.0,574.0,29.0,433.0,9329.0,Total,Total: all
+Humberside,Restraint,*Total Restraint,8.0,439.0,2641.0,1269.0,302.0,18.0,208.0,4885.0,Restraint,Total: Restraint
+Humberside,Restraint,"Handcuffing, of which",4.0,342.0,1909.0,993.0,250.0,17.0,148.0,3663.0,Restraint,Total: Handcuffing
+Humberside,Restraint,Compliant handcuffing,1.0,198.0,1126.0,619.0,143.0,9.0,60.0,2156.0,Restraint,Handcuffing: compliant
+Humberside,Restraint,Non-compliant handcuffing,3.0,144.0,783.0,374.0,107.0,8.0,88.0,1507.0,Restraint,Handcuffing: non-compliant
+Humberside,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Humberside,Restraint,Limb / Body restraints,3.0,31.0,253.0,86.0,21.0,0.0,15.0,409.0,Restraint,Limb / body restraints
+Humberside,Restraint,Ground restraint,1.0,66.0,479.0,190.0,31.0,1.0,45.0,813.0,Restraint,Ground restraint
+Humberside,Unarmed skills,*Total Unarmed skills,4.0,277.0,1326.0,613.0,152.0,8.0,135.0,2515.0,Unarmed skills,Total: unarmed skills
+Humberside,Other equipment,*Total Other equipment,3.0,25.0,265.0,113.0,27.0,1.0,38.0,472.0,Other equipment,Total: Other equipment
+Humberside,Other equipment,"Baton, of which",0.0,8.0,40.0,11.0,6.0,0.0,5.0,70.0,Other equipment,Total: Baton
+Humberside,Other equipment,Baton drawn,0.0,5.0,26.0,8.0,3.0,0.0,5.0,47.0,Other equipment,Baton: drawn
+Humberside,Other equipment,Baton used,0.0,3.0,14.0,3.0,3.0,0.0,0.0,23.0,Other equipment,Baton: used
+Humberside,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Humberside,Other equipment,"Irritant spray, of which",2.0,12.0,119.0,69.0,12.0,0.0,23.0,237.0,Other equipment,Total: Irritant spray
+Humberside,Other equipment,Irritant spray - drawn,1.0,8.0,56.0,29.0,7.0,0.0,8.0,109.0,Other equipment,Irritant spray: drawn
+Humberside,Other equipment,Irritant spray - used,1.0,4.0,63.0,40.0,5.0,0.0,15.0,128.0,Other equipment,Irritant spray: used
+Humberside,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Humberside,Other equipment,Spit and bite guard,1.0,5.0,101.0,31.0,8.0,0.0,10.0,156.0,Other equipment,Spit and bite guard
+Humberside,Other equipment,Shield,0.0,0.0,5.0,2.0,1.0,1.0,0.0,9.0,Other equipment,Shield
+Humberside,Less lethal weapons,*Total Less lethal weapons,0.0,66.0,454.0,272.0,62.0,1.0,22.0,877.0,Less lethal weapons,Total: Less lethal weapons
+Humberside,Less lethal weapons,CED of which,0.0,56.0,427.0,242.0,57.0,1.0,21.0,804.0,,
+Humberside,Less lethal weapons,CED non-discharge,0.0,38.0,282.0,159.0,38.0,1.0,14.0,532.0,,
+Humberside,Less lethal weapons,CED discharge,0.0,2.0,48.0,26.0,4.0,0.0,0.0,80.0,,
+Humberside,Less lethal weapons,CED not stated,0.0,16.0,97.0,57.0,15.0,0.0,7.0,192.0,,
+Humberside,Less lethal weapons,"AEP, of which",0.0,10.0,27.0,30.0,5.0,0.0,1.0,73.0,Less lethal weapons,Total: AEP
+Humberside,Less lethal weapons,AEP drawn,0.0,10.0,27.0,28.0,5.0,0.0,1.0,71.0,,
+Humberside,Less lethal weapons,AEP used,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,
+Humberside,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Humberside,Firearms,*Total Firearms,0.0,24.0,71.0,48.0,14.0,0.0,4.0,161.0,Firearms,Total: Firearms
+Humberside,Other,*Total Other,1.0,41.0,246.0,87.0,17.0,1.0,26.0,419.0,Other,Total: Other
+Humberside,Other,"Dog use, of which",0.0,12.0,20.0,6.0,1.0,0.0,5.0,44.0,Other,Total: Dog
+Humberside,Other,Dog deployed,0.0,7.0,16.0,5.0,0.0,0.0,4.0,32.0,Other,Dog: deployed
+Humberside,Other,Dog bite,0.0,5.0,4.0,1.0,1.0,0.0,1.0,12.0,Other,Dog: bite
+Humberside,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Humberside,Other,Other / improvised,1.0,29.0,226.0,81.0,16.0,1.0,21.0,375.0,Other,Other / improvised
+Humberside,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Humberside,Tactical communication,Tactical communication,5.0,398.0,2067.0,1023.0,265.0,22.0,161.0,3941.0,Excluded: Tactical Communication,Tactical Communication
+Kent,Total (excluding not reported and tactical communication),*Total Tactics,59.0,1671.0,10605.0,4725.0,1430.0,103.0,2243.0,20836.0,Total,Total: all
+Kent,Restraint,*Total Restraint,41.0,1276.0,7999.0,3623.0,1051.0,70.0,1525.0,15585.0,Restraint,Total: Restraint
+Kent,Restraint,"Handcuffing, of which",18.0,830.0,5179.0,2461.0,757.0,47.0,872.0,10164.0,Restraint,Total: Handcuffing
+Kent,Restraint,Compliant handcuffing,14.0,462.0,3169.0,1506.0,436.0,26.0,480.0,6093.0,Restraint,Handcuffing: compliant
+Kent,Restraint,Non-compliant handcuffing,4.0,368.0,2010.0,955.0,321.0,21.0,392.0,4071.0,Restraint,Handcuffing: non-compliant
+Kent,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Kent,Restraint,Limb / Body restraints,13.0,248.0,1466.0,641.0,157.0,18.0,332.0,2875.0,Restraint,Limb / body restraints
+Kent,Restraint,Ground restraint,10.0,198.0,1354.0,521.0,137.0,5.0,321.0,2546.0,Restraint,Ground restraint
+Kent,Unarmed skills,*Total Unarmed skills,13.0,192.0,1108.0,483.0,189.0,15.0,293.0,2293.0,Unarmed skills,Total: unarmed skills
+Kent,Other equipment,*Total Other equipment,1.0,56.0,406.0,172.0,43.0,1.0,111.0,790.0,Other equipment,Total: Other equipment
+Kent,Other equipment,"Baton, of which",0.0,7.0,64.0,22.0,7.0,0.0,28.0,128.0,Other equipment,Total: Baton
+Kent,Other equipment,Baton drawn,0.0,5.0,42.0,17.0,4.0,0.0,19.0,87.0,Other equipment,Baton: drawn
+Kent,Other equipment,Baton used,0.0,2.0,22.0,5.0,3.0,0.0,9.0,41.0,Other equipment,Baton: used
+Kent,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Kent,Other equipment,"Irritant spray, of which",0.0,30.0,205.0,105.0,23.0,0.0,48.0,411.0,Other equipment,Total: Irritant spray
+Kent,Other equipment,Irritant spray - drawn,:,:,:,:,:,:,:,:,Other equipment,Irritant spray: drawn
+Kent,Other equipment,Irritant spray - used,:,:,:,:,:,:,:,:,Other equipment,Irritant spray: used
+Kent,Other equipment,Irritant spray not stated,0.0,30.0,205.0,105.0,23.0,0.0,48.0,411.0,,
+Kent,Other equipment,Spit and bite guard,1.0,19.0,118.0,41.0,8.0,1.0,28.0,216.0,Other equipment,Spit and bite guard
+Kent,Other equipment,Shield,0.0,0.0,19.0,4.0,5.0,0.0,7.0,35.0,Other equipment,Shield
+Kent,Less lethal weapons,*Total Less lethal weapons,1.0,55.0,502.0,194.0,44.0,4.0,122.0,922.0,Less lethal weapons,Total: Less lethal weapons
+Kent,Less lethal weapons,CED of which,1.0,52.0,468.0,185.0,41.0,3.0,113.0,863.0,,
+Kent,Less lethal weapons,CED non-discharge,0.0,34.0,234.0,80.0,21.0,0.0,48.0,417.0,,
+Kent,Less lethal weapons,CED discharge,0.0,2.0,63.0,35.0,1.0,0.0,15.0,116.0,,
+Kent,Less lethal weapons,CED not stated,1.0,16.0,171.0,70.0,19.0,3.0,50.0,330.0,,
+Kent,Less lethal weapons,"AEP, of which",0.0,3.0,34.0,9.0,3.0,1.0,9.0,59.0,Less lethal weapons,Total: AEP
+Kent,Less lethal weapons,AEP drawn,0.0,3.0,32.0,9.0,3.0,1.0,9.0,57.0,,
+Kent,Less lethal weapons,AEP used,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,,
+Kent,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Kent,Firearms,*Total Firearms,0.0,2.0,74.0,17.0,9.0,2.0,23.0,127.0,Firearms,Total: Firearms
+Kent,Other,*Total Other,3.0,90.0,516.0,236.0,94.0,11.0,169.0,1119.0,Other,Total: Other
+Kent,Other,"Dog use, of which",1.0,2.0,15.0,1.0,0.0,0.0,4.0,23.0,Other,Total: Dog
+Kent,Other,Dog deployed,0.0,2.0,10.0,1.0,0.0,0.0,3.0,16.0,Other,Dog: deployed
+Kent,Other,Dog bite,1.0,0.0,5.0,0.0,0.0,0.0,1.0,7.0,Other,Dog: bite
+Kent,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Kent,Other,Other / improvised,2.0,88.0,501.0,235.0,94.0,11.0,165.0,1096.0,Other,Other / improvised
+Kent,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Kent,Tactical communication,Tactical communication,15.0,403.0,2494.0,1180.0,346.0,31.0,535.0,5004.0,Excluded: Tactical Communication,Tactical Communication
+Lancashire,Total (excluding not reported and tactical communication),*Total Tactics,20.0,1253.0,7312.0,3448.0,898.0,95.0,426.0,13452.0,Total,Total: all
+Lancashire,Restraint,*Total Restraint,11.0,620.0,3514.0,1630.0,415.0,47.0,44.0,6281.0,Restraint,Total: Restraint
+Lancashire,Restraint,"Handcuffing, of which",9.0,511.0,2805.0,1357.0,356.0,42.0,39.0,5119.0,Restraint,Total: Handcuffing
+Lancashire,Restraint,Compliant handcuffing,:,:,:,:,:,:,:,:,Restraint,Handcuffing: compliant
+Lancashire,Restraint,Non-compliant handcuffing,:,:,:,:,:,:,:,:,Restraint,Handcuffing: non-compliant
+Lancashire,Restraint,Handcuffing not stated,9.0,511.0,2805.0,1357.0,356.0,42.0,39.0,5119.0,,
+Lancashire,Restraint,Limb / Body restraints,0.0,39.0,178.0,62.0,13.0,3.0,1.0,296.0,Restraint,Limb / body restraints
+Lancashire,Restraint,Ground restraint,2.0,70.0,531.0,211.0,46.0,2.0,4.0,866.0,Restraint,Ground restraint
+Lancashire,Unarmed skills,*Total Unarmed skills,6.0,480.0,2559.0,1197.0,321.0,31.0,255.0,4849.0,Unarmed skills,Total: unarmed skills
+Lancashire,Other equipment,*Total Other equipment,2.0,71.0,668.0,322.0,77.0,8.0,31.0,1179.0,Other equipment,Total: Other equipment
+Lancashire,Other equipment,"Baton, of which",0.0,13.0,51.0,20.0,9.0,1.0,14.0,108.0,Other equipment,Total: Baton
+Lancashire,Other equipment,Baton drawn,0.0,9.0,24.0,9.0,3.0,0.0,11.0,56.0,Other equipment,Baton: drawn
+Lancashire,Other equipment,Baton used,0.0,4.0,27.0,11.0,6.0,1.0,3.0,52.0,Other equipment,Baton: used
+Lancashire,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Lancashire,Other equipment,"Irritant spray, of which",2.0,52.0,539.0,276.0,66.0,7.0,15.0,957.0,Other equipment,Total: Irritant spray
+Lancashire,Other equipment,Irritant spray - drawn,1.0,13.0,153.0,81.0,16.0,1.0,7.0,272.0,Other equipment,Irritant spray: drawn
+Lancashire,Other equipment,Irritant spray - used,1.0,39.0,386.0,195.0,50.0,6.0,8.0,685.0,Other equipment,Irritant spray: used
+Lancashire,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Lancashire,Other equipment,Spit and bite guard,0.0,6.0,72.0,25.0,1.0,0.0,2.0,106.0,Other equipment,Spit and bite guard
+Lancashire,Other equipment,Shield,0.0,0.0,6.0,1.0,1.0,0.0,0.0,8.0,Other equipment,Shield
+Lancashire,Less lethal weapons,*Total Less lethal weapons,0.0,28.0,256.0,125.0,35.0,3.0,4.0,451.0,Less lethal weapons,Total: Less lethal weapons
+Lancashire,Less lethal weapons,CED of which,0.0,28.0,250.0,124.0,35.0,2.0,4.0,443.0,,
+Lancashire,Less lethal weapons,CED non-discharge,0.0,28.0,212.0,99.0,28.0,2.0,4.0,373.0,,
+Lancashire,Less lethal weapons,CED discharge,0.0,0.0,38.0,25.0,7.0,0.0,0.0,70.0,,
+Lancashire,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Lancashire,Less lethal weapons,"AEP, of which",0.0,0.0,6.0,1.0,0.0,1.0,0.0,8.0,Less lethal weapons,Total: AEP
+Lancashire,Less lethal weapons,AEP drawn,0.0,0.0,4.0,1.0,0.0,1.0,0.0,6.0,,
+Lancashire,Less lethal weapons,AEP used,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,,
+Lancashire,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Lancashire,Firearms,*Total Firearms,0.0,0.0,3.0,2.0,0.0,0.0,1.0,6.0,Firearms,Total: Firearms
+Lancashire,Other,*Total Other,1.0,54.0,312.0,172.0,50.0,6.0,91.0,686.0,Other,Total: Other
+Lancashire,Other,"Dog use, of which",0.0,15.0,34.0,14.0,1.0,1.0,1.0,66.0,Other,Total: Dog
+Lancashire,Other,Dog deployed,0.0,8.0,20.0,9.0,1.0,1.0,0.0,39.0,Other,Dog: deployed
+Lancashire,Other,Dog bite,0.0,7.0,14.0,5.0,0.0,0.0,1.0,27.0,Other,Dog: bite
+Lancashire,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Lancashire,Other,Other / improvised,1.0,39.0,278.0,158.0,49.0,5.0,90.0,620.0,Other,Other / improvised
+Lancashire,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Lancashire,Tactical communication,Tactical communication,10.0,596.0,3269.0,1602.0,447.0,56.0,279.0,6259.0,Excluded: Tactical Communication,Tactical Communication
+Leicestershire,Total (excluding not reported and tactical communication),*Total Tactics,10.0,1212.0,6715.0,3305.0,712.0,49.0,44.0,12047.0,Total,Total: all
+Leicestershire,Restraint,*Total Restraint,2.0,757.0,4463.0,2216.0,477.0,35.0,7.0,7957.0,Restraint,Total: Restraint
+Leicestershire,Restraint,"Handcuffing, of which",1.0,695.0,3990.0,2018.0,445.0,33.0,5.0,7187.0,Restraint,Total: Handcuffing
+Leicestershire,Restraint,Compliant handcuffing,1.0,510.0,3108.0,1559.0,329.0,25.0,5.0,5537.0,Restraint,Handcuffing: compliant
+Leicestershire,Restraint,Non-compliant handcuffing,0.0,185.0,882.0,459.0,116.0,8.0,0.0,1650.0,Restraint,Handcuffing: non-compliant
+Leicestershire,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Leicestershire,Restraint,Limb / Body restraints,0.0,27.0,222.0,99.0,15.0,2.0,0.0,365.0,Restraint,Limb / body restraints
+Leicestershire,Restraint,Ground restraint,1.0,35.0,251.0,99.0,17.0,0.0,2.0,405.0,Restraint,Ground restraint
+Leicestershire,Unarmed skills,*Total Unarmed skills,5.0,294.0,1278.0,636.0,139.0,10.0,1.0,2363.0,Unarmed skills,Total: unarmed skills
+Leicestershire,Other equipment,*Total Other equipment,0.0,22.0,228.0,105.0,13.0,2.0,0.0,370.0,Other equipment,Total: Other equipment
+Leicestershire,Other equipment,"Baton, of which",0.0,6.0,71.0,19.0,3.0,0.0,0.0,99.0,Other equipment,Total: Baton
+Leicestershire,Other equipment,Baton drawn,0.0,6.0,52.0,12.0,3.0,0.0,0.0,73.0,Other equipment,Baton: drawn
+Leicestershire,Other equipment,Baton used,0.0,0.0,19.0,7.0,0.0,0.0,0.0,26.0,Other equipment,Baton: used
+Leicestershire,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Leicestershire,Other equipment,"Irritant spray, of which",0.0,9.0,94.0,44.0,6.0,2.0,0.0,155.0,Other equipment,Total: Irritant spray
+Leicestershire,Other equipment,Irritant spray - drawn,0.0,7.0,50.0,26.0,2.0,1.0,0.0,86.0,Other equipment,Irritant spray: drawn
+Leicestershire,Other equipment,Irritant spray - used,0.0,2.0,44.0,18.0,4.0,1.0,0.0,69.0,Other equipment,Irritant spray: used
+Leicestershire,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Leicestershire,Other equipment,Spit and bite guard,0.0,7.0,48.0,29.0,3.0,0.0,0.0,87.0,Other equipment,Spit and bite guard
+Leicestershire,Other equipment,Shield,0.0,0.0,15.0,13.0,1.0,0.0,0.0,29.0,Other equipment,Shield
+Leicestershire,Less lethal weapons,*Total Less lethal weapons,0.0,75.0,435.0,223.0,48.0,0.0,2.0,783.0,Less lethal weapons,Total: Less lethal weapons
+Leicestershire,Less lethal weapons,CED of which,0.0,72.0,424.0,220.0,47.0,0.0,2.0,765.0,,
+Leicestershire,Less lethal weapons,CED non-discharge,0.0,71.0,400.0,212.0,44.0,0.0,2.0,729.0,,
+Leicestershire,Less lethal weapons,CED discharge,0.0,1.0,24.0,8.0,3.0,0.0,0.0,36.0,,
+Leicestershire,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Leicestershire,Less lethal weapons,"AEP, of which",0.0,3.0,11.0,3.0,1.0,0.0,0.0,18.0,Less lethal weapons,Total: AEP
+Leicestershire,Less lethal weapons,AEP drawn,0.0,3.0,11.0,3.0,1.0,0.0,0.0,18.0,,
+Leicestershire,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Leicestershire,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Leicestershire,Firearms,*Total Firearms,0.0,5.0,41.0,8.0,1.0,0.0,0.0,55.0,Firearms,Total: Firearms
+Leicestershire,Other,*Total Other,3.0,59.0,270.0,117.0,34.0,2.0,34.0,519.0,Other,Total: Other
+Leicestershire,Other,"Dog use, of which",0.0,4.0,23.0,7.0,0.0,0.0,0.0,34.0,Other,Total: Dog
+Leicestershire,Other,Dog deployed,0.0,2.0,18.0,6.0,0.0,0.0,0.0,26.0,Other,Dog: deployed
+Leicestershire,Other,Dog bite,0.0,2.0,5.0,1.0,0.0,0.0,0.0,8.0,Other,Dog: bite
+Leicestershire,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Leicestershire,Other,Other / improvised,3.0,55.0,247.0,110.0,34.0,2.0,34.0,485.0,Other,Other / improvised
+Leicestershire,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Leicestershire,Tactical communication,Tactical communication,5.0,497.0,2632.0,1287.0,302.0,19.0,2.0,4744.0,Excluded: Tactical Communication,Tactical Communication
+Lincolnshire,Total (excluding not reported and tactical communication),*Total Tactics,4.0,430.0,3503.0,1519.0,390.0,40.0,0.0,5886.0,Total,Total: all
+Lincolnshire,Restraint,*Total Restraint,1.0,208.0,1792.0,788.0,206.0,15.0,0.0,3010.0,Restraint,Total: Restraint
+Lincolnshire,Restraint,"Handcuffing, of which",1.0,181.0,1505.0,696.0,190.0,13.0,0.0,2586.0,Restraint,Total: Handcuffing
+Lincolnshire,Restraint,Compliant handcuffing,0.0,104.0,793.0,374.0,85.0,8.0,0.0,1364.0,Restraint,Handcuffing: compliant
+Lincolnshire,Restraint,Non-compliant handcuffing,1.0,77.0,712.0,322.0,105.0,5.0,0.0,1222.0,Restraint,Handcuffing: non-compliant
+Lincolnshire,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Lincolnshire,Restraint,Limb / Body restraints,0.0,12.0,90.0,30.0,7.0,1.0,0.0,140.0,Restraint,Limb / body restraints
+Lincolnshire,Restraint,Ground restraint,0.0,15.0,197.0,62.0,9.0,1.0,0.0,284.0,Restraint,Ground restraint
+Lincolnshire,Unarmed skills,*Total Unarmed skills,3.0,162.0,1128.0,481.0,110.0,18.0,0.0,1902.0,Unarmed skills,Total: unarmed skills
+Lincolnshire,Other equipment,*Total Other equipment,0.0,16.0,248.0,97.0,23.0,1.0,0.0,385.0,Other equipment,Total: Other equipment
+Lincolnshire,Other equipment,"Baton, of which",0.0,4.0,21.0,16.0,3.0,0.0,0.0,44.0,Other equipment,Total: Baton
+Lincolnshire,Other equipment,Baton drawn,0.0,3.0,16.0,11.0,3.0,0.0,0.0,33.0,Other equipment,Baton: drawn
+Lincolnshire,Other equipment,Baton used,0.0,1.0,5.0,5.0,0.0,0.0,0.0,11.0,Other equipment,Baton: used
+Lincolnshire,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Lincolnshire,Other equipment,"Irritant spray, of which",0.0,9.0,193.0,61.0,17.0,1.0,0.0,281.0,Other equipment,Total: Irritant spray
+Lincolnshire,Other equipment,Irritant spray - drawn,0.0,6.0,65.0,22.0,5.0,0.0,0.0,98.0,Other equipment,Irritant spray: drawn
+Lincolnshire,Other equipment,Irritant spray - used,0.0,3.0,128.0,39.0,12.0,1.0,0.0,183.0,Other equipment,Irritant spray: used
+Lincolnshire,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Lincolnshire,Other equipment,Spit and bite guard,0.0,2.0,27.0,17.0,3.0,0.0,0.0,49.0,Other equipment,Spit and bite guard
+Lincolnshire,Other equipment,Shield,0.0,1.0,7.0,3.0,0.0,0.0,0.0,11.0,Other equipment,Shield
+Lincolnshire,Less lethal weapons,*Total Less lethal weapons,0.0,28.0,244.0,105.0,36.0,2.0,0.0,415.0,Less lethal weapons,Total: Less lethal weapons
+Lincolnshire,Less lethal weapons,CED of which,0.0,27.0,232.0,98.0,36.0,2.0,0.0,395.0,,
+Lincolnshire,Less lethal weapons,CED non-discharge,0.0,27.0,207.0,87.0,28.0,2.0,0.0,351.0,,
+Lincolnshire,Less lethal weapons,CED discharge,0.0,0.0,24.0,10.0,8.0,0.0,0.0,42.0,,
+Lincolnshire,Less lethal weapons,CED not stated,0.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,
+Lincolnshire,Less lethal weapons,"AEP, of which",0.0,1.0,12.0,7.0,0.0,0.0,0.0,20.0,Less lethal weapons,Total: AEP
+Lincolnshire,Less lethal weapons,AEP drawn,0.0,1.0,11.0,6.0,0.0,0.0,0.0,18.0,,
+Lincolnshire,Less lethal weapons,AEP used,0.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,
+Lincolnshire,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Lincolnshire,Firearms,*Total Firearms,0.0,2.0,15.0,14.0,3.0,0.0,0.0,34.0,Firearms,Total: Firearms
+Lincolnshire,Other,*Total Other,0.0,14.0,76.0,34.0,12.0,4.0,0.0,140.0,Other,Total: Other
+Lincolnshire,Other,"Dog use, of which",0.0,2.0,20.0,8.0,0.0,0.0,0.0,30.0,Other,Total: Dog
+Lincolnshire,Other,Dog deployed,0.0,2.0,14.0,5.0,0.0,0.0,0.0,21.0,Other,Dog: deployed
+Lincolnshire,Other,Dog bite,0.0,0.0,6.0,3.0,0.0,0.0,0.0,9.0,Other,Dog: bite
+Lincolnshire,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Lincolnshire,Other,Other / improvised,0.0,12.0,56.0,26.0,12.0,4.0,0.0,110.0,Other,Other / improvised
+Lincolnshire,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Lincolnshire,Tactical communication,Tactical communication,2.0,203.0,1388.0,663.0,174.0,24.0,0.0,2454.0,Excluded: Tactical Communication,Tactical Communication
+Merseyside,Total (excluding not reported and tactical communication),*Total Tactics,13.0,1078.0,6139.0,3195.0,832.0,73.0,308.0,11638.0,Total,Total: all
+Merseyside,Restraint,*Total Restraint,4.0,529.0,2603.0,1310.0,351.0,28.0,77.0,4902.0,Restraint,Total: Restraint
+Merseyside,Restraint,"Handcuffing, of which",3.0,395.0,1882.0,970.0,280.0,26.0,56.0,3612.0,Restraint,Total: Handcuffing
+Merseyside,Restraint,Compliant handcuffing,1.0,83.0,536.0,298.0,80.0,7.0,13.0,1018.0,Restraint,Handcuffing: compliant
+Merseyside,Restraint,Non-compliant handcuffing,2.0,312.0,1346.0,672.0,200.0,19.0,43.0,2594.0,Restraint,Handcuffing: non-compliant
+Merseyside,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Merseyside,Restraint,Limb / Body restraints,1.0,38.0,190.0,79.0,18.0,0.0,4.0,330.0,Restraint,Limb / body restraints
+Merseyside,Restraint,Ground restraint,0.0,96.0,531.0,261.0,53.0,2.0,17.0,960.0,Restraint,Ground restraint
+Merseyside,Unarmed skills,*Total Unarmed skills,7.0,450.0,2623.0,1431.0,377.0,35.0,155.0,5078.0,Unarmed skills,Total: unarmed skills
+Merseyside,Other equipment,*Total Other equipment,1.0,54.0,575.0,269.0,57.0,4.0,51.0,1011.0,Other equipment,Total: Other equipment
+Merseyside,Other equipment,"Baton, of which",0.0,8.0,65.0,35.0,17.0,1.0,25.0,151.0,Other equipment,Total: Baton
+Merseyside,Other equipment,Baton drawn,0.0,5.0,42.0,20.0,8.0,1.0,19.0,95.0,Other equipment,Baton: drawn
+Merseyside,Other equipment,Baton used,0.0,3.0,23.0,15.0,9.0,0.0,6.0,56.0,Other equipment,Baton: used
+Merseyside,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Merseyside,Other equipment,"Irritant spray, of which",1.0,28.0,362.0,181.0,28.0,2.0,23.0,625.0,Other equipment,Total: Irritant spray
+Merseyside,Other equipment,Irritant spray - drawn,0.0,19.0,147.0,70.0,6.0,1.0,12.0,255.0,Other equipment,Irritant spray: drawn
+Merseyside,Other equipment,Irritant spray - used,1.0,9.0,215.0,111.0,22.0,1.0,11.0,370.0,Other equipment,Irritant spray: used
+Merseyside,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Merseyside,Other equipment,Spit and bite guard,0.0,18.0,142.0,49.0,12.0,1.0,3.0,225.0,Other equipment,Spit and bite guard
+Merseyside,Other equipment,Shield,0.0,0.0,6.0,4.0,0.0,0.0,0.0,10.0,Other equipment,Shield
+Merseyside,Less lethal weapons,*Total Less lethal weapons,0.0,15.0,184.0,101.0,32.0,2.0,9.0,343.0,Less lethal weapons,Total: Less lethal weapons
+Merseyside,Less lethal weapons,CED of which,0.0,15.0,181.0,99.0,32.0,2.0,9.0,338.0,,
+Merseyside,Less lethal weapons,CED non-discharge,0.0,15.0,166.0,92.0,27.0,2.0,7.0,309.0,,
+Merseyside,Less lethal weapons,CED discharge,0.0,0.0,15.0,7.0,5.0,0.0,2.0,29.0,,
+Merseyside,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Merseyside,Less lethal weapons,"AEP, of which",0.0,0.0,3.0,2.0,0.0,0.0,0.0,5.0,Less lethal weapons,Total: AEP
+Merseyside,Less lethal weapons,AEP drawn,0.0,0.0,2.0,2.0,0.0,0.0,0.0,4.0,,
+Merseyside,Less lethal weapons,AEP used,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,
+Merseyside,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Merseyside,Firearms,*Total Firearms,0.0,4.0,26.0,7.0,2.0,0.0,2.0,41.0,Firearms,Total: Firearms
+Merseyside,Other,*Total Other,1.0,26.0,128.0,77.0,13.0,4.0,14.0,263.0,Other,Total: Other
+Merseyside,Other,"Dog use, of which",0.0,6.0,18.0,5.0,1.0,0.0,1.0,31.0,Other,Total: Dog
+Merseyside,Other,Dog deployed,0.0,3.0,11.0,3.0,1.0,0.0,1.0,19.0,Other,Dog: deployed
+Merseyside,Other,Dog bite,0.0,3.0,7.0,2.0,0.0,0.0,0.0,12.0,Other,Dog: bite
+Merseyside,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Merseyside,Other,Other / improvised,1.0,20.0,110.0,72.0,12.0,4.0,13.0,232.0,Other,Other / improvised
+Merseyside,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Merseyside,Tactical communication,Tactical communication,10.0,543.0,3011.0,1630.0,439.0,45.0,192.0,5870.0,Excluded: Tactical Communication,Tactical Communication
+Metropolitan,Total (excluding not reported and tactical communication),*Total Tactics,71.0,25495.0,118040.0,47674.0,12736.0,1119.0,0.0,205135.0,Total,Total: all
+Metropolitan,Restraint,*Total Restraint,38.0,18583.0,84814.0,35010.0,9213.0,728.0,0.0,148386.0,Restraint,Total: Restraint
+Metropolitan,Restraint,"Handcuffing, of which",16.0,15611.0,69163.0,29114.0,7875.0,610.0,0.0,122389.0,Restraint,Total: Handcuffing
+Metropolitan,Restraint,Compliant handcuffing,7.0,11315.0,50205.0,21046.0,5585.0,405.0,0.0,88563.0,Restraint,Handcuffing: compliant
+Metropolitan,Restraint,Non-compliant handcuffing,9.0,4296.0,18958.0,8068.0,2290.0,205.0,0.0,33826.0,Restraint,Handcuffing: non-compliant
+Metropolitan,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Metropolitan,Restraint,Limb / Body restraints,8.0,885.0,4985.0,2057.0,537.0,71.0,0.0,8543.0,Restraint,Limb / body restraints
+Metropolitan,Restraint,Ground restraint,14.0,2087.0,10666.0,3839.0,801.0,47.0,0.0,17454.0,Restraint,Ground restraint
+Metropolitan,Unarmed skills,*Total Unarmed skills,22.0,4156.0,19298.0,7670.0,2074.0,208.0,0.0,33428.0,Unarmed skills,Total: unarmed skills
+Metropolitan,Other equipment,*Total Other equipment,3.0,540.0,3213.0,1137.0,250.0,18.0,0.0,5161.0,Other equipment,Total: Other equipment
+Metropolitan,Other equipment,"Baton, of which",2.0,286.0,1364.0,358.0,82.0,5.0,0.0,2097.0,Other equipment,Total: Baton
+Metropolitan,Other equipment,Baton drawn,2.0,228.0,952.0,252.0,67.0,5.0,0.0,1506.0,Other equipment,Baton: drawn
+Metropolitan,Other equipment,Baton used,0.0,58.0,412.0,106.0,15.0,0.0,0.0,591.0,Other equipment,Baton: used
+Metropolitan,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Metropolitan,Other equipment,"Irritant spray, of which",1.0,156.0,892.0,282.0,61.0,3.0,0.0,1395.0,Other equipment,Total: Irritant spray
+Metropolitan,Other equipment,Irritant spray - drawn,1.0,122.0,534.0,152.0,32.0,3.0,0.0,844.0,Other equipment,Irritant spray: drawn
+Metropolitan,Other equipment,Irritant spray - used,0.0,34.0,358.0,130.0,29.0,0.0,0.0,551.0,Other equipment,Irritant spray: used
+Metropolitan,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Metropolitan,Other equipment,Spit and bite guard,0.0,84.0,860.0,469.0,98.0,7.0,0.0,1518.0,Other equipment,Spit and bite guard
+Metropolitan,Other equipment,Shield,0.0,14.0,97.0,28.0,9.0,3.0,0.0,151.0,Other equipment,Shield
+Metropolitan,Less lethal weapons,*Total Less lethal weapons,0.0,1330.0,6026.0,2108.0,576.0,40.0,0.0,10080.0,Less lethal weapons,Total: Less lethal weapons
+Metropolitan,Less lethal weapons,CED of which,0.0,1330.0,6018.0,2104.0,576.0,40.0,0.0,10068.0,,
+Metropolitan,Less lethal weapons,CED non-discharge,0.0,1257.0,5440.0,1881.0,516.0,39.0,0.0,9133.0,,
+Metropolitan,Less lethal weapons,CED discharge,0.0,73.0,578.0,223.0,60.0,1.0,0.0,935.0,,
+Metropolitan,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Metropolitan,Less lethal weapons,"AEP, of which",0.0,0.0,8.0,4.0,0.0,0.0,0.0,12.0,Less lethal weapons,Total: AEP
+Metropolitan,Less lethal weapons,AEP drawn,0.0,0.0,6.0,4.0,0.0,0.0,0.0,10.0,,
+Metropolitan,Less lethal weapons,AEP used,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,,
+Metropolitan,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Metropolitan,Firearms,*Total Firearms,0.0,151.0,1201.0,251.0,86.0,8.0,0.0,1697.0,Firearms,Total: Firearms
+Metropolitan,Other,*Total Other,8.0,735.0,3488.0,1498.0,537.0,117.0,0.0,6383.0,Other,Total: Other
+Metropolitan,Other,"Dog use, of which",0.0,82.0,301.0,66.0,6.0,1.0,0.0,456.0,Other,Total: Dog
+Metropolitan,Other,Dog deployed,0.0,59.0,229.0,43.0,3.0,1.0,0.0,335.0,Other,Dog: deployed
+Metropolitan,Other,Dog bite,0.0,23.0,72.0,23.0,3.0,0.0,0.0,121.0,Other,Dog: bite
+Metropolitan,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Metropolitan,Other,Other / improvised,8.0,653.0,3187.0,1432.0,531.0,116.0,0.0,5927.0,Other,Other / improvised
+Metropolitan,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Metropolitan,Tactical communication,Tactical communication,23.0,5479.0,24856.0,9888.0,2812.0,287.0,0.0,43345.0,Excluded: Tactical Communication,Tactical Communication
+Norfolk,Total (excluding not reported and tactical communication),*Total Tactics,31.0,785.0,4891.0,2048.0,575.0,55.0,209.0,8594.0,Total,Total: all
+Norfolk,Restraint,*Total Restraint,8.0,366.0,2276.0,955.0,275.0,28.0,95.0,4003.0,Restraint,Total: Restraint
+Norfolk,Restraint,"Handcuffing, of which",3.0,287.0,1698.0,791.0,234.0,28.0,84.0,3125.0,Restraint,Total: Handcuffing
+Norfolk,Restraint,Compliant handcuffing,0.0,173.0,1044.0,540.0,165.0,22.0,59.0,2003.0,Restraint,Handcuffing: compliant
+Norfolk,Restraint,Non-compliant handcuffing,3.0,114.0,654.0,251.0,69.0,6.0,25.0,1122.0,Restraint,Handcuffing: non-compliant
+Norfolk,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Norfolk,Restraint,Limb / Body restraints,3.0,32.0,272.0,85.0,16.0,0.0,3.0,411.0,Restraint,Limb / body restraints
+Norfolk,Restraint,Ground restraint,2.0,47.0,306.0,79.0,25.0,0.0,8.0,467.0,Restraint,Ground restraint
+Norfolk,Unarmed skills,*Total Unarmed skills,9.0,218.0,1183.0,502.0,125.0,15.0,35.0,2087.0,Unarmed skills,Total: unarmed skills
+Norfolk,Other equipment,*Total Other equipment,0.0,27.0,332.0,122.0,50.0,2.0,18.0,551.0,Other equipment,Total: Other equipment
+Norfolk,Other equipment,"Baton, of which",0.0,8.0,30.0,8.0,4.0,1.0,3.0,54.0,Other equipment,Total: Baton
+Norfolk,Other equipment,Baton drawn,0.0,6.0,19.0,4.0,2.0,0.0,2.0,33.0,Other equipment,Baton: drawn
+Norfolk,Other equipment,Baton used,0.0,2.0,11.0,4.0,2.0,1.0,1.0,21.0,Other equipment,Baton: used
+Norfolk,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Norfolk,Other equipment,"Irritant spray, of which",0.0,12.0,243.0,90.0,37.0,1.0,8.0,391.0,Other equipment,Total: Irritant spray
+Norfolk,Other equipment,Irritant spray - drawn,0.0,6.0,88.0,28.0,17.0,1.0,1.0,141.0,Other equipment,Irritant spray: drawn
+Norfolk,Other equipment,Irritant spray - used,0.0,6.0,155.0,62.0,20.0,0.0,7.0,250.0,Other equipment,Irritant spray: used
+Norfolk,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Norfolk,Other equipment,Spit and bite guard,0.0,7.0,50.0,23.0,7.0,0.0,2.0,89.0,Other equipment,Spit and bite guard
+Norfolk,Other equipment,Shield,0.0,0.0,9.0,1.0,2.0,0.0,5.0,17.0,Other equipment,Shield
+Norfolk,Less lethal weapons,*Total Less lethal weapons,0.0,42.0,342.0,163.0,41.0,2.0,23.0,613.0,Less lethal weapons,Total: Less lethal weapons
+Norfolk,Less lethal weapons,CED of which,0.0,39.0,328.0,157.0,39.0,2.0,23.0,588.0,,
+Norfolk,Less lethal weapons,CED non-discharge,:,:,:,:,:,:,:,:,,
+Norfolk,Less lethal weapons,CED discharge,:,:,:,:,:,:,:,:,,
+Norfolk,Less lethal weapons,CED not stated,0.0,39.0,328.0,157.0,39.0,2.0,23.0,588.0,,
+Norfolk,Less lethal weapons,"AEP, of which",0.0,3.0,14.0,6.0,2.0,0.0,0.0,25.0,Less lethal weapons,Total: AEP
+Norfolk,Less lethal weapons,AEP drawn,0.0,3.0,14.0,6.0,0.0,0.0,0.0,23.0,,
+Norfolk,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,,
+Norfolk,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Norfolk,Firearms,*Total Firearms,0.0,1.0,4.0,6.0,0.0,0.0,0.0,11.0,Firearms,Total: Firearms
+Norfolk,Other,*Total Other,14.0,131.0,754.0,300.0,84.0,8.0,38.0,1329.0,Other,Total: Other
+Norfolk,Other,"Dog use, of which",0.0,5.0,12.0,3.0,0.0,0.0,3.0,23.0,Other,Total: Dog
+Norfolk,Other,Dog deployed,0.0,3.0,11.0,3.0,0.0,0.0,3.0,20.0,Other,Dog: deployed
+Norfolk,Other,Dog bite,0.0,2.0,1.0,0.0,0.0,0.0,0.0,3.0,Other,Dog: bite
+Norfolk,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Norfolk,Other,Other / improvised,14.0,126.0,742.0,297.0,84.0,8.0,35.0,1306.0,Other,Other / improvised
+Norfolk,Not reported,*Total Not reported,1.0,28.0,96.0,21.0,13.0,0.0,4.0,163.0,Not reported,Total: Not reported
+Norfolk,Tactical communication,Tactical communication,14.0,350.0,2061.0,874.0,249.0,29.0,95.0,3672.0,Excluded: Tactical Communication,Tactical Communication
+North Wales,Total (excluding not reported and tactical communication),*Total Tactics,1.0,194.0,1380.0,606.0,159.0,18.0,3.0,2361.0,Total,Total: all
+North Wales,Restraint,*Total Restraint,0.0,95.0,601.0,259.0,65.0,7.0,0.0,1027.0,Restraint,Total: Restraint
+North Wales,Restraint,"Handcuffing, of which",0.0,88.0,560.0,239.0,60.0,6.0,0.0,953.0,Restraint,Total: Handcuffing
+North Wales,Restraint,Compliant handcuffing,0.0,15.0,103.0,64.0,16.0,2.0,0.0,200.0,Restraint,Handcuffing: compliant
+North Wales,Restraint,Non-compliant handcuffing,0.0,73.0,457.0,175.0,44.0,4.0,0.0,753.0,Restraint,Handcuffing: non-compliant
+North Wales,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+North Wales,Restraint,Limb / Body restraints,0.0,2.0,13.0,7.0,2.0,0.0,0.0,24.0,Restraint,Limb / body restraints
+North Wales,Restraint,Ground restraint,0.0,5.0,28.0,13.0,3.0,1.0,0.0,50.0,Restraint,Ground restraint
+North Wales,Unarmed skills,*Total Unarmed skills,1.0,28.0,207.0,80.0,20.0,0.0,1.0,337.0,Unarmed skills,Total: unarmed skills
+North Wales,Other equipment,*Total Other equipment,0.0,13.0,143.0,53.0,10.0,0.0,1.0,220.0,Other equipment,Total: Other equipment
+North Wales,Other equipment,"Baton, of which",0.0,0.0,7.0,5.0,0.0,0.0,1.0,13.0,Other equipment,Total: Baton
+North Wales,Other equipment,Baton drawn,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Other equipment,Baton: drawn
+North Wales,Other equipment,Baton used,0.0,0.0,7.0,4.0,0.0,0.0,1.0,12.0,Other equipment,Baton: used
+North Wales,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+North Wales,Other equipment,"Irritant spray, of which",0.0,13.0,131.0,46.0,9.0,0.0,0.0,199.0,Other equipment,Total: Irritant spray
+North Wales,Other equipment,Irritant spray - drawn,0.0,0.0,18.0,9.0,2.0,0.0,0.0,29.0,Other equipment,Irritant spray: drawn
+North Wales,Other equipment,Irritant spray - used,0.0,13.0,113.0,37.0,7.0,0.0,0.0,170.0,Other equipment,Irritant spray: used
+North Wales,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+North Wales,Other equipment,Spit and bite guard,0.0,0.0,4.0,2.0,1.0,0.0,0.0,7.0,Other equipment,Spit and bite guard
+North Wales,Other equipment,Shield,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Other equipment,Shield
+North Wales,Less lethal weapons,*Total Less lethal weapons,0.0,15.0,93.0,45.0,15.0,0.0,1.0,169.0,Less lethal weapons,Total: Less lethal weapons
+North Wales,Less lethal weapons,CED of which,0.0,15.0,93.0,45.0,15.0,0.0,1.0,169.0,,
+North Wales,Less lethal weapons,CED non-discharge,0.0,15.0,82.0,39.0,14.0,0.0,1.0,151.0,,
+North Wales,Less lethal weapons,CED discharge,0.0,0.0,11.0,6.0,1.0,0.0,0.0,18.0,,
+North Wales,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+North Wales,Less lethal weapons,"AEP, of which",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Less lethal weapons,Total: AEP
+North Wales,Less lethal weapons,AEP drawn,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+North Wales,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+North Wales,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+North Wales,Firearms,*Total Firearms,0.0,0.0,4.0,0.0,3.0,0.0,0.0,7.0,Firearms,Total: Firearms
+North Wales,Other,*Total Other,0.0,43.0,332.0,169.0,46.0,11.0,0.0,601.0,Other,Total: Other
+North Wales,Other,"Dog use, of which",0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,Other,Total: Dog
+North Wales,Other,Dog deployed,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,Other,Dog: deployed
+North Wales,Other,Dog bite,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Other,Dog: bite
+North Wales,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+North Wales,Other,Other / improvised,0.0,43.0,330.0,169.0,46.0,11.0,0.0,599.0,Other,Other / improvised
+North Wales,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+North Wales,Tactical communication,Tactical communication,0.0,12.0,106.0,42.0,9.0,1.0,0.0,170.0,Excluded: Tactical Communication,Tactical Communication
+North Yorkshire,Total (excluding not reported and tactical communication),*Total Tactics,13.0,589.0,3178.0,1434.0,344.0,34.0,0.0,5592.0,Total,Total: all
+North Yorkshire,Restraint,*Total Restraint,6.0,337.0,1885.0,845.0,200.0,16.0,0.0,3289.0,Restraint,Total: Restraint
+North Yorkshire,Restraint,"Handcuffing, of which",0.0,232.0,1309.0,628.0,164.0,13.0,0.0,2346.0,Restraint,Total: Handcuffing
+North Yorkshire,Restraint,Compliant handcuffing,0.0,123.0,763.0,373.0,97.0,7.0,0.0,1363.0,Restraint,Handcuffing: compliant
+North Yorkshire,Restraint,Non-compliant handcuffing,0.0,109.0,546.0,255.0,67.0,6.0,0.0,983.0,Restraint,Handcuffing: non-compliant
+North Yorkshire,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+North Yorkshire,Restraint,Limb / Body restraints,0.0,21.0,120.0,30.0,6.0,3.0,0.0,180.0,Restraint,Limb / body restraints
+North Yorkshire,Restraint,Ground restraint,6.0,84.0,456.0,187.0,30.0,0.0,0.0,763.0,Restraint,Ground restraint
+North Yorkshire,Unarmed skills,*Total Unarmed skills,5.0,211.0,855.0,405.0,102.0,13.0,0.0,1591.0,Unarmed skills,Total: unarmed skills
+North Yorkshire,Other equipment,*Total Other equipment,0.0,20.0,208.0,81.0,13.0,3.0,0.0,325.0,Other equipment,Total: Other equipment
+North Yorkshire,Other equipment,"Baton, of which",0.0,3.0,27.0,12.0,1.0,2.0,0.0,45.0,Other equipment,Total: Baton
+North Yorkshire,Other equipment,Baton drawn,0.0,3.0,15.0,5.0,1.0,2.0,0.0,26.0,Other equipment,Baton: drawn
+North Yorkshire,Other equipment,Baton used,0.0,0.0,12.0,7.0,0.0,0.0,0.0,19.0,Other equipment,Baton: used
+North Yorkshire,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+North Yorkshire,Other equipment,"Irritant spray, of which",0.0,8.0,147.0,58.0,9.0,1.0,0.0,223.0,Other equipment,Total: Irritant spray
+North Yorkshire,Other equipment,Irritant spray - drawn,0.0,6.0,58.0,21.0,6.0,0.0,0.0,91.0,Other equipment,Irritant spray: drawn
+North Yorkshire,Other equipment,Irritant spray - used,0.0,2.0,89.0,37.0,3.0,1.0,0.0,132.0,Other equipment,Irritant spray: used
+North Yorkshire,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+North Yorkshire,Other equipment,Spit and bite guard,0.0,9.0,30.0,10.0,3.0,0.0,0.0,52.0,Other equipment,Spit and bite guard
+North Yorkshire,Other equipment,Shield,0.0,0.0,4.0,1.0,0.0,0.0,0.0,5.0,Other equipment,Shield
+North Yorkshire,Less lethal weapons,*Total Less lethal weapons,1.0,11.0,143.0,54.0,19.0,0.0,0.0,228.0,Less lethal weapons,Total: Less lethal weapons
+North Yorkshire,Less lethal weapons,CED of which,1.0,9.0,135.0,50.0,19.0,0.0,0.0,214.0,,
+North Yorkshire,Less lethal weapons,CED non-discharge,1.0,9.0,112.0,42.0,17.0,0.0,0.0,181.0,,
+North Yorkshire,Less lethal weapons,CED discharge,0.0,0.0,23.0,8.0,2.0,0.0,0.0,33.0,,
+North Yorkshire,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+North Yorkshire,Less lethal weapons,"AEP, of which",0.0,2.0,8.0,4.0,0.0,0.0,0.0,14.0,Less lethal weapons,Total: AEP
+North Yorkshire,Less lethal weapons,AEP drawn,0.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,
+North Yorkshire,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+North Yorkshire,Less lethal weapons,AEP not stated,0.0,2.0,7.0,3.0,0.0,0.0,0.0,12.0,,
+North Yorkshire,Firearms,*Total Firearms,0.0,1.0,16.0,8.0,1.0,0.0,0.0,26.0,Firearms,Total: Firearms
+North Yorkshire,Other,*Total Other,1.0,9.0,71.0,41.0,9.0,2.0,0.0,133.0,Other,Total: Other
+North Yorkshire,Other,"Dog use, of which",0.0,1.0,8.0,3.0,0.0,0.0,0.0,12.0,Other,Total: Dog
+North Yorkshire,Other,Dog deployed,0.0,1.0,5.0,2.0,0.0,0.0,0.0,8.0,Other,Dog: deployed
+North Yorkshire,Other,Dog bite,0.0,0.0,3.0,1.0,0.0,0.0,0.0,4.0,Other,Dog: bite
+North Yorkshire,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+North Yorkshire,Other,Other / improvised,1.0,8.0,63.0,38.0,9.0,2.0,0.0,121.0,Other,Other / improvised
+North Yorkshire,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+North Yorkshire,Tactical communication,Tactical communication,7.0,252.0,1243.0,561.0,154.0,21.0,0.0,2238.0,Excluded: Tactical Communication,Tactical Communication
+Northamptonshire,Total (excluding not reported and tactical communication),*Total Tactics,20.0,902.0,5952.0,2395.0,601.0,57.0,1.0,9928.0,Total,Total: all
+Northamptonshire,Restraint,*Total Restraint,2.0,453.0,2979.0,1246.0,302.0,19.0,0.0,5001.0,Restraint,Total: Restraint
+Northamptonshire,Restraint,"Handcuffing, of which",2.0,379.0,2497.0,1081.0,274.0,19.0,0.0,4252.0,Restraint,Total: Handcuffing
+Northamptonshire,Restraint,Compliant handcuffing,1.0,232.0,1586.0,716.0,174.0,13.0,0.0,2722.0,Restraint,Handcuffing: compliant
+Northamptonshire,Restraint,Non-compliant handcuffing,1.0,147.0,911.0,365.0,100.0,6.0,0.0,1530.0,Restraint,Handcuffing: non-compliant
+Northamptonshire,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Northamptonshire,Restraint,Limb / Body restraints,0.0,49.0,285.0,91.0,15.0,0.0,0.0,440.0,Restraint,Limb / body restraints
+Northamptonshire,Restraint,Ground restraint,0.0,25.0,197.0,74.0,13.0,0.0,0.0,309.0,Restraint,Ground restraint
+Northamptonshire,Unarmed skills,*Total Unarmed skills,8.0,277.0,1690.0,650.0,158.0,22.0,0.0,2805.0,Unarmed skills,Total: unarmed skills
+Northamptonshire,Other equipment,*Total Other equipment,1.0,47.0,447.0,162.0,25.0,1.0,1.0,684.0,Other equipment,Total: Other equipment
+Northamptonshire,Other equipment,"Baton, of which",0.0,6.0,74.0,22.0,0.0,0.0,0.0,102.0,Other equipment,Total: Baton
+Northamptonshire,Other equipment,Baton drawn,0.0,4.0,45.0,12.0,0.0,0.0,0.0,61.0,Other equipment,Baton: drawn
+Northamptonshire,Other equipment,Baton used,0.0,2.0,29.0,10.0,0.0,0.0,0.0,41.0,Other equipment,Baton: used
+Northamptonshire,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Northamptonshire,Other equipment,"Irritant spray, of which",1.0,24.0,286.0,112.0,18.0,1.0,1.0,443.0,Other equipment,Total: Irritant spray
+Northamptonshire,Other equipment,Irritant spray - drawn,0.0,11.0,141.0,61.0,10.0,1.0,0.0,224.0,Other equipment,Irritant spray: drawn
+Northamptonshire,Other equipment,Irritant spray - used,1.0,13.0,145.0,51.0,8.0,0.0,1.0,219.0,Other equipment,Irritant spray: used
+Northamptonshire,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Northamptonshire,Other equipment,Spit and bite guard,0.0,12.0,81.0,23.0,5.0,0.0,0.0,121.0,Other equipment,Spit and bite guard
+Northamptonshire,Other equipment,Shield,0.0,5.0,6.0,5.0,2.0,0.0,0.0,18.0,Other equipment,Shield
+Northamptonshire,Less lethal weapons,*Total Less lethal weapons,2.0,43.0,334.0,123.0,59.0,7.0,0.0,568.0,Less lethal weapons,Total: Less lethal weapons
+Northamptonshire,Less lethal weapons,CED of which,2.0,42.0,324.0,123.0,57.0,7.0,0.0,555.0,,
+Northamptonshire,Less lethal weapons,CED non-discharge,2.0,42.0,308.0,116.0,51.0,7.0,0.0,526.0,,
+Northamptonshire,Less lethal weapons,CED discharge,0.0,0.0,15.0,4.0,6.0,0.0,0.0,25.0,,
+Northamptonshire,Less lethal weapons,CED not stated,0.0,0.0,1.0,3.0,0.0,0.0,0.0,4.0,,
+Northamptonshire,Less lethal weapons,"AEP, of which",0.0,1.0,10.0,0.0,2.0,0.0,0.0,13.0,Less lethal weapons,Total: AEP
+Northamptonshire,Less lethal weapons,AEP drawn,0.0,1.0,10.0,0.0,2.0,0.0,0.0,13.0,,
+Northamptonshire,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Northamptonshire,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Northamptonshire,Firearms,*Total Firearms,0.0,2.0,42.0,13.0,3.0,0.0,0.0,60.0,Firearms,Total: Firearms
+Northamptonshire,Other,*Total Other,7.0,80.0,460.0,201.0,54.0,8.0,0.0,810.0,Other,Total: Other
+Northamptonshire,Other,"Dog use, of which",0.0,10.0,51.0,16.0,2.0,0.0,0.0,79.0,Other,Total: Dog
+Northamptonshire,Other,Dog deployed,0.0,9.0,45.0,16.0,2.0,0.0,0.0,72.0,Other,Dog: deployed
+Northamptonshire,Other,Dog bite,0.0,1.0,6.0,0.0,0.0,0.0,0.0,7.0,Other,Dog: bite
+Northamptonshire,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Northamptonshire,Other,Other / improvised,7.0,70.0,409.0,185.0,52.0,8.0,0.0,731.0,Other,Other / improvised
+Northamptonshire,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Northamptonshire,Tactical communication,Tactical communication,11.0,287.0,1811.0,719.0,191.0,26.0,0.0,3045.0,Excluded: Tactical Communication,Tactical Communication
+Northumbria,Total (excluding not reported and tactical communication),*Total Tactics,41.0,2431.0,15372.0,7520.0,1359.0,109.0,5.0,26837.0,Total,Total: all
+Northumbria,Restraint,*Total Restraint,22.0,1694.0,11337.0,5531.0,1018.0,73.0,5.0,19680.0,Restraint,Total: Restraint
+Northumbria,Restraint,"Handcuffing, of which",13.0,1254.0,8554.0,4402.0,883.0,63.0,4.0,15173.0,Restraint,Total: Handcuffing
+Northumbria,Restraint,Compliant handcuffing,10.0,822.0,6049.0,3248.0,682.0,42.0,4.0,10857.0,Restraint,Handcuffing: compliant
+Northumbria,Restraint,Non-compliant handcuffing,3.0,432.0,2505.0,1154.0,201.0,21.0,0.0,4316.0,Restraint,Handcuffing: non-compliant
+Northumbria,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Northumbria,Restraint,Limb / Body restraints,0.0,63.0,346.0,111.0,9.0,0.0,0.0,529.0,Restraint,Limb / body restraints
+Northumbria,Restraint,Ground restraint,9.0,377.0,2437.0,1018.0,126.0,10.0,1.0,3978.0,Restraint,Ground restraint
+Northumbria,Unarmed skills,*Total Unarmed skills,15.0,549.0,2909.0,1391.0,254.0,29.0,0.0,5147.0,Unarmed skills,Total: unarmed skills
+Northumbria,Other equipment,*Total Other equipment,0.0,73.0,473.0,281.0,23.0,0.0,0.0,850.0,Other equipment,Total: Other equipment
+Northumbria,Other equipment,"Baton, of which",0.0,10.0,84.0,38.0,1.0,0.0,0.0,133.0,Other equipment,Total: Baton
+Northumbria,Other equipment,Baton drawn,0.0,8.0,58.0,30.0,1.0,0.0,0.0,97.0,Other equipment,Baton: drawn
+Northumbria,Other equipment,Baton used,0.0,2.0,26.0,8.0,0.0,0.0,0.0,36.0,Other equipment,Baton: used
+Northumbria,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Northumbria,Other equipment,"Irritant spray, of which",0.0,14.0,160.0,92.0,13.0,0.0,0.0,279.0,Other equipment,Total: Irritant spray
+Northumbria,Other equipment,Irritant spray - drawn,0.0,6.0,80.0,42.0,6.0,0.0,0.0,134.0,Other equipment,Irritant spray: drawn
+Northumbria,Other equipment,Irritant spray - used,0.0,8.0,80.0,50.0,7.0,0.0,0.0,145.0,Other equipment,Irritant spray: used
+Northumbria,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Northumbria,Other equipment,Spit and bite guard,0.0,42.0,219.0,140.0,9.0,0.0,0.0,410.0,Other equipment,Spit and bite guard
+Northumbria,Other equipment,Shield,0.0,7.0,10.0,11.0,0.0,0.0,0.0,28.0,Other equipment,Shield
+Northumbria,Less lethal weapons,*Total Less lethal weapons,1.0,22.0,217.0,118.0,22.0,0.0,0.0,380.0,Less lethal weapons,Total: Less lethal weapons
+Northumbria,Less lethal weapons,CED of which,0.0,21.0,196.0,108.0,18.0,0.0,0.0,343.0,,
+Northumbria,Less lethal weapons,CED non-discharge,0.0,20.0,169.0,87.0,16.0,0.0,0.0,292.0,,
+Northumbria,Less lethal weapons,CED discharge,0.0,1.0,27.0,21.0,2.0,0.0,0.0,51.0,,
+Northumbria,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Northumbria,Less lethal weapons,"AEP, of which",1.0,1.0,21.0,10.0,4.0,0.0,0.0,37.0,Less lethal weapons,Total: AEP
+Northumbria,Less lethal weapons,AEP drawn,1.0,1.0,21.0,10.0,4.0,0.0,0.0,37.0,,
+Northumbria,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Northumbria,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Northumbria,Firearms,*Total Firearms,0.0,8.0,77.0,30.0,11.0,0.0,0.0,126.0,Firearms,Total: Firearms
+Northumbria,Other,*Total Other,3.0,85.0,359.0,169.0,31.0,7.0,0.0,654.0,Other,Total: Other
+Northumbria,Other,"Dog use, of which",0.0,12.0,73.0,28.0,6.0,0.0,0.0,119.0,Other,Total: Dog
+Northumbria,Other,Dog deployed,0.0,11.0,61.0,26.0,6.0,0.0,0.0,104.0,Other,Dog: deployed
+Northumbria,Other,Dog bite,0.0,1.0,12.0,2.0,0.0,0.0,0.0,15.0,Other,Dog: bite
+Northumbria,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Northumbria,Other,Other / improvised,3.0,73.0,286.0,141.0,25.0,7.0,0.0,535.0,Other,Other / improvised
+Northumbria,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Northumbria,Tactical communication,Tactical communication,29.0,1371.0,8745.0,4533.0,916.0,77.0,4.0,15675.0,Excluded: Tactical Communication,Tactical Communication
+Nottinghamshire,Total (excluding not reported and tactical communication),*Total Tactics,19.0,903.0,5644.0,2554.0,613.0,66.0,0.0,9799.0,Total,Total: all
+Nottinghamshire,Restraint,*Total Restraint,10.0,548.0,3218.0,1459.0,323.0,39.0,0.0,5597.0,Restraint,Total: Restraint
+Nottinghamshire,Restraint,"Handcuffing, of which",10.0,525.0,3017.0,1374.0,305.0,38.0,0.0,5269.0,Restraint,Total: Handcuffing
+Nottinghamshire,Restraint,Compliant handcuffing,6.0,325.0,1765.0,753.0,153.0,19.0,0.0,3021.0,Restraint,Handcuffing: compliant
+Nottinghamshire,Restraint,Non-compliant handcuffing,4.0,200.0,1252.0,621.0,152.0,19.0,0.0,2248.0,Restraint,Handcuffing: non-compliant
+Nottinghamshire,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Nottinghamshire,Restraint,Limb / Body restraints,0.0,23.0,201.0,85.0,18.0,1.0,0.0,328.0,Restraint,Limb / body restraints
+Nottinghamshire,Restraint,Ground restraint,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Restraint,Ground restraint
+Nottinghamshire,Unarmed skills,*Total Unarmed skills,5.0,212.0,1444.0,649.0,173.0,14.0,0.0,2497.0,Unarmed skills,Total: unarmed skills
+Nottinghamshire,Other equipment,*Total Other equipment,0.0,22.0,223.0,96.0,17.0,3.0,0.0,361.0,Other equipment,Total: Other equipment
+Nottinghamshire,Other equipment,"Baton, of which",0.0,8.0,69.0,15.0,3.0,1.0,0.0,96.0,Other equipment,Total: Baton
+Nottinghamshire,Other equipment,Baton drawn,0.0,6.0,39.0,10.0,2.0,0.0,0.0,57.0,Other equipment,Baton: drawn
+Nottinghamshire,Other equipment,Baton used,0.0,2.0,30.0,5.0,1.0,1.0,0.0,39.0,Other equipment,Baton: used
+Nottinghamshire,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Nottinghamshire,Other equipment,"Irritant spray, of which",0.0,12.0,98.0,43.0,9.0,1.0,0.0,163.0,Other equipment,Total: Irritant spray
+Nottinghamshire,Other equipment,Irritant spray - drawn,0.0,8.0,42.0,18.0,4.0,0.0,0.0,72.0,Other equipment,Irritant spray: drawn
+Nottinghamshire,Other equipment,Irritant spray - used,0.0,4.0,56.0,25.0,5.0,1.0,0.0,91.0,Other equipment,Irritant spray: used
+Nottinghamshire,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Nottinghamshire,Other equipment,Spit and bite guard,0.0,2.0,50.0,34.0,4.0,1.0,0.0,91.0,Other equipment,Spit and bite guard
+Nottinghamshire,Other equipment,Shield,0.0,0.0,6.0,4.0,1.0,0.0,0.0,11.0,Other equipment,Shield
+Nottinghamshire,Less lethal weapons,*Total Less lethal weapons,0.0,14.0,232.0,102.0,42.0,1.0,0.0,391.0,Less lethal weapons,Total: Less lethal weapons
+Nottinghamshire,Less lethal weapons,CED of which,0.0,14.0,232.0,102.0,39.0,1.0,0.0,388.0,,
+Nottinghamshire,Less lethal weapons,CED non-discharge,0.0,14.0,213.0,89.0,29.0,1.0,0.0,346.0,,
+Nottinghamshire,Less lethal weapons,CED discharge,0.0,0.0,19.0,13.0,10.0,0.0,0.0,42.0,,
+Nottinghamshire,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Nottinghamshire,Less lethal weapons,"AEP, of which",0.0,0.0,0.0,0.0,3.0,0.0,0.0,3.0,Less lethal weapons,Total: AEP
+Nottinghamshire,Less lethal weapons,AEP drawn,0.0,0.0,0.0,0.0,3.0,0.0,0.0,3.0,,
+Nottinghamshire,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Nottinghamshire,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Nottinghamshire,Firearms,*Total Firearms,0.0,0.0,2.0,0.0,2.0,0.0,0.0,4.0,Firearms,Total: Firearms
+Nottinghamshire,Other,*Total Other,4.0,107.0,525.0,248.0,56.0,9.0,0.0,949.0,Other,Total: Other
+Nottinghamshire,Other,"Dog use, of which",0.0,8.0,33.0,18.0,7.0,0.0,0.0,66.0,Other,Total: Dog
+Nottinghamshire,Other,Dog deployed,0.0,4.0,19.0,9.0,5.0,0.0,0.0,37.0,Other,Dog: deployed
+Nottinghamshire,Other,Dog bite,0.0,4.0,14.0,9.0,2.0,0.0,0.0,29.0,Other,Dog: bite
+Nottinghamshire,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Nottinghamshire,Other,Other / improvised,4.0,99.0,492.0,230.0,49.0,9.0,0.0,883.0,Other,Other / improvised
+Nottinghamshire,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Nottinghamshire,Tactical communication,Tactical communication,8.0,305.0,1950.0,936.0,264.0,24.0,0.0,3487.0,Excluded: Tactical Communication,Tactical Communication
+South Wales,Total (excluding not reported and tactical communication),*Total Tactics,222.0,2141.0,14492.0,6943.0,1523.0,1497.0,0.0,26818.0,Total,Total: all
+South Wales,Restraint,*Total Restraint,131.0,1418.0,9972.0,4877.0,1042.0,951.0,0.0,18391.0,Restraint,Total: Restraint
+South Wales,Restraint,"Handcuffing, of which",101.0,1174.0,8139.0,4194.0,885.0,816.0,0.0,15309.0,Restraint,Total: Handcuffing
+South Wales,Restraint,Compliant handcuffing,61.0,794.0,5589.0,2937.0,598.0,535.0,0.0,10514.0,Restraint,Handcuffing: compliant
+South Wales,Restraint,Non-compliant handcuffing,40.0,380.0,2550.0,1257.0,287.0,281.0,0.0,4795.0,Restraint,Handcuffing: non-compliant
+South Wales,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+South Wales,Restraint,Limb / Body restraints,9.0,45.0,279.0,108.0,23.0,22.0,0.0,486.0,Restraint,Limb / body restraints
+South Wales,Restraint,Ground restraint,21.0,199.0,1554.0,575.0,134.0,113.0,0.0,2596.0,Restraint,Ground restraint
+South Wales,Unarmed skills,*Total Unarmed skills,72.0,524.0,3164.0,1452.0,345.0,359.0,0.0,5916.0,Unarmed skills,Total: unarmed skills
+South Wales,Other equipment,*Total Other equipment,6.0,37.0,230.0,113.0,25.0,16.0,0.0,427.0,Other equipment,Total: Other equipment
+South Wales,Other equipment,"Baton, of which",0.0,7.0,42.0,30.0,4.0,3.0,0.0,86.0,Other equipment,Total: Baton
+South Wales,Other equipment,Baton drawn,0.0,4.0,30.0,15.0,4.0,2.0,0.0,55.0,Other equipment,Baton: drawn
+South Wales,Other equipment,Baton used,0.0,3.0,12.0,15.0,0.0,1.0,0.0,31.0,Other equipment,Baton: used
+South Wales,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+South Wales,Other equipment,"Irritant spray, of which",2.0,8.0,106.0,40.0,10.0,7.0,0.0,173.0,Other equipment,Total: Irritant spray
+South Wales,Other equipment,Irritant spray - drawn,0.0,5.0,49.0,19.0,8.0,4.0,0.0,85.0,Other equipment,Irritant spray: drawn
+South Wales,Other equipment,Irritant spray - used,2.0,3.0,57.0,21.0,2.0,3.0,0.0,88.0,Other equipment,Irritant spray: used
+South Wales,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+South Wales,Other equipment,Spit and bite guard,4.0,22.0,76.0,41.0,11.0,6.0,0.0,160.0,Other equipment,Spit and bite guard
+South Wales,Other equipment,Shield,0.0,0.0,6.0,2.0,0.0,0.0,0.0,8.0,Other equipment,Shield
+South Wales,Less lethal weapons,*Total Less lethal weapons,3.0,58.0,502.0,197.0,45.0,61.0,0.0,866.0,Less lethal weapons,Total: Less lethal weapons
+South Wales,Less lethal weapons,CED of which,1.0,57.0,439.0,176.0,43.0,48.0,0.0,764.0,,
+South Wales,Less lethal weapons,CED non-discharge,1.0,40.0,289.0,125.0,20.0,33.0,0.0,508.0,,
+South Wales,Less lethal weapons,CED discharge,0.0,2.0,44.0,19.0,12.0,2.0,0.0,79.0,,
+South Wales,Less lethal weapons,CED not stated,0.0,15.0,106.0,32.0,11.0,13.0,0.0,177.0,,
+South Wales,Less lethal weapons,"AEP, of which",2.0,1.0,63.0,21.0,2.0,13.0,0.0,102.0,Less lethal weapons,Total: AEP
+South Wales,Less lethal weapons,AEP drawn,2.0,1.0,61.0,21.0,2.0,13.0,0.0,100.0,,
+South Wales,Less lethal weapons,AEP used,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,,
+South Wales,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+South Wales,Firearms,*Total Firearms,0.0,8.0,63.0,39.0,15.0,16.0,0.0,141.0,Firearms,Total: Firearms
+South Wales,Other,*Total Other,10.0,96.0,561.0,265.0,51.0,94.0,0.0,1077.0,Other,Total: Other
+South Wales,Other,"Dog use, of which",0.0,19.0,45.0,16.0,4.0,3.0,0.0,87.0,Other,Total: Dog
+South Wales,Other,Dog deployed,0.0,19.0,39.0,15.0,4.0,3.0,0.0,80.0,Other,Dog: deployed
+South Wales,Other,Dog bite,0.0,0.0,6.0,1.0,0.0,0.0,0.0,7.0,Other,Dog: bite
+South Wales,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+South Wales,Other,Other / improvised,10.0,77.0,516.0,249.0,47.0,91.0,0.0,990.0,Other,Other / improvised
+South Wales,Not reported,*Total Not reported,2.0,1.0,10.0,3.0,2.0,2.0,0.0,20.0,Not reported,Total: Not reported
+South Wales,Tactical communication,Tactical communication,81.0,838.0,5807.0,2963.0,605.0,493.0,0.0,10787.0,Excluded: Tactical Communication,Tactical Communication
+South Yorkshire,Total (excluding not reported and tactical communication),*Total Tactics,4.0,693.0,7679.0,3292.0,572.0,57.0,0.0,12297.0,Total,Total: all
+South Yorkshire,Restraint,*Total Restraint,0.0,308.0,3487.0,1518.0,244.0,25.0,0.0,5582.0,Restraint,Total: Restraint
+South Yorkshire,Restraint,"Handcuffing, of which",0.0,223.0,2269.0,1043.0,190.0,20.0,0.0,3745.0,Restraint,Total: Handcuffing
+South Yorkshire,Restraint,Compliant handcuffing,0.0,71.0,841.0,401.0,61.0,7.0,0.0,1381.0,Restraint,Handcuffing: compliant
+South Yorkshire,Restraint,Non-compliant handcuffing,0.0,152.0,1428.0,642.0,129.0,13.0,0.0,2364.0,Restraint,Handcuffing: non-compliant
+South Yorkshire,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+South Yorkshire,Restraint,Limb / Body restraints,0.0,25.0,278.0,106.0,15.0,3.0,0.0,427.0,Restraint,Limb / body restraints
+South Yorkshire,Restraint,Ground restraint,0.0,60.0,940.0,369.0,39.0,2.0,0.0,1410.0,Restraint,Ground restraint
+South Yorkshire,Unarmed skills,*Total Unarmed skills,2.0,319.0,2922.0,1238.0,249.0,26.0,0.0,4756.0,Unarmed skills,Total: unarmed skills
+South Yorkshire,Other equipment,*Total Other equipment,1.0,20.0,535.0,224.0,27.0,3.0,0.0,810.0,Other equipment,Total: Other equipment
+South Yorkshire,Other equipment,"Baton, of which",0.0,1.0,147.0,29.0,10.0,0.0,0.0,187.0,Other equipment,Total: Baton
+South Yorkshire,Other equipment,Baton drawn,0.0,1.0,88.0,20.0,5.0,0.0,0.0,114.0,Other equipment,Baton: drawn
+South Yorkshire,Other equipment,Baton used,0.0,0.0,59.0,9.0,5.0,0.0,0.0,73.0,Other equipment,Baton: used
+South Yorkshire,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+South Yorkshire,Other equipment,"Irritant spray, of which",1.0,15.0,303.0,147.0,13.0,1.0,0.0,480.0,Other equipment,Total: Irritant spray
+South Yorkshire,Other equipment,Irritant spray - drawn,0.0,2.0,99.0,52.0,6.0,1.0,0.0,160.0,Other equipment,Irritant spray: drawn
+South Yorkshire,Other equipment,Irritant spray - used,1.0,13.0,204.0,95.0,7.0,0.0,0.0,320.0,Other equipment,Irritant spray: used
+South Yorkshire,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+South Yorkshire,Other equipment,Spit and bite guard,0.0,4.0,79.0,44.0,4.0,2.0,0.0,133.0,Other equipment,Spit and bite guard
+South Yorkshire,Other equipment,Shield,0.0,0.0,6.0,4.0,0.0,0.0,0.0,10.0,Other equipment,Shield
+South Yorkshire,Less lethal weapons,*Total Less lethal weapons,1.0,24.0,355.0,161.0,31.0,0.0,0.0,572.0,Less lethal weapons,Total: Less lethal weapons
+South Yorkshire,Less lethal weapons,CED of which,1.0,24.0,348.0,158.0,31.0,0.0,0.0,562.0,,
+South Yorkshire,Less lethal weapons,CED non-discharge,1.0,22.0,298.0,128.0,27.0,0.0,0.0,476.0,,
+South Yorkshire,Less lethal weapons,CED discharge,0.0,2.0,50.0,30.0,4.0,0.0,0.0,86.0,,
+South Yorkshire,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+South Yorkshire,Less lethal weapons,"AEP, of which",0.0,0.0,7.0,3.0,0.0,0.0,0.0,10.0,Less lethal weapons,Total: AEP
+South Yorkshire,Less lethal weapons,AEP drawn,0.0,0.0,7.0,3.0,0.0,0.0,0.0,10.0,,
+South Yorkshire,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+South Yorkshire,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+South Yorkshire,Firearms,*Total Firearms,0.0,0.0,35.0,23.0,0.0,0.0,0.0,58.0,Firearms,Total: Firearms
+South Yorkshire,Other,*Total Other,0.0,22.0,345.0,128.0,21.0,3.0,0.0,519.0,Other,Total: Other
+South Yorkshire,Other,"Dog use, of which",0.0,7.0,81.0,17.0,7.0,0.0,0.0,112.0,Other,Total: Dog
+South Yorkshire,Other,Dog deployed,0.0,4.0,57.0,13.0,4.0,0.0,0.0,78.0,Other,Dog: deployed
+South Yorkshire,Other,Dog bite,0.0,3.0,24.0,4.0,3.0,0.0,0.0,34.0,Other,Dog: bite
+South Yorkshire,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+South Yorkshire,Other,Other / improvised,0.0,15.0,264.0,111.0,14.0,3.0,0.0,407.0,Other,Other / improvised
+South Yorkshire,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+South Yorkshire,Tactical communication,Tactical communication,2.0,281.0,2761.0,1207.0,233.0,23.0,0.0,4507.0,Excluded: Tactical Communication,Tactical Communication
+Staffordshire,Total (excluding not reported and tactical communication),*Total Tactics,15.0,494.0,3136.0,1347.0,351.0,20.0,1988.0,7351.0,Total,Total: all
+Staffordshire,Restraint,*Total Restraint,7.0,210.0,1377.0,567.0,141.0,7.0,752.0,3061.0,Restraint,Total: Restraint
+Staffordshire,Restraint,"Handcuffing, of which",6.0,144.0,880.0,392.0,105.0,6.0,519.0,2052.0,Restraint,Total: Handcuffing
+Staffordshire,Restraint,Compliant handcuffing,:,:,:,:,:,:,:,:,Restraint,Handcuffing: compliant
+Staffordshire,Restraint,Non-compliant handcuffing,:,:,:,:,:,:,:,:,Restraint,Handcuffing: non-compliant
+Staffordshire,Restraint,Handcuffing not stated,6.0,144.0,880.0,392.0,105.0,6.0,519.0,2052.0,,
+Staffordshire,Restraint,Limb / Body restraints,0.0,15.0,96.0,28.0,13.0,0.0,51.0,203.0,Restraint,Limb / body restraints
+Staffordshire,Restraint,Ground restraint,1.0,51.0,401.0,147.0,23.0,1.0,182.0,806.0,Restraint,Ground restraint
+Staffordshire,Unarmed skills,*Total Unarmed skills,8.0,240.0,1326.0,584.0,157.0,11.0,1001.0,3327.0,Unarmed skills,Total: unarmed skills
+Staffordshire,Other equipment,*Total Other equipment,0.0,21.0,271.0,124.0,24.0,0.0,151.0,591.0,Other equipment,Total: Other equipment
+Staffordshire,Other equipment,"Baton, of which",0.0,1.0,38.0,12.0,0.0,0.0,18.0,69.0,Other equipment,Total: Baton
+Staffordshire,Other equipment,Baton drawn,0.0,1.0,20.0,7.0,0.0,0.0,9.0,37.0,Other equipment,Baton: drawn
+Staffordshire,Other equipment,Baton used,0.0,0.0,18.0,5.0,0.0,0.0,9.0,32.0,Other equipment,Baton: used
+Staffordshire,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Staffordshire,Other equipment,"Irritant spray, of which",0.0,18.0,190.0,91.0,18.0,0.0,115.0,432.0,Other equipment,Total: Irritant spray
+Staffordshire,Other equipment,Irritant spray - drawn,0.0,12.0,85.0,37.0,7.0,0.0,63.0,204.0,Other equipment,Irritant spray: drawn
+Staffordshire,Other equipment,Irritant spray - used,0.0,6.0,105.0,54.0,11.0,0.0,52.0,228.0,Other equipment,Irritant spray: used
+Staffordshire,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Staffordshire,Other equipment,Spit and bite guard,0.0,2.0,41.0,21.0,5.0,0.0,16.0,85.0,Other equipment,Spit and bite guard
+Staffordshire,Other equipment,Shield,0.0,0.0,2.0,0.0,1.0,0.0,2.0,5.0,Other equipment,Shield
+Staffordshire,Less lethal weapons,*Total Less lethal weapons,0.0,4.0,85.0,32.0,20.0,1.0,49.0,191.0,Less lethal weapons,Total: Less lethal weapons
+Staffordshire,Less lethal weapons,CED of which,0.0,3.0,79.0,29.0,19.0,1.0,42.0,173.0,,
+Staffordshire,Less lethal weapons,CED non-discharge,0.0,3.0,66.0,26.0,18.0,1.0,39.0,153.0,,
+Staffordshire,Less lethal weapons,CED discharge,0.0,0.0,13.0,3.0,1.0,0.0,2.0,19.0,,
+Staffordshire,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,,
+Staffordshire,Less lethal weapons,"AEP, of which",0.0,1.0,6.0,3.0,1.0,0.0,7.0,18.0,Less lethal weapons,Total: AEP
+Staffordshire,Less lethal weapons,AEP drawn,0.0,1.0,5.0,3.0,1.0,0.0,5.0,15.0,,
+Staffordshire,Less lethal weapons,AEP used,0.0,0.0,1.0,0.0,0.0,0.0,2.0,3.0,,
+Staffordshire,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Staffordshire,Firearms,*Total Firearms,0.0,0.0,12.0,7.0,3.0,0.0,6.0,28.0,Firearms,Total: Firearms
+Staffordshire,Other,*Total Other,0.0,19.0,65.0,33.0,6.0,1.0,29.0,153.0,Other,Total: Other
+Staffordshire,Other,"Dog use, of which",0.0,8.0,34.0,11.0,1.0,0.0,9.0,63.0,Other,Total: Dog
+Staffordshire,Other,Dog deployed,0.0,6.0,26.0,11.0,1.0,0.0,5.0,49.0,Other,Dog: deployed
+Staffordshire,Other,Dog bite,0.0,2.0,8.0,0.0,0.0,0.0,4.0,14.0,Other,Dog: bite
+Staffordshire,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Staffordshire,Other,Other / improvised,0.0,11.0,31.0,22.0,5.0,1.0,20.0,90.0,Other,Other / improvised
+Staffordshire,Not reported,*Total Not reported,0.0,2.0,7.0,1.0,2.0,0.0,2.0,14.0,Not reported,Total: Not reported
+Staffordshire,Tactical communication,Tactical communication,8.0,207.0,1160.0,510.0,139.0,9.0,661.0,2694.0,Excluded: Tactical Communication,Tactical Communication
+Suffolk,Total (excluding not reported and tactical communication),*Total Tactics,3.0,637.0,3215.0,1412.0,291.0,31.0,102.0,5691.0,Total,Total: all
+Suffolk,Restraint,*Total Restraint,0.0,360.0,1760.0,801.0,176.0,14.0,41.0,3152.0,Restraint,Total: Restraint
+Suffolk,Restraint,"Handcuffing, of which",0.0,285.0,1442.0,690.0,152.0,13.0,35.0,2617.0,Restraint,Total: Handcuffing
+Suffolk,Restraint,Compliant handcuffing,0.0,143.0,766.0,393.0,82.0,2.0,19.0,1405.0,Restraint,Handcuffing: compliant
+Suffolk,Restraint,Non-compliant handcuffing,0.0,142.0,676.0,297.0,70.0,11.0,16.0,1212.0,Restraint,Handcuffing: non-compliant
+Suffolk,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Suffolk,Restraint,Limb / Body restraints,0.0,23.0,117.0,35.0,8.0,1.0,2.0,186.0,Restraint,Limb / body restraints
+Suffolk,Restraint,Ground restraint,0.0,52.0,201.0,76.0,16.0,0.0,4.0,349.0,Restraint,Ground restraint
+Suffolk,Unarmed skills,*Total Unarmed skills,1.0,106.0,476.0,214.0,33.0,6.0,13.0,849.0,Unarmed skills,Total: unarmed skills
+Suffolk,Other equipment,*Total Other equipment,0.0,25.0,212.0,85.0,15.0,0.0,15.0,352.0,Other equipment,Total: Other equipment
+Suffolk,Other equipment,"Baton, of which",0.0,1.0,9.0,3.0,1.0,0.0,3.0,17.0,Other equipment,Total: Baton
+Suffolk,Other equipment,Baton drawn,0.0,1.0,7.0,1.0,1.0,0.0,3.0,13.0,Other equipment,Baton: drawn
+Suffolk,Other equipment,Baton used,0.0,0.0,2.0,2.0,0.0,0.0,0.0,4.0,Other equipment,Baton: used
+Suffolk,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Suffolk,Other equipment,"Irritant spray, of which",0.0,18.0,155.0,66.0,14.0,0.0,10.0,263.0,Other equipment,Total: Irritant spray
+Suffolk,Other equipment,Irritant spray - drawn,0.0,13.0,65.0,28.0,6.0,0.0,6.0,118.0,Other equipment,Irritant spray: drawn
+Suffolk,Other equipment,Irritant spray - used,0.0,5.0,90.0,38.0,8.0,0.0,4.0,145.0,Other equipment,Irritant spray: used
+Suffolk,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Suffolk,Other equipment,Spit and bite guard,0.0,6.0,44.0,14.0,0.0,0.0,2.0,66.0,Other equipment,Spit and bite guard
+Suffolk,Other equipment,Shield,0.0,0.0,4.0,2.0,0.0,0.0,0.0,6.0,Other equipment,Shield
+Suffolk,Less lethal weapons,*Total Less lethal weapons,0.0,32.0,229.0,95.0,16.0,1.0,16.0,389.0,Less lethal weapons,Total: Less lethal weapons
+Suffolk,Less lethal weapons,CED of which,0.0,31.0,218.0,84.0,15.0,1.0,14.0,363.0,,
+Suffolk,Less lethal weapons,CED non-discharge,:,:,:,:,:,:,:,:,,
+Suffolk,Less lethal weapons,CED discharge,:,:,:,:,:,:,:,:,,
+Suffolk,Less lethal weapons,CED not stated,0.0,31.0,218.0,84.0,15.0,1.0,14.0,363.0,,
+Suffolk,Less lethal weapons,"AEP, of which",0.0,1.0,11.0,11.0,1.0,0.0,2.0,26.0,Less lethal weapons,Total: AEP
+Suffolk,Less lethal weapons,AEP drawn,0.0,1.0,10.0,9.0,1.0,0.0,1.0,22.0,,
+Suffolk,Less lethal weapons,AEP used,0.0,0.0,1.0,2.0,0.0,0.0,1.0,4.0,,
+Suffolk,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Suffolk,Firearms,*Total Firearms,0.0,2.0,10.0,3.0,0.0,0.0,3.0,18.0,Firearms,Total: Firearms
+Suffolk,Other,*Total Other,2.0,112.0,528.0,214.0,51.0,10.0,14.0,931.0,Other,Total: Other
+Suffolk,Other,"Dog use, of which",0.0,1.0,4.0,4.0,0.0,0.0,0.0,9.0,Other,Total: Dog
+Suffolk,Other,Dog deployed,0.0,1.0,3.0,0.0,0.0,0.0,0.0,4.0,Other,Dog: deployed
+Suffolk,Other,Dog bite,0.0,0.0,1.0,4.0,0.0,0.0,0.0,5.0,Other,Dog: bite
+Suffolk,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Suffolk,Other,Other / improvised,2.0,111.0,524.0,210.0,51.0,10.0,14.0,922.0,Other,Other / improvised
+Suffolk,Not reported,*Total Not reported,0.0,12.0,45.0,18.0,4.0,0.0,0.0,79.0,Not reported,Total: Not reported
+Suffolk,Tactical communication,Tactical communication,2.0,264.0,1318.0,622.0,122.0,19.0,40.0,2387.0,Excluded: Tactical Communication,Tactical Communication
+Surrey,Total (excluding not reported and tactical communication),*Total Tactics,0.0,654.0,4568.0,1765.0,519.0,47.0,0.0,7553.0,Total,Total: all
+Surrey,Restraint,*Total Restraint,0.0,381.0,2570.0,1045.0,312.0,19.0,0.0,4327.0,Restraint,Total: Restraint
+Surrey,Restraint,"Handcuffing, of which",0.0,324.0,2042.0,871.0,276.0,18.0,0.0,3531.0,Restraint,Total: Handcuffing
+Surrey,Restraint,Compliant handcuffing,0.0,160.0,1164.0,470.0,139.0,4.0,0.0,1937.0,Restraint,Handcuffing: compliant
+Surrey,Restraint,Non-compliant handcuffing,0.0,164.0,878.0,401.0,137.0,14.0,0.0,1594.0,Restraint,Handcuffing: non-compliant
+Surrey,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Surrey,Restraint,Limb / Body restraints,0.0,26.0,274.0,78.0,21.0,1.0,0.0,400.0,Restraint,Limb / body restraints
+Surrey,Restraint,Ground restraint,0.0,31.0,254.0,96.0,15.0,0.0,0.0,396.0,Restraint,Ground restraint
+Surrey,Unarmed skills,*Total Unarmed skills,0.0,203.0,1320.0,485.0,141.0,15.0,0.0,2164.0,Unarmed skills,Total: unarmed skills
+Surrey,Other equipment,*Total Other equipment,0.0,20.0,266.0,85.0,13.0,3.0,0.0,387.0,Other equipment,Total: Other equipment
+Surrey,Other equipment,"Baton, of which",0.0,1.0,34.0,9.0,0.0,0.0,0.0,44.0,Other equipment,Total: Baton
+Surrey,Other equipment,Baton drawn,0.0,1.0,19.0,5.0,0.0,0.0,0.0,25.0,Other equipment,Baton: drawn
+Surrey,Other equipment,Baton used,0.0,0.0,15.0,4.0,0.0,0.0,0.0,19.0,Other equipment,Baton: used
+Surrey,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Surrey,Other equipment,"Irritant spray, of which",0.0,10.0,149.0,53.0,5.0,1.0,0.0,218.0,Other equipment,Total: Irritant spray
+Surrey,Other equipment,Irritant spray - drawn,0.0,7.0,63.0,20.0,2.0,0.0,0.0,92.0,Other equipment,Irritant spray: drawn
+Surrey,Other equipment,Irritant spray - used,0.0,3.0,86.0,33.0,3.0,1.0,0.0,126.0,Other equipment,Irritant spray: used
+Surrey,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Surrey,Other equipment,Spit and bite guard,0.0,9.0,81.0,22.0,8.0,2.0,0.0,122.0,Other equipment,Spit and bite guard
+Surrey,Other equipment,Shield,0.0,0.0,2.0,1.0,0.0,0.0,0.0,3.0,Other equipment,Shield
+Surrey,Less lethal weapons,*Total Less lethal weapons,0.0,34.0,283.0,96.0,26.0,7.0,0.0,446.0,Less lethal weapons,Total: Less lethal weapons
+Surrey,Less lethal weapons,CED of which,0.0,34.0,272.0,92.0,23.0,7.0,0.0,428.0,,
+Surrey,Less lethal weapons,CED non-discharge,0.0,33.0,245.0,85.0,20.0,5.0,0.0,388.0,,
+Surrey,Less lethal weapons,CED discharge,0.0,1.0,27.0,7.0,3.0,2.0,0.0,40.0,,
+Surrey,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Surrey,Less lethal weapons,"AEP, of which",0.0,0.0,11.0,4.0,3.0,0.0,0.0,18.0,Less lethal weapons,Total: AEP
+Surrey,Less lethal weapons,AEP drawn,0.0,0.0,11.0,4.0,3.0,0.0,0.0,18.0,,
+Surrey,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Surrey,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Surrey,Firearms,*Total Firearms,0.0,3.0,35.0,19.0,5.0,1.0,0.0,63.0,Firearms,Total: Firearms
+Surrey,Other,*Total Other,0.0,13.0,94.0,35.0,22.0,2.0,0.0,166.0,Other,Total: Other
+Surrey,Other,"Dog use, of which",0.0,0.0,7.0,2.0,0.0,0.0,0.0,9.0,Other,Total: Dog
+Surrey,Other,Dog deployed,0.0,0.0,7.0,1.0,0.0,0.0,0.0,8.0,Other,Dog: deployed
+Surrey,Other,Dog bite,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Other,Dog: bite
+Surrey,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Surrey,Other,Other / improvised,0.0,13.0,87.0,33.0,22.0,2.0,0.0,157.0,Other,Other / improvised
+Surrey,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Surrey,Tactical communication,Tactical communication,0.0,307.0,1841.0,700.0,224.0,29.0,0.0,3101.0,Excluded: Tactical Communication,Tactical Communication
+Sussex,Total (excluding not reported and tactical communication),*Total Tactics,0.0,2365.0,13670.0,5975.0,1842.0,198.0,40.0,24090.0,Total,Total: all
+Sussex,Restraint,*Total Restraint,0.0,1233.0,7316.0,3293.0,1005.0,84.0,10.0,12941.0,Restraint,Total: Restraint
+Sussex,Restraint,"Handcuffing, of which",0.0,1086.0,6028.0,2782.0,879.0,79.0,8.0,10862.0,Restraint,Total: Handcuffing
+Sussex,Restraint,Compliant handcuffing,:,:,:,:,:,:,:,:,Restraint,Handcuffing: compliant
+Sussex,Restraint,Non-compliant handcuffing,:,:,:,:,:,:,:,:,Restraint,Handcuffing: non-compliant
+Sussex,Restraint,Handcuffing not stated,0.0,1086.0,6028.0,2782.0,879.0,79.0,8.0,10862.0,,
+Sussex,Restraint,Limb / Body restraints,0.0,54.0,480.0,194.0,45.0,4.0,1.0,778.0,Restraint,Limb / body restraints
+Sussex,Restraint,Ground restraint,0.0,93.0,808.0,317.0,81.0,1.0,1.0,1301.0,Restraint,Ground restraint
+Sussex,Unarmed skills,*Total Unarmed skills,0.0,880.0,4593.0,1973.0,631.0,85.0,23.0,8185.0,Unarmed skills,Total: unarmed skills
+Sussex,Other equipment,*Total Other equipment,0.0,92.0,754.0,323.0,94.0,9.0,3.0,1275.0,Other equipment,Total: Other equipment
+Sussex,Other equipment,"Baton, of which",0.0,11.0,105.0,42.0,12.0,1.0,2.0,173.0,Other equipment,Total: Baton
+Sussex,Other equipment,Baton drawn,0.0,7.0,70.0,21.0,7.0,1.0,2.0,108.0,Other equipment,Baton: drawn
+Sussex,Other equipment,Baton used,0.0,4.0,35.0,21.0,5.0,0.0,0.0,65.0,Other equipment,Baton: used
+Sussex,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Sussex,Other equipment,"Irritant spray, of which",0.0,58.0,485.0,217.0,66.0,4.0,1.0,831.0,Other equipment,Total: Irritant spray
+Sussex,Other equipment,Irritant spray - drawn,0.0,37.0,211.0,102.0,32.0,3.0,1.0,386.0,Other equipment,Irritant spray: drawn
+Sussex,Other equipment,Irritant spray - used,0.0,21.0,274.0,115.0,34.0,1.0,0.0,445.0,Other equipment,Irritant spray: used
+Sussex,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Sussex,Other equipment,Spit and bite guard,0.0,22.0,154.0,61.0,16.0,2.0,0.0,255.0,Other equipment,Spit and bite guard
+Sussex,Other equipment,Shield,0.0,1.0,10.0,3.0,0.0,2.0,0.0,16.0,Other equipment,Shield
+Sussex,Less lethal weapons,*Total Less lethal weapons,0.0,67.0,580.0,216.0,54.0,10.0,1.0,928.0,Less lethal weapons,Total: Less lethal weapons
+Sussex,Less lethal weapons,CED of which,0.0,66.0,560.0,209.0,51.0,10.0,1.0,897.0,,
+Sussex,Less lethal weapons,CED non-discharge,0.0,66.0,521.0,183.0,39.0,7.0,1.0,817.0,,
+Sussex,Less lethal weapons,CED discharge,0.0,0.0,39.0,26.0,12.0,3.0,0.0,80.0,,
+Sussex,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Sussex,Less lethal weapons,"AEP, of which",0.0,1.0,20.0,7.0,3.0,0.0,0.0,31.0,Less lethal weapons,Total: AEP
+Sussex,Less lethal weapons,AEP drawn,0.0,1.0,19.0,6.0,3.0,0.0,0.0,29.0,,
+Sussex,Less lethal weapons,AEP used,0.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,
+Sussex,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Sussex,Firearms,*Total Firearms,0.0,3.0,72.0,28.0,8.0,1.0,0.0,112.0,Firearms,Total: Firearms
+Sussex,Other,*Total Other,0.0,90.0,355.0,142.0,50.0,9.0,3.0,649.0,Other,Total: Other
+Sussex,Other,"Dog use, of which",0.0,8.0,39.0,5.0,2.0,0.0,0.0,54.0,Other,Total: Dog
+Sussex,Other,Dog deployed,0.0,8.0,33.0,5.0,2.0,0.0,0.0,48.0,Other,Dog: deployed
+Sussex,Other,Dog bite,0.0,0.0,6.0,0.0,0.0,0.0,0.0,6.0,Other,Dog: bite
+Sussex,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Sussex,Other,Other / improvised,0.0,82.0,316.0,137.0,48.0,9.0,3.0,595.0,Other,Other / improvised
+Sussex,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Sussex,Tactical communication,Tactical communication,0.0,940.0,4974.0,2176.0,759.0,102.0,24.0,8975.0,Excluded: Tactical Communication,Tactical Communication
+Thames Valley,Total (excluding not reported and tactical communication),*Total Tactics,14.0,2775.0,16570.0,7162.0,1875.0,174.0,209.0,28779.0,Total,Total: all
+Thames Valley,Restraint,*Total Restraint,6.0,1671.0,9997.0,4396.0,1121.0,93.0,64.0,17348.0,Restraint,Total: Restraint
+Thames Valley,Restraint,"Handcuffing, of which",1.0,1068.0,6322.0,2948.0,786.0,75.0,47.0,11247.0,Restraint,Total: Handcuffing
+Thames Valley,Restraint,Compliant handcuffing,1.0,661.0,4155.0,2005.0,510.0,32.0,29.0,7393.0,Restraint,Handcuffing: compliant
+Thames Valley,Restraint,Non-compliant handcuffing,0.0,402.0,2154.0,940.0,274.0,43.0,17.0,3830.0,Restraint,Handcuffing: non-compliant
+Thames Valley,Restraint,Handcuffing not stated,0.0,5.0,13.0,3.0,2.0,0.0,1.0,24.0,,
+Thames Valley,Restraint,Limb / Body restraints,0.0,93.0,616.0,237.0,54.0,2.0,2.0,1004.0,Restraint,Limb / body restraints
+Thames Valley,Restraint,Ground restraint,5.0,510.0,3059.0,1211.0,281.0,16.0,15.0,5097.0,Restraint,Ground restraint
+Thames Valley,Unarmed skills,*Total Unarmed skills,6.0,769.0,4214.0,1787.0,483.0,57.0,59.0,7375.0,Unarmed skills,Total: unarmed skills
+Thames Valley,Other equipment,*Total Other equipment,0.0,112.0,817.0,336.0,84.0,6.0,15.0,1370.0,Other equipment,Total: Other equipment
+Thames Valley,Other equipment,"Baton, of which",0.0,22.0,160.0,59.0,9.0,2.0,10.0,262.0,Other equipment,Total: Baton
+Thames Valley,Other equipment,Baton drawn,:,:,:,:,:,:,:,:,Other equipment,Baton: drawn
+Thames Valley,Other equipment,Baton used,:,:,:,:,:,:,:,:,Other equipment,Baton: used
+Thames Valley,Other equipment,Baton not stated,0.0,22.0,160.0,59.0,9.0,2.0,10.0,262.0,,
+Thames Valley,Other equipment,"Irritant spray, of which",0.0,61.0,459.0,208.0,56.0,2.0,4.0,790.0,Other equipment,Total: Irritant spray
+Thames Valley,Other equipment,Irritant spray - drawn,0.0,22.0,121.0,58.0,14.0,0.0,0.0,215.0,Other equipment,Irritant spray: drawn
+Thames Valley,Other equipment,Irritant spray - used,0.0,33.0,303.0,128.0,37.0,2.0,3.0,506.0,Other equipment,Irritant spray: used
+Thames Valley,Other equipment,Irritant spray not stated,0.0,6.0,35.0,22.0,5.0,0.0,1.0,69.0,,
+Thames Valley,Other equipment,Spit and bite guard,0.0,28.0,179.0,63.0,19.0,1.0,1.0,291.0,Other equipment,Spit and bite guard
+Thames Valley,Other equipment,Shield,0.0,1.0,19.0,6.0,0.0,1.0,0.0,27.0,Other equipment,Shield
+Thames Valley,Less lethal weapons,*Total Less lethal weapons,1.0,84.0,618.0,249.0,74.0,5.0,11.0,1042.0,Less lethal weapons,Total: Less lethal weapons
+Thames Valley,Less lethal weapons,CED of which,1.0,84.0,614.0,248.0,74.0,5.0,11.0,1037.0,,
+Thames Valley,Less lethal weapons,CED non-discharge,1.0,75.0,523.0,196.0,52.0,3.0,10.0,860.0,,
+Thames Valley,Less lethal weapons,CED discharge,0.0,4.0,64.0,41.0,15.0,2.0,1.0,127.0,,
+Thames Valley,Less lethal weapons,CED not stated,0.0,5.0,27.0,11.0,7.0,0.0,0.0,50.0,,
+Thames Valley,Less lethal weapons,"AEP, of which",0.0,0.0,4.0,1.0,0.0,0.0,0.0,5.0,Less lethal weapons,Total: AEP
+Thames Valley,Less lethal weapons,AEP drawn,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,,
+Thames Valley,Less lethal weapons,AEP used,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,
+Thames Valley,Less lethal weapons,AEP not stated,0.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,
+Thames Valley,Firearms,*Total Firearms,0.0,2.0,21.0,13.0,1.0,0.0,0.0,37.0,Firearms,Total: Firearms
+Thames Valley,Other,*Total Other,1.0,137.0,903.0,381.0,112.0,13.0,60.0,1607.0,Other,Total: Other
+Thames Valley,Other,"Dog use, of which",0.0,13.0,47.0,15.0,3.0,0.0,1.0,79.0,Other,Total: Dog
+Thames Valley,Other,Dog deployed,:,:,:,:,:,:,:,:,Other,Dog: deployed
+Thames Valley,Other,Dog bite,:,:,:,:,:,:,:,:,Other,Dog: bite
+Thames Valley,Other,Dog not stated,0.0,13.0,47.0,15.0,3.0,0.0,1.0,79.0,,
+Thames Valley,Other,Other / improvised,1.0,124.0,856.0,366.0,109.0,13.0,59.0,1528.0,Other,Other / improvised
+Thames Valley,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Thames Valley,Tactical communication,Tactical communication,1.0,171.0,917.0,356.0,105.0,8.0,17.0,1575.0,Excluded: Tactical Communication,Tactical Communication
+Warwickshire,Total (excluding not reported and tactical communication),*Total Tactics,:,:,:,:,:,:,3113.0,3113.0,Total,Total: all
+Warwickshire,Restraint,*Total Restraint,:,:,:,:,:,:,1670.0,1670.0,Restraint,Total: Restraint
+Warwickshire,Restraint,"Handcuffing, of which",:,:,:,:,:,:,1248.0,1248.0,Restraint,Total: Handcuffing
+Warwickshire,Restraint,Compliant handcuffing,:,:,:,:,:,:,580.0,580.0,Restraint,Handcuffing: compliant
+Warwickshire,Restraint,Non-compliant handcuffing,:,:,:,:,:,:,668.0,668.0,Restraint,Handcuffing: non-compliant
+Warwickshire,Restraint,Handcuffing not stated,:,:,:,:,:,:,0.0,0.0,,
+Warwickshire,Restraint,Limb / Body restraints,:,:,:,:,:,:,53.0,53.0,Restraint,Limb / body restraints
+Warwickshire,Restraint,Ground restraint,:,:,:,:,:,:,369.0,369.0,Restraint,Ground restraint
+Warwickshire,Unarmed skills,*Total Unarmed skills,:,:,:,:,:,:,575.0,575.0,Unarmed skills,Total: unarmed skills
+Warwickshire,Other equipment,*Total Other equipment,:,:,:,:,:,:,170.0,170.0,Other equipment,Total: Other equipment
+Warwickshire,Other equipment,"Baton, of which",:,:,:,:,:,:,25.0,25.0,Other equipment,Total: Baton
+Warwickshire,Other equipment,Baton drawn,:,:,:,:,:,:,14.0,14.0,Other equipment,Baton: drawn
+Warwickshire,Other equipment,Baton used,:,:,:,:,:,:,11.0,11.0,Other equipment,Baton: used
+Warwickshire,Other equipment,Baton not stated,:,:,:,:,:,:,0.0,0.0,,
+Warwickshire,Other equipment,"Irritant spray, of which",:,:,:,:,:,:,103.0,103.0,Other equipment,Total: Irritant spray
+Warwickshire,Other equipment,Irritant spray - drawn,:,:,:,:,:,:,46.0,46.0,Other equipment,Irritant spray: drawn
+Warwickshire,Other equipment,Irritant spray - used,:,:,:,:,:,:,57.0,57.0,Other equipment,Irritant spray: used
+Warwickshire,Other equipment,Irritant spray not stated,:,:,:,:,:,:,0.0,0.0,,
+Warwickshire,Other equipment,Spit and bite guard,:,:,:,:,:,:,39.0,39.0,Other equipment,Spit and bite guard
+Warwickshire,Other equipment,Shield,:,:,:,:,:,:,3.0,3.0,Other equipment,Shield
+Warwickshire,Less lethal weapons,*Total Less lethal weapons,:,:,:,:,:,:,186.0,186.0,Less lethal weapons,Total: Less lethal weapons
+Warwickshire,Less lethal weapons,CED of which,:,:,:,:,:,:,184.0,184.0,,
+Warwickshire,Less lethal weapons,CED non-discharge,:,:,:,:,:,:,168.0,168.0,,
+Warwickshire,Less lethal weapons,CED discharge,:,:,:,:,:,:,16.0,16.0,,
+Warwickshire,Less lethal weapons,CED not stated,:,:,:,:,:,:,0.0,0.0,,
+Warwickshire,Less lethal weapons,"AEP, of which",:,:,:,:,:,:,2.0,2.0,Less lethal weapons,Total: AEP
+Warwickshire,Less lethal weapons,AEP drawn,:,:,:,:,:,:,1.0,1.0,,
+Warwickshire,Less lethal weapons,AEP used,:,:,:,:,:,:,1.0,1.0,,
+Warwickshire,Less lethal weapons,AEP not stated,:,:,:,:,:,:,0.0,0.0,,
+Warwickshire,Firearms,*Total Firearms,:,:,:,:,:,:,105.0,105.0,Firearms,Total: Firearms
+Warwickshire,Other,*Total Other,:,:,:,:,:,:,407.0,407.0,Other,Total: Other
+Warwickshire,Other,"Dog use, of which",:,:,:,:,:,:,46.0,46.0,Other,Total: Dog
+Warwickshire,Other,Dog deployed,:,:,:,:,:,:,44.0,44.0,Other,Dog: deployed
+Warwickshire,Other,Dog bite,:,:,:,:,:,:,2.0,2.0,Other,Dog: bite
+Warwickshire,Other,Dog not stated,:,:,:,:,:,:,0.0,0.0,,
+Warwickshire,Other,Other / improvised,:,:,:,:,:,:,361.0,361.0,Other,Other / improvised
+Warwickshire,Not reported,*Total Not reported,:,:,:,:,:,:,76.0,76.0,Not reported,Total: Not reported
+Warwickshire,Tactical communication,Tactical communication,:,:,:,:,:,:,617.0,617.0,Excluded: Tactical Communication,Tactical Communication
+West Mercia,Total (excluding not reported and tactical communication),*Total Tactics,:,:,:,:,:,:,15248.0,15248.0,Total,Total: all
+West Mercia,Restraint,*Total Restraint,:,:,:,:,:,:,8089.0,8089.0,Restraint,Total: Restraint
+West Mercia,Restraint,"Handcuffing, of which",:,:,:,:,:,:,5586.0,5586.0,Restraint,Total: Handcuffing
+West Mercia,Restraint,Compliant handcuffing,:,:,:,:,:,:,2720.0,2720.0,Restraint,Handcuffing: compliant
+West Mercia,Restraint,Non-compliant handcuffing,:,:,:,:,:,:,2866.0,2866.0,Restraint,Handcuffing: non-compliant
+West Mercia,Restraint,Handcuffing not stated,:,:,:,:,:,:,0.0,0.0,,
+West Mercia,Restraint,Limb / Body restraints,:,:,:,:,:,:,243.0,243.0,Restraint,Limb / body restraints
+West Mercia,Restraint,Ground restraint,:,:,:,:,:,:,2260.0,2260.0,Restraint,Ground restraint
+West Mercia,Unarmed skills,*Total Unarmed skills,:,:,:,:,:,:,3449.0,3449.0,Unarmed skills,Total: unarmed skills
+West Mercia,Other equipment,*Total Other equipment,:,:,:,:,:,:,829.0,829.0,Other equipment,Total: Other equipment
+West Mercia,Other equipment,"Baton, of which",:,:,:,:,:,:,157.0,157.0,Other equipment,Total: Baton
+West Mercia,Other equipment,Baton drawn,:,:,:,:,:,:,81.0,81.0,Other equipment,Baton: drawn
+West Mercia,Other equipment,Baton used,:,:,:,:,:,:,76.0,76.0,Other equipment,Baton: used
+West Mercia,Other equipment,Baton not stated,:,:,:,:,:,:,0.0,0.0,,
+West Mercia,Other equipment,"Irritant spray, of which",:,:,:,:,:,:,481.0,481.0,Other equipment,Total: Irritant spray
+West Mercia,Other equipment,Irritant spray - drawn,:,:,:,:,:,:,243.0,243.0,Other equipment,Irritant spray: drawn
+West Mercia,Other equipment,Irritant spray - used,:,:,:,:,:,:,238.0,238.0,Other equipment,Irritant spray: used
+West Mercia,Other equipment,Irritant spray not stated,:,:,:,:,:,:,0.0,0.0,,
+West Mercia,Other equipment,Spit and bite guard,:,:,:,:,:,:,156.0,156.0,Other equipment,Spit and bite guard
+West Mercia,Other equipment,Shield,:,:,:,:,:,:,35.0,35.0,Other equipment,Shield
+West Mercia,Less lethal weapons,*Total Less lethal weapons,:,:,:,:,:,:,433.0,433.0,Less lethal weapons,Total: Less lethal weapons
+West Mercia,Less lethal weapons,CED of which,:,:,:,:,:,:,425.0,425.0,,
+West Mercia,Less lethal weapons,CED non-discharge,:,:,:,:,:,:,407.0,407.0,,
+West Mercia,Less lethal weapons,CED discharge,:,:,:,:,:,:,18.0,18.0,,
+West Mercia,Less lethal weapons,CED not stated,:,:,:,:,:,:,0.0,0.0,,
+West Mercia,Less lethal weapons,"AEP, of which",:,:,:,:,:,:,8.0,8.0,Less lethal weapons,Total: AEP
+West Mercia,Less lethal weapons,AEP drawn,:,:,:,:,:,:,7.0,7.0,,
+West Mercia,Less lethal weapons,AEP used,:,:,:,:,:,:,1.0,1.0,,
+West Mercia,Less lethal weapons,AEP not stated,:,:,:,:,:,:,0.0,0.0,,
+West Mercia,Firearms,*Total Firearms,:,:,:,:,:,:,235.0,235.0,Firearms,Total: Firearms
+West Mercia,Other,*Total Other,:,:,:,:,:,:,2213.0,2213.0,Other,Total: Other
+West Mercia,Other,"Dog use, of which",:,:,:,:,:,:,264.0,264.0,Other,Total: Dog
+West Mercia,Other,Dog deployed,:,:,:,:,:,:,246.0,246.0,Other,Dog: deployed
+West Mercia,Other,Dog bite,:,:,:,:,:,:,18.0,18.0,Other,Dog: bite
+West Mercia,Other,Dog not stated,:,:,:,:,:,:,0.0,0.0,,
+West Mercia,Other,Other / improvised,:,:,:,:,:,:,1949.0,1949.0,Other,Other / improvised
+West Mercia,Not reported,*Total Not reported,:,:,:,:,:,:,181.0,181.0,Not reported,Total: Not reported
+West Mercia,Tactical communication,Tactical communication,:,:,:,:,:,:,3426.0,3426.0,Excluded: Tactical Communication,Tactical Communication
+West Midlands,Total (excluding not reported and tactical communication),*Total Tactics,28.0,1321.0,11075.0,4992.0,962.0,79.0,1.0,18458.0,Total,Total: all
+West Midlands,Restraint,*Total Restraint,10.0,581.0,4245.0,1952.0,376.0,28.0,0.0,7192.0,Restraint,Total: Restraint
+West Midlands,Restraint,"Handcuffing, of which",3.0,356.0,2350.0,1150.0,251.0,21.0,0.0,4131.0,Restraint,Total: Handcuffing
+West Midlands,Restraint,Compliant handcuffing,2.0,59.0,504.0,206.0,45.0,3.0,0.0,819.0,Restraint,Handcuffing: compliant
+West Midlands,Restraint,Non-compliant handcuffing,1.0,297.0,1846.0,944.0,206.0,18.0,0.0,3312.0,Restraint,Handcuffing: non-compliant
+West Midlands,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+West Midlands,Restraint,Limb / Body restraints,5.0,60.0,561.0,224.0,38.0,5.0,0.0,893.0,Restraint,Limb / body restraints
+West Midlands,Restraint,Ground restraint,2.0,165.0,1334.0,578.0,87.0,2.0,0.0,2168.0,Restraint,Ground restraint
+West Midlands,Unarmed skills,*Total Unarmed skills,10.0,451.0,3530.0,1640.0,327.0,37.0,1.0,5996.0,Unarmed skills,Total: unarmed skills
+West Midlands,Other equipment,*Total Other equipment,2.0,67.0,1033.0,412.0,63.0,4.0,0.0,1581.0,Other equipment,Total: Other equipment
+West Midlands,Other equipment,"Baton, of which",0.0,16.0,175.0,50.0,7.0,1.0,0.0,249.0,Other equipment,Total: Baton
+West Midlands,Other equipment,Baton drawn,:,:,:,:,:,:,:,:,Other equipment,Baton: drawn
+West Midlands,Other equipment,Baton used,:,:,:,:,:,:,:,:,Other equipment,Baton: used
+West Midlands,Other equipment,Baton not stated,0.0,16.0,175.0,50.0,7.0,1.0,0.0,249.0,,
+West Midlands,Other equipment,"Irritant spray, of which",2.0,38.0,635.0,246.0,39.0,3.0,0.0,963.0,Other equipment,Total: Irritant spray
+West Midlands,Other equipment,Irritant spray - drawn,:,:,:,:,:,:,:,:,Other equipment,Irritant spray: drawn
+West Midlands,Other equipment,Irritant spray - used,:,:,:,:,:,:,:,:,Other equipment,Irritant spray: used
+West Midlands,Other equipment,Irritant spray not stated,2.0,38.0,635.0,246.0,39.0,3.0,0.0,963.0,,
+West Midlands,Other equipment,Spit and bite guard,0.0,13.0,207.0,108.0,15.0,0.0,0.0,343.0,Other equipment,Spit and bite guard
+West Midlands,Other equipment,Shield,0.0,0.0,16.0,8.0,2.0,0.0,0.0,26.0,Other equipment,Shield
+West Midlands,Less lethal weapons,*Total Less lethal weapons,3.0,147.0,1483.0,672.0,130.0,4.0,0.0,2439.0,Less lethal weapons,Total: Less lethal weapons
+West Midlands,Less lethal weapons,CED of which,3.0,147.0,1476.0,668.0,129.0,4.0,0.0,2427.0,,
+West Midlands,Less lethal weapons,CED non-discharge,3.0,141.0,1290.0,570.0,111.0,3.0,0.0,2118.0,,
+West Midlands,Less lethal weapons,CED discharge,0.0,6.0,186.0,98.0,18.0,1.0,0.0,309.0,,
+West Midlands,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+West Midlands,Less lethal weapons,"AEP, of which",0.0,0.0,7.0,4.0,1.0,0.0,0.0,12.0,Less lethal weapons,Total: AEP
+West Midlands,Less lethal weapons,AEP drawn,0.0,0.0,6.0,2.0,1.0,0.0,0.0,9.0,,
+West Midlands,Less lethal weapons,AEP used,0.0,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,
+West Midlands,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+West Midlands,Firearms,*Total Firearms,0.0,22.0,406.0,140.0,32.0,1.0,0.0,601.0,Firearms,Total: Firearms
+West Midlands,Other,*Total Other,3.0,53.0,378.0,176.0,34.0,5.0,0.0,649.0,Other,Total: Other
+West Midlands,Other,"Dog use, of which",0.0,3.0,73.0,15.0,1.0,0.0,0.0,92.0,Other,Total: Dog
+West Midlands,Other,Dog deployed,:,:,:,:,:,:,:,:,Other,Dog: deployed
+West Midlands,Other,Dog bite,:,:,:,:,:,:,:,:,Other,Dog: bite
+West Midlands,Other,Dog not stated,0.0,3.0,73.0,15.0,1.0,0.0,0.0,92.0,,
+West Midlands,Other,Other / improvised,3.0,50.0,305.0,161.0,33.0,5.0,0.0,557.0,Other,Other / improvised
+West Midlands,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+West Midlands,Tactical communication,Tactical communication,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Excluded: Tactical Communication,Tactical Communication
+West Yorkshire,Total (excluding not reported and tactical communication),*Total Tactics,16.0,2420.0,13349.0,6457.0,1582.0,125.0,589.0,24538.0,Total,Total: all
+West Yorkshire,Restraint,*Total Restraint,6.0,1350.0,7684.0,3909.0,953.0,68.0,144.0,14114.0,Restraint,Total: Restraint
+West Yorkshire,Restraint,"Handcuffing, of which",5.0,1226.0,6829.0,3578.0,882.0,59.0,116.0,12695.0,Restraint,Total: Handcuffing
+West Yorkshire,Restraint,Compliant handcuffing,1.0,731.0,4287.0,2368.0,562.0,33.0,53.0,8035.0,Restraint,Handcuffing: compliant
+West Yorkshire,Restraint,Non-compliant handcuffing,4.0,495.0,2542.0,1210.0,320.0,26.0,63.0,4660.0,Restraint,Handcuffing: non-compliant
+West Yorkshire,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+West Yorkshire,Restraint,Limb / Body restraints,1.0,54.0,413.0,154.0,25.0,7.0,13.0,667.0,Restraint,Limb / body restraints
+West Yorkshire,Restraint,Ground restraint,0.0,70.0,442.0,177.0,46.0,2.0,15.0,752.0,Restraint,Ground restraint
+West Yorkshire,Unarmed skills,*Total Unarmed skills,8.0,827.0,3799.0,1734.0,421.0,45.0,271.0,7105.0,Unarmed skills,Total: unarmed skills
+West Yorkshire,Other equipment,*Total Other equipment,0.0,120.0,1056.0,442.0,109.0,5.0,77.0,1809.0,Other equipment,Total: Other equipment
+West Yorkshire,Other equipment,"Baton, of which",0.0,28.0,103.0,44.0,13.0,0.0,34.0,222.0,Other equipment,Total: Baton
+West Yorkshire,Other equipment,Baton drawn,0.0,18.0,57.0,25.0,6.0,0.0,24.0,130.0,Other equipment,Baton: drawn
+West Yorkshire,Other equipment,Baton used,0.0,10.0,46.0,19.0,7.0,0.0,10.0,92.0,Other equipment,Baton: used
+West Yorkshire,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+West Yorkshire,Other equipment,"Irritant spray, of which",0.0,67.0,757.0,318.0,82.0,3.0,38.0,1265.0,Other equipment,Total: Irritant spray
+West Yorkshire,Other equipment,Irritant spray - drawn,0.0,28.0,274.0,122.0,27.0,0.0,18.0,469.0,Other equipment,Irritant spray: drawn
+West Yorkshire,Other equipment,Irritant spray - used,0.0,39.0,483.0,196.0,55.0,3.0,20.0,796.0,Other equipment,Irritant spray: used
+West Yorkshire,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+West Yorkshire,Other equipment,Spit and bite guard,0.0,24.0,192.0,74.0,10.0,2.0,5.0,307.0,Other equipment,Spit and bite guard
+West Yorkshire,Other equipment,Shield,0.0,1.0,4.0,6.0,4.0,0.0,0.0,15.0,Other equipment,Shield
+West Yorkshire,Less lethal weapons,*Total Less lethal weapons,0.0,52.0,507.0,251.0,69.0,1.0,27.0,907.0,Less lethal weapons,Total: Less lethal weapons
+West Yorkshire,Less lethal weapons,CED of which,0.0,49.0,485.0,242.0,66.0,1.0,25.0,868.0,,
+West Yorkshire,Less lethal weapons,CED non-discharge,0.0,48.0,444.0,215.0,56.0,1.0,24.0,788.0,,
+West Yorkshire,Less lethal weapons,CED discharge,0.0,1.0,41.0,27.0,10.0,0.0,1.0,80.0,,
+West Yorkshire,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+West Yorkshire,Less lethal weapons,"AEP, of which",0.0,3.0,22.0,9.0,3.0,0.0,2.0,39.0,Less lethal weapons,Total: AEP
+West Yorkshire,Less lethal weapons,AEP drawn,0.0,3.0,22.0,9.0,3.0,0.0,2.0,39.0,,
+West Yorkshire,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+West Yorkshire,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+West Yorkshire,Firearms,*Total Firearms,0.0,9.0,127.0,35.0,12.0,0.0,29.0,212.0,Firearms,Total: Firearms
+West Yorkshire,Other,*Total Other,2.0,62.0,176.0,86.0,18.0,6.0,41.0,391.0,Other,Total: Other
+West Yorkshire,Other,"Dog use, of which",0.0,8.0,24.0,10.0,1.0,0.0,17.0,60.0,Other,Total: Dog
+West Yorkshire,Other,Dog deployed,0.0,4.0,16.0,8.0,1.0,0.0,11.0,40.0,Other,Dog: deployed
+West Yorkshire,Other,Dog bite,0.0,4.0,8.0,2.0,0.0,0.0,6.0,20.0,Other,Dog: bite
+West Yorkshire,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+West Yorkshire,Other,Other / improvised,2.0,54.0,152.0,76.0,17.0,6.0,24.0,331.0,Other,Other / improvised
+West Yorkshire,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,75.0,75.0,Not reported,Total: Not reported
+West Yorkshire,Tactical communication,Tactical communication,11.0,1235.0,6280.0,3091.0,802.0,70.0,338.0,11827.0,Excluded: Tactical Communication,Tactical Communication
+Wiltshire,Total (excluding not reported and tactical communication),*Total Tactics,6.0,460.0,1665.0,711.0,163.0,21.0,0.0,3026.0,Total,Total: all
+Wiltshire,Restraint,*Total Restraint,6.0,383.0,1302.0,550.0,128.0,18.0,0.0,2387.0,Restraint,Total: Restraint
+Wiltshire,Restraint,"Handcuffing, of which",6.0,350.0,1204.0,508.0,122.0,17.0,0.0,2207.0,Restraint,Total: Handcuffing
+Wiltshire,Restraint,Compliant handcuffing,1.0,112.0,471.0,228.0,50.0,8.0,0.0,870.0,Restraint,Handcuffing: compliant
+Wiltshire,Restraint,Non-compliant handcuffing,5.0,238.0,733.0,280.0,72.0,9.0,0.0,1337.0,Restraint,Handcuffing: non-compliant
+Wiltshire,Restraint,Handcuffing not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Wiltshire,Restraint,Limb / Body restraints,0.0,33.0,98.0,42.0,6.0,1.0,0.0,180.0,Restraint,Limb / body restraints
+Wiltshire,Restraint,Ground restraint,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Restraint,Ground restraint
+Wiltshire,Unarmed skills,*Total Unarmed skills,0.0,13.0,70.0,32.0,2.0,1.0,0.0,118.0,Unarmed skills,Total: unarmed skills
+Wiltshire,Other equipment,*Total Other equipment,0.0,19.0,108.0,35.0,12.0,1.0,0.0,175.0,Other equipment,Total: Other equipment
+Wiltshire,Other equipment,"Baton, of which",0.0,1.0,11.0,3.0,2.0,1.0,0.0,18.0,Other equipment,Total: Baton
+Wiltshire,Other equipment,Baton drawn,0.0,0.0,8.0,3.0,1.0,1.0,0.0,13.0,Other equipment,Baton: drawn
+Wiltshire,Other equipment,Baton used,0.0,1.0,3.0,0.0,1.0,0.0,0.0,5.0,Other equipment,Baton: used
+Wiltshire,Other equipment,Baton not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Wiltshire,Other equipment,"Irritant spray, of which",0.0,3.0,48.0,14.0,10.0,0.0,0.0,75.0,Other equipment,Total: Irritant spray
+Wiltshire,Other equipment,Irritant spray - drawn,0.0,3.0,43.0,12.0,10.0,0.0,0.0,68.0,Other equipment,Irritant spray: drawn
+Wiltshire,Other equipment,Irritant spray - used,0.0,0.0,5.0,2.0,0.0,0.0,0.0,7.0,Other equipment,Irritant spray: used
+Wiltshire,Other equipment,Irritant spray not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Wiltshire,Other equipment,Spit and bite guard,0.0,15.0,49.0,18.0,0.0,0.0,0.0,82.0,Other equipment,Spit and bite guard
+Wiltshire,Other equipment,Shield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Other equipment,Shield
+Wiltshire,Less lethal weapons,*Total Less lethal weapons,0.0,31.0,139.0,69.0,15.0,1.0,0.0,255.0,Less lethal weapons,Total: Less lethal weapons
+Wiltshire,Less lethal weapons,CED of which,0.0,31.0,139.0,69.0,15.0,1.0,0.0,255.0,,
+Wiltshire,Less lethal weapons,CED non-discharge,0.0,26.0,115.0,63.0,14.0,1.0,0.0,219.0,,
+Wiltshire,Less lethal weapons,CED discharge,0.0,5.0,24.0,6.0,1.0,0.0,0.0,36.0,,
+Wiltshire,Less lethal weapons,CED not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Wiltshire,Less lethal weapons,"AEP, of which",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Less lethal weapons,Total: AEP
+Wiltshire,Less lethal weapons,AEP drawn,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Wiltshire,Less lethal weapons,AEP used,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Wiltshire,Less lethal weapons,AEP not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Wiltshire,Firearms,*Total Firearms,0.0,0.0,5.0,0.0,1.0,0.0,0.0,6.0,Firearms,Total: Firearms
+Wiltshire,Other,*Total Other,0.0,14.0,41.0,25.0,5.0,0.0,0.0,85.0,Other,Total: Other
+Wiltshire,Other,"Dog use, of which",0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,Other,Total: Dog
+Wiltshire,Other,Dog deployed,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,Other,Dog: deployed
+Wiltshire,Other,Dog bite,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Other,Dog: bite
+Wiltshire,Other,Dog not stated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Wiltshire,Other,Other / improvised,0.0,14.0,38.0,25.0,5.0,0.0,0.0,82.0,Other,Other / improvised
+Wiltshire,Not reported,*Total Not reported,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Not reported,Total: Not reported
+Wiltshire,Tactical communication,Tactical communication,1.0,74.0,227.0,89.0,16.0,3.0,0.0,410.0,Excluded: Tactical Communication,Tactical Communication

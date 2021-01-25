@@ -1,6 +1,8 @@
 # Taser use by ethnicity
 
 - Author: @kimadactyl
+- Replaced by: 0011-taser-use-by-ethnicity
+
 
 ## [taser-use-by-ethnicity.csv](taser-use-by-ethnicity.csv)
 
