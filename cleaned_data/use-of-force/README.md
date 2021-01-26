@@ -7,14 +7,18 @@ This data started being published in 2017, and replaces the [taser-use](../taser
 - [by-ced-type-force-region/april2017-march2018.csv](by-ced-type-force-region/april2017-march2018.csv)
 - [by-ced-type-force-region/april2018-march2019.csv](by-ced-type-force-region/april2018-march2019.csv)
 
-Wider use-of-force incidents:
+Total incidents of all use of force (i.e., not just CED). An incident may involve multiple uses of the same type of force, or only the highest level used: we don't know which forces have used which practice at which time.
 
 - [incidents/april2017-march2018.csv](incidents/april2017-march2018.csv)
 - [incidents/april2018-march2019.csv](incidents/april2018-march2019.csv)
+- [incidents/april2019-march2020.csv](incidents/april2019-march2020.csv)
 
 Use of force by officer-perceived demographics only started being produced in 2019:
 
-- [by-age-force/april2018-march2019.csv](by-age-force/april2018-march2019.csv)
-- [by-disability-force/april2018-march2019.csv](by-disability-force/april2018-march2019.csv)
-- [by-ethnicity-force/april2018-march2019.csv](by-ethnicity-force/april2018-march2019.csv)
+- [by-age-force](by-age-force/index.html)
+- [by-disability-force](by-disability-force/index.html)
+- [by-ethnicity-force](by-ethnicity-force/index.html)
 
+'By disability' stats were retitled to 'by health condition' for the 2019-20 data. As far we we can tell these are functionally identical but we have kept them separate to most closely reflect the source data.
+
+- [by-health-condition-force](by-health-condition-force/index.html)
