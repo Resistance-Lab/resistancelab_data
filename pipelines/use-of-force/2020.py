@@ -4,6 +4,35 @@ import os
 from utils import download, make_output_directory
 
 
+def save_sheet(sheet, title, year, filename):
+    directory = make_output_directory("by-ced-type-force-region")
+    df = read_ods(output_file, sheet)
+
+    # Drop the empty rows
+    df.drop([0, 1, 111, 112, 113, 114, 115, 116, 117], inplace=True)
+
+    # Build a new dataframe with correct column names
+    cleansed = pd.DataFrame(
+        {
+            "Financial Year": df[title],
+            "Region": df['unnamed.1'],
+            "Police force": df['unnamed.2'].str.replace("\(.+\)", "", regex=True).str.strip(),  # noqa: W605
+            "Total": df['unnamed.3'],
+            "Total non-discharge": df['unnamed.4'],
+            "Drawn": df['unnamed.5'],
+            "Aimed": df['unnamed.6'],
+            "Red-dot": df['unnamed.7'],
+            "Arced": df['unnamed.8'],
+            "Total discharge": df['unnamed.9'],
+            "Drive stun": df['unnamed.10'],
+            "Fired": df['unnamed.11'],
+            "Angled drive stun": df['unnamed.12'],
+            "Not stated": df['unnamed.13']})[1:]
+    # Write to file
+    cleansed[cleansed['Financial Year'] == year].drop(columns=['Financial Year']).to_csv(
+        os.path.join(directory, filename), index=False)
+
+
 def save_health_condition():
     directory = make_output_directory("by-health-condition-force")
     df = read_ods(output_file, "Table_17")
@@ -103,6 +132,9 @@ if __name__ == '__main__':
     # Download the file into the raw directory
     ods_file_2020 = 'https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/944989/police-use-of-force-apr2019-mar2020-hosb3720-tables.ods'
     output_file = download(ods_file_2020)
+
+    save_sheet('Table_13', 'Table 13. Use of CED by type and police force: 1 April 2017 to 31 March 2020', '2019/20',
+               'april2019-march2020.csv')
     save_health_condition()
     save_ethnicity()
     save_age()
