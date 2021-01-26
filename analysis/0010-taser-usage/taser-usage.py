@@ -11,19 +11,12 @@ import os
 
 repo_root = os.path.join(os.path.dirname(__file__), '..', '..')
 
-# we would do it this way in previous years:
-# april_2019_march_2020 = pd.read_csv(
-#     os.path.join(repo_root, 'cleaned_data', 'use-of-force', 'by-ced-type-force-region', 'april2019-march2020.csv'))
-# Instead we arbitrarily use the ethnicity data for 2020, it has more data than we need
-df_by_ethnicity_2020 = pd.read_csv(os.path.join(repo_root, 'cleaned_data', 'use-of-force', 'by-ethnicity-force', 'april2019-march2020.csv'))
-df_ced_by_ethnicity_2020 = df_by_ethnicity_2020[df_by_ethnicity_2020['Tactic'].str.startswith('CED')]
+# These four years come from use-of-force data, and are all the same format
 
-april_2019_march_2020 = df_ced_by_ethnicity_2020.pivot_table(values='Number of times tactic reported', index='Police Force', columns='Tactic')
+april_2019_march_2020 = pd.read_csv(
+    os.path.join(repo_root, 'cleaned_data', 'use-of-force', 'by-ced-type-force-region', 'april2018-march2019.csv'))
 april_2019_march_2020['ytd'] = '2020-03-31'
-april_2019_march_2020['Police force'] = april_2019_march_2020.index
-april_2019_march_2020.rename(columns={"CED of which": "Total", "CED not stated": "Not stated", "CED non-discharge": "Total non-discharge", "CED discharge": "Total discharge"}, inplace=True)
-
-# These three years come from use-of-force data, and are all the same format
+april_2019_march_2020.drop(["Region"], axis=1, inplace=True)
 
 april_2018_march_2019 = pd.read_csv(
     os.path.join(repo_root, 'cleaned_data', 'use-of-force', 'by-ced-type-force-region', 'april2018-march2019.csv'))
