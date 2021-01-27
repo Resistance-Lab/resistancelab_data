@@ -2,20 +2,20 @@ Tactic,Police Force,Force type - Output,Tactic - Output,age,count
 *Total Tactics,Avon & Somerset,Total,Total: all,Under 11 years,21.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,Under 11 years,6.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,Under 11 years,4.0
-Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,Under 11 years,:
-Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,Under 11 years,:
+Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,Under 11 years,
+Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,Under 11 years,
 Handcuffing not stated,Avon & Somerset,,,Under 11 years,4.0
 Limb / Body restraints,Avon & Somerset,Restraint,Limb / body restraints,Under 11 years,2.0
 Ground restraint,Avon & Somerset,Restraint,Ground restraint,Under 11 years,0.0
 *Total Unarmed skills,Avon & Somerset,Unarmed skills,Total: unarmed skills,Under 11 years,11.0
 *Total Other equipment,Avon & Somerset,Other equipment,Total: Other equipment,Under 11 years,0.0
 "Baton, of which",Avon & Somerset,Other equipment,Total: Baton,Under 11 years,0.0
-Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,Under 11 years,:
-Baton used,Avon & Somerset,Other equipment,Baton: used,Under 11 years,:
+Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,Under 11 years,
+Baton used,Avon & Somerset,Other equipment,Baton: used,Under 11 years,
 Baton not stated,Avon & Somerset,,,Under 11 years,0.0
 "Irritant spray, of which",Avon & Somerset,Other equipment,Total: Irritant spray,Under 11 years,0.0
-Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,Under 11 years,:
-Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,Under 11 years,:
+Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,Under 11 years,
+Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,Under 11 years,
 Irritant spray not stated,Avon & Somerset,,,Under 11 years,0.0
 Spit and bite guard,Avon & Somerset,Other equipment,Spit and bite guard,Under 11 years,0.0
 Shield,Avon & Somerset,Other equipment,Shield,Under 11 years,0.0
@@ -31,8 +31,8 @@ AEP not stated,Avon & Somerset,,,Under 11 years,0.0
 *Total Firearms,Avon & Somerset,Firearms,Total: Firearms,Under 11 years,0.0
 *Total Other,Avon & Somerset,Other,Total: Other,Under 11 years,4.0
 "Dog use, of which",Avon & Somerset,Other,Total: Dog,Under 11 years,0.0
-Dog deployed,Avon & Somerset,Other,Dog: deployed,Under 11 years,:
-Dog bite,Avon & Somerset,Other,Dog: bite,Under 11 years,:
+Dog deployed,Avon & Somerset,Other,Dog: deployed,Under 11 years,
+Dog bite,Avon & Somerset,Other,Dog: bite,Under 11 years,
 Dog not stated,Avon & Somerset,,,Under 11 years,0.0
 Other / improvised,Avon & Somerset,Other,Other / improvised,Under 11 years,4.0
 *Total Not reported,Avon & Somerset,Not reported,Total: Not reported,Under 11 years,0.0
@@ -268,8 +268,8 @@ Tactical communication,Cumbria,Excluded: Tactical Communication,Tactical Communi
 *Total Tactics,Derbyshire,Total,Total: all,Under 11 years,2.0
 *Total Restraint,Derbyshire,Restraint,Total: Restraint,Under 11 years,0.0
 "Handcuffing, of which",Derbyshire,Restraint,Total: Handcuffing,Under 11 years,0.0
-Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,Under 11 years,:
-Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,Under 11 years,:
+Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,Under 11 years,
+Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,Under 11 years,
 Handcuffing not stated,Derbyshire,,,Under 11 years,0.0
 Limb / Body restraints,Derbyshire,Restraint,Limb / body restraints,Under 11 years,0.0
 Ground restraint,Derbyshire,Restraint,Ground restraint,Under 11 years,0.0
@@ -736,8 +736,8 @@ Baton drawn,Kent,Other equipment,Baton: drawn,Under 11 years,0.0
 Baton used,Kent,Other equipment,Baton: used,Under 11 years,0.0
 Baton not stated,Kent,,,Under 11 years,0.0
 "Irritant spray, of which",Kent,Other equipment,Total: Irritant spray,Under 11 years,0.0
-Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,Under 11 years,:
-Irritant spray - used,Kent,Other equipment,Irritant spray: used,Under 11 years,:
+Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,Under 11 years,
+Irritant spray - used,Kent,Other equipment,Irritant spray: used,Under 11 years,
 Irritant spray not stated,Kent,,,Under 11 years,0.0
 Spit and bite guard,Kent,Other equipment,Spit and bite guard,Under 11 years,1.0
 Shield,Kent,Other equipment,Shield,Under 11 years,0.0
@@ -762,8 +762,8 @@ Tactical communication,Kent,Excluded: Tactical Communication,Tactical Communicat
 *Total Tactics,Lancashire,Total,Total: all,Under 11 years,20.0
 *Total Restraint,Lancashire,Restraint,Total: Restraint,Under 11 years,11.0
 "Handcuffing, of which",Lancashire,Restraint,Total: Handcuffing,Under 11 years,9.0
-Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,Under 11 years,:
-Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,Under 11 years,:
+Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,Under 11 years,
+Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,Under 11 years,
 Handcuffing not stated,Lancashire,,,Under 11 years,9.0
 Limb / Body restraints,Lancashire,Restraint,Limb / body restraints,Under 11 years,0.0
 Ground restraint,Lancashire,Restraint,Ground restraint,Under 11 years,2.0
@@ -971,8 +971,8 @@ Spit and bite guard,Norfolk,Other equipment,Spit and bite guard,Under 11 years,0
 Shield,Norfolk,Other equipment,Shield,Under 11 years,0.0
 *Total Less lethal weapons,Norfolk,Less lethal weapons,Total: Less lethal weapons,Under 11 years,0.0
 CED of which,Norfolk,,,Under 11 years,0.0
-CED non-discharge,Norfolk,,,Under 11 years,:
-CED discharge,Norfolk,,,Under 11 years,:
+CED non-discharge,Norfolk,,,Under 11 years,
+CED discharge,Norfolk,,,Under 11 years,
 CED not stated,Norfolk,,,Under 11 years,0.0
 "AEP, of which",Norfolk,Less lethal weapons,Total: AEP,Under 11 years,0.0
 AEP drawn,Norfolk,,,Under 11 years,0.0
@@ -1256,8 +1256,8 @@ Tactical communication,South Yorkshire,Excluded: Tactical Communication,Tactical
 *Total Tactics,Staffordshire,Total,Total: all,Under 11 years,15.0
 *Total Restraint,Staffordshire,Restraint,Total: Restraint,Under 11 years,7.0
 "Handcuffing, of which",Staffordshire,Restraint,Total: Handcuffing,Under 11 years,6.0
-Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,Under 11 years,:
-Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,Under 11 years,:
+Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,Under 11 years,
+Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,Under 11 years,
 Handcuffing not stated,Staffordshire,,,Under 11 years,6.0
 Limb / Body restraints,Staffordshire,Restraint,Limb / body restraints,Under 11 years,0.0
 Ground restraint,Staffordshire,Restraint,Ground restraint,Under 11 years,1.0
@@ -1313,8 +1313,8 @@ Spit and bite guard,Suffolk,Other equipment,Spit and bite guard,Under 11 years,0
 Shield,Suffolk,Other equipment,Shield,Under 11 years,0.0
 *Total Less lethal weapons,Suffolk,Less lethal weapons,Total: Less lethal weapons,Under 11 years,0.0
 CED of which,Suffolk,,,Under 11 years,0.0
-CED non-discharge,Suffolk,,,Under 11 years,:
-CED discharge,Suffolk,,,Under 11 years,:
+CED non-discharge,Suffolk,,,Under 11 years,
+CED discharge,Suffolk,,,Under 11 years,
 CED not stated,Suffolk,,,Under 11 years,0.0
 "AEP, of which",Suffolk,Less lethal weapons,Total: AEP,Under 11 years,0.0
 AEP drawn,Suffolk,,,Under 11 years,0.0
@@ -1370,8 +1370,8 @@ Tactical communication,Surrey,Excluded: Tactical Communication,Tactical Communic
 *Total Tactics,Sussex,Total,Total: all,Under 11 years,0.0
 *Total Restraint,Sussex,Restraint,Total: Restraint,Under 11 years,0.0
 "Handcuffing, of which",Sussex,Restraint,Total: Handcuffing,Under 11 years,0.0
-Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,Under 11 years,:
-Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,Under 11 years,:
+Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,Under 11 years,
+Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,Under 11 years,
 Handcuffing not stated,Sussex,,,Under 11 years,0.0
 Limb / Body restraints,Sussex,Restraint,Limb / body restraints,Under 11 years,0.0
 Ground restraint,Sussex,Restraint,Ground restraint,Under 11 years,0.0
@@ -1416,8 +1416,8 @@ Ground restraint,Thames Valley,Restraint,Ground restraint,Under 11 years,5.0
 *Total Unarmed skills,Thames Valley,Unarmed skills,Total: unarmed skills,Under 11 years,6.0
 *Total Other equipment,Thames Valley,Other equipment,Total: Other equipment,Under 11 years,0.0
 "Baton, of which",Thames Valley,Other equipment,Total: Baton,Under 11 years,0.0
-Baton drawn,Thames Valley,Other equipment,Baton: drawn,Under 11 years,:
-Baton used,Thames Valley,Other equipment,Baton: used,Under 11 years,:
+Baton drawn,Thames Valley,Other equipment,Baton: drawn,Under 11 years,
+Baton used,Thames Valley,Other equipment,Baton: used,Under 11 years,
 Baton not stated,Thames Valley,,,Under 11 years,0.0
 "Irritant spray, of which",Thames Valley,Other equipment,Total: Irritant spray,Under 11 years,0.0
 Irritant spray - drawn,Thames Valley,Other equipment,Irritant spray: drawn,Under 11 years,0.0
@@ -1437,88 +1437,88 @@ AEP not stated,Thames Valley,,,Under 11 years,0.0
 *Total Firearms,Thames Valley,Firearms,Total: Firearms,Under 11 years,0.0
 *Total Other,Thames Valley,Other,Total: Other,Under 11 years,1.0
 "Dog use, of which",Thames Valley,Other,Total: Dog,Under 11 years,0.0
-Dog deployed,Thames Valley,Other,Dog: deployed,Under 11 years,:
-Dog bite,Thames Valley,Other,Dog: bite,Under 11 years,:
+Dog deployed,Thames Valley,Other,Dog: deployed,Under 11 years,
+Dog bite,Thames Valley,Other,Dog: bite,Under 11 years,
 Dog not stated,Thames Valley,,,Under 11 years,0.0
 Other / improvised,Thames Valley,Other,Other / improvised,Under 11 years,1.0
 *Total Not reported,Thames Valley,Not reported,Total: Not reported,Under 11 years,0.0
 Tactical communication,Thames Valley,Excluded: Tactical Communication,Tactical Communication,Under 11 years,1.0
-*Total Tactics,Warwickshire,Total,Total: all,Under 11 years,:
-*Total Restraint,Warwickshire,Restraint,Total: Restraint,Under 11 years,:
-"Handcuffing, of which",Warwickshire,Restraint,Total: Handcuffing,Under 11 years,:
-Compliant handcuffing,Warwickshire,Restraint,Handcuffing: compliant,Under 11 years,:
-Non-compliant handcuffing,Warwickshire,Restraint,Handcuffing: non-compliant,Under 11 years,:
-Handcuffing not stated,Warwickshire,,,Under 11 years,:
-Limb / Body restraints,Warwickshire,Restraint,Limb / body restraints,Under 11 years,:
-Ground restraint,Warwickshire,Restraint,Ground restraint,Under 11 years,:
-*Total Unarmed skills,Warwickshire,Unarmed skills,Total: unarmed skills,Under 11 years,:
-*Total Other equipment,Warwickshire,Other equipment,Total: Other equipment,Under 11 years,:
-"Baton, of which",Warwickshire,Other equipment,Total: Baton,Under 11 years,:
-Baton drawn,Warwickshire,Other equipment,Baton: drawn,Under 11 years,:
-Baton used,Warwickshire,Other equipment,Baton: used,Under 11 years,:
-Baton not stated,Warwickshire,,,Under 11 years,:
-"Irritant spray, of which",Warwickshire,Other equipment,Total: Irritant spray,Under 11 years,:
-Irritant spray - drawn,Warwickshire,Other equipment,Irritant spray: drawn,Under 11 years,:
-Irritant spray - used,Warwickshire,Other equipment,Irritant spray: used,Under 11 years,:
-Irritant spray not stated,Warwickshire,,,Under 11 years,:
-Spit and bite guard,Warwickshire,Other equipment,Spit and bite guard,Under 11 years,:
-Shield,Warwickshire,Other equipment,Shield,Under 11 years,:
-*Total Less lethal weapons,Warwickshire,Less lethal weapons,Total: Less lethal weapons,Under 11 years,:
-CED of which,Warwickshire,,,Under 11 years,:
-CED non-discharge,Warwickshire,,,Under 11 years,:
-CED discharge,Warwickshire,,,Under 11 years,:
-CED not stated,Warwickshire,,,Under 11 years,:
-"AEP, of which",Warwickshire,Less lethal weapons,Total: AEP,Under 11 years,:
-AEP drawn,Warwickshire,,,Under 11 years,:
-AEP used,Warwickshire,,,Under 11 years,:
-AEP not stated,Warwickshire,,,Under 11 years,:
-*Total Firearms,Warwickshire,Firearms,Total: Firearms,Under 11 years,:
-*Total Other,Warwickshire,Other,Total: Other,Under 11 years,:
-"Dog use, of which",Warwickshire,Other,Total: Dog,Under 11 years,:
-Dog deployed,Warwickshire,Other,Dog: deployed,Under 11 years,:
-Dog bite,Warwickshire,Other,Dog: bite,Under 11 years,:
-Dog not stated,Warwickshire,,,Under 11 years,:
-Other / improvised,Warwickshire,Other,Other / improvised,Under 11 years,:
-*Total Not reported,Warwickshire,Not reported,Total: Not reported,Under 11 years,:
-Tactical communication,Warwickshire,Excluded: Tactical Communication,Tactical Communication,Under 11 years,:
-*Total Tactics,West Mercia,Total,Total: all,Under 11 years,:
-*Total Restraint,West Mercia,Restraint,Total: Restraint,Under 11 years,:
-"Handcuffing, of which",West Mercia,Restraint,Total: Handcuffing,Under 11 years,:
-Compliant handcuffing,West Mercia,Restraint,Handcuffing: compliant,Under 11 years,:
-Non-compliant handcuffing,West Mercia,Restraint,Handcuffing: non-compliant,Under 11 years,:
-Handcuffing not stated,West Mercia,,,Under 11 years,:
-Limb / Body restraints,West Mercia,Restraint,Limb / body restraints,Under 11 years,:
-Ground restraint,West Mercia,Restraint,Ground restraint,Under 11 years,:
-*Total Unarmed skills,West Mercia,Unarmed skills,Total: unarmed skills,Under 11 years,:
-*Total Other equipment,West Mercia,Other equipment,Total: Other equipment,Under 11 years,:
-"Baton, of which",West Mercia,Other equipment,Total: Baton,Under 11 years,:
-Baton drawn,West Mercia,Other equipment,Baton: drawn,Under 11 years,:
-Baton used,West Mercia,Other equipment,Baton: used,Under 11 years,:
-Baton not stated,West Mercia,,,Under 11 years,:
-"Irritant spray, of which",West Mercia,Other equipment,Total: Irritant spray,Under 11 years,:
-Irritant spray - drawn,West Mercia,Other equipment,Irritant spray: drawn,Under 11 years,:
-Irritant spray - used,West Mercia,Other equipment,Irritant spray: used,Under 11 years,:
-Irritant spray not stated,West Mercia,,,Under 11 years,:
-Spit and bite guard,West Mercia,Other equipment,Spit and bite guard,Under 11 years,:
-Shield,West Mercia,Other equipment,Shield,Under 11 years,:
-*Total Less lethal weapons,West Mercia,Less lethal weapons,Total: Less lethal weapons,Under 11 years,:
-CED of which,West Mercia,,,Under 11 years,:
-CED non-discharge,West Mercia,,,Under 11 years,:
-CED discharge,West Mercia,,,Under 11 years,:
-CED not stated,West Mercia,,,Under 11 years,:
-"AEP, of which",West Mercia,Less lethal weapons,Total: AEP,Under 11 years,:
-AEP drawn,West Mercia,,,Under 11 years,:
-AEP used,West Mercia,,,Under 11 years,:
-AEP not stated,West Mercia,,,Under 11 years,:
-*Total Firearms,West Mercia,Firearms,Total: Firearms,Under 11 years,:
-*Total Other,West Mercia,Other,Total: Other,Under 11 years,:
-"Dog use, of which",West Mercia,Other,Total: Dog,Under 11 years,:
-Dog deployed,West Mercia,Other,Dog: deployed,Under 11 years,:
-Dog bite,West Mercia,Other,Dog: bite,Under 11 years,:
-Dog not stated,West Mercia,,,Under 11 years,:
-Other / improvised,West Mercia,Other,Other / improvised,Under 11 years,:
-*Total Not reported,West Mercia,Not reported,Total: Not reported,Under 11 years,:
-Tactical communication,West Mercia,Excluded: Tactical Communication,Tactical Communication,Under 11 years,:
+*Total Tactics,Warwickshire,Total,Total: all,Under 11 years,
+*Total Restraint,Warwickshire,Restraint,Total: Restraint,Under 11 years,
+"Handcuffing, of which",Warwickshire,Restraint,Total: Handcuffing,Under 11 years,
+Compliant handcuffing,Warwickshire,Restraint,Handcuffing: compliant,Under 11 years,
+Non-compliant handcuffing,Warwickshire,Restraint,Handcuffing: non-compliant,Under 11 years,
+Handcuffing not stated,Warwickshire,,,Under 11 years,
+Limb / Body restraints,Warwickshire,Restraint,Limb / body restraints,Under 11 years,
+Ground restraint,Warwickshire,Restraint,Ground restraint,Under 11 years,
+*Total Unarmed skills,Warwickshire,Unarmed skills,Total: unarmed skills,Under 11 years,
+*Total Other equipment,Warwickshire,Other equipment,Total: Other equipment,Under 11 years,
+"Baton, of which",Warwickshire,Other equipment,Total: Baton,Under 11 years,
+Baton drawn,Warwickshire,Other equipment,Baton: drawn,Under 11 years,
+Baton used,Warwickshire,Other equipment,Baton: used,Under 11 years,
+Baton not stated,Warwickshire,,,Under 11 years,
+"Irritant spray, of which",Warwickshire,Other equipment,Total: Irritant spray,Under 11 years,
+Irritant spray - drawn,Warwickshire,Other equipment,Irritant spray: drawn,Under 11 years,
+Irritant spray - used,Warwickshire,Other equipment,Irritant spray: used,Under 11 years,
+Irritant spray not stated,Warwickshire,,,Under 11 years,
+Spit and bite guard,Warwickshire,Other equipment,Spit and bite guard,Under 11 years,
+Shield,Warwickshire,Other equipment,Shield,Under 11 years,
+*Total Less lethal weapons,Warwickshire,Less lethal weapons,Total: Less lethal weapons,Under 11 years,
+CED of which,Warwickshire,,,Under 11 years,
+CED non-discharge,Warwickshire,,,Under 11 years,
+CED discharge,Warwickshire,,,Under 11 years,
+CED not stated,Warwickshire,,,Under 11 years,
+"AEP, of which",Warwickshire,Less lethal weapons,Total: AEP,Under 11 years,
+AEP drawn,Warwickshire,,,Under 11 years,
+AEP used,Warwickshire,,,Under 11 years,
+AEP not stated,Warwickshire,,,Under 11 years,
+*Total Firearms,Warwickshire,Firearms,Total: Firearms,Under 11 years,
+*Total Other,Warwickshire,Other,Total: Other,Under 11 years,
+"Dog use, of which",Warwickshire,Other,Total: Dog,Under 11 years,
+Dog deployed,Warwickshire,Other,Dog: deployed,Under 11 years,
+Dog bite,Warwickshire,Other,Dog: bite,Under 11 years,
+Dog not stated,Warwickshire,,,Under 11 years,
+Other / improvised,Warwickshire,Other,Other / improvised,Under 11 years,
+*Total Not reported,Warwickshire,Not reported,Total: Not reported,Under 11 years,
+Tactical communication,Warwickshire,Excluded: Tactical Communication,Tactical Communication,Under 11 years,
+*Total Tactics,West Mercia,Total,Total: all,Under 11 years,
+*Total Restraint,West Mercia,Restraint,Total: Restraint,Under 11 years,
+"Handcuffing, of which",West Mercia,Restraint,Total: Handcuffing,Under 11 years,
+Compliant handcuffing,West Mercia,Restraint,Handcuffing: compliant,Under 11 years,
+Non-compliant handcuffing,West Mercia,Restraint,Handcuffing: non-compliant,Under 11 years,
+Handcuffing not stated,West Mercia,,,Under 11 years,
+Limb / Body restraints,West Mercia,Restraint,Limb / body restraints,Under 11 years,
+Ground restraint,West Mercia,Restraint,Ground restraint,Under 11 years,
+*Total Unarmed skills,West Mercia,Unarmed skills,Total: unarmed skills,Under 11 years,
+*Total Other equipment,West Mercia,Other equipment,Total: Other equipment,Under 11 years,
+"Baton, of which",West Mercia,Other equipment,Total: Baton,Under 11 years,
+Baton drawn,West Mercia,Other equipment,Baton: drawn,Under 11 years,
+Baton used,West Mercia,Other equipment,Baton: used,Under 11 years,
+Baton not stated,West Mercia,,,Under 11 years,
+"Irritant spray, of which",West Mercia,Other equipment,Total: Irritant spray,Under 11 years,
+Irritant spray - drawn,West Mercia,Other equipment,Irritant spray: drawn,Under 11 years,
+Irritant spray - used,West Mercia,Other equipment,Irritant spray: used,Under 11 years,
+Irritant spray not stated,West Mercia,,,Under 11 years,
+Spit and bite guard,West Mercia,Other equipment,Spit and bite guard,Under 11 years,
+Shield,West Mercia,Other equipment,Shield,Under 11 years,
+*Total Less lethal weapons,West Mercia,Less lethal weapons,Total: Less lethal weapons,Under 11 years,
+CED of which,West Mercia,,,Under 11 years,
+CED non-discharge,West Mercia,,,Under 11 years,
+CED discharge,West Mercia,,,Under 11 years,
+CED not stated,West Mercia,,,Under 11 years,
+"AEP, of which",West Mercia,Less lethal weapons,Total: AEP,Under 11 years,
+AEP drawn,West Mercia,,,Under 11 years,
+AEP used,West Mercia,,,Under 11 years,
+AEP not stated,West Mercia,,,Under 11 years,
+*Total Firearms,West Mercia,Firearms,Total: Firearms,Under 11 years,
+*Total Other,West Mercia,Other,Total: Other,Under 11 years,
+"Dog use, of which",West Mercia,Other,Total: Dog,Under 11 years,
+Dog deployed,West Mercia,Other,Dog: deployed,Under 11 years,
+Dog bite,West Mercia,Other,Dog: bite,Under 11 years,
+Dog not stated,West Mercia,,,Under 11 years,
+Other / improvised,West Mercia,Other,Other / improvised,Under 11 years,
+*Total Not reported,West Mercia,Not reported,Total: Not reported,Under 11 years,
+Tactical communication,West Mercia,Excluded: Tactical Communication,Tactical Communication,Under 11 years,
 *Total Tactics,West Midlands,Total,Total: all,Under 11 years,28.0
 *Total Restraint,West Midlands,Restraint,Total: Restraint,Under 11 years,10.0
 "Handcuffing, of which",West Midlands,Restraint,Total: Handcuffing,Under 11 years,3.0
@@ -1530,12 +1530,12 @@ Ground restraint,West Midlands,Restraint,Ground restraint,Under 11 years,2.0
 *Total Unarmed skills,West Midlands,Unarmed skills,Total: unarmed skills,Under 11 years,10.0
 *Total Other equipment,West Midlands,Other equipment,Total: Other equipment,Under 11 years,2.0
 "Baton, of which",West Midlands,Other equipment,Total: Baton,Under 11 years,0.0
-Baton drawn,West Midlands,Other equipment,Baton: drawn,Under 11 years,:
-Baton used,West Midlands,Other equipment,Baton: used,Under 11 years,:
+Baton drawn,West Midlands,Other equipment,Baton: drawn,Under 11 years,
+Baton used,West Midlands,Other equipment,Baton: used,Under 11 years,
 Baton not stated,West Midlands,,,Under 11 years,0.0
 "Irritant spray, of which",West Midlands,Other equipment,Total: Irritant spray,Under 11 years,2.0
-Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,Under 11 years,:
-Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,Under 11 years,:
+Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,Under 11 years,
+Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,Under 11 years,
 Irritant spray not stated,West Midlands,,,Under 11 years,2.0
 Spit and bite guard,West Midlands,Other equipment,Spit and bite guard,Under 11 years,0.0
 Shield,West Midlands,Other equipment,Shield,Under 11 years,0.0
@@ -1551,8 +1551,8 @@ AEP not stated,West Midlands,,,Under 11 years,0.0
 *Total Firearms,West Midlands,Firearms,Total: Firearms,Under 11 years,0.0
 *Total Other,West Midlands,Other,Total: Other,Under 11 years,3.0
 "Dog use, of which",West Midlands,Other,Total: Dog,Under 11 years,0.0
-Dog deployed,West Midlands,Other,Dog: deployed,Under 11 years,:
-Dog bite,West Midlands,Other,Dog: bite,Under 11 years,:
+Dog deployed,West Midlands,Other,Dog: deployed,Under 11 years,
+Dog bite,West Midlands,Other,Dog: bite,Under 11 years,
 Dog not stated,West Midlands,,,Under 11 years,0.0
 Other / improvised,West Midlands,Other,Other / improvised,Under 11 years,3.0
 *Total Not reported,West Midlands,Not reported,Total: Not reported,Under 11 years,0.0
@@ -1636,20 +1636,20 @@ Tactical communication,Wiltshire,Excluded: Tactical Communication,Tactical Commu
 *Total Tactics,Avon & Somerset,Total,Total: all,11 - 17 years,1905.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,11 - 17 years,901.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,11 - 17 years,693.0
-Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,11 - 17 years,:
-Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,11 - 17 years,:
+Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,11 - 17 years,
+Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,11 - 17 years,
 Handcuffing not stated,Avon & Somerset,,,11 - 17 years,693.0
 Limb / Body restraints,Avon & Somerset,Restraint,Limb / body restraints,11 - 17 years,79.0
 Ground restraint,Avon & Somerset,Restraint,Ground restraint,11 - 17 years,129.0
 *Total Unarmed skills,Avon & Somerset,Unarmed skills,Total: unarmed skills,11 - 17 years,797.0
 *Total Other equipment,Avon & Somerset,Other equipment,Total: Other equipment,11 - 17 years,46.0
 "Baton, of which",Avon & Somerset,Other equipment,Total: Baton,11 - 17 years,8.0
-Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,11 - 17 years,:
-Baton used,Avon & Somerset,Other equipment,Baton: used,11 - 17 years,:
+Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,11 - 17 years,
+Baton used,Avon & Somerset,Other equipment,Baton: used,11 - 17 years,
 Baton not stated,Avon & Somerset,,,11 - 17 years,8.0
 "Irritant spray, of which",Avon & Somerset,Other equipment,Total: Irritant spray,11 - 17 years,29.0
-Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,11 - 17 years,:
-Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,11 - 17 years,:
+Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,11 - 17 years,
+Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,11 - 17 years,
 Irritant spray not stated,Avon & Somerset,,,11 - 17 years,29.0
 Spit and bite guard,Avon & Somerset,Other equipment,Spit and bite guard,11 - 17 years,9.0
 Shield,Avon & Somerset,Other equipment,Shield,11 - 17 years,0.0
@@ -1665,8 +1665,8 @@ AEP not stated,Avon & Somerset,,,11 - 17 years,0.0
 *Total Firearms,Avon & Somerset,Firearms,Total: Firearms,11 - 17 years,0.0
 *Total Other,Avon & Somerset,Other,Total: Other,11 - 17 years,90.0
 "Dog use, of which",Avon & Somerset,Other,Total: Dog,11 - 17 years,2.0
-Dog deployed,Avon & Somerset,Other,Dog: deployed,11 - 17 years,:
-Dog bite,Avon & Somerset,Other,Dog: bite,11 - 17 years,:
+Dog deployed,Avon & Somerset,Other,Dog: deployed,11 - 17 years,
+Dog bite,Avon & Somerset,Other,Dog: bite,11 - 17 years,
 Dog not stated,Avon & Somerset,,,11 - 17 years,2.0
 Other / improvised,Avon & Somerset,Other,Other / improvised,11 - 17 years,88.0
 *Total Not reported,Avon & Somerset,Not reported,Total: Not reported,11 - 17 years,17.0
@@ -1902,8 +1902,8 @@ Tactical communication,Cumbria,Excluded: Tactical Communication,Tactical Communi
 *Total Tactics,Derbyshire,Total,Total: all,11 - 17 years,691.0
 *Total Restraint,Derbyshire,Restraint,Total: Restraint,11 - 17 years,349.0
 "Handcuffing, of which",Derbyshire,Restraint,Total: Handcuffing,11 - 17 years,274.0
-Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,11 - 17 years,:
-Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,11 - 17 years,:
+Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,11 - 17 years,
+Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,11 - 17 years,
 Handcuffing not stated,Derbyshire,,,11 - 17 years,274.0
 Limb / Body restraints,Derbyshire,Restraint,Limb / body restraints,11 - 17 years,41.0
 Ground restraint,Derbyshire,Restraint,Ground restraint,11 - 17 years,34.0
@@ -2370,8 +2370,8 @@ Baton drawn,Kent,Other equipment,Baton: drawn,11 - 17 years,5.0
 Baton used,Kent,Other equipment,Baton: used,11 - 17 years,2.0
 Baton not stated,Kent,,,11 - 17 years,0.0
 "Irritant spray, of which",Kent,Other equipment,Total: Irritant spray,11 - 17 years,30.0
-Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,11 - 17 years,:
-Irritant spray - used,Kent,Other equipment,Irritant spray: used,11 - 17 years,:
+Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,11 - 17 years,
+Irritant spray - used,Kent,Other equipment,Irritant spray: used,11 - 17 years,
 Irritant spray not stated,Kent,,,11 - 17 years,30.0
 Spit and bite guard,Kent,Other equipment,Spit and bite guard,11 - 17 years,19.0
 Shield,Kent,Other equipment,Shield,11 - 17 years,0.0
@@ -2396,8 +2396,8 @@ Tactical communication,Kent,Excluded: Tactical Communication,Tactical Communicat
 *Total Tactics,Lancashire,Total,Total: all,11 - 17 years,1253.0
 *Total Restraint,Lancashire,Restraint,Total: Restraint,11 - 17 years,620.0
 "Handcuffing, of which",Lancashire,Restraint,Total: Handcuffing,11 - 17 years,511.0
-Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,11 - 17 years,:
-Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,11 - 17 years,:
+Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,11 - 17 years,
+Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,11 - 17 years,
 Handcuffing not stated,Lancashire,,,11 - 17 years,511.0
 Limb / Body restraints,Lancashire,Restraint,Limb / body restraints,11 - 17 years,39.0
 Ground restraint,Lancashire,Restraint,Ground restraint,11 - 17 years,70.0
@@ -2605,8 +2605,8 @@ Spit and bite guard,Norfolk,Other equipment,Spit and bite guard,11 - 17 years,7.
 Shield,Norfolk,Other equipment,Shield,11 - 17 years,0.0
 *Total Less lethal weapons,Norfolk,Less lethal weapons,Total: Less lethal weapons,11 - 17 years,42.0
 CED of which,Norfolk,,,11 - 17 years,39.0
-CED non-discharge,Norfolk,,,11 - 17 years,:
-CED discharge,Norfolk,,,11 - 17 years,:
+CED non-discharge,Norfolk,,,11 - 17 years,
+CED discharge,Norfolk,,,11 - 17 years,
 CED not stated,Norfolk,,,11 - 17 years,39.0
 "AEP, of which",Norfolk,Less lethal weapons,Total: AEP,11 - 17 years,3.0
 AEP drawn,Norfolk,,,11 - 17 years,3.0
@@ -2890,8 +2890,8 @@ Tactical communication,South Yorkshire,Excluded: Tactical Communication,Tactical
 *Total Tactics,Staffordshire,Total,Total: all,11 - 17 years,494.0
 *Total Restraint,Staffordshire,Restraint,Total: Restraint,11 - 17 years,210.0
 "Handcuffing, of which",Staffordshire,Restraint,Total: Handcuffing,11 - 17 years,144.0
-Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,11 - 17 years,:
-Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,11 - 17 years,:
+Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,11 - 17 years,
+Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,11 - 17 years,
 Handcuffing not stated,Staffordshire,,,11 - 17 years,144.0
 Limb / Body restraints,Staffordshire,Restraint,Limb / body restraints,11 - 17 years,15.0
 Ground restraint,Staffordshire,Restraint,Ground restraint,11 - 17 years,51.0
@@ -2947,8 +2947,8 @@ Spit and bite guard,Suffolk,Other equipment,Spit and bite guard,11 - 17 years,6.
 Shield,Suffolk,Other equipment,Shield,11 - 17 years,0.0
 *Total Less lethal weapons,Suffolk,Less lethal weapons,Total: Less lethal weapons,11 - 17 years,32.0
 CED of which,Suffolk,,,11 - 17 years,31.0
-CED non-discharge,Suffolk,,,11 - 17 years,:
-CED discharge,Suffolk,,,11 - 17 years,:
+CED non-discharge,Suffolk,,,11 - 17 years,
+CED discharge,Suffolk,,,11 - 17 years,
 CED not stated,Suffolk,,,11 - 17 years,31.0
 "AEP, of which",Suffolk,Less lethal weapons,Total: AEP,11 - 17 years,1.0
 AEP drawn,Suffolk,,,11 - 17 years,1.0
@@ -3004,8 +3004,8 @@ Tactical communication,Surrey,Excluded: Tactical Communication,Tactical Communic
 *Total Tactics,Sussex,Total,Total: all,11 - 17 years,2365.0
 *Total Restraint,Sussex,Restraint,Total: Restraint,11 - 17 years,1233.0
 "Handcuffing, of which",Sussex,Restraint,Total: Handcuffing,11 - 17 years,1086.0
-Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,11 - 17 years,:
-Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,11 - 17 years,:
+Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,11 - 17 years,
+Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,11 - 17 years,
 Handcuffing not stated,Sussex,,,11 - 17 years,1086.0
 Limb / Body restraints,Sussex,Restraint,Limb / body restraints,11 - 17 years,54.0
 Ground restraint,Sussex,Restraint,Ground restraint,11 - 17 years,93.0
@@ -3050,8 +3050,8 @@ Ground restraint,Thames Valley,Restraint,Ground restraint,11 - 17 years,510.0
 *Total Unarmed skills,Thames Valley,Unarmed skills,Total: unarmed skills,11 - 17 years,769.0
 *Total Other equipment,Thames Valley,Other equipment,Total: Other equipment,11 - 17 years,112.0
 "Baton, of which",Thames Valley,Other equipment,Total: Baton,11 - 17 years,22.0
-Baton drawn,Thames Valley,Other equipment,Baton: drawn,11 - 17 years,:
-Baton used,Thames Valley,Other equipment,Baton: used,11 - 17 years,:
+Baton drawn,Thames Valley,Other equipment,Baton: drawn,11 - 17 years,
+Baton used,Thames Valley,Other equipment,Baton: used,11 - 17 years,
 Baton not stated,Thames Valley,,,11 - 17 years,22.0
 "Irritant spray, of which",Thames Valley,Other equipment,Total: Irritant spray,11 - 17 years,61.0
 Irritant spray - drawn,Thames Valley,Other equipment,Irritant spray: drawn,11 - 17 years,22.0
@@ -3071,88 +3071,88 @@ AEP not stated,Thames Valley,,,11 - 17 years,0.0
 *Total Firearms,Thames Valley,Firearms,Total: Firearms,11 - 17 years,2.0
 *Total Other,Thames Valley,Other,Total: Other,11 - 17 years,137.0
 "Dog use, of which",Thames Valley,Other,Total: Dog,11 - 17 years,13.0
-Dog deployed,Thames Valley,Other,Dog: deployed,11 - 17 years,:
-Dog bite,Thames Valley,Other,Dog: bite,11 - 17 years,:
+Dog deployed,Thames Valley,Other,Dog: deployed,11 - 17 years,
+Dog bite,Thames Valley,Other,Dog: bite,11 - 17 years,
 Dog not stated,Thames Valley,,,11 - 17 years,13.0
 Other / improvised,Thames Valley,Other,Other / improvised,11 - 17 years,124.0
 *Total Not reported,Thames Valley,Not reported,Total: Not reported,11 - 17 years,0.0
 Tactical communication,Thames Valley,Excluded: Tactical Communication,Tactical Communication,11 - 17 years,171.0
-*Total Tactics,Warwickshire,Total,Total: all,11 - 17 years,:
-*Total Restraint,Warwickshire,Restraint,Total: Restraint,11 - 17 years,:
-"Handcuffing, of which",Warwickshire,Restraint,Total: Handcuffing,11 - 17 years,:
-Compliant handcuffing,Warwickshire,Restraint,Handcuffing: compliant,11 - 17 years,:
-Non-compliant handcuffing,Warwickshire,Restraint,Handcuffing: non-compliant,11 - 17 years,:
-Handcuffing not stated,Warwickshire,,,11 - 17 years,:
-Limb / Body restraints,Warwickshire,Restraint,Limb / body restraints,11 - 17 years,:
-Ground restraint,Warwickshire,Restraint,Ground restraint,11 - 17 years,:
-*Total Unarmed skills,Warwickshire,Unarmed skills,Total: unarmed skills,11 - 17 years,:
-*Total Other equipment,Warwickshire,Other equipment,Total: Other equipment,11 - 17 years,:
-"Baton, of which",Warwickshire,Other equipment,Total: Baton,11 - 17 years,:
-Baton drawn,Warwickshire,Other equipment,Baton: drawn,11 - 17 years,:
-Baton used,Warwickshire,Other equipment,Baton: used,11 - 17 years,:
-Baton not stated,Warwickshire,,,11 - 17 years,:
-"Irritant spray, of which",Warwickshire,Other equipment,Total: Irritant spray,11 - 17 years,:
-Irritant spray - drawn,Warwickshire,Other equipment,Irritant spray: drawn,11 - 17 years,:
-Irritant spray - used,Warwickshire,Other equipment,Irritant spray: used,11 - 17 years,:
-Irritant spray not stated,Warwickshire,,,11 - 17 years,:
-Spit and bite guard,Warwickshire,Other equipment,Spit and bite guard,11 - 17 years,:
-Shield,Warwickshire,Other equipment,Shield,11 - 17 years,:
-*Total Less lethal weapons,Warwickshire,Less lethal weapons,Total: Less lethal weapons,11 - 17 years,:
-CED of which,Warwickshire,,,11 - 17 years,:
-CED non-discharge,Warwickshire,,,11 - 17 years,:
-CED discharge,Warwickshire,,,11 - 17 years,:
-CED not stated,Warwickshire,,,11 - 17 years,:
-"AEP, of which",Warwickshire,Less lethal weapons,Total: AEP,11 - 17 years,:
-AEP drawn,Warwickshire,,,11 - 17 years,:
-AEP used,Warwickshire,,,11 - 17 years,:
-AEP not stated,Warwickshire,,,11 - 17 years,:
-*Total Firearms,Warwickshire,Firearms,Total: Firearms,11 - 17 years,:
-*Total Other,Warwickshire,Other,Total: Other,11 - 17 years,:
-"Dog use, of which",Warwickshire,Other,Total: Dog,11 - 17 years,:
-Dog deployed,Warwickshire,Other,Dog: deployed,11 - 17 years,:
-Dog bite,Warwickshire,Other,Dog: bite,11 - 17 years,:
-Dog not stated,Warwickshire,,,11 - 17 years,:
-Other / improvised,Warwickshire,Other,Other / improvised,11 - 17 years,:
-*Total Not reported,Warwickshire,Not reported,Total: Not reported,11 - 17 years,:
-Tactical communication,Warwickshire,Excluded: Tactical Communication,Tactical Communication,11 - 17 years,:
-*Total Tactics,West Mercia,Total,Total: all,11 - 17 years,:
-*Total Restraint,West Mercia,Restraint,Total: Restraint,11 - 17 years,:
-"Handcuffing, of which",West Mercia,Restraint,Total: Handcuffing,11 - 17 years,:
-Compliant handcuffing,West Mercia,Restraint,Handcuffing: compliant,11 - 17 years,:
-Non-compliant handcuffing,West Mercia,Restraint,Handcuffing: non-compliant,11 - 17 years,:
-Handcuffing not stated,West Mercia,,,11 - 17 years,:
-Limb / Body restraints,West Mercia,Restraint,Limb / body restraints,11 - 17 years,:
-Ground restraint,West Mercia,Restraint,Ground restraint,11 - 17 years,:
-*Total Unarmed skills,West Mercia,Unarmed skills,Total: unarmed skills,11 - 17 years,:
-*Total Other equipment,West Mercia,Other equipment,Total: Other equipment,11 - 17 years,:
-"Baton, of which",West Mercia,Other equipment,Total: Baton,11 - 17 years,:
-Baton drawn,West Mercia,Other equipment,Baton: drawn,11 - 17 years,:
-Baton used,West Mercia,Other equipment,Baton: used,11 - 17 years,:
-Baton not stated,West Mercia,,,11 - 17 years,:
-"Irritant spray, of which",West Mercia,Other equipment,Total: Irritant spray,11 - 17 years,:
-Irritant spray - drawn,West Mercia,Other equipment,Irritant spray: drawn,11 - 17 years,:
-Irritant spray - used,West Mercia,Other equipment,Irritant spray: used,11 - 17 years,:
-Irritant spray not stated,West Mercia,,,11 - 17 years,:
-Spit and bite guard,West Mercia,Other equipment,Spit and bite guard,11 - 17 years,:
-Shield,West Mercia,Other equipment,Shield,11 - 17 years,:
-*Total Less lethal weapons,West Mercia,Less lethal weapons,Total: Less lethal weapons,11 - 17 years,:
-CED of which,West Mercia,,,11 - 17 years,:
-CED non-discharge,West Mercia,,,11 - 17 years,:
-CED discharge,West Mercia,,,11 - 17 years,:
-CED not stated,West Mercia,,,11 - 17 years,:
-"AEP, of which",West Mercia,Less lethal weapons,Total: AEP,11 - 17 years,:
-AEP drawn,West Mercia,,,11 - 17 years,:
-AEP used,West Mercia,,,11 - 17 years,:
-AEP not stated,West Mercia,,,11 - 17 years,:
-*Total Firearms,West Mercia,Firearms,Total: Firearms,11 - 17 years,:
-*Total Other,West Mercia,Other,Total: Other,11 - 17 years,:
-"Dog use, of which",West Mercia,Other,Total: Dog,11 - 17 years,:
-Dog deployed,West Mercia,Other,Dog: deployed,11 - 17 years,:
-Dog bite,West Mercia,Other,Dog: bite,11 - 17 years,:
-Dog not stated,West Mercia,,,11 - 17 years,:
-Other / improvised,West Mercia,Other,Other / improvised,11 - 17 years,:
-*Total Not reported,West Mercia,Not reported,Total: Not reported,11 - 17 years,:
-Tactical communication,West Mercia,Excluded: Tactical Communication,Tactical Communication,11 - 17 years,:
+*Total Tactics,Warwickshire,Total,Total: all,11 - 17 years,
+*Total Restraint,Warwickshire,Restraint,Total: Restraint,11 - 17 years,
+"Handcuffing, of which",Warwickshire,Restraint,Total: Handcuffing,11 - 17 years,
+Compliant handcuffing,Warwickshire,Restraint,Handcuffing: compliant,11 - 17 years,
+Non-compliant handcuffing,Warwickshire,Restraint,Handcuffing: non-compliant,11 - 17 years,
+Handcuffing not stated,Warwickshire,,,11 - 17 years,
+Limb / Body restraints,Warwickshire,Restraint,Limb / body restraints,11 - 17 years,
+Ground restraint,Warwickshire,Restraint,Ground restraint,11 - 17 years,
+*Total Unarmed skills,Warwickshire,Unarmed skills,Total: unarmed skills,11 - 17 years,
+*Total Other equipment,Warwickshire,Other equipment,Total: Other equipment,11 - 17 years,
+"Baton, of which",Warwickshire,Other equipment,Total: Baton,11 - 17 years,
+Baton drawn,Warwickshire,Other equipment,Baton: drawn,11 - 17 years,
+Baton used,Warwickshire,Other equipment,Baton: used,11 - 17 years,
+Baton not stated,Warwickshire,,,11 - 17 years,
+"Irritant spray, of which",Warwickshire,Other equipment,Total: Irritant spray,11 - 17 years,
+Irritant spray - drawn,Warwickshire,Other equipment,Irritant spray: drawn,11 - 17 years,
+Irritant spray - used,Warwickshire,Other equipment,Irritant spray: used,11 - 17 years,
+Irritant spray not stated,Warwickshire,,,11 - 17 years,
+Spit and bite guard,Warwickshire,Other equipment,Spit and bite guard,11 - 17 years,
+Shield,Warwickshire,Other equipment,Shield,11 - 17 years,
+*Total Less lethal weapons,Warwickshire,Less lethal weapons,Total: Less lethal weapons,11 - 17 years,
+CED of which,Warwickshire,,,11 - 17 years,
+CED non-discharge,Warwickshire,,,11 - 17 years,
+CED discharge,Warwickshire,,,11 - 17 years,
+CED not stated,Warwickshire,,,11 - 17 years,
+"AEP, of which",Warwickshire,Less lethal weapons,Total: AEP,11 - 17 years,
+AEP drawn,Warwickshire,,,11 - 17 years,
+AEP used,Warwickshire,,,11 - 17 years,
+AEP not stated,Warwickshire,,,11 - 17 years,
+*Total Firearms,Warwickshire,Firearms,Total: Firearms,11 - 17 years,
+*Total Other,Warwickshire,Other,Total: Other,11 - 17 years,
+"Dog use, of which",Warwickshire,Other,Total: Dog,11 - 17 years,
+Dog deployed,Warwickshire,Other,Dog: deployed,11 - 17 years,
+Dog bite,Warwickshire,Other,Dog: bite,11 - 17 years,
+Dog not stated,Warwickshire,,,11 - 17 years,
+Other / improvised,Warwickshire,Other,Other / improvised,11 - 17 years,
+*Total Not reported,Warwickshire,Not reported,Total: Not reported,11 - 17 years,
+Tactical communication,Warwickshire,Excluded: Tactical Communication,Tactical Communication,11 - 17 years,
+*Total Tactics,West Mercia,Total,Total: all,11 - 17 years,
+*Total Restraint,West Mercia,Restraint,Total: Restraint,11 - 17 years,
+"Handcuffing, of which",West Mercia,Restraint,Total: Handcuffing,11 - 17 years,
+Compliant handcuffing,West Mercia,Restraint,Handcuffing: compliant,11 - 17 years,
+Non-compliant handcuffing,West Mercia,Restraint,Handcuffing: non-compliant,11 - 17 years,
+Handcuffing not stated,West Mercia,,,11 - 17 years,
+Limb / Body restraints,West Mercia,Restraint,Limb / body restraints,11 - 17 years,
+Ground restraint,West Mercia,Restraint,Ground restraint,11 - 17 years,
+*Total Unarmed skills,West Mercia,Unarmed skills,Total: unarmed skills,11 - 17 years,
+*Total Other equipment,West Mercia,Other equipment,Total: Other equipment,11 - 17 years,
+"Baton, of which",West Mercia,Other equipment,Total: Baton,11 - 17 years,
+Baton drawn,West Mercia,Other equipment,Baton: drawn,11 - 17 years,
+Baton used,West Mercia,Other equipment,Baton: used,11 - 17 years,
+Baton not stated,West Mercia,,,11 - 17 years,
+"Irritant spray, of which",West Mercia,Other equipment,Total: Irritant spray,11 - 17 years,
+Irritant spray - drawn,West Mercia,Other equipment,Irritant spray: drawn,11 - 17 years,
+Irritant spray - used,West Mercia,Other equipment,Irritant spray: used,11 - 17 years,
+Irritant spray not stated,West Mercia,,,11 - 17 years,
+Spit and bite guard,West Mercia,Other equipment,Spit and bite guard,11 - 17 years,
+Shield,West Mercia,Other equipment,Shield,11 - 17 years,
+*Total Less lethal weapons,West Mercia,Less lethal weapons,Total: Less lethal weapons,11 - 17 years,
+CED of which,West Mercia,,,11 - 17 years,
+CED non-discharge,West Mercia,,,11 - 17 years,
+CED discharge,West Mercia,,,11 - 17 years,
+CED not stated,West Mercia,,,11 - 17 years,
+"AEP, of which",West Mercia,Less lethal weapons,Total: AEP,11 - 17 years,
+AEP drawn,West Mercia,,,11 - 17 years,
+AEP used,West Mercia,,,11 - 17 years,
+AEP not stated,West Mercia,,,11 - 17 years,
+*Total Firearms,West Mercia,Firearms,Total: Firearms,11 - 17 years,
+*Total Other,West Mercia,Other,Total: Other,11 - 17 years,
+"Dog use, of which",West Mercia,Other,Total: Dog,11 - 17 years,
+Dog deployed,West Mercia,Other,Dog: deployed,11 - 17 years,
+Dog bite,West Mercia,Other,Dog: bite,11 - 17 years,
+Dog not stated,West Mercia,,,11 - 17 years,
+Other / improvised,West Mercia,Other,Other / improvised,11 - 17 years,
+*Total Not reported,West Mercia,Not reported,Total: Not reported,11 - 17 years,
+Tactical communication,West Mercia,Excluded: Tactical Communication,Tactical Communication,11 - 17 years,
 *Total Tactics,West Midlands,Total,Total: all,11 - 17 years,1321.0
 *Total Restraint,West Midlands,Restraint,Total: Restraint,11 - 17 years,581.0
 "Handcuffing, of which",West Midlands,Restraint,Total: Handcuffing,11 - 17 years,356.0
@@ -3164,12 +3164,12 @@ Ground restraint,West Midlands,Restraint,Ground restraint,11 - 17 years,165.0
 *Total Unarmed skills,West Midlands,Unarmed skills,Total: unarmed skills,11 - 17 years,451.0
 *Total Other equipment,West Midlands,Other equipment,Total: Other equipment,11 - 17 years,67.0
 "Baton, of which",West Midlands,Other equipment,Total: Baton,11 - 17 years,16.0
-Baton drawn,West Midlands,Other equipment,Baton: drawn,11 - 17 years,:
-Baton used,West Midlands,Other equipment,Baton: used,11 - 17 years,:
+Baton drawn,West Midlands,Other equipment,Baton: drawn,11 - 17 years,
+Baton used,West Midlands,Other equipment,Baton: used,11 - 17 years,
 Baton not stated,West Midlands,,,11 - 17 years,16.0
 "Irritant spray, of which",West Midlands,Other equipment,Total: Irritant spray,11 - 17 years,38.0
-Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,11 - 17 years,:
-Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,11 - 17 years,:
+Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,11 - 17 years,
+Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,11 - 17 years,
 Irritant spray not stated,West Midlands,,,11 - 17 years,38.0
 Spit and bite guard,West Midlands,Other equipment,Spit and bite guard,11 - 17 years,13.0
 Shield,West Midlands,Other equipment,Shield,11 - 17 years,0.0
@@ -3185,8 +3185,8 @@ AEP not stated,West Midlands,,,11 - 17 years,0.0
 *Total Firearms,West Midlands,Firearms,Total: Firearms,11 - 17 years,22.0
 *Total Other,West Midlands,Other,Total: Other,11 - 17 years,53.0
 "Dog use, of which",West Midlands,Other,Total: Dog,11 - 17 years,3.0
-Dog deployed,West Midlands,Other,Dog: deployed,11 - 17 years,:
-Dog bite,West Midlands,Other,Dog: bite,11 - 17 years,:
+Dog deployed,West Midlands,Other,Dog: deployed,11 - 17 years,
+Dog bite,West Midlands,Other,Dog: bite,11 - 17 years,
 Dog not stated,West Midlands,,,11 - 17 years,3.0
 Other / improvised,West Midlands,Other,Other / improvised,11 - 17 years,50.0
 *Total Not reported,West Midlands,Not reported,Total: Not reported,11 - 17 years,0.0
@@ -3270,20 +3270,20 @@ Tactical communication,Wiltshire,Excluded: Tactical Communication,Tactical Commu
 *Total Tactics,Avon & Somerset,Total,Total: all,18 - 34 years,11799.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,18 - 34 years,5621.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,18 - 34 years,4278.0
-Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,18 - 34 years,:
-Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,18 - 34 years,:
+Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,18 - 34 years,
+Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,18 - 34 years,
 Handcuffing not stated,Avon & Somerset,,,18 - 34 years,4278.0
 Limb / Body restraints,Avon & Somerset,Restraint,Limb / body restraints,18 - 34 years,555.0
 Ground restraint,Avon & Somerset,Restraint,Ground restraint,18 - 34 years,788.0
 *Total Unarmed skills,Avon & Somerset,Unarmed skills,Total: unarmed skills,18 - 34 years,4467.0
 *Total Other equipment,Avon & Somerset,Other equipment,Total: Other equipment,18 - 34 years,530.0
 "Baton, of which",Avon & Somerset,Other equipment,Total: Baton,18 - 34 years,28.0
-Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,18 - 34 years,:
-Baton used,Avon & Somerset,Other equipment,Baton: used,18 - 34 years,:
+Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,18 - 34 years,
+Baton used,Avon & Somerset,Other equipment,Baton: used,18 - 34 years,
 Baton not stated,Avon & Somerset,,,18 - 34 years,28.0
 "Irritant spray, of which",Avon & Somerset,Other equipment,Total: Irritant spray,18 - 34 years,340.0
-Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,18 - 34 years,:
-Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,18 - 34 years,:
+Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,18 - 34 years,
+Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,18 - 34 years,
 Irritant spray not stated,Avon & Somerset,,,18 - 34 years,340.0
 Spit and bite guard,Avon & Somerset,Other equipment,Spit and bite guard,18 - 34 years,162.0
 Shield,Avon & Somerset,Other equipment,Shield,18 - 34 years,0.0
@@ -3299,8 +3299,8 @@ AEP not stated,Avon & Somerset,,,18 - 34 years,0.0
 *Total Firearms,Avon & Somerset,Firearms,Total: Firearms,18 - 34 years,15.0
 *Total Other,Avon & Somerset,Other,Total: Other,18 - 34 years,530.0
 "Dog use, of which",Avon & Somerset,Other,Total: Dog,18 - 34 years,10.0
-Dog deployed,Avon & Somerset,Other,Dog: deployed,18 - 34 years,:
-Dog bite,Avon & Somerset,Other,Dog: bite,18 - 34 years,:
+Dog deployed,Avon & Somerset,Other,Dog: deployed,18 - 34 years,
+Dog bite,Avon & Somerset,Other,Dog: bite,18 - 34 years,
 Dog not stated,Avon & Somerset,,,18 - 34 years,10.0
 Other / improvised,Avon & Somerset,Other,Other / improvised,18 - 34 years,520.0
 *Total Not reported,Avon & Somerset,Not reported,Total: Not reported,18 - 34 years,88.0
@@ -3536,8 +3536,8 @@ Tactical communication,Cumbria,Excluded: Tactical Communication,Tactical Communi
 *Total Tactics,Derbyshire,Total,Total: all,18 - 34 years,4286.0
 *Total Restraint,Derbyshire,Restraint,Total: Restraint,18 - 34 years,2229.0
 "Handcuffing, of which",Derbyshire,Restraint,Total: Handcuffing,18 - 34 years,1731.0
-Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,18 - 34 years,:
-Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,18 - 34 years,:
+Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,18 - 34 years,
+Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,18 - 34 years,
 Handcuffing not stated,Derbyshire,,,18 - 34 years,1731.0
 Limb / Body restraints,Derbyshire,Restraint,Limb / body restraints,18 - 34 years,236.0
 Ground restraint,Derbyshire,Restraint,Ground restraint,18 - 34 years,262.0
@@ -4004,8 +4004,8 @@ Baton drawn,Kent,Other equipment,Baton: drawn,18 - 34 years,42.0
 Baton used,Kent,Other equipment,Baton: used,18 - 34 years,22.0
 Baton not stated,Kent,,,18 - 34 years,0.0
 "Irritant spray, of which",Kent,Other equipment,Total: Irritant spray,18 - 34 years,205.0
-Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,18 - 34 years,:
-Irritant spray - used,Kent,Other equipment,Irritant spray: used,18 - 34 years,:
+Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,18 - 34 years,
+Irritant spray - used,Kent,Other equipment,Irritant spray: used,18 - 34 years,
 Irritant spray not stated,Kent,,,18 - 34 years,205.0
 Spit and bite guard,Kent,Other equipment,Spit and bite guard,18 - 34 years,118.0
 Shield,Kent,Other equipment,Shield,18 - 34 years,19.0
@@ -4030,8 +4030,8 @@ Tactical communication,Kent,Excluded: Tactical Communication,Tactical Communicat
 *Total Tactics,Lancashire,Total,Total: all,18 - 34 years,7312.0
 *Total Restraint,Lancashire,Restraint,Total: Restraint,18 - 34 years,3514.0
 "Handcuffing, of which",Lancashire,Restraint,Total: Handcuffing,18 - 34 years,2805.0
-Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,18 - 34 years,:
-Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,18 - 34 years,:
+Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,18 - 34 years,
+Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,18 - 34 years,
 Handcuffing not stated,Lancashire,,,18 - 34 years,2805.0
 Limb / Body restraints,Lancashire,Restraint,Limb / body restraints,18 - 34 years,178.0
 Ground restraint,Lancashire,Restraint,Ground restraint,18 - 34 years,531.0
@@ -4239,8 +4239,8 @@ Spit and bite guard,Norfolk,Other equipment,Spit and bite guard,18 - 34 years,50
 Shield,Norfolk,Other equipment,Shield,18 - 34 years,9.0
 *Total Less lethal weapons,Norfolk,Less lethal weapons,Total: Less lethal weapons,18 - 34 years,342.0
 CED of which,Norfolk,,,18 - 34 years,328.0
-CED non-discharge,Norfolk,,,18 - 34 years,:
-CED discharge,Norfolk,,,18 - 34 years,:
+CED non-discharge,Norfolk,,,18 - 34 years,
+CED discharge,Norfolk,,,18 - 34 years,
 CED not stated,Norfolk,,,18 - 34 years,328.0
 "AEP, of which",Norfolk,Less lethal weapons,Total: AEP,18 - 34 years,14.0
 AEP drawn,Norfolk,,,18 - 34 years,14.0
@@ -4524,8 +4524,8 @@ Tactical communication,South Yorkshire,Excluded: Tactical Communication,Tactical
 *Total Tactics,Staffordshire,Total,Total: all,18 - 34 years,3136.0
 *Total Restraint,Staffordshire,Restraint,Total: Restraint,18 - 34 years,1377.0
 "Handcuffing, of which",Staffordshire,Restraint,Total: Handcuffing,18 - 34 years,880.0
-Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,18 - 34 years,:
-Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,18 - 34 years,:
+Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,18 - 34 years,
+Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,18 - 34 years,
 Handcuffing not stated,Staffordshire,,,18 - 34 years,880.0
 Limb / Body restraints,Staffordshire,Restraint,Limb / body restraints,18 - 34 years,96.0
 Ground restraint,Staffordshire,Restraint,Ground restraint,18 - 34 years,401.0
@@ -4581,8 +4581,8 @@ Spit and bite guard,Suffolk,Other equipment,Spit and bite guard,18 - 34 years,44
 Shield,Suffolk,Other equipment,Shield,18 - 34 years,4.0
 *Total Less lethal weapons,Suffolk,Less lethal weapons,Total: Less lethal weapons,18 - 34 years,229.0
 CED of which,Suffolk,,,18 - 34 years,218.0
-CED non-discharge,Suffolk,,,18 - 34 years,:
-CED discharge,Suffolk,,,18 - 34 years,:
+CED non-discharge,Suffolk,,,18 - 34 years,
+CED discharge,Suffolk,,,18 - 34 years,
 CED not stated,Suffolk,,,18 - 34 years,218.0
 "AEP, of which",Suffolk,Less lethal weapons,Total: AEP,18 - 34 years,11.0
 AEP drawn,Suffolk,,,18 - 34 years,10.0
@@ -4638,8 +4638,8 @@ Tactical communication,Surrey,Excluded: Tactical Communication,Tactical Communic
 *Total Tactics,Sussex,Total,Total: all,18 - 34 years,13670.0
 *Total Restraint,Sussex,Restraint,Total: Restraint,18 - 34 years,7316.0
 "Handcuffing, of which",Sussex,Restraint,Total: Handcuffing,18 - 34 years,6028.0
-Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,18 - 34 years,:
-Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,18 - 34 years,:
+Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,18 - 34 years,
+Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,18 - 34 years,
 Handcuffing not stated,Sussex,,,18 - 34 years,6028.0
 Limb / Body restraints,Sussex,Restraint,Limb / body restraints,18 - 34 years,480.0
 Ground restraint,Sussex,Restraint,Ground restraint,18 - 34 years,808.0
@@ -4684,8 +4684,8 @@ Ground restraint,Thames Valley,Restraint,Ground restraint,18 - 34 years,3059.0
 *Total Unarmed skills,Thames Valley,Unarmed skills,Total: unarmed skills,18 - 34 years,4214.0
 *Total Other equipment,Thames Valley,Other equipment,Total: Other equipment,18 - 34 years,817.0
 "Baton, of which",Thames Valley,Other equipment,Total: Baton,18 - 34 years,160.0
-Baton drawn,Thames Valley,Other equipment,Baton: drawn,18 - 34 years,:
-Baton used,Thames Valley,Other equipment,Baton: used,18 - 34 years,:
+Baton drawn,Thames Valley,Other equipment,Baton: drawn,18 - 34 years,
+Baton used,Thames Valley,Other equipment,Baton: used,18 - 34 years,
 Baton not stated,Thames Valley,,,18 - 34 years,160.0
 "Irritant spray, of which",Thames Valley,Other equipment,Total: Irritant spray,18 - 34 years,459.0
 Irritant spray - drawn,Thames Valley,Other equipment,Irritant spray: drawn,18 - 34 years,121.0
@@ -4705,88 +4705,88 @@ AEP not stated,Thames Valley,,,18 - 34 years,1.0
 *Total Firearms,Thames Valley,Firearms,Total: Firearms,18 - 34 years,21.0
 *Total Other,Thames Valley,Other,Total: Other,18 - 34 years,903.0
 "Dog use, of which",Thames Valley,Other,Total: Dog,18 - 34 years,47.0
-Dog deployed,Thames Valley,Other,Dog: deployed,18 - 34 years,:
-Dog bite,Thames Valley,Other,Dog: bite,18 - 34 years,:
+Dog deployed,Thames Valley,Other,Dog: deployed,18 - 34 years,
+Dog bite,Thames Valley,Other,Dog: bite,18 - 34 years,
 Dog not stated,Thames Valley,,,18 - 34 years,47.0
 Other / improvised,Thames Valley,Other,Other / improvised,18 - 34 years,856.0
 *Total Not reported,Thames Valley,Not reported,Total: Not reported,18 - 34 years,0.0
 Tactical communication,Thames Valley,Excluded: Tactical Communication,Tactical Communication,18 - 34 years,917.0
-*Total Tactics,Warwickshire,Total,Total: all,18 - 34 years,:
-*Total Restraint,Warwickshire,Restraint,Total: Restraint,18 - 34 years,:
-"Handcuffing, of which",Warwickshire,Restraint,Total: Handcuffing,18 - 34 years,:
-Compliant handcuffing,Warwickshire,Restraint,Handcuffing: compliant,18 - 34 years,:
-Non-compliant handcuffing,Warwickshire,Restraint,Handcuffing: non-compliant,18 - 34 years,:
-Handcuffing not stated,Warwickshire,,,18 - 34 years,:
-Limb / Body restraints,Warwickshire,Restraint,Limb / body restraints,18 - 34 years,:
-Ground restraint,Warwickshire,Restraint,Ground restraint,18 - 34 years,:
-*Total Unarmed skills,Warwickshire,Unarmed skills,Total: unarmed skills,18 - 34 years,:
-*Total Other equipment,Warwickshire,Other equipment,Total: Other equipment,18 - 34 years,:
-"Baton, of which",Warwickshire,Other equipment,Total: Baton,18 - 34 years,:
-Baton drawn,Warwickshire,Other equipment,Baton: drawn,18 - 34 years,:
-Baton used,Warwickshire,Other equipment,Baton: used,18 - 34 years,:
-Baton not stated,Warwickshire,,,18 - 34 years,:
-"Irritant spray, of which",Warwickshire,Other equipment,Total: Irritant spray,18 - 34 years,:
-Irritant spray - drawn,Warwickshire,Other equipment,Irritant spray: drawn,18 - 34 years,:
-Irritant spray - used,Warwickshire,Other equipment,Irritant spray: used,18 - 34 years,:
-Irritant spray not stated,Warwickshire,,,18 - 34 years,:
-Spit and bite guard,Warwickshire,Other equipment,Spit and bite guard,18 - 34 years,:
-Shield,Warwickshire,Other equipment,Shield,18 - 34 years,:
-*Total Less lethal weapons,Warwickshire,Less lethal weapons,Total: Less lethal weapons,18 - 34 years,:
-CED of which,Warwickshire,,,18 - 34 years,:
-CED non-discharge,Warwickshire,,,18 - 34 years,:
-CED discharge,Warwickshire,,,18 - 34 years,:
-CED not stated,Warwickshire,,,18 - 34 years,:
-"AEP, of which",Warwickshire,Less lethal weapons,Total: AEP,18 - 34 years,:
-AEP drawn,Warwickshire,,,18 - 34 years,:
-AEP used,Warwickshire,,,18 - 34 years,:
-AEP not stated,Warwickshire,,,18 - 34 years,:
-*Total Firearms,Warwickshire,Firearms,Total: Firearms,18 - 34 years,:
-*Total Other,Warwickshire,Other,Total: Other,18 - 34 years,:
-"Dog use, of which",Warwickshire,Other,Total: Dog,18 - 34 years,:
-Dog deployed,Warwickshire,Other,Dog: deployed,18 - 34 years,:
-Dog bite,Warwickshire,Other,Dog: bite,18 - 34 years,:
-Dog not stated,Warwickshire,,,18 - 34 years,:
-Other / improvised,Warwickshire,Other,Other / improvised,18 - 34 years,:
-*Total Not reported,Warwickshire,Not reported,Total: Not reported,18 - 34 years,:
-Tactical communication,Warwickshire,Excluded: Tactical Communication,Tactical Communication,18 - 34 years,:
-*Total Tactics,West Mercia,Total,Total: all,18 - 34 years,:
-*Total Restraint,West Mercia,Restraint,Total: Restraint,18 - 34 years,:
-"Handcuffing, of which",West Mercia,Restraint,Total: Handcuffing,18 - 34 years,:
-Compliant handcuffing,West Mercia,Restraint,Handcuffing: compliant,18 - 34 years,:
-Non-compliant handcuffing,West Mercia,Restraint,Handcuffing: non-compliant,18 - 34 years,:
-Handcuffing not stated,West Mercia,,,18 - 34 years,:
-Limb / Body restraints,West Mercia,Restraint,Limb / body restraints,18 - 34 years,:
-Ground restraint,West Mercia,Restraint,Ground restraint,18 - 34 years,:
-*Total Unarmed skills,West Mercia,Unarmed skills,Total: unarmed skills,18 - 34 years,:
-*Total Other equipment,West Mercia,Other equipment,Total: Other equipment,18 - 34 years,:
-"Baton, of which",West Mercia,Other equipment,Total: Baton,18 - 34 years,:
-Baton drawn,West Mercia,Other equipment,Baton: drawn,18 - 34 years,:
-Baton used,West Mercia,Other equipment,Baton: used,18 - 34 years,:
-Baton not stated,West Mercia,,,18 - 34 years,:
-"Irritant spray, of which",West Mercia,Other equipment,Total: Irritant spray,18 - 34 years,:
-Irritant spray - drawn,West Mercia,Other equipment,Irritant spray: drawn,18 - 34 years,:
-Irritant spray - used,West Mercia,Other equipment,Irritant spray: used,18 - 34 years,:
-Irritant spray not stated,West Mercia,,,18 - 34 years,:
-Spit and bite guard,West Mercia,Other equipment,Spit and bite guard,18 - 34 years,:
-Shield,West Mercia,Other equipment,Shield,18 - 34 years,:
-*Total Less lethal weapons,West Mercia,Less lethal weapons,Total: Less lethal weapons,18 - 34 years,:
-CED of which,West Mercia,,,18 - 34 years,:
-CED non-discharge,West Mercia,,,18 - 34 years,:
-CED discharge,West Mercia,,,18 - 34 years,:
-CED not stated,West Mercia,,,18 - 34 years,:
-"AEP, of which",West Mercia,Less lethal weapons,Total: AEP,18 - 34 years,:
-AEP drawn,West Mercia,,,18 - 34 years,:
-AEP used,West Mercia,,,18 - 34 years,:
-AEP not stated,West Mercia,,,18 - 34 years,:
-*Total Firearms,West Mercia,Firearms,Total: Firearms,18 - 34 years,:
-*Total Other,West Mercia,Other,Total: Other,18 - 34 years,:
-"Dog use, of which",West Mercia,Other,Total: Dog,18 - 34 years,:
-Dog deployed,West Mercia,Other,Dog: deployed,18 - 34 years,:
-Dog bite,West Mercia,Other,Dog: bite,18 - 34 years,:
-Dog not stated,West Mercia,,,18 - 34 years,:
-Other / improvised,West Mercia,Other,Other / improvised,18 - 34 years,:
-*Total Not reported,West Mercia,Not reported,Total: Not reported,18 - 34 years,:
-Tactical communication,West Mercia,Excluded: Tactical Communication,Tactical Communication,18 - 34 years,:
+*Total Tactics,Warwickshire,Total,Total: all,18 - 34 years,
+*Total Restraint,Warwickshire,Restraint,Total: Restraint,18 - 34 years,
+"Handcuffing, of which",Warwickshire,Restraint,Total: Handcuffing,18 - 34 years,
+Compliant handcuffing,Warwickshire,Restraint,Handcuffing: compliant,18 - 34 years,
+Non-compliant handcuffing,Warwickshire,Restraint,Handcuffing: non-compliant,18 - 34 years,
+Handcuffing not stated,Warwickshire,,,18 - 34 years,
+Limb / Body restraints,Warwickshire,Restraint,Limb / body restraints,18 - 34 years,
+Ground restraint,Warwickshire,Restraint,Ground restraint,18 - 34 years,
+*Total Unarmed skills,Warwickshire,Unarmed skills,Total: unarmed skills,18 - 34 years,
+*Total Other equipment,Warwickshire,Other equipment,Total: Other equipment,18 - 34 years,
+"Baton, of which",Warwickshire,Other equipment,Total: Baton,18 - 34 years,
+Baton drawn,Warwickshire,Other equipment,Baton: drawn,18 - 34 years,
+Baton used,Warwickshire,Other equipment,Baton: used,18 - 34 years,
+Baton not stated,Warwickshire,,,18 - 34 years,
+"Irritant spray, of which",Warwickshire,Other equipment,Total: Irritant spray,18 - 34 years,
+Irritant spray - drawn,Warwickshire,Other equipment,Irritant spray: drawn,18 - 34 years,
+Irritant spray - used,Warwickshire,Other equipment,Irritant spray: used,18 - 34 years,
+Irritant spray not stated,Warwickshire,,,18 - 34 years,
+Spit and bite guard,Warwickshire,Other equipment,Spit and bite guard,18 - 34 years,
+Shield,Warwickshire,Other equipment,Shield,18 - 34 years,
+*Total Less lethal weapons,Warwickshire,Less lethal weapons,Total: Less lethal weapons,18 - 34 years,
+CED of which,Warwickshire,,,18 - 34 years,
+CED non-discharge,Warwickshire,,,18 - 34 years,
+CED discharge,Warwickshire,,,18 - 34 years,
+CED not stated,Warwickshire,,,18 - 34 years,
+"AEP, of which",Warwickshire,Less lethal weapons,Total: AEP,18 - 34 years,
+AEP drawn,Warwickshire,,,18 - 34 years,
+AEP used,Warwickshire,,,18 - 34 years,
+AEP not stated,Warwickshire,,,18 - 34 years,
+*Total Firearms,Warwickshire,Firearms,Total: Firearms,18 - 34 years,
+*Total Other,Warwickshire,Other,Total: Other,18 - 34 years,
+"Dog use, of which",Warwickshire,Other,Total: Dog,18 - 34 years,
+Dog deployed,Warwickshire,Other,Dog: deployed,18 - 34 years,
+Dog bite,Warwickshire,Other,Dog: bite,18 - 34 years,
+Dog not stated,Warwickshire,,,18 - 34 years,
+Other / improvised,Warwickshire,Other,Other / improvised,18 - 34 years,
+*Total Not reported,Warwickshire,Not reported,Total: Not reported,18 - 34 years,
+Tactical communication,Warwickshire,Excluded: Tactical Communication,Tactical Communication,18 - 34 years,
+*Total Tactics,West Mercia,Total,Total: all,18 - 34 years,
+*Total Restraint,West Mercia,Restraint,Total: Restraint,18 - 34 years,
+"Handcuffing, of which",West Mercia,Restraint,Total: Handcuffing,18 - 34 years,
+Compliant handcuffing,West Mercia,Restraint,Handcuffing: compliant,18 - 34 years,
+Non-compliant handcuffing,West Mercia,Restraint,Handcuffing: non-compliant,18 - 34 years,
+Handcuffing not stated,West Mercia,,,18 - 34 years,
+Limb / Body restraints,West Mercia,Restraint,Limb / body restraints,18 - 34 years,
+Ground restraint,West Mercia,Restraint,Ground restraint,18 - 34 years,
+*Total Unarmed skills,West Mercia,Unarmed skills,Total: unarmed skills,18 - 34 years,
+*Total Other equipment,West Mercia,Other equipment,Total: Other equipment,18 - 34 years,
+"Baton, of which",West Mercia,Other equipment,Total: Baton,18 - 34 years,
+Baton drawn,West Mercia,Other equipment,Baton: drawn,18 - 34 years,
+Baton used,West Mercia,Other equipment,Baton: used,18 - 34 years,
+Baton not stated,West Mercia,,,18 - 34 years,
+"Irritant spray, of which",West Mercia,Other equipment,Total: Irritant spray,18 - 34 years,
+Irritant spray - drawn,West Mercia,Other equipment,Irritant spray: drawn,18 - 34 years,
+Irritant spray - used,West Mercia,Other equipment,Irritant spray: used,18 - 34 years,
+Irritant spray not stated,West Mercia,,,18 - 34 years,
+Spit and bite guard,West Mercia,Other equipment,Spit and bite guard,18 - 34 years,
+Shield,West Mercia,Other equipment,Shield,18 - 34 years,
+*Total Less lethal weapons,West Mercia,Less lethal weapons,Total: Less lethal weapons,18 - 34 years,
+CED of which,West Mercia,,,18 - 34 years,
+CED non-discharge,West Mercia,,,18 - 34 years,
+CED discharge,West Mercia,,,18 - 34 years,
+CED not stated,West Mercia,,,18 - 34 years,
+"AEP, of which",West Mercia,Less lethal weapons,Total: AEP,18 - 34 years,
+AEP drawn,West Mercia,,,18 - 34 years,
+AEP used,West Mercia,,,18 - 34 years,
+AEP not stated,West Mercia,,,18 - 34 years,
+*Total Firearms,West Mercia,Firearms,Total: Firearms,18 - 34 years,
+*Total Other,West Mercia,Other,Total: Other,18 - 34 years,
+"Dog use, of which",West Mercia,Other,Total: Dog,18 - 34 years,
+Dog deployed,West Mercia,Other,Dog: deployed,18 - 34 years,
+Dog bite,West Mercia,Other,Dog: bite,18 - 34 years,
+Dog not stated,West Mercia,,,18 - 34 years,
+Other / improvised,West Mercia,Other,Other / improvised,18 - 34 years,
+*Total Not reported,West Mercia,Not reported,Total: Not reported,18 - 34 years,
+Tactical communication,West Mercia,Excluded: Tactical Communication,Tactical Communication,18 - 34 years,
 *Total Tactics,West Midlands,Total,Total: all,18 - 34 years,11075.0
 *Total Restraint,West Midlands,Restraint,Total: Restraint,18 - 34 years,4245.0
 "Handcuffing, of which",West Midlands,Restraint,Total: Handcuffing,18 - 34 years,2350.0
@@ -4798,12 +4798,12 @@ Ground restraint,West Midlands,Restraint,Ground restraint,18 - 34 years,1334.0
 *Total Unarmed skills,West Midlands,Unarmed skills,Total: unarmed skills,18 - 34 years,3530.0
 *Total Other equipment,West Midlands,Other equipment,Total: Other equipment,18 - 34 years,1033.0
 "Baton, of which",West Midlands,Other equipment,Total: Baton,18 - 34 years,175.0
-Baton drawn,West Midlands,Other equipment,Baton: drawn,18 - 34 years,:
-Baton used,West Midlands,Other equipment,Baton: used,18 - 34 years,:
+Baton drawn,West Midlands,Other equipment,Baton: drawn,18 - 34 years,
+Baton used,West Midlands,Other equipment,Baton: used,18 - 34 years,
 Baton not stated,West Midlands,,,18 - 34 years,175.0
 "Irritant spray, of which",West Midlands,Other equipment,Total: Irritant spray,18 - 34 years,635.0
-Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,18 - 34 years,:
-Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,18 - 34 years,:
+Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,18 - 34 years,
+Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,18 - 34 years,
 Irritant spray not stated,West Midlands,,,18 - 34 years,635.0
 Spit and bite guard,West Midlands,Other equipment,Spit and bite guard,18 - 34 years,207.0
 Shield,West Midlands,Other equipment,Shield,18 - 34 years,16.0
@@ -4819,8 +4819,8 @@ AEP not stated,West Midlands,,,18 - 34 years,0.0
 *Total Firearms,West Midlands,Firearms,Total: Firearms,18 - 34 years,406.0
 *Total Other,West Midlands,Other,Total: Other,18 - 34 years,378.0
 "Dog use, of which",West Midlands,Other,Total: Dog,18 - 34 years,73.0
-Dog deployed,West Midlands,Other,Dog: deployed,18 - 34 years,:
-Dog bite,West Midlands,Other,Dog: bite,18 - 34 years,:
+Dog deployed,West Midlands,Other,Dog: deployed,18 - 34 years,
+Dog bite,West Midlands,Other,Dog: bite,18 - 34 years,
 Dog not stated,West Midlands,,,18 - 34 years,73.0
 Other / improvised,West Midlands,Other,Other / improvised,18 - 34 years,305.0
 *Total Not reported,West Midlands,Not reported,Total: Not reported,18 - 34 years,0.0
@@ -4904,20 +4904,20 @@ Tactical communication,Wiltshire,Excluded: Tactical Communication,Tactical Commu
 *Total Tactics,Avon & Somerset,Total,Total: all,35 - 49 years,5513.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,35 - 49 years,2585.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,35 - 49 years,2042.0
-Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,35 - 49 years,:
-Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,35 - 49 years,:
+Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,35 - 49 years,
+Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,35 - 49 years,
 Handcuffing not stated,Avon & Somerset,,,35 - 49 years,2042.0
 Limb / Body restraints,Avon & Somerset,Restraint,Limb / body restraints,35 - 49 years,184.0
 Ground restraint,Avon & Somerset,Restraint,Ground restraint,35 - 49 years,359.0
 *Total Unarmed skills,Avon & Somerset,Unarmed skills,Total: unarmed skills,35 - 49 years,2068.0
 *Total Other equipment,Avon & Somerset,Other equipment,Total: Other equipment,35 - 49 years,256.0
 "Baton, of which",Avon & Somerset,Other equipment,Total: Baton,35 - 49 years,9.0
-Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,35 - 49 years,:
-Baton used,Avon & Somerset,Other equipment,Baton: used,35 - 49 years,:
+Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,35 - 49 years,
+Baton used,Avon & Somerset,Other equipment,Baton: used,35 - 49 years,
 Baton not stated,Avon & Somerset,,,35 - 49 years,9.0
 "Irritant spray, of which",Avon & Somerset,Other equipment,Total: Irritant spray,35 - 49 years,181.0
-Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,35 - 49 years,:
-Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,35 - 49 years,:
+Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,35 - 49 years,
+Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,35 - 49 years,
 Irritant spray not stated,Avon & Somerset,,,35 - 49 years,181.0
 Spit and bite guard,Avon & Somerset,Other equipment,Spit and bite guard,35 - 49 years,66.0
 Shield,Avon & Somerset,Other equipment,Shield,35 - 49 years,0.0
@@ -4933,8 +4933,8 @@ AEP not stated,Avon & Somerset,,,35 - 49 years,0.0
 *Total Firearms,Avon & Somerset,Firearms,Total: Firearms,35 - 49 years,3.0
 *Total Other,Avon & Somerset,Other,Total: Other,35 - 49 years,323.0
 "Dog use, of which",Avon & Somerset,Other,Total: Dog,35 - 49 years,2.0
-Dog deployed,Avon & Somerset,Other,Dog: deployed,35 - 49 years,:
-Dog bite,Avon & Somerset,Other,Dog: bite,35 - 49 years,:
+Dog deployed,Avon & Somerset,Other,Dog: deployed,35 - 49 years,
+Dog bite,Avon & Somerset,Other,Dog: bite,35 - 49 years,
 Dog not stated,Avon & Somerset,,,35 - 49 years,2.0
 Other / improvised,Avon & Somerset,Other,Other / improvised,35 - 49 years,321.0
 *Total Not reported,Avon & Somerset,Not reported,Total: Not reported,35 - 49 years,39.0
@@ -5170,8 +5170,8 @@ Tactical communication,Cumbria,Excluded: Tactical Communication,Tactical Communi
 *Total Tactics,Derbyshire,Total,Total: all,35 - 49 years,2178.0
 *Total Restraint,Derbyshire,Restraint,Total: Restraint,35 - 49 years,1184.0
 "Handcuffing, of which",Derbyshire,Restraint,Total: Handcuffing,35 - 49 years,980.0
-Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,35 - 49 years,:
-Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,35 - 49 years,:
+Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,35 - 49 years,
+Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,35 - 49 years,
 Handcuffing not stated,Derbyshire,,,35 - 49 years,980.0
 Limb / Body restraints,Derbyshire,Restraint,Limb / body restraints,35 - 49 years,99.0
 Ground restraint,Derbyshire,Restraint,Ground restraint,35 - 49 years,105.0
@@ -5638,8 +5638,8 @@ Baton drawn,Kent,Other equipment,Baton: drawn,35 - 49 years,17.0
 Baton used,Kent,Other equipment,Baton: used,35 - 49 years,5.0
 Baton not stated,Kent,,,35 - 49 years,0.0
 "Irritant spray, of which",Kent,Other equipment,Total: Irritant spray,35 - 49 years,105.0
-Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,35 - 49 years,:
-Irritant spray - used,Kent,Other equipment,Irritant spray: used,35 - 49 years,:
+Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,35 - 49 years,
+Irritant spray - used,Kent,Other equipment,Irritant spray: used,35 - 49 years,
 Irritant spray not stated,Kent,,,35 - 49 years,105.0
 Spit and bite guard,Kent,Other equipment,Spit and bite guard,35 - 49 years,41.0
 Shield,Kent,Other equipment,Shield,35 - 49 years,4.0
@@ -5664,8 +5664,8 @@ Tactical communication,Kent,Excluded: Tactical Communication,Tactical Communicat
 *Total Tactics,Lancashire,Total,Total: all,35 - 49 years,3448.0
 *Total Restraint,Lancashire,Restraint,Total: Restraint,35 - 49 years,1630.0
 "Handcuffing, of which",Lancashire,Restraint,Total: Handcuffing,35 - 49 years,1357.0
-Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,35 - 49 years,:
-Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,35 - 49 years,:
+Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,35 - 49 years,
+Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,35 - 49 years,
 Handcuffing not stated,Lancashire,,,35 - 49 years,1357.0
 Limb / Body restraints,Lancashire,Restraint,Limb / body restraints,35 - 49 years,62.0
 Ground restraint,Lancashire,Restraint,Ground restraint,35 - 49 years,211.0
@@ -5873,8 +5873,8 @@ Spit and bite guard,Norfolk,Other equipment,Spit and bite guard,35 - 49 years,23
 Shield,Norfolk,Other equipment,Shield,35 - 49 years,1.0
 *Total Less lethal weapons,Norfolk,Less lethal weapons,Total: Less lethal weapons,35 - 49 years,163.0
 CED of which,Norfolk,,,35 - 49 years,157.0
-CED non-discharge,Norfolk,,,35 - 49 years,:
-CED discharge,Norfolk,,,35 - 49 years,:
+CED non-discharge,Norfolk,,,35 - 49 years,
+CED discharge,Norfolk,,,35 - 49 years,
 CED not stated,Norfolk,,,35 - 49 years,157.0
 "AEP, of which",Norfolk,Less lethal weapons,Total: AEP,35 - 49 years,6.0
 AEP drawn,Norfolk,,,35 - 49 years,6.0
@@ -6158,8 +6158,8 @@ Tactical communication,South Yorkshire,Excluded: Tactical Communication,Tactical
 *Total Tactics,Staffordshire,Total,Total: all,35 - 49 years,1347.0
 *Total Restraint,Staffordshire,Restraint,Total: Restraint,35 - 49 years,567.0
 "Handcuffing, of which",Staffordshire,Restraint,Total: Handcuffing,35 - 49 years,392.0
-Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,35 - 49 years,:
-Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,35 - 49 years,:
+Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,35 - 49 years,
+Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,35 - 49 years,
 Handcuffing not stated,Staffordshire,,,35 - 49 years,392.0
 Limb / Body restraints,Staffordshire,Restraint,Limb / body restraints,35 - 49 years,28.0
 Ground restraint,Staffordshire,Restraint,Ground restraint,35 - 49 years,147.0
@@ -6215,8 +6215,8 @@ Spit and bite guard,Suffolk,Other equipment,Spit and bite guard,35 - 49 years,14
 Shield,Suffolk,Other equipment,Shield,35 - 49 years,2.0
 *Total Less lethal weapons,Suffolk,Less lethal weapons,Total: Less lethal weapons,35 - 49 years,95.0
 CED of which,Suffolk,,,35 - 49 years,84.0
-CED non-discharge,Suffolk,,,35 - 49 years,:
-CED discharge,Suffolk,,,35 - 49 years,:
+CED non-discharge,Suffolk,,,35 - 49 years,
+CED discharge,Suffolk,,,35 - 49 years,
 CED not stated,Suffolk,,,35 - 49 years,84.0
 "AEP, of which",Suffolk,Less lethal weapons,Total: AEP,35 - 49 years,11.0
 AEP drawn,Suffolk,,,35 - 49 years,9.0
@@ -6272,8 +6272,8 @@ Tactical communication,Surrey,Excluded: Tactical Communication,Tactical Communic
 *Total Tactics,Sussex,Total,Total: all,35 - 49 years,5975.0
 *Total Restraint,Sussex,Restraint,Total: Restraint,35 - 49 years,3293.0
 "Handcuffing, of which",Sussex,Restraint,Total: Handcuffing,35 - 49 years,2782.0
-Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,35 - 49 years,:
-Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,35 - 49 years,:
+Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,35 - 49 years,
+Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,35 - 49 years,
 Handcuffing not stated,Sussex,,,35 - 49 years,2782.0
 Limb / Body restraints,Sussex,Restraint,Limb / body restraints,35 - 49 years,194.0
 Ground restraint,Sussex,Restraint,Ground restraint,35 - 49 years,317.0
@@ -6318,8 +6318,8 @@ Ground restraint,Thames Valley,Restraint,Ground restraint,35 - 49 years,1211.0
 *Total Unarmed skills,Thames Valley,Unarmed skills,Total: unarmed skills,35 - 49 years,1787.0
 *Total Other equipment,Thames Valley,Other equipment,Total: Other equipment,35 - 49 years,336.0
 "Baton, of which",Thames Valley,Other equipment,Total: Baton,35 - 49 years,59.0
-Baton drawn,Thames Valley,Other equipment,Baton: drawn,35 - 49 years,:
-Baton used,Thames Valley,Other equipment,Baton: used,35 - 49 years,:
+Baton drawn,Thames Valley,Other equipment,Baton: drawn,35 - 49 years,
+Baton used,Thames Valley,Other equipment,Baton: used,35 - 49 years,
 Baton not stated,Thames Valley,,,35 - 49 years,59.0
 "Irritant spray, of which",Thames Valley,Other equipment,Total: Irritant spray,35 - 49 years,208.0
 Irritant spray - drawn,Thames Valley,Other equipment,Irritant spray: drawn,35 - 49 years,58.0
@@ -6339,88 +6339,88 @@ AEP not stated,Thames Valley,,,35 - 49 years,1.0
 *Total Firearms,Thames Valley,Firearms,Total: Firearms,35 - 49 years,13.0
 *Total Other,Thames Valley,Other,Total: Other,35 - 49 years,381.0
 "Dog use, of which",Thames Valley,Other,Total: Dog,35 - 49 years,15.0
-Dog deployed,Thames Valley,Other,Dog: deployed,35 - 49 years,:
-Dog bite,Thames Valley,Other,Dog: bite,35 - 49 years,:
+Dog deployed,Thames Valley,Other,Dog: deployed,35 - 49 years,
+Dog bite,Thames Valley,Other,Dog: bite,35 - 49 years,
 Dog not stated,Thames Valley,,,35 - 49 years,15.0
 Other / improvised,Thames Valley,Other,Other / improvised,35 - 49 years,366.0
 *Total Not reported,Thames Valley,Not reported,Total: Not reported,35 - 49 years,0.0
 Tactical communication,Thames Valley,Excluded: Tactical Communication,Tactical Communication,35 - 49 years,356.0
-*Total Tactics,Warwickshire,Total,Total: all,35 - 49 years,:
-*Total Restraint,Warwickshire,Restraint,Total: Restraint,35 - 49 years,:
-"Handcuffing, of which",Warwickshire,Restraint,Total: Handcuffing,35 - 49 years,:
-Compliant handcuffing,Warwickshire,Restraint,Handcuffing: compliant,35 - 49 years,:
-Non-compliant handcuffing,Warwickshire,Restraint,Handcuffing: non-compliant,35 - 49 years,:
-Handcuffing not stated,Warwickshire,,,35 - 49 years,:
-Limb / Body restraints,Warwickshire,Restraint,Limb / body restraints,35 - 49 years,:
-Ground restraint,Warwickshire,Restraint,Ground restraint,35 - 49 years,:
-*Total Unarmed skills,Warwickshire,Unarmed skills,Total: unarmed skills,35 - 49 years,:
-*Total Other equipment,Warwickshire,Other equipment,Total: Other equipment,35 - 49 years,:
-"Baton, of which",Warwickshire,Other equipment,Total: Baton,35 - 49 years,:
-Baton drawn,Warwickshire,Other equipment,Baton: drawn,35 - 49 years,:
-Baton used,Warwickshire,Other equipment,Baton: used,35 - 49 years,:
-Baton not stated,Warwickshire,,,35 - 49 years,:
-"Irritant spray, of which",Warwickshire,Other equipment,Total: Irritant spray,35 - 49 years,:
-Irritant spray - drawn,Warwickshire,Other equipment,Irritant spray: drawn,35 - 49 years,:
-Irritant spray - used,Warwickshire,Other equipment,Irritant spray: used,35 - 49 years,:
-Irritant spray not stated,Warwickshire,,,35 - 49 years,:
-Spit and bite guard,Warwickshire,Other equipment,Spit and bite guard,35 - 49 years,:
-Shield,Warwickshire,Other equipment,Shield,35 - 49 years,:
-*Total Less lethal weapons,Warwickshire,Less lethal weapons,Total: Less lethal weapons,35 - 49 years,:
-CED of which,Warwickshire,,,35 - 49 years,:
-CED non-discharge,Warwickshire,,,35 - 49 years,:
-CED discharge,Warwickshire,,,35 - 49 years,:
-CED not stated,Warwickshire,,,35 - 49 years,:
-"AEP, of which",Warwickshire,Less lethal weapons,Total: AEP,35 - 49 years,:
-AEP drawn,Warwickshire,,,35 - 49 years,:
-AEP used,Warwickshire,,,35 - 49 years,:
-AEP not stated,Warwickshire,,,35 - 49 years,:
-*Total Firearms,Warwickshire,Firearms,Total: Firearms,35 - 49 years,:
-*Total Other,Warwickshire,Other,Total: Other,35 - 49 years,:
-"Dog use, of which",Warwickshire,Other,Total: Dog,35 - 49 years,:
-Dog deployed,Warwickshire,Other,Dog: deployed,35 - 49 years,:
-Dog bite,Warwickshire,Other,Dog: bite,35 - 49 years,:
-Dog not stated,Warwickshire,,,35 - 49 years,:
-Other / improvised,Warwickshire,Other,Other / improvised,35 - 49 years,:
-*Total Not reported,Warwickshire,Not reported,Total: Not reported,35 - 49 years,:
-Tactical communication,Warwickshire,Excluded: Tactical Communication,Tactical Communication,35 - 49 years,:
-*Total Tactics,West Mercia,Total,Total: all,35 - 49 years,:
-*Total Restraint,West Mercia,Restraint,Total: Restraint,35 - 49 years,:
-"Handcuffing, of which",West Mercia,Restraint,Total: Handcuffing,35 - 49 years,:
-Compliant handcuffing,West Mercia,Restraint,Handcuffing: compliant,35 - 49 years,:
-Non-compliant handcuffing,West Mercia,Restraint,Handcuffing: non-compliant,35 - 49 years,:
-Handcuffing not stated,West Mercia,,,35 - 49 years,:
-Limb / Body restraints,West Mercia,Restraint,Limb / body restraints,35 - 49 years,:
-Ground restraint,West Mercia,Restraint,Ground restraint,35 - 49 years,:
-*Total Unarmed skills,West Mercia,Unarmed skills,Total: unarmed skills,35 - 49 years,:
-*Total Other equipment,West Mercia,Other equipment,Total: Other equipment,35 - 49 years,:
-"Baton, of which",West Mercia,Other equipment,Total: Baton,35 - 49 years,:
-Baton drawn,West Mercia,Other equipment,Baton: drawn,35 - 49 years,:
-Baton used,West Mercia,Other equipment,Baton: used,35 - 49 years,:
-Baton not stated,West Mercia,,,35 - 49 years,:
-"Irritant spray, of which",West Mercia,Other equipment,Total: Irritant spray,35 - 49 years,:
-Irritant spray - drawn,West Mercia,Other equipment,Irritant spray: drawn,35 - 49 years,:
-Irritant spray - used,West Mercia,Other equipment,Irritant spray: used,35 - 49 years,:
-Irritant spray not stated,West Mercia,,,35 - 49 years,:
-Spit and bite guard,West Mercia,Other equipment,Spit and bite guard,35 - 49 years,:
-Shield,West Mercia,Other equipment,Shield,35 - 49 years,:
-*Total Less lethal weapons,West Mercia,Less lethal weapons,Total: Less lethal weapons,35 - 49 years,:
-CED of which,West Mercia,,,35 - 49 years,:
-CED non-discharge,West Mercia,,,35 - 49 years,:
-CED discharge,West Mercia,,,35 - 49 years,:
-CED not stated,West Mercia,,,35 - 49 years,:
-"AEP, of which",West Mercia,Less lethal weapons,Total: AEP,35 - 49 years,:
-AEP drawn,West Mercia,,,35 - 49 years,:
-AEP used,West Mercia,,,35 - 49 years,:
-AEP not stated,West Mercia,,,35 - 49 years,:
-*Total Firearms,West Mercia,Firearms,Total: Firearms,35 - 49 years,:
-*Total Other,West Mercia,Other,Total: Other,35 - 49 years,:
-"Dog use, of which",West Mercia,Other,Total: Dog,35 - 49 years,:
-Dog deployed,West Mercia,Other,Dog: deployed,35 - 49 years,:
-Dog bite,West Mercia,Other,Dog: bite,35 - 49 years,:
-Dog not stated,West Mercia,,,35 - 49 years,:
-Other / improvised,West Mercia,Other,Other / improvised,35 - 49 years,:
-*Total Not reported,West Mercia,Not reported,Total: Not reported,35 - 49 years,:
-Tactical communication,West Mercia,Excluded: Tactical Communication,Tactical Communication,35 - 49 years,:
+*Total Tactics,Warwickshire,Total,Total: all,35 - 49 years,
+*Total Restraint,Warwickshire,Restraint,Total: Restraint,35 - 49 years,
+"Handcuffing, of which",Warwickshire,Restraint,Total: Handcuffing,35 - 49 years,
+Compliant handcuffing,Warwickshire,Restraint,Handcuffing: compliant,35 - 49 years,
+Non-compliant handcuffing,Warwickshire,Restraint,Handcuffing: non-compliant,35 - 49 years,
+Handcuffing not stated,Warwickshire,,,35 - 49 years,
+Limb / Body restraints,Warwickshire,Restraint,Limb / body restraints,35 - 49 years,
+Ground restraint,Warwickshire,Restraint,Ground restraint,35 - 49 years,
+*Total Unarmed skills,Warwickshire,Unarmed skills,Total: unarmed skills,35 - 49 years,
+*Total Other equipment,Warwickshire,Other equipment,Total: Other equipment,35 - 49 years,
+"Baton, of which",Warwickshire,Other equipment,Total: Baton,35 - 49 years,
+Baton drawn,Warwickshire,Other equipment,Baton: drawn,35 - 49 years,
+Baton used,Warwickshire,Other equipment,Baton: used,35 - 49 years,
+Baton not stated,Warwickshire,,,35 - 49 years,
+"Irritant spray, of which",Warwickshire,Other equipment,Total: Irritant spray,35 - 49 years,
+Irritant spray - drawn,Warwickshire,Other equipment,Irritant spray: drawn,35 - 49 years,
+Irritant spray - used,Warwickshire,Other equipment,Irritant spray: used,35 - 49 years,
+Irritant spray not stated,Warwickshire,,,35 - 49 years,
+Spit and bite guard,Warwickshire,Other equipment,Spit and bite guard,35 - 49 years,
+Shield,Warwickshire,Other equipment,Shield,35 - 49 years,
+*Total Less lethal weapons,Warwickshire,Less lethal weapons,Total: Less lethal weapons,35 - 49 years,
+CED of which,Warwickshire,,,35 - 49 years,
+CED non-discharge,Warwickshire,,,35 - 49 years,
+CED discharge,Warwickshire,,,35 - 49 years,
+CED not stated,Warwickshire,,,35 - 49 years,
+"AEP, of which",Warwickshire,Less lethal weapons,Total: AEP,35 - 49 years,
+AEP drawn,Warwickshire,,,35 - 49 years,
+AEP used,Warwickshire,,,35 - 49 years,
+AEP not stated,Warwickshire,,,35 - 49 years,
+*Total Firearms,Warwickshire,Firearms,Total: Firearms,35 - 49 years,
+*Total Other,Warwickshire,Other,Total: Other,35 - 49 years,
+"Dog use, of which",Warwickshire,Other,Total: Dog,35 - 49 years,
+Dog deployed,Warwickshire,Other,Dog: deployed,35 - 49 years,
+Dog bite,Warwickshire,Other,Dog: bite,35 - 49 years,
+Dog not stated,Warwickshire,,,35 - 49 years,
+Other / improvised,Warwickshire,Other,Other / improvised,35 - 49 years,
+*Total Not reported,Warwickshire,Not reported,Total: Not reported,35 - 49 years,
+Tactical communication,Warwickshire,Excluded: Tactical Communication,Tactical Communication,35 - 49 years,
+*Total Tactics,West Mercia,Total,Total: all,35 - 49 years,
+*Total Restraint,West Mercia,Restraint,Total: Restraint,35 - 49 years,
+"Handcuffing, of which",West Mercia,Restraint,Total: Handcuffing,35 - 49 years,
+Compliant handcuffing,West Mercia,Restraint,Handcuffing: compliant,35 - 49 years,
+Non-compliant handcuffing,West Mercia,Restraint,Handcuffing: non-compliant,35 - 49 years,
+Handcuffing not stated,West Mercia,,,35 - 49 years,
+Limb / Body restraints,West Mercia,Restraint,Limb / body restraints,35 - 49 years,
+Ground restraint,West Mercia,Restraint,Ground restraint,35 - 49 years,
+*Total Unarmed skills,West Mercia,Unarmed skills,Total: unarmed skills,35 - 49 years,
+*Total Other equipment,West Mercia,Other equipment,Total: Other equipment,35 - 49 years,
+"Baton, of which",West Mercia,Other equipment,Total: Baton,35 - 49 years,
+Baton drawn,West Mercia,Other equipment,Baton: drawn,35 - 49 years,
+Baton used,West Mercia,Other equipment,Baton: used,35 - 49 years,
+Baton not stated,West Mercia,,,35 - 49 years,
+"Irritant spray, of which",West Mercia,Other equipment,Total: Irritant spray,35 - 49 years,
+Irritant spray - drawn,West Mercia,Other equipment,Irritant spray: drawn,35 - 49 years,
+Irritant spray - used,West Mercia,Other equipment,Irritant spray: used,35 - 49 years,
+Irritant spray not stated,West Mercia,,,35 - 49 years,
+Spit and bite guard,West Mercia,Other equipment,Spit and bite guard,35 - 49 years,
+Shield,West Mercia,Other equipment,Shield,35 - 49 years,
+*Total Less lethal weapons,West Mercia,Less lethal weapons,Total: Less lethal weapons,35 - 49 years,
+CED of which,West Mercia,,,35 - 49 years,
+CED non-discharge,West Mercia,,,35 - 49 years,
+CED discharge,West Mercia,,,35 - 49 years,
+CED not stated,West Mercia,,,35 - 49 years,
+"AEP, of which",West Mercia,Less lethal weapons,Total: AEP,35 - 49 years,
+AEP drawn,West Mercia,,,35 - 49 years,
+AEP used,West Mercia,,,35 - 49 years,
+AEP not stated,West Mercia,,,35 - 49 years,
+*Total Firearms,West Mercia,Firearms,Total: Firearms,35 - 49 years,
+*Total Other,West Mercia,Other,Total: Other,35 - 49 years,
+"Dog use, of which",West Mercia,Other,Total: Dog,35 - 49 years,
+Dog deployed,West Mercia,Other,Dog: deployed,35 - 49 years,
+Dog bite,West Mercia,Other,Dog: bite,35 - 49 years,
+Dog not stated,West Mercia,,,35 - 49 years,
+Other / improvised,West Mercia,Other,Other / improvised,35 - 49 years,
+*Total Not reported,West Mercia,Not reported,Total: Not reported,35 - 49 years,
+Tactical communication,West Mercia,Excluded: Tactical Communication,Tactical Communication,35 - 49 years,
 *Total Tactics,West Midlands,Total,Total: all,35 - 49 years,4992.0
 *Total Restraint,West Midlands,Restraint,Total: Restraint,35 - 49 years,1952.0
 "Handcuffing, of which",West Midlands,Restraint,Total: Handcuffing,35 - 49 years,1150.0
@@ -6432,12 +6432,12 @@ Ground restraint,West Midlands,Restraint,Ground restraint,35 - 49 years,578.0
 *Total Unarmed skills,West Midlands,Unarmed skills,Total: unarmed skills,35 - 49 years,1640.0
 *Total Other equipment,West Midlands,Other equipment,Total: Other equipment,35 - 49 years,412.0
 "Baton, of which",West Midlands,Other equipment,Total: Baton,35 - 49 years,50.0
-Baton drawn,West Midlands,Other equipment,Baton: drawn,35 - 49 years,:
-Baton used,West Midlands,Other equipment,Baton: used,35 - 49 years,:
+Baton drawn,West Midlands,Other equipment,Baton: drawn,35 - 49 years,
+Baton used,West Midlands,Other equipment,Baton: used,35 - 49 years,
 Baton not stated,West Midlands,,,35 - 49 years,50.0
 "Irritant spray, of which",West Midlands,Other equipment,Total: Irritant spray,35 - 49 years,246.0
-Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,35 - 49 years,:
-Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,35 - 49 years,:
+Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,35 - 49 years,
+Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,35 - 49 years,
 Irritant spray not stated,West Midlands,,,35 - 49 years,246.0
 Spit and bite guard,West Midlands,Other equipment,Spit and bite guard,35 - 49 years,108.0
 Shield,West Midlands,Other equipment,Shield,35 - 49 years,8.0
@@ -6453,8 +6453,8 @@ AEP not stated,West Midlands,,,35 - 49 years,0.0
 *Total Firearms,West Midlands,Firearms,Total: Firearms,35 - 49 years,140.0
 *Total Other,West Midlands,Other,Total: Other,35 - 49 years,176.0
 "Dog use, of which",West Midlands,Other,Total: Dog,35 - 49 years,15.0
-Dog deployed,West Midlands,Other,Dog: deployed,35 - 49 years,:
-Dog bite,West Midlands,Other,Dog: bite,35 - 49 years,:
+Dog deployed,West Midlands,Other,Dog: deployed,35 - 49 years,
+Dog bite,West Midlands,Other,Dog: bite,35 - 49 years,
 Dog not stated,West Midlands,,,35 - 49 years,15.0
 Other / improvised,West Midlands,Other,Other / improvised,35 - 49 years,161.0
 *Total Not reported,West Midlands,Not reported,Total: Not reported,35 - 49 years,0.0
@@ -6538,20 +6538,20 @@ Tactical communication,Wiltshire,Excluded: Tactical Communication,Tactical Commu
 *Total Tactics,Avon & Somerset,Total,Total: all,50 - 64 years,1623.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,50 - 64 years,735.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,50 - 64 years,592.0
-Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,50 - 64 years,:
-Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,50 - 64 years,:
+Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,50 - 64 years,
+Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,50 - 64 years,
 Handcuffing not stated,Avon & Somerset,,,50 - 64 years,592.0
 Limb / Body restraints,Avon & Somerset,Restraint,Limb / body restraints,50 - 64 years,48.0
 Ground restraint,Avon & Somerset,Restraint,Ground restraint,50 - 64 years,95.0
 *Total Unarmed skills,Avon & Somerset,Unarmed skills,Total: unarmed skills,50 - 64 years,627.0
 *Total Other equipment,Avon & Somerset,Other equipment,Total: Other equipment,50 - 64 years,77.0
 "Baton, of which",Avon & Somerset,Other equipment,Total: Baton,50 - 64 years,2.0
-Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,50 - 64 years,:
-Baton used,Avon & Somerset,Other equipment,Baton: used,50 - 64 years,:
+Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,50 - 64 years,
+Baton used,Avon & Somerset,Other equipment,Baton: used,50 - 64 years,
 Baton not stated,Avon & Somerset,,,50 - 64 years,2.0
 "Irritant spray, of which",Avon & Somerset,Other equipment,Total: Irritant spray,50 - 64 years,53.0
-Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,50 - 64 years,:
-Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,50 - 64 years,:
+Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,50 - 64 years,
+Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,50 - 64 years,
 Irritant spray not stated,Avon & Somerset,,,50 - 64 years,53.0
 Spit and bite guard,Avon & Somerset,Other equipment,Spit and bite guard,50 - 64 years,22.0
 Shield,Avon & Somerset,Other equipment,Shield,50 - 64 years,0.0
@@ -6567,8 +6567,8 @@ AEP not stated,Avon & Somerset,,,50 - 64 years,0.0
 *Total Firearms,Avon & Somerset,Firearms,Total: Firearms,50 - 64 years,3.0
 *Total Other,Avon & Somerset,Other,Total: Other,50 - 64 years,94.0
 "Dog use, of which",Avon & Somerset,Other,Total: Dog,50 - 64 years,0.0
-Dog deployed,Avon & Somerset,Other,Dog: deployed,50 - 64 years,:
-Dog bite,Avon & Somerset,Other,Dog: bite,50 - 64 years,:
+Dog deployed,Avon & Somerset,Other,Dog: deployed,50 - 64 years,
+Dog bite,Avon & Somerset,Other,Dog: bite,50 - 64 years,
 Dog not stated,Avon & Somerset,,,50 - 64 years,0.0
 Other / improvised,Avon & Somerset,Other,Other / improvised,50 - 64 years,94.0
 *Total Not reported,Avon & Somerset,Not reported,Total: Not reported,50 - 64 years,11.0
@@ -6804,8 +6804,8 @@ Tactical communication,Cumbria,Excluded: Tactical Communication,Tactical Communi
 *Total Tactics,Derbyshire,Total,Total: all,50 - 64 years,475.0
 *Total Restraint,Derbyshire,Restraint,Total: Restraint,50 - 64 years,273.0
 "Handcuffing, of which",Derbyshire,Restraint,Total: Handcuffing,50 - 64 years,235.0
-Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,50 - 64 years,:
-Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,50 - 64 years,:
+Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,50 - 64 years,
+Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,50 - 64 years,
 Handcuffing not stated,Derbyshire,,,50 - 64 years,235.0
 Limb / Body restraints,Derbyshire,Restraint,Limb / body restraints,50 - 64 years,22.0
 Ground restraint,Derbyshire,Restraint,Ground restraint,50 - 64 years,16.0
@@ -7272,8 +7272,8 @@ Baton drawn,Kent,Other equipment,Baton: drawn,50 - 64 years,4.0
 Baton used,Kent,Other equipment,Baton: used,50 - 64 years,3.0
 Baton not stated,Kent,,,50 - 64 years,0.0
 "Irritant spray, of which",Kent,Other equipment,Total: Irritant spray,50 - 64 years,23.0
-Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,50 - 64 years,:
-Irritant spray - used,Kent,Other equipment,Irritant spray: used,50 - 64 years,:
+Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,50 - 64 years,
+Irritant spray - used,Kent,Other equipment,Irritant spray: used,50 - 64 years,
 Irritant spray not stated,Kent,,,50 - 64 years,23.0
 Spit and bite guard,Kent,Other equipment,Spit and bite guard,50 - 64 years,8.0
 Shield,Kent,Other equipment,Shield,50 - 64 years,5.0
@@ -7298,8 +7298,8 @@ Tactical communication,Kent,Excluded: Tactical Communication,Tactical Communicat
 *Total Tactics,Lancashire,Total,Total: all,50 - 64 years,898.0
 *Total Restraint,Lancashire,Restraint,Total: Restraint,50 - 64 years,415.0
 "Handcuffing, of which",Lancashire,Restraint,Total: Handcuffing,50 - 64 years,356.0
-Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,50 - 64 years,:
-Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,50 - 64 years,:
+Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,50 - 64 years,
+Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,50 - 64 years,
 Handcuffing not stated,Lancashire,,,50 - 64 years,356.0
 Limb / Body restraints,Lancashire,Restraint,Limb / body restraints,50 - 64 years,13.0
 Ground restraint,Lancashire,Restraint,Ground restraint,50 - 64 years,46.0
@@ -7507,8 +7507,8 @@ Spit and bite guard,Norfolk,Other equipment,Spit and bite guard,50 - 64 years,7.
 Shield,Norfolk,Other equipment,Shield,50 - 64 years,2.0
 *Total Less lethal weapons,Norfolk,Less lethal weapons,Total: Less lethal weapons,50 - 64 years,41.0
 CED of which,Norfolk,,,50 - 64 years,39.0
-CED non-discharge,Norfolk,,,50 - 64 years,:
-CED discharge,Norfolk,,,50 - 64 years,:
+CED non-discharge,Norfolk,,,50 - 64 years,
+CED discharge,Norfolk,,,50 - 64 years,
 CED not stated,Norfolk,,,50 - 64 years,39.0
 "AEP, of which",Norfolk,Less lethal weapons,Total: AEP,50 - 64 years,2.0
 AEP drawn,Norfolk,,,50 - 64 years,0.0
@@ -7792,8 +7792,8 @@ Tactical communication,South Yorkshire,Excluded: Tactical Communication,Tactical
 *Total Tactics,Staffordshire,Total,Total: all,50 - 64 years,351.0
 *Total Restraint,Staffordshire,Restraint,Total: Restraint,50 - 64 years,141.0
 "Handcuffing, of which",Staffordshire,Restraint,Total: Handcuffing,50 - 64 years,105.0
-Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,50 - 64 years,:
-Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,50 - 64 years,:
+Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,50 - 64 years,
+Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,50 - 64 years,
 Handcuffing not stated,Staffordshire,,,50 - 64 years,105.0
 Limb / Body restraints,Staffordshire,Restraint,Limb / body restraints,50 - 64 years,13.0
 Ground restraint,Staffordshire,Restraint,Ground restraint,50 - 64 years,23.0
@@ -7849,8 +7849,8 @@ Spit and bite guard,Suffolk,Other equipment,Spit and bite guard,50 - 64 years,0.
 Shield,Suffolk,Other equipment,Shield,50 - 64 years,0.0
 *Total Less lethal weapons,Suffolk,Less lethal weapons,Total: Less lethal weapons,50 - 64 years,16.0
 CED of which,Suffolk,,,50 - 64 years,15.0
-CED non-discharge,Suffolk,,,50 - 64 years,:
-CED discharge,Suffolk,,,50 - 64 years,:
+CED non-discharge,Suffolk,,,50 - 64 years,
+CED discharge,Suffolk,,,50 - 64 years,
 CED not stated,Suffolk,,,50 - 64 years,15.0
 "AEP, of which",Suffolk,Less lethal weapons,Total: AEP,50 - 64 years,1.0
 AEP drawn,Suffolk,,,50 - 64 years,1.0
@@ -7906,8 +7906,8 @@ Tactical communication,Surrey,Excluded: Tactical Communication,Tactical Communic
 *Total Tactics,Sussex,Total,Total: all,50 - 64 years,1842.0
 *Total Restraint,Sussex,Restraint,Total: Restraint,50 - 64 years,1005.0
 "Handcuffing, of which",Sussex,Restraint,Total: Handcuffing,50 - 64 years,879.0
-Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,50 - 64 years,:
-Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,50 - 64 years,:
+Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,50 - 64 years,
+Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,50 - 64 years,
 Handcuffing not stated,Sussex,,,50 - 64 years,879.0
 Limb / Body restraints,Sussex,Restraint,Limb / body restraints,50 - 64 years,45.0
 Ground restraint,Sussex,Restraint,Ground restraint,50 - 64 years,81.0
@@ -7952,8 +7952,8 @@ Ground restraint,Thames Valley,Restraint,Ground restraint,50 - 64 years,281.0
 *Total Unarmed skills,Thames Valley,Unarmed skills,Total: unarmed skills,50 - 64 years,483.0
 *Total Other equipment,Thames Valley,Other equipment,Total: Other equipment,50 - 64 years,84.0
 "Baton, of which",Thames Valley,Other equipment,Total: Baton,50 - 64 years,9.0
-Baton drawn,Thames Valley,Other equipment,Baton: drawn,50 - 64 years,:
-Baton used,Thames Valley,Other equipment,Baton: used,50 - 64 years,:
+Baton drawn,Thames Valley,Other equipment,Baton: drawn,50 - 64 years,
+Baton used,Thames Valley,Other equipment,Baton: used,50 - 64 years,
 Baton not stated,Thames Valley,,,50 - 64 years,9.0
 "Irritant spray, of which",Thames Valley,Other equipment,Total: Irritant spray,50 - 64 years,56.0
 Irritant spray - drawn,Thames Valley,Other equipment,Irritant spray: drawn,50 - 64 years,14.0
@@ -7973,88 +7973,88 @@ AEP not stated,Thames Valley,,,50 - 64 years,0.0
 *Total Firearms,Thames Valley,Firearms,Total: Firearms,50 - 64 years,1.0
 *Total Other,Thames Valley,Other,Total: Other,50 - 64 years,112.0
 "Dog use, of which",Thames Valley,Other,Total: Dog,50 - 64 years,3.0
-Dog deployed,Thames Valley,Other,Dog: deployed,50 - 64 years,:
-Dog bite,Thames Valley,Other,Dog: bite,50 - 64 years,:
+Dog deployed,Thames Valley,Other,Dog: deployed,50 - 64 years,
+Dog bite,Thames Valley,Other,Dog: bite,50 - 64 years,
 Dog not stated,Thames Valley,,,50 - 64 years,3.0
 Other / improvised,Thames Valley,Other,Other / improvised,50 - 64 years,109.0
 *Total Not reported,Thames Valley,Not reported,Total: Not reported,50 - 64 years,0.0
 Tactical communication,Thames Valley,Excluded: Tactical Communication,Tactical Communication,50 - 64 years,105.0
-*Total Tactics,Warwickshire,Total,Total: all,50 - 64 years,:
-*Total Restraint,Warwickshire,Restraint,Total: Restraint,50 - 64 years,:
-"Handcuffing, of which",Warwickshire,Restraint,Total: Handcuffing,50 - 64 years,:
-Compliant handcuffing,Warwickshire,Restraint,Handcuffing: compliant,50 - 64 years,:
-Non-compliant handcuffing,Warwickshire,Restraint,Handcuffing: non-compliant,50 - 64 years,:
-Handcuffing not stated,Warwickshire,,,50 - 64 years,:
-Limb / Body restraints,Warwickshire,Restraint,Limb / body restraints,50 - 64 years,:
-Ground restraint,Warwickshire,Restraint,Ground restraint,50 - 64 years,:
-*Total Unarmed skills,Warwickshire,Unarmed skills,Total: unarmed skills,50 - 64 years,:
-*Total Other equipment,Warwickshire,Other equipment,Total: Other equipment,50 - 64 years,:
-"Baton, of which",Warwickshire,Other equipment,Total: Baton,50 - 64 years,:
-Baton drawn,Warwickshire,Other equipment,Baton: drawn,50 - 64 years,:
-Baton used,Warwickshire,Other equipment,Baton: used,50 - 64 years,:
-Baton not stated,Warwickshire,,,50 - 64 years,:
-"Irritant spray, of which",Warwickshire,Other equipment,Total: Irritant spray,50 - 64 years,:
-Irritant spray - drawn,Warwickshire,Other equipment,Irritant spray: drawn,50 - 64 years,:
-Irritant spray - used,Warwickshire,Other equipment,Irritant spray: used,50 - 64 years,:
-Irritant spray not stated,Warwickshire,,,50 - 64 years,:
-Spit and bite guard,Warwickshire,Other equipment,Spit and bite guard,50 - 64 years,:
-Shield,Warwickshire,Other equipment,Shield,50 - 64 years,:
-*Total Less lethal weapons,Warwickshire,Less lethal weapons,Total: Less lethal weapons,50 - 64 years,:
-CED of which,Warwickshire,,,50 - 64 years,:
-CED non-discharge,Warwickshire,,,50 - 64 years,:
-CED discharge,Warwickshire,,,50 - 64 years,:
-CED not stated,Warwickshire,,,50 - 64 years,:
-"AEP, of which",Warwickshire,Less lethal weapons,Total: AEP,50 - 64 years,:
-AEP drawn,Warwickshire,,,50 - 64 years,:
-AEP used,Warwickshire,,,50 - 64 years,:
-AEP not stated,Warwickshire,,,50 - 64 years,:
-*Total Firearms,Warwickshire,Firearms,Total: Firearms,50 - 64 years,:
-*Total Other,Warwickshire,Other,Total: Other,50 - 64 years,:
-"Dog use, of which",Warwickshire,Other,Total: Dog,50 - 64 years,:
-Dog deployed,Warwickshire,Other,Dog: deployed,50 - 64 years,:
-Dog bite,Warwickshire,Other,Dog: bite,50 - 64 years,:
-Dog not stated,Warwickshire,,,50 - 64 years,:
-Other / improvised,Warwickshire,Other,Other / improvised,50 - 64 years,:
-*Total Not reported,Warwickshire,Not reported,Total: Not reported,50 - 64 years,:
-Tactical communication,Warwickshire,Excluded: Tactical Communication,Tactical Communication,50 - 64 years,:
-*Total Tactics,West Mercia,Total,Total: all,50 - 64 years,:
-*Total Restraint,West Mercia,Restraint,Total: Restraint,50 - 64 years,:
-"Handcuffing, of which",West Mercia,Restraint,Total: Handcuffing,50 - 64 years,:
-Compliant handcuffing,West Mercia,Restraint,Handcuffing: compliant,50 - 64 years,:
-Non-compliant handcuffing,West Mercia,Restraint,Handcuffing: non-compliant,50 - 64 years,:
-Handcuffing not stated,West Mercia,,,50 - 64 years,:
-Limb / Body restraints,West Mercia,Restraint,Limb / body restraints,50 - 64 years,:
-Ground restraint,West Mercia,Restraint,Ground restraint,50 - 64 years,:
-*Total Unarmed skills,West Mercia,Unarmed skills,Total: unarmed skills,50 - 64 years,:
-*Total Other equipment,West Mercia,Other equipment,Total: Other equipment,50 - 64 years,:
-"Baton, of which",West Mercia,Other equipment,Total: Baton,50 - 64 years,:
-Baton drawn,West Mercia,Other equipment,Baton: drawn,50 - 64 years,:
-Baton used,West Mercia,Other equipment,Baton: used,50 - 64 years,:
-Baton not stated,West Mercia,,,50 - 64 years,:
-"Irritant spray, of which",West Mercia,Other equipment,Total: Irritant spray,50 - 64 years,:
-Irritant spray - drawn,West Mercia,Other equipment,Irritant spray: drawn,50 - 64 years,:
-Irritant spray - used,West Mercia,Other equipment,Irritant spray: used,50 - 64 years,:
-Irritant spray not stated,West Mercia,,,50 - 64 years,:
-Spit and bite guard,West Mercia,Other equipment,Spit and bite guard,50 - 64 years,:
-Shield,West Mercia,Other equipment,Shield,50 - 64 years,:
-*Total Less lethal weapons,West Mercia,Less lethal weapons,Total: Less lethal weapons,50 - 64 years,:
-CED of which,West Mercia,,,50 - 64 years,:
-CED non-discharge,West Mercia,,,50 - 64 years,:
-CED discharge,West Mercia,,,50 - 64 years,:
-CED not stated,West Mercia,,,50 - 64 years,:
-"AEP, of which",West Mercia,Less lethal weapons,Total: AEP,50 - 64 years,:
-AEP drawn,West Mercia,,,50 - 64 years,:
-AEP used,West Mercia,,,50 - 64 years,:
-AEP not stated,West Mercia,,,50 - 64 years,:
-*Total Firearms,West Mercia,Firearms,Total: Firearms,50 - 64 years,:
-*Total Other,West Mercia,Other,Total: Other,50 - 64 years,:
-"Dog use, of which",West Mercia,Other,Total: Dog,50 - 64 years,:
-Dog deployed,West Mercia,Other,Dog: deployed,50 - 64 years,:
-Dog bite,West Mercia,Other,Dog: bite,50 - 64 years,:
-Dog not stated,West Mercia,,,50 - 64 years,:
-Other / improvised,West Mercia,Other,Other / improvised,50 - 64 years,:
-*Total Not reported,West Mercia,Not reported,Total: Not reported,50 - 64 years,:
-Tactical communication,West Mercia,Excluded: Tactical Communication,Tactical Communication,50 - 64 years,:
+*Total Tactics,Warwickshire,Total,Total: all,50 - 64 years,
+*Total Restraint,Warwickshire,Restraint,Total: Restraint,50 - 64 years,
+"Handcuffing, of which",Warwickshire,Restraint,Total: Handcuffing,50 - 64 years,
+Compliant handcuffing,Warwickshire,Restraint,Handcuffing: compliant,50 - 64 years,
+Non-compliant handcuffing,Warwickshire,Restraint,Handcuffing: non-compliant,50 - 64 years,
+Handcuffing not stated,Warwickshire,,,50 - 64 years,
+Limb / Body restraints,Warwickshire,Restraint,Limb / body restraints,50 - 64 years,
+Ground restraint,Warwickshire,Restraint,Ground restraint,50 - 64 years,
+*Total Unarmed skills,Warwickshire,Unarmed skills,Total: unarmed skills,50 - 64 years,
+*Total Other equipment,Warwickshire,Other equipment,Total: Other equipment,50 - 64 years,
+"Baton, of which",Warwickshire,Other equipment,Total: Baton,50 - 64 years,
+Baton drawn,Warwickshire,Other equipment,Baton: drawn,50 - 64 years,
+Baton used,Warwickshire,Other equipment,Baton: used,50 - 64 years,
+Baton not stated,Warwickshire,,,50 - 64 years,
+"Irritant spray, of which",Warwickshire,Other equipment,Total: Irritant spray,50 - 64 years,
+Irritant spray - drawn,Warwickshire,Other equipment,Irritant spray: drawn,50 - 64 years,
+Irritant spray - used,Warwickshire,Other equipment,Irritant spray: used,50 - 64 years,
+Irritant spray not stated,Warwickshire,,,50 - 64 years,
+Spit and bite guard,Warwickshire,Other equipment,Spit and bite guard,50 - 64 years,
+Shield,Warwickshire,Other equipment,Shield,50 - 64 years,
+*Total Less lethal weapons,Warwickshire,Less lethal weapons,Total: Less lethal weapons,50 - 64 years,
+CED of which,Warwickshire,,,50 - 64 years,
+CED non-discharge,Warwickshire,,,50 - 64 years,
+CED discharge,Warwickshire,,,50 - 64 years,
+CED not stated,Warwickshire,,,50 - 64 years,
+"AEP, of which",Warwickshire,Less lethal weapons,Total: AEP,50 - 64 years,
+AEP drawn,Warwickshire,,,50 - 64 years,
+AEP used,Warwickshire,,,50 - 64 years,
+AEP not stated,Warwickshire,,,50 - 64 years,
+*Total Firearms,Warwickshire,Firearms,Total: Firearms,50 - 64 years,
+*Total Other,Warwickshire,Other,Total: Other,50 - 64 years,
+"Dog use, of which",Warwickshire,Other,Total: Dog,50 - 64 years,
+Dog deployed,Warwickshire,Other,Dog: deployed,50 - 64 years,
+Dog bite,Warwickshire,Other,Dog: bite,50 - 64 years,
+Dog not stated,Warwickshire,,,50 - 64 years,
+Other / improvised,Warwickshire,Other,Other / improvised,50 - 64 years,
+*Total Not reported,Warwickshire,Not reported,Total: Not reported,50 - 64 years,
+Tactical communication,Warwickshire,Excluded: Tactical Communication,Tactical Communication,50 - 64 years,
+*Total Tactics,West Mercia,Total,Total: all,50 - 64 years,
+*Total Restraint,West Mercia,Restraint,Total: Restraint,50 - 64 years,
+"Handcuffing, of which",West Mercia,Restraint,Total: Handcuffing,50 - 64 years,
+Compliant handcuffing,West Mercia,Restraint,Handcuffing: compliant,50 - 64 years,
+Non-compliant handcuffing,West Mercia,Restraint,Handcuffing: non-compliant,50 - 64 years,
+Handcuffing not stated,West Mercia,,,50 - 64 years,
+Limb / Body restraints,West Mercia,Restraint,Limb / body restraints,50 - 64 years,
+Ground restraint,West Mercia,Restraint,Ground restraint,50 - 64 years,
+*Total Unarmed skills,West Mercia,Unarmed skills,Total: unarmed skills,50 - 64 years,
+*Total Other equipment,West Mercia,Other equipment,Total: Other equipment,50 - 64 years,
+"Baton, of which",West Mercia,Other equipment,Total: Baton,50 - 64 years,
+Baton drawn,West Mercia,Other equipment,Baton: drawn,50 - 64 years,
+Baton used,West Mercia,Other equipment,Baton: used,50 - 64 years,
+Baton not stated,West Mercia,,,50 - 64 years,
+"Irritant spray, of which",West Mercia,Other equipment,Total: Irritant spray,50 - 64 years,
+Irritant spray - drawn,West Mercia,Other equipment,Irritant spray: drawn,50 - 64 years,
+Irritant spray - used,West Mercia,Other equipment,Irritant spray: used,50 - 64 years,
+Irritant spray not stated,West Mercia,,,50 - 64 years,
+Spit and bite guard,West Mercia,Other equipment,Spit and bite guard,50 - 64 years,
+Shield,West Mercia,Other equipment,Shield,50 - 64 years,
+*Total Less lethal weapons,West Mercia,Less lethal weapons,Total: Less lethal weapons,50 - 64 years,
+CED of which,West Mercia,,,50 - 64 years,
+CED non-discharge,West Mercia,,,50 - 64 years,
+CED discharge,West Mercia,,,50 - 64 years,
+CED not stated,West Mercia,,,50 - 64 years,
+"AEP, of which",West Mercia,Less lethal weapons,Total: AEP,50 - 64 years,
+AEP drawn,West Mercia,,,50 - 64 years,
+AEP used,West Mercia,,,50 - 64 years,
+AEP not stated,West Mercia,,,50 - 64 years,
+*Total Firearms,West Mercia,Firearms,Total: Firearms,50 - 64 years,
+*Total Other,West Mercia,Other,Total: Other,50 - 64 years,
+"Dog use, of which",West Mercia,Other,Total: Dog,50 - 64 years,
+Dog deployed,West Mercia,Other,Dog: deployed,50 - 64 years,
+Dog bite,West Mercia,Other,Dog: bite,50 - 64 years,
+Dog not stated,West Mercia,,,50 - 64 years,
+Other / improvised,West Mercia,Other,Other / improvised,50 - 64 years,
+*Total Not reported,West Mercia,Not reported,Total: Not reported,50 - 64 years,
+Tactical communication,West Mercia,Excluded: Tactical Communication,Tactical Communication,50 - 64 years,
 *Total Tactics,West Midlands,Total,Total: all,50 - 64 years,962.0
 *Total Restraint,West Midlands,Restraint,Total: Restraint,50 - 64 years,376.0
 "Handcuffing, of which",West Midlands,Restraint,Total: Handcuffing,50 - 64 years,251.0
@@ -8066,12 +8066,12 @@ Ground restraint,West Midlands,Restraint,Ground restraint,50 - 64 years,87.0
 *Total Unarmed skills,West Midlands,Unarmed skills,Total: unarmed skills,50 - 64 years,327.0
 *Total Other equipment,West Midlands,Other equipment,Total: Other equipment,50 - 64 years,63.0
 "Baton, of which",West Midlands,Other equipment,Total: Baton,50 - 64 years,7.0
-Baton drawn,West Midlands,Other equipment,Baton: drawn,50 - 64 years,:
-Baton used,West Midlands,Other equipment,Baton: used,50 - 64 years,:
+Baton drawn,West Midlands,Other equipment,Baton: drawn,50 - 64 years,
+Baton used,West Midlands,Other equipment,Baton: used,50 - 64 years,
 Baton not stated,West Midlands,,,50 - 64 years,7.0
 "Irritant spray, of which",West Midlands,Other equipment,Total: Irritant spray,50 - 64 years,39.0
-Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,50 - 64 years,:
-Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,50 - 64 years,:
+Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,50 - 64 years,
+Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,50 - 64 years,
 Irritant spray not stated,West Midlands,,,50 - 64 years,39.0
 Spit and bite guard,West Midlands,Other equipment,Spit and bite guard,50 - 64 years,15.0
 Shield,West Midlands,Other equipment,Shield,50 - 64 years,2.0
@@ -8087,8 +8087,8 @@ AEP not stated,West Midlands,,,50 - 64 years,0.0
 *Total Firearms,West Midlands,Firearms,Total: Firearms,50 - 64 years,32.0
 *Total Other,West Midlands,Other,Total: Other,50 - 64 years,34.0
 "Dog use, of which",West Midlands,Other,Total: Dog,50 - 64 years,1.0
-Dog deployed,West Midlands,Other,Dog: deployed,50 - 64 years,:
-Dog bite,West Midlands,Other,Dog: bite,50 - 64 years,:
+Dog deployed,West Midlands,Other,Dog: deployed,50 - 64 years,
+Dog bite,West Midlands,Other,Dog: bite,50 - 64 years,
 Dog not stated,West Midlands,,,50 - 64 years,1.0
 Other / improvised,West Midlands,Other,Other / improvised,50 - 64 years,33.0
 *Total Not reported,West Midlands,Not reported,Total: Not reported,50 - 64 years,0.0
@@ -8172,20 +8172,20 @@ Tactical communication,Wiltshire,Excluded: Tactical Communication,Tactical Commu
 *Total Tactics,Avon & Somerset,Total,Total: all,65 and over,121.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,65 and over,48.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,65 and over,45.0
-Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,65 and over,:
-Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,65 and over,:
+Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,65 and over,
+Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,65 and over,
 Handcuffing not stated,Avon & Somerset,,,65 and over,45.0
 Limb / Body restraints,Avon & Somerset,Restraint,Limb / body restraints,65 and over,1.0
 Ground restraint,Avon & Somerset,Restraint,Ground restraint,65 and over,2.0
 *Total Unarmed skills,Avon & Somerset,Unarmed skills,Total: unarmed skills,65 and over,58.0
 *Total Other equipment,Avon & Somerset,Other equipment,Total: Other equipment,65 and over,1.0
 "Baton, of which",Avon & Somerset,Other equipment,Total: Baton,65 and over,0.0
-Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,65 and over,:
-Baton used,Avon & Somerset,Other equipment,Baton: used,65 and over,:
+Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,65 and over,
+Baton used,Avon & Somerset,Other equipment,Baton: used,65 and over,
 Baton not stated,Avon & Somerset,,,65 and over,0.0
 "Irritant spray, of which",Avon & Somerset,Other equipment,Total: Irritant spray,65 and over,1.0
-Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,65 and over,:
-Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,65 and over,:
+Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,65 and over,
+Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,65 and over,
 Irritant spray not stated,Avon & Somerset,,,65 and over,1.0
 Spit and bite guard,Avon & Somerset,Other equipment,Spit and bite guard,65 and over,0.0
 Shield,Avon & Somerset,Other equipment,Shield,65 and over,0.0
@@ -8201,8 +8201,8 @@ AEP not stated,Avon & Somerset,,,65 and over,0.0
 *Total Firearms,Avon & Somerset,Firearms,Total: Firearms,65 and over,1.0
 *Total Other,Avon & Somerset,Other,Total: Other,65 and over,12.0
 "Dog use, of which",Avon & Somerset,Other,Total: Dog,65 and over,0.0
-Dog deployed,Avon & Somerset,Other,Dog: deployed,65 and over,:
-Dog bite,Avon & Somerset,Other,Dog: bite,65 and over,:
+Dog deployed,Avon & Somerset,Other,Dog: deployed,65 and over,
+Dog bite,Avon & Somerset,Other,Dog: bite,65 and over,
 Dog not stated,Avon & Somerset,,,65 and over,0.0
 Other / improvised,Avon & Somerset,Other,Other / improvised,65 and over,12.0
 *Total Not reported,Avon & Somerset,Not reported,Total: Not reported,65 and over,3.0
@@ -8438,8 +8438,8 @@ Tactical communication,Cumbria,Excluded: Tactical Communication,Tactical Communi
 *Total Tactics,Derbyshire,Total,Total: all,65 and over,80.0
 *Total Restraint,Derbyshire,Restraint,Total: Restraint,65 and over,41.0
 "Handcuffing, of which",Derbyshire,Restraint,Total: Handcuffing,65 and over,38.0
-Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,65 and over,:
-Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,65 and over,:
+Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,65 and over,
+Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,65 and over,
 Handcuffing not stated,Derbyshire,,,65 and over,38.0
 Limb / Body restraints,Derbyshire,Restraint,Limb / body restraints,65 and over,2.0
 Ground restraint,Derbyshire,Restraint,Ground restraint,65 and over,1.0
@@ -8906,8 +8906,8 @@ Baton drawn,Kent,Other equipment,Baton: drawn,65 and over,0.0
 Baton used,Kent,Other equipment,Baton: used,65 and over,0.0
 Baton not stated,Kent,,,65 and over,0.0
 "Irritant spray, of which",Kent,Other equipment,Total: Irritant spray,65 and over,0.0
-Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,65 and over,:
-Irritant spray - used,Kent,Other equipment,Irritant spray: used,65 and over,:
+Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,65 and over,
+Irritant spray - used,Kent,Other equipment,Irritant spray: used,65 and over,
 Irritant spray not stated,Kent,,,65 and over,0.0
 Spit and bite guard,Kent,Other equipment,Spit and bite guard,65 and over,1.0
 Shield,Kent,Other equipment,Shield,65 and over,0.0
@@ -8932,8 +8932,8 @@ Tactical communication,Kent,Excluded: Tactical Communication,Tactical Communicat
 *Total Tactics,Lancashire,Total,Total: all,65 and over,95.0
 *Total Restraint,Lancashire,Restraint,Total: Restraint,65 and over,47.0
 "Handcuffing, of which",Lancashire,Restraint,Total: Handcuffing,65 and over,42.0
-Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,65 and over,:
-Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,65 and over,:
+Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,65 and over,
+Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,65 and over,
 Handcuffing not stated,Lancashire,,,65 and over,42.0
 Limb / Body restraints,Lancashire,Restraint,Limb / body restraints,65 and over,3.0
 Ground restraint,Lancashire,Restraint,Ground restraint,65 and over,2.0
@@ -9141,8 +9141,8 @@ Spit and bite guard,Norfolk,Other equipment,Spit and bite guard,65 and over,0.0
 Shield,Norfolk,Other equipment,Shield,65 and over,0.0
 *Total Less lethal weapons,Norfolk,Less lethal weapons,Total: Less lethal weapons,65 and over,2.0
 CED of which,Norfolk,,,65 and over,2.0
-CED non-discharge,Norfolk,,,65 and over,:
-CED discharge,Norfolk,,,65 and over,:
+CED non-discharge,Norfolk,,,65 and over,
+CED discharge,Norfolk,,,65 and over,
 CED not stated,Norfolk,,,65 and over,2.0
 "AEP, of which",Norfolk,Less lethal weapons,Total: AEP,65 and over,0.0
 AEP drawn,Norfolk,,,65 and over,0.0
@@ -9426,8 +9426,8 @@ Tactical communication,South Yorkshire,Excluded: Tactical Communication,Tactical
 *Total Tactics,Staffordshire,Total,Total: all,65 and over,20.0
 *Total Restraint,Staffordshire,Restraint,Total: Restraint,65 and over,7.0
 "Handcuffing, of which",Staffordshire,Restraint,Total: Handcuffing,65 and over,6.0
-Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,65 and over,:
-Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,65 and over,:
+Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,65 and over,
+Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,65 and over,
 Handcuffing not stated,Staffordshire,,,65 and over,6.0
 Limb / Body restraints,Staffordshire,Restraint,Limb / body restraints,65 and over,0.0
 Ground restraint,Staffordshire,Restraint,Ground restraint,65 and over,1.0
@@ -9483,8 +9483,8 @@ Spit and bite guard,Suffolk,Other equipment,Spit and bite guard,65 and over,0.0
 Shield,Suffolk,Other equipment,Shield,65 and over,0.0
 *Total Less lethal weapons,Suffolk,Less lethal weapons,Total: Less lethal weapons,65 and over,1.0
 CED of which,Suffolk,,,65 and over,1.0
-CED non-discharge,Suffolk,,,65 and over,:
-CED discharge,Suffolk,,,65 and over,:
+CED non-discharge,Suffolk,,,65 and over,
+CED discharge,Suffolk,,,65 and over,
 CED not stated,Suffolk,,,65 and over,1.0
 "AEP, of which",Suffolk,Less lethal weapons,Total: AEP,65 and over,0.0
 AEP drawn,Suffolk,,,65 and over,0.0
@@ -9540,8 +9540,8 @@ Tactical communication,Surrey,Excluded: Tactical Communication,Tactical Communic
 *Total Tactics,Sussex,Total,Total: all,65 and over,198.0
 *Total Restraint,Sussex,Restraint,Total: Restraint,65 and over,84.0
 "Handcuffing, of which",Sussex,Restraint,Total: Handcuffing,65 and over,79.0
-Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,65 and over,:
-Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,65 and over,:
+Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,65 and over,
+Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,65 and over,
 Handcuffing not stated,Sussex,,,65 and over,79.0
 Limb / Body restraints,Sussex,Restraint,Limb / body restraints,65 and over,4.0
 Ground restraint,Sussex,Restraint,Ground restraint,65 and over,1.0
@@ -9586,8 +9586,8 @@ Ground restraint,Thames Valley,Restraint,Ground restraint,65 and over,16.0
 *Total Unarmed skills,Thames Valley,Unarmed skills,Total: unarmed skills,65 and over,57.0
 *Total Other equipment,Thames Valley,Other equipment,Total: Other equipment,65 and over,6.0
 "Baton, of which",Thames Valley,Other equipment,Total: Baton,65 and over,2.0
-Baton drawn,Thames Valley,Other equipment,Baton: drawn,65 and over,:
-Baton used,Thames Valley,Other equipment,Baton: used,65 and over,:
+Baton drawn,Thames Valley,Other equipment,Baton: drawn,65 and over,
+Baton used,Thames Valley,Other equipment,Baton: used,65 and over,
 Baton not stated,Thames Valley,,,65 and over,2.0
 "Irritant spray, of which",Thames Valley,Other equipment,Total: Irritant spray,65 and over,2.0
 Irritant spray - drawn,Thames Valley,Other equipment,Irritant spray: drawn,65 and over,0.0
@@ -9607,88 +9607,88 @@ AEP not stated,Thames Valley,,,65 and over,0.0
 *Total Firearms,Thames Valley,Firearms,Total: Firearms,65 and over,0.0
 *Total Other,Thames Valley,Other,Total: Other,65 and over,13.0
 "Dog use, of which",Thames Valley,Other,Total: Dog,65 and over,0.0
-Dog deployed,Thames Valley,Other,Dog: deployed,65 and over,:
-Dog bite,Thames Valley,Other,Dog: bite,65 and over,:
+Dog deployed,Thames Valley,Other,Dog: deployed,65 and over,
+Dog bite,Thames Valley,Other,Dog: bite,65 and over,
 Dog not stated,Thames Valley,,,65 and over,0.0
 Other / improvised,Thames Valley,Other,Other / improvised,65 and over,13.0
 *Total Not reported,Thames Valley,Not reported,Total: Not reported,65 and over,0.0
 Tactical communication,Thames Valley,Excluded: Tactical Communication,Tactical Communication,65 and over,8.0
-*Total Tactics,Warwickshire,Total,Total: all,65 and over,:
-*Total Restraint,Warwickshire,Restraint,Total: Restraint,65 and over,:
-"Handcuffing, of which",Warwickshire,Restraint,Total: Handcuffing,65 and over,:
-Compliant handcuffing,Warwickshire,Restraint,Handcuffing: compliant,65 and over,:
-Non-compliant handcuffing,Warwickshire,Restraint,Handcuffing: non-compliant,65 and over,:
-Handcuffing not stated,Warwickshire,,,65 and over,:
-Limb / Body restraints,Warwickshire,Restraint,Limb / body restraints,65 and over,:
-Ground restraint,Warwickshire,Restraint,Ground restraint,65 and over,:
-*Total Unarmed skills,Warwickshire,Unarmed skills,Total: unarmed skills,65 and over,:
-*Total Other equipment,Warwickshire,Other equipment,Total: Other equipment,65 and over,:
-"Baton, of which",Warwickshire,Other equipment,Total: Baton,65 and over,:
-Baton drawn,Warwickshire,Other equipment,Baton: drawn,65 and over,:
-Baton used,Warwickshire,Other equipment,Baton: used,65 and over,:
-Baton not stated,Warwickshire,,,65 and over,:
-"Irritant spray, of which",Warwickshire,Other equipment,Total: Irritant spray,65 and over,:
-Irritant spray - drawn,Warwickshire,Other equipment,Irritant spray: drawn,65 and over,:
-Irritant spray - used,Warwickshire,Other equipment,Irritant spray: used,65 and over,:
-Irritant spray not stated,Warwickshire,,,65 and over,:
-Spit and bite guard,Warwickshire,Other equipment,Spit and bite guard,65 and over,:
-Shield,Warwickshire,Other equipment,Shield,65 and over,:
-*Total Less lethal weapons,Warwickshire,Less lethal weapons,Total: Less lethal weapons,65 and over,:
-CED of which,Warwickshire,,,65 and over,:
-CED non-discharge,Warwickshire,,,65 and over,:
-CED discharge,Warwickshire,,,65 and over,:
-CED not stated,Warwickshire,,,65 and over,:
-"AEP, of which",Warwickshire,Less lethal weapons,Total: AEP,65 and over,:
-AEP drawn,Warwickshire,,,65 and over,:
-AEP used,Warwickshire,,,65 and over,:
-AEP not stated,Warwickshire,,,65 and over,:
-*Total Firearms,Warwickshire,Firearms,Total: Firearms,65 and over,:
-*Total Other,Warwickshire,Other,Total: Other,65 and over,:
-"Dog use, of which",Warwickshire,Other,Total: Dog,65 and over,:
-Dog deployed,Warwickshire,Other,Dog: deployed,65 and over,:
-Dog bite,Warwickshire,Other,Dog: bite,65 and over,:
-Dog not stated,Warwickshire,,,65 and over,:
-Other / improvised,Warwickshire,Other,Other / improvised,65 and over,:
-*Total Not reported,Warwickshire,Not reported,Total: Not reported,65 and over,:
-Tactical communication,Warwickshire,Excluded: Tactical Communication,Tactical Communication,65 and over,:
-*Total Tactics,West Mercia,Total,Total: all,65 and over,:
-*Total Restraint,West Mercia,Restraint,Total: Restraint,65 and over,:
-"Handcuffing, of which",West Mercia,Restraint,Total: Handcuffing,65 and over,:
-Compliant handcuffing,West Mercia,Restraint,Handcuffing: compliant,65 and over,:
-Non-compliant handcuffing,West Mercia,Restraint,Handcuffing: non-compliant,65 and over,:
-Handcuffing not stated,West Mercia,,,65 and over,:
-Limb / Body restraints,West Mercia,Restraint,Limb / body restraints,65 and over,:
-Ground restraint,West Mercia,Restraint,Ground restraint,65 and over,:
-*Total Unarmed skills,West Mercia,Unarmed skills,Total: unarmed skills,65 and over,:
-*Total Other equipment,West Mercia,Other equipment,Total: Other equipment,65 and over,:
-"Baton, of which",West Mercia,Other equipment,Total: Baton,65 and over,:
-Baton drawn,West Mercia,Other equipment,Baton: drawn,65 and over,:
-Baton used,West Mercia,Other equipment,Baton: used,65 and over,:
-Baton not stated,West Mercia,,,65 and over,:
-"Irritant spray, of which",West Mercia,Other equipment,Total: Irritant spray,65 and over,:
-Irritant spray - drawn,West Mercia,Other equipment,Irritant spray: drawn,65 and over,:
-Irritant spray - used,West Mercia,Other equipment,Irritant spray: used,65 and over,:
-Irritant spray not stated,West Mercia,,,65 and over,:
-Spit and bite guard,West Mercia,Other equipment,Spit and bite guard,65 and over,:
-Shield,West Mercia,Other equipment,Shield,65 and over,:
-*Total Less lethal weapons,West Mercia,Less lethal weapons,Total: Less lethal weapons,65 and over,:
-CED of which,West Mercia,,,65 and over,:
-CED non-discharge,West Mercia,,,65 and over,:
-CED discharge,West Mercia,,,65 and over,:
-CED not stated,West Mercia,,,65 and over,:
-"AEP, of which",West Mercia,Less lethal weapons,Total: AEP,65 and over,:
-AEP drawn,West Mercia,,,65 and over,:
-AEP used,West Mercia,,,65 and over,:
-AEP not stated,West Mercia,,,65 and over,:
-*Total Firearms,West Mercia,Firearms,Total: Firearms,65 and over,:
-*Total Other,West Mercia,Other,Total: Other,65 and over,:
-"Dog use, of which",West Mercia,Other,Total: Dog,65 and over,:
-Dog deployed,West Mercia,Other,Dog: deployed,65 and over,:
-Dog bite,West Mercia,Other,Dog: bite,65 and over,:
-Dog not stated,West Mercia,,,65 and over,:
-Other / improvised,West Mercia,Other,Other / improvised,65 and over,:
-*Total Not reported,West Mercia,Not reported,Total: Not reported,65 and over,:
-Tactical communication,West Mercia,Excluded: Tactical Communication,Tactical Communication,65 and over,:
+*Total Tactics,Warwickshire,Total,Total: all,65 and over,
+*Total Restraint,Warwickshire,Restraint,Total: Restraint,65 and over,
+"Handcuffing, of which",Warwickshire,Restraint,Total: Handcuffing,65 and over,
+Compliant handcuffing,Warwickshire,Restraint,Handcuffing: compliant,65 and over,
+Non-compliant handcuffing,Warwickshire,Restraint,Handcuffing: non-compliant,65 and over,
+Handcuffing not stated,Warwickshire,,,65 and over,
+Limb / Body restraints,Warwickshire,Restraint,Limb / body restraints,65 and over,
+Ground restraint,Warwickshire,Restraint,Ground restraint,65 and over,
+*Total Unarmed skills,Warwickshire,Unarmed skills,Total: unarmed skills,65 and over,
+*Total Other equipment,Warwickshire,Other equipment,Total: Other equipment,65 and over,
+"Baton, of which",Warwickshire,Other equipment,Total: Baton,65 and over,
+Baton drawn,Warwickshire,Other equipment,Baton: drawn,65 and over,
+Baton used,Warwickshire,Other equipment,Baton: used,65 and over,
+Baton not stated,Warwickshire,,,65 and over,
+"Irritant spray, of which",Warwickshire,Other equipment,Total: Irritant spray,65 and over,
+Irritant spray - drawn,Warwickshire,Other equipment,Irritant spray: drawn,65 and over,
+Irritant spray - used,Warwickshire,Other equipment,Irritant spray: used,65 and over,
+Irritant spray not stated,Warwickshire,,,65 and over,
+Spit and bite guard,Warwickshire,Other equipment,Spit and bite guard,65 and over,
+Shield,Warwickshire,Other equipment,Shield,65 and over,
+*Total Less lethal weapons,Warwickshire,Less lethal weapons,Total: Less lethal weapons,65 and over,
+CED of which,Warwickshire,,,65 and over,
+CED non-discharge,Warwickshire,,,65 and over,
+CED discharge,Warwickshire,,,65 and over,
+CED not stated,Warwickshire,,,65 and over,
+"AEP, of which",Warwickshire,Less lethal weapons,Total: AEP,65 and over,
+AEP drawn,Warwickshire,,,65 and over,
+AEP used,Warwickshire,,,65 and over,
+AEP not stated,Warwickshire,,,65 and over,
+*Total Firearms,Warwickshire,Firearms,Total: Firearms,65 and over,
+*Total Other,Warwickshire,Other,Total: Other,65 and over,
+"Dog use, of which",Warwickshire,Other,Total: Dog,65 and over,
+Dog deployed,Warwickshire,Other,Dog: deployed,65 and over,
+Dog bite,Warwickshire,Other,Dog: bite,65 and over,
+Dog not stated,Warwickshire,,,65 and over,
+Other / improvised,Warwickshire,Other,Other / improvised,65 and over,
+*Total Not reported,Warwickshire,Not reported,Total: Not reported,65 and over,
+Tactical communication,Warwickshire,Excluded: Tactical Communication,Tactical Communication,65 and over,
+*Total Tactics,West Mercia,Total,Total: all,65 and over,
+*Total Restraint,West Mercia,Restraint,Total: Restraint,65 and over,
+"Handcuffing, of which",West Mercia,Restraint,Total: Handcuffing,65 and over,
+Compliant handcuffing,West Mercia,Restraint,Handcuffing: compliant,65 and over,
+Non-compliant handcuffing,West Mercia,Restraint,Handcuffing: non-compliant,65 and over,
+Handcuffing not stated,West Mercia,,,65 and over,
+Limb / Body restraints,West Mercia,Restraint,Limb / body restraints,65 and over,
+Ground restraint,West Mercia,Restraint,Ground restraint,65 and over,
+*Total Unarmed skills,West Mercia,Unarmed skills,Total: unarmed skills,65 and over,
+*Total Other equipment,West Mercia,Other equipment,Total: Other equipment,65 and over,
+"Baton, of which",West Mercia,Other equipment,Total: Baton,65 and over,
+Baton drawn,West Mercia,Other equipment,Baton: drawn,65 and over,
+Baton used,West Mercia,Other equipment,Baton: used,65 and over,
+Baton not stated,West Mercia,,,65 and over,
+"Irritant spray, of which",West Mercia,Other equipment,Total: Irritant spray,65 and over,
+Irritant spray - drawn,West Mercia,Other equipment,Irritant spray: drawn,65 and over,
+Irritant spray - used,West Mercia,Other equipment,Irritant spray: used,65 and over,
+Irritant spray not stated,West Mercia,,,65 and over,
+Spit and bite guard,West Mercia,Other equipment,Spit and bite guard,65 and over,
+Shield,West Mercia,Other equipment,Shield,65 and over,
+*Total Less lethal weapons,West Mercia,Less lethal weapons,Total: Less lethal weapons,65 and over,
+CED of which,West Mercia,,,65 and over,
+CED non-discharge,West Mercia,,,65 and over,
+CED discharge,West Mercia,,,65 and over,
+CED not stated,West Mercia,,,65 and over,
+"AEP, of which",West Mercia,Less lethal weapons,Total: AEP,65 and over,
+AEP drawn,West Mercia,,,65 and over,
+AEP used,West Mercia,,,65 and over,
+AEP not stated,West Mercia,,,65 and over,
+*Total Firearms,West Mercia,Firearms,Total: Firearms,65 and over,
+*Total Other,West Mercia,Other,Total: Other,65 and over,
+"Dog use, of which",West Mercia,Other,Total: Dog,65 and over,
+Dog deployed,West Mercia,Other,Dog: deployed,65 and over,
+Dog bite,West Mercia,Other,Dog: bite,65 and over,
+Dog not stated,West Mercia,,,65 and over,
+Other / improvised,West Mercia,Other,Other / improvised,65 and over,
+*Total Not reported,West Mercia,Not reported,Total: Not reported,65 and over,
+Tactical communication,West Mercia,Excluded: Tactical Communication,Tactical Communication,65 and over,
 *Total Tactics,West Midlands,Total,Total: all,65 and over,79.0
 *Total Restraint,West Midlands,Restraint,Total: Restraint,65 and over,28.0
 "Handcuffing, of which",West Midlands,Restraint,Total: Handcuffing,65 and over,21.0
@@ -9700,12 +9700,12 @@ Ground restraint,West Midlands,Restraint,Ground restraint,65 and over,2.0
 *Total Unarmed skills,West Midlands,Unarmed skills,Total: unarmed skills,65 and over,37.0
 *Total Other equipment,West Midlands,Other equipment,Total: Other equipment,65 and over,4.0
 "Baton, of which",West Midlands,Other equipment,Total: Baton,65 and over,1.0
-Baton drawn,West Midlands,Other equipment,Baton: drawn,65 and over,:
-Baton used,West Midlands,Other equipment,Baton: used,65 and over,:
+Baton drawn,West Midlands,Other equipment,Baton: drawn,65 and over,
+Baton used,West Midlands,Other equipment,Baton: used,65 and over,
 Baton not stated,West Midlands,,,65 and over,1.0
 "Irritant spray, of which",West Midlands,Other equipment,Total: Irritant spray,65 and over,3.0
-Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,65 and over,:
-Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,65 and over,:
+Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,65 and over,
+Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,65 and over,
 Irritant spray not stated,West Midlands,,,65 and over,3.0
 Spit and bite guard,West Midlands,Other equipment,Spit and bite guard,65 and over,0.0
 Shield,West Midlands,Other equipment,Shield,65 and over,0.0
@@ -9721,8 +9721,8 @@ AEP not stated,West Midlands,,,65 and over,0.0
 *Total Firearms,West Midlands,Firearms,Total: Firearms,65 and over,1.0
 *Total Other,West Midlands,Other,Total: Other,65 and over,5.0
 "Dog use, of which",West Midlands,Other,Total: Dog,65 and over,0.0
-Dog deployed,West Midlands,Other,Dog: deployed,65 and over,:
-Dog bite,West Midlands,Other,Dog: bite,65 and over,:
+Dog deployed,West Midlands,Other,Dog: deployed,65 and over,
+Dog bite,West Midlands,Other,Dog: bite,65 and over,
 Dog not stated,West Midlands,,,65 and over,0.0
 Other / improvised,West Midlands,Other,Other / improvised,65 and over,5.0
 *Total Not reported,West Midlands,Not reported,Total: Not reported,65 and over,0.0
@@ -9806,20 +9806,20 @@ Tactical communication,Wiltshire,Excluded: Tactical Communication,Tactical Commu
 *Total Tactics,Avon & Somerset,Total,Total: all,Not reported,111.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,Not reported,31.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,Not reported,26.0
-Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,Not reported,:
-Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,Not reported,:
+Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,Not reported,
+Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,Not reported,
 Handcuffing not stated,Avon & Somerset,,,Not reported,26.0
 Limb / Body restraints,Avon & Somerset,Restraint,Limb / body restraints,Not reported,1.0
 Ground restraint,Avon & Somerset,Restraint,Ground restraint,Not reported,4.0
 *Total Unarmed skills,Avon & Somerset,Unarmed skills,Total: unarmed skills,Not reported,42.0
 *Total Other equipment,Avon & Somerset,Other equipment,Total: Other equipment,Not reported,16.0
 "Baton, of which",Avon & Somerset,Other equipment,Total: Baton,Not reported,12.0
-Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,Not reported,:
-Baton used,Avon & Somerset,Other equipment,Baton: used,Not reported,:
+Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,Not reported,
+Baton used,Avon & Somerset,Other equipment,Baton: used,Not reported,
 Baton not stated,Avon & Somerset,,,Not reported,12.0
 "Irritant spray, of which",Avon & Somerset,Other equipment,Total: Irritant spray,Not reported,4.0
-Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,Not reported,:
-Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,Not reported,:
+Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,Not reported,
+Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,Not reported,
 Irritant spray not stated,Avon & Somerset,,,Not reported,4.0
 Spit and bite guard,Avon & Somerset,Other equipment,Spit and bite guard,Not reported,0.0
 Shield,Avon & Somerset,Other equipment,Shield,Not reported,0.0
@@ -9835,8 +9835,8 @@ AEP not stated,Avon & Somerset,,,Not reported,0.0
 *Total Firearms,Avon & Somerset,Firearms,Total: Firearms,Not reported,0.0
 *Total Other,Avon & Somerset,Other,Total: Other,Not reported,17.0
 "Dog use, of which",Avon & Somerset,Other,Total: Dog,Not reported,0.0
-Dog deployed,Avon & Somerset,Other,Dog: deployed,Not reported,:
-Dog bite,Avon & Somerset,Other,Dog: bite,Not reported,:
+Dog deployed,Avon & Somerset,Other,Dog: deployed,Not reported,
+Dog bite,Avon & Somerset,Other,Dog: bite,Not reported,
 Dog not stated,Avon & Somerset,,,Not reported,0.0
 Other / improvised,Avon & Somerset,Other,Other / improvised,Not reported,17.0
 *Total Not reported,Avon & Somerset,Not reported,Total: Not reported,Not reported,3.0
@@ -10072,8 +10072,8 @@ Tactical communication,Cumbria,Excluded: Tactical Communication,Tactical Communi
 *Total Tactics,Derbyshire,Total,Total: all,Not reported,244.0
 *Total Restraint,Derbyshire,Restraint,Total: Restraint,Not reported,59.0
 "Handcuffing, of which",Derbyshire,Restraint,Total: Handcuffing,Not reported,46.0
-Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,Not reported,:
-Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,Not reported,:
+Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,Not reported,
+Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,Not reported,
 Handcuffing not stated,Derbyshire,,,Not reported,46.0
 Limb / Body restraints,Derbyshire,Restraint,Limb / body restraints,Not reported,5.0
 Ground restraint,Derbyshire,Restraint,Ground restraint,Not reported,8.0
@@ -10540,8 +10540,8 @@ Baton drawn,Kent,Other equipment,Baton: drawn,Not reported,19.0
 Baton used,Kent,Other equipment,Baton: used,Not reported,9.0
 Baton not stated,Kent,,,Not reported,0.0
 "Irritant spray, of which",Kent,Other equipment,Total: Irritant spray,Not reported,48.0
-Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,Not reported,:
-Irritant spray - used,Kent,Other equipment,Irritant spray: used,Not reported,:
+Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,Not reported,
+Irritant spray - used,Kent,Other equipment,Irritant spray: used,Not reported,
 Irritant spray not stated,Kent,,,Not reported,48.0
 Spit and bite guard,Kent,Other equipment,Spit and bite guard,Not reported,28.0
 Shield,Kent,Other equipment,Shield,Not reported,7.0
@@ -10566,8 +10566,8 @@ Tactical communication,Kent,Excluded: Tactical Communication,Tactical Communicat
 *Total Tactics,Lancashire,Total,Total: all,Not reported,426.0
 *Total Restraint,Lancashire,Restraint,Total: Restraint,Not reported,44.0
 "Handcuffing, of which",Lancashire,Restraint,Total: Handcuffing,Not reported,39.0
-Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,Not reported,:
-Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,Not reported,:
+Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,Not reported,
+Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,Not reported,
 Handcuffing not stated,Lancashire,,,Not reported,39.0
 Limb / Body restraints,Lancashire,Restraint,Limb / body restraints,Not reported,1.0
 Ground restraint,Lancashire,Restraint,Ground restraint,Not reported,4.0
@@ -10775,8 +10775,8 @@ Spit and bite guard,Norfolk,Other equipment,Spit and bite guard,Not reported,2.0
 Shield,Norfolk,Other equipment,Shield,Not reported,5.0
 *Total Less lethal weapons,Norfolk,Less lethal weapons,Total: Less lethal weapons,Not reported,23.0
 CED of which,Norfolk,,,Not reported,23.0
-CED non-discharge,Norfolk,,,Not reported,:
-CED discharge,Norfolk,,,Not reported,:
+CED non-discharge,Norfolk,,,Not reported,
+CED discharge,Norfolk,,,Not reported,
 CED not stated,Norfolk,,,Not reported,23.0
 "AEP, of which",Norfolk,Less lethal weapons,Total: AEP,Not reported,0.0
 AEP drawn,Norfolk,,,Not reported,0.0
@@ -11060,8 +11060,8 @@ Tactical communication,South Yorkshire,Excluded: Tactical Communication,Tactical
 *Total Tactics,Staffordshire,Total,Total: all,Not reported,1988.0
 *Total Restraint,Staffordshire,Restraint,Total: Restraint,Not reported,752.0
 "Handcuffing, of which",Staffordshire,Restraint,Total: Handcuffing,Not reported,519.0
-Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,Not reported,:
-Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,Not reported,:
+Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,Not reported,
+Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,Not reported,
 Handcuffing not stated,Staffordshire,,,Not reported,519.0
 Limb / Body restraints,Staffordshire,Restraint,Limb / body restraints,Not reported,51.0
 Ground restraint,Staffordshire,Restraint,Ground restraint,Not reported,182.0
@@ -11117,8 +11117,8 @@ Spit and bite guard,Suffolk,Other equipment,Spit and bite guard,Not reported,2.0
 Shield,Suffolk,Other equipment,Shield,Not reported,0.0
 *Total Less lethal weapons,Suffolk,Less lethal weapons,Total: Less lethal weapons,Not reported,16.0
 CED of which,Suffolk,,,Not reported,14.0
-CED non-discharge,Suffolk,,,Not reported,:
-CED discharge,Suffolk,,,Not reported,:
+CED non-discharge,Suffolk,,,Not reported,
+CED discharge,Suffolk,,,Not reported,
 CED not stated,Suffolk,,,Not reported,14.0
 "AEP, of which",Suffolk,Less lethal weapons,Total: AEP,Not reported,2.0
 AEP drawn,Suffolk,,,Not reported,1.0
@@ -11174,8 +11174,8 @@ Tactical communication,Surrey,Excluded: Tactical Communication,Tactical Communic
 *Total Tactics,Sussex,Total,Total: all,Not reported,40.0
 *Total Restraint,Sussex,Restraint,Total: Restraint,Not reported,10.0
 "Handcuffing, of which",Sussex,Restraint,Total: Handcuffing,Not reported,8.0
-Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,Not reported,:
-Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,Not reported,:
+Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,Not reported,
+Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,Not reported,
 Handcuffing not stated,Sussex,,,Not reported,8.0
 Limb / Body restraints,Sussex,Restraint,Limb / body restraints,Not reported,1.0
 Ground restraint,Sussex,Restraint,Ground restraint,Not reported,1.0
@@ -11220,8 +11220,8 @@ Ground restraint,Thames Valley,Restraint,Ground restraint,Not reported,15.0
 *Total Unarmed skills,Thames Valley,Unarmed skills,Total: unarmed skills,Not reported,59.0
 *Total Other equipment,Thames Valley,Other equipment,Total: Other equipment,Not reported,15.0
 "Baton, of which",Thames Valley,Other equipment,Total: Baton,Not reported,10.0
-Baton drawn,Thames Valley,Other equipment,Baton: drawn,Not reported,:
-Baton used,Thames Valley,Other equipment,Baton: used,Not reported,:
+Baton drawn,Thames Valley,Other equipment,Baton: drawn,Not reported,
+Baton used,Thames Valley,Other equipment,Baton: used,Not reported,
 Baton not stated,Thames Valley,,,Not reported,10.0
 "Irritant spray, of which",Thames Valley,Other equipment,Total: Irritant spray,Not reported,4.0
 Irritant spray - drawn,Thames Valley,Other equipment,Irritant spray: drawn,Not reported,0.0
@@ -11241,8 +11241,8 @@ AEP not stated,Thames Valley,,,Not reported,0.0
 *Total Firearms,Thames Valley,Firearms,Total: Firearms,Not reported,0.0
 *Total Other,Thames Valley,Other,Total: Other,Not reported,60.0
 "Dog use, of which",Thames Valley,Other,Total: Dog,Not reported,1.0
-Dog deployed,Thames Valley,Other,Dog: deployed,Not reported,:
-Dog bite,Thames Valley,Other,Dog: bite,Not reported,:
+Dog deployed,Thames Valley,Other,Dog: deployed,Not reported,
+Dog bite,Thames Valley,Other,Dog: bite,Not reported,
 Dog not stated,Thames Valley,,,Not reported,1.0
 Other / improvised,Thames Valley,Other,Other / improvised,Not reported,59.0
 *Total Not reported,Thames Valley,Not reported,Total: Not reported,Not reported,0.0
@@ -11334,12 +11334,12 @@ Ground restraint,West Midlands,Restraint,Ground restraint,Not reported,0.0
 *Total Unarmed skills,West Midlands,Unarmed skills,Total: unarmed skills,Not reported,1.0
 *Total Other equipment,West Midlands,Other equipment,Total: Other equipment,Not reported,0.0
 "Baton, of which",West Midlands,Other equipment,Total: Baton,Not reported,0.0
-Baton drawn,West Midlands,Other equipment,Baton: drawn,Not reported,:
-Baton used,West Midlands,Other equipment,Baton: used,Not reported,:
+Baton drawn,West Midlands,Other equipment,Baton: drawn,Not reported,
+Baton used,West Midlands,Other equipment,Baton: used,Not reported,
 Baton not stated,West Midlands,,,Not reported,0.0
 "Irritant spray, of which",West Midlands,Other equipment,Total: Irritant spray,Not reported,0.0
-Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,Not reported,:
-Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,Not reported,:
+Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,Not reported,
+Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,Not reported,
 Irritant spray not stated,West Midlands,,,Not reported,0.0
 Spit and bite guard,West Midlands,Other equipment,Spit and bite guard,Not reported,0.0
 Shield,West Midlands,Other equipment,Shield,Not reported,0.0
@@ -11355,8 +11355,8 @@ AEP not stated,West Midlands,,,Not reported,0.0
 *Total Firearms,West Midlands,Firearms,Total: Firearms,Not reported,0.0
 *Total Other,West Midlands,Other,Total: Other,Not reported,0.0
 "Dog use, of which",West Midlands,Other,Total: Dog,Not reported,0.0
-Dog deployed,West Midlands,Other,Dog: deployed,Not reported,:
-Dog bite,West Midlands,Other,Dog: bite,Not reported,:
+Dog deployed,West Midlands,Other,Dog: deployed,Not reported,
+Dog bite,West Midlands,Other,Dog: bite,Not reported,
 Dog not stated,West Midlands,,,Not reported,0.0
 Other / improvised,West Midlands,Other,Other / improvised,Not reported,0.0
 *Total Not reported,West Midlands,Not reported,Total: Not reported,Not reported,0.0
