@@ -2,20 +2,20 @@ Tactic,Police Force,Force type - Output,Tactic - Output,health-condition,count
 *Total Tactics,Avon & Somerset,Total,Total: all,Mental,1815.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,Mental,830.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,Mental,598.0
-Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,Mental,:
-Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,Mental,:
+Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,Mental,
+Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,Mental,
 Handcuffing not stated,Avon & Somerset,,,Mental,598.0
 Limb / Body restraints,Avon & Somerset,Restraint,Limb / body restraints,Mental,108.0
 Ground restraint,Avon & Somerset,Restraint,Ground restraint,Mental,124.0
 *Total Unarmed skills,Avon & Somerset,Unarmed skills,Total: unarmed skills,Mental,744.0
 *Total Other equipment,Avon & Somerset,Other equipment,Total: Other equipment,Mental,62.0
 "Baton, of which",Avon & Somerset,Other equipment,Total: Baton,Mental,1.0
-Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,Mental,:
-Baton used,Avon & Somerset,Other equipment,Baton: used,Mental,:
+Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,Mental,
+Baton used,Avon & Somerset,Other equipment,Baton: used,Mental,
 Baton not stated,Avon & Somerset,,,Mental,1.0
 "Irritant spray, of which",Avon & Somerset,Other equipment,Total: Irritant spray,Mental,36.0
-Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,Mental,:
-Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,Mental,:
+Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,Mental,
+Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,Mental,
 Irritant spray not stated,Avon & Somerset,,,Mental,36.0
 Spit and bite guard,Avon & Somerset,Other equipment,Spit and bite guard,Mental,25.0
 Shield,Avon & Somerset,Other equipment,Shield,Mental,0.0
@@ -31,8 +31,8 @@ AEP not stated,Avon & Somerset,,,Mental,0.0
 *Total Firearms,Avon & Somerset,Firearms,Total: Firearms,Mental,0.0
 *Total Other,Avon & Somerset,Other,Total: Other,Mental,104.0
 "Dog use, of which",Avon & Somerset,Other,Total: Dog,Mental,0.0
-Dog deployed,Avon & Somerset,Other,Dog: deployed,Mental,:
-Dog bite,Avon & Somerset,Other,Dog: bite,Mental,:
+Dog deployed,Avon & Somerset,Other,Dog: deployed,Mental,
+Dog bite,Avon & Somerset,Other,Dog: bite,Mental,
 Dog not stated,Avon & Somerset,,,Mental,0.0
 Other / improvised,Avon & Somerset,Other,Other / improvised,Mental,104.0
 *Total Not reported,Avon & Somerset,Not reported,Total: Not reported,Mental,12.0
@@ -268,8 +268,8 @@ Tactical communication,Cumbria,Excluded: Tactical Communication,Tactical Communi
 *Total Tactics,Derbyshire,Total,Total: all,Mental,5085.0
 *Total Restraint,Derbyshire,Restraint,Total: Restraint,Mental,2694.0
 "Handcuffing, of which",Derbyshire,Restraint,Total: Handcuffing,Mental,2223.0
-Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,Mental,:
-Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,Mental,:
+Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,Mental,
+Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,Mental,
 Handcuffing not stated,Derbyshire,,,Mental,2223.0
 Limb / Body restraints,Derbyshire,Restraint,Limb / body restraints,Mental,222.0
 Ground restraint,Derbyshire,Restraint,Ground restraint,Mental,249.0
@@ -736,8 +736,8 @@ Baton drawn,Kent,Other equipment,Baton: drawn,Mental,5.0
 Baton used,Kent,Other equipment,Baton: used,Mental,0.0
 Baton not stated,Kent,,,Mental,0.0
 "Irritant spray, of which",Kent,Other equipment,Total: Irritant spray,Mental,28.0
-Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,Mental,:
-Irritant spray - used,Kent,Other equipment,Irritant spray: used,Mental,:
+Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,Mental,
+Irritant spray - used,Kent,Other equipment,Irritant spray: used,Mental,
 Irritant spray not stated,Kent,,,Mental,28.0
 Spit and bite guard,Kent,Other equipment,Spit and bite guard,Mental,19.0
 Shield,Kent,Other equipment,Shield,Mental,8.0
@@ -762,8 +762,8 @@ Tactical communication,Kent,Excluded: Tactical Communication,Tactical Communicat
 *Total Tactics,Lancashire,Total,Total: all,Mental,3919.0
 *Total Restraint,Lancashire,Restraint,Total: Restraint,Mental,1914.0
 "Handcuffing, of which",Lancashire,Restraint,Total: Handcuffing,Mental,1358.0
-Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,Mental,:
-Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,Mental,:
+Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,Mental,
+Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,Mental,
 Handcuffing not stated,Lancashire,,,Mental,1358.0
 Limb / Body restraints,Lancashire,Restraint,Limb / body restraints,Mental,152.0
 Ground restraint,Lancashire,Restraint,Ground restraint,Mental,404.0
@@ -971,8 +971,8 @@ Spit and bite guard,Norfolk,Other equipment,Spit and bite guard,Mental,10.0
 Shield,Norfolk,Other equipment,Shield,Mental,4.0
 *Total Less lethal weapons,Norfolk,Less lethal weapons,Total: Less lethal weapons,Mental,61.0
 CED of which,Norfolk,,,Mental,58.0
-CED non-discharge,Norfolk,,,Mental,:
-CED discharge,Norfolk,,,Mental,:
+CED non-discharge,Norfolk,,,Mental,
+CED discharge,Norfolk,,,Mental,
 CED not stated,Norfolk,,,Mental,58.0
 "AEP, of which",Norfolk,Less lethal weapons,Total: AEP,Mental,3.0
 AEP drawn,Norfolk,,,Mental,1.0
@@ -1256,8 +1256,8 @@ Tactical communication,South Yorkshire,Excluded: Tactical Communication,Tactical
 *Total Tactics,Staffordshire,Total,Total: all,Mental,618.0
 *Total Restraint,Staffordshire,Restraint,Total: Restraint,Mental,264.0
 "Handcuffing, of which",Staffordshire,Restraint,Total: Handcuffing,Mental,167.0
-Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,Mental,:
-Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,Mental,:
+Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,Mental,
+Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,Mental,
 Handcuffing not stated,Staffordshire,,,Mental,167.0
 Limb / Body restraints,Staffordshire,Restraint,Limb / body restraints,Mental,26.0
 Ground restraint,Staffordshire,Restraint,Ground restraint,Mental,71.0
@@ -1313,8 +1313,8 @@ Spit and bite guard,Suffolk,Other equipment,Spit and bite guard,Mental,3.0
 Shield,Suffolk,Other equipment,Shield,Mental,0.0
 *Total Less lethal weapons,Suffolk,Less lethal weapons,Total: Less lethal weapons,Mental,37.0
 CED of which,Suffolk,,,Mental,33.0
-CED non-discharge,Suffolk,,,Mental,:
-CED discharge,Suffolk,,,Mental,:
+CED non-discharge,Suffolk,,,Mental,
+CED discharge,Suffolk,,,Mental,
 CED not stated,Suffolk,,,Mental,33.0
 "AEP, of which",Suffolk,Less lethal weapons,Total: AEP,Mental,4.0
 AEP drawn,Suffolk,,,Mental,4.0
@@ -1370,8 +1370,8 @@ Tactical communication,Surrey,Excluded: Tactical Communication,Tactical Communic
 *Total Tactics,Sussex,Total,Total: all,Mental,7272.0
 *Total Restraint,Sussex,Restraint,Total: Restraint,Mental,3550.0
 "Handcuffing, of which",Sussex,Restraint,Total: Handcuffing,Mental,2749.0
-Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,Mental,:
-Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,Mental,:
+Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,Mental,
+Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,Mental,
 Handcuffing not stated,Sussex,,,Mental,2749.0
 Limb / Body restraints,Sussex,Restraint,Limb / body restraints,Mental,329.0
 Ground restraint,Sussex,Restraint,Ground restraint,Mental,472.0
@@ -1416,8 +1416,8 @@ Ground restraint,Thames Valley,Restraint,Ground restraint,Mental,414.0
 *Total Unarmed skills,Thames Valley,Unarmed skills,Total: unarmed skills,Mental,667.0
 *Total Other equipment,Thames Valley,Other equipment,Total: Other equipment,Mental,99.0
 "Baton, of which",Thames Valley,Other equipment,Total: Baton,Mental,17.0
-Baton drawn,Thames Valley,Other equipment,Baton: drawn,Mental,:
-Baton used,Thames Valley,Other equipment,Baton: used,Mental,:
+Baton drawn,Thames Valley,Other equipment,Baton: drawn,Mental,
+Baton used,Thames Valley,Other equipment,Baton: used,Mental,
 Baton not stated,Thames Valley,,,Mental,17.0
 "Irritant spray, of which",Thames Valley,Other equipment,Total: Irritant spray,Mental,40.0
 Irritant spray - drawn,Thames Valley,Other equipment,Irritant spray: drawn,Mental,14.0
@@ -1437,8 +1437,8 @@ AEP not stated,Thames Valley,,,Mental,0.0
 *Total Firearms,Thames Valley,Firearms,Total: Firearms,Mental,2.0
 *Total Other,Thames Valley,Other,Total: Other,Mental,99.0
 "Dog use, of which",Thames Valley,Other,Total: Dog,Mental,0.0
-Dog deployed,Thames Valley,Other,Dog: deployed,Mental,:
-Dog bite,Thames Valley,Other,Dog: bite,Mental,:
+Dog deployed,Thames Valley,Other,Dog: deployed,Mental,
+Dog bite,Thames Valley,Other,Dog: bite,Mental,
 Dog not stated,Thames Valley,,,Mental,0.0
 Other / improvised,Thames Valley,Other,Other / improvised,Mental,99.0
 *Total Not reported,Thames Valley,Not reported,Total: Not reported,Mental,0.0
@@ -1464,10 +1464,10 @@ Irritant spray not stated,Warwickshire,,,Mental,0.0
 Spit and bite guard,Warwickshire,Other equipment,Spit and bite guard,Mental,8.0
 Shield,Warwickshire,Other equipment,Shield,Mental,0.0
 *Total Less lethal weapons,Warwickshire,Less lethal weapons,Total: Less lethal weapons,Mental,0.0
-CED of which,Warwickshire,,,Mental,:
-CED non-discharge,Warwickshire,,,Mental,:
-CED discharge,Warwickshire,,,Mental,:
-CED not stated,Warwickshire,,,Mental,:
+CED of which,Warwickshire,,,Mental,
+CED non-discharge,Warwickshire,,,Mental,
+CED discharge,Warwickshire,,,Mental,
+CED not stated,Warwickshire,,,Mental,
 "AEP, of which",Warwickshire,Less lethal weapons,Total: AEP,Mental,0.0
 AEP drawn,Warwickshire,,,Mental,0.0
 AEP used,Warwickshire,,,Mental,0.0
@@ -1502,10 +1502,10 @@ Irritant spray not stated,West Mercia,,,Mental,0.0
 Spit and bite guard,West Mercia,Other equipment,Spit and bite guard,Mental,28.0
 Shield,West Mercia,Other equipment,Shield,Mental,12.0
 *Total Less lethal weapons,West Mercia,Less lethal weapons,Total: Less lethal weapons,Mental,1.0
-CED of which,West Mercia,,,Mental,:
-CED non-discharge,West Mercia,,,Mental,:
-CED discharge,West Mercia,,,Mental,:
-CED not stated,West Mercia,,,Mental,:
+CED of which,West Mercia,,,Mental,
+CED non-discharge,West Mercia,,,Mental,
+CED discharge,West Mercia,,,Mental,
+CED not stated,West Mercia,,,Mental,
 "AEP, of which",West Mercia,Less lethal weapons,Total: AEP,Mental,1.0
 AEP drawn,West Mercia,,,Mental,1.0
 AEP used,West Mercia,,,Mental,0.0
@@ -1530,12 +1530,12 @@ Ground restraint,West Midlands,Restraint,Ground restraint,Mental,163.0
 *Total Unarmed skills,West Midlands,Unarmed skills,Total: unarmed skills,Mental,421.0
 *Total Other equipment,West Midlands,Other equipment,Total: Other equipment,Mental,101.0
 "Baton, of which",West Midlands,Other equipment,Total: Baton,Mental,12.0
-Baton drawn,West Midlands,Other equipment,Baton: drawn,Mental,:
-Baton used,West Midlands,Other equipment,Baton: used,Mental,:
+Baton drawn,West Midlands,Other equipment,Baton: drawn,Mental,
+Baton used,West Midlands,Other equipment,Baton: used,Mental,
 Baton not stated,West Midlands,,,Mental,12.0
 "Irritant spray, of which",West Midlands,Other equipment,Total: Irritant spray,Mental,48.0
-Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,Mental,:
-Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,Mental,:
+Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,Mental,
+Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,Mental,
 Irritant spray not stated,West Midlands,,,Mental,48.0
 Spit and bite guard,West Midlands,Other equipment,Spit and bite guard,Mental,34.0
 Shield,West Midlands,Other equipment,Shield,Mental,7.0
@@ -1551,8 +1551,8 @@ AEP not stated,West Midlands,,,Mental,0.0
 *Total Firearms,West Midlands,Firearms,Total: Firearms,Mental,4.0
 *Total Other,West Midlands,Other,Total: Other,Mental,47.0
 "Dog use, of which",West Midlands,Other,Total: Dog,Mental,0.0
-Dog deployed,West Midlands,Other,Dog: deployed,Mental,:
-Dog bite,West Midlands,Other,Dog: bite,Mental,:
+Dog deployed,West Midlands,Other,Dog: deployed,Mental,
+Dog bite,West Midlands,Other,Dog: bite,Mental,
 Dog not stated,West Midlands,,,Mental,0.0
 Other / improvised,West Midlands,Other,Other / improvised,Mental,47.0
 *Total Not reported,West Midlands,Not reported,Total: Not reported,Mental,0.0
@@ -1635,20 +1635,20 @@ Other / improvised,Wiltshire,Other,Other / improvised,Mental,0.0
 *Total Tactics,Avon & Somerset,Total,Total: all,Physical,0.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,Physical,0.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,Physical,0.0
-Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,Physical,:
-Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,Physical,:
+Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,Physical,
+Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,Physical,
 Handcuffing not stated,Avon & Somerset,,,Physical,0.0
 Limb / Body restraints,Avon & Somerset,Restraint,Limb / body restraints,Physical,0.0
 Ground restraint,Avon & Somerset,Restraint,Ground restraint,Physical,0.0
 *Total Unarmed skills,Avon & Somerset,Unarmed skills,Total: unarmed skills,Physical,0.0
 *Total Other equipment,Avon & Somerset,Other equipment,Total: Other equipment,Physical,0.0
 "Baton, of which",Avon & Somerset,Other equipment,Total: Baton,Physical,0.0
-Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,Physical,:
-Baton used,Avon & Somerset,Other equipment,Baton: used,Physical,:
+Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,Physical,
+Baton used,Avon & Somerset,Other equipment,Baton: used,Physical,
 Baton not stated,Avon & Somerset,,,Physical,0.0
 "Irritant spray, of which",Avon & Somerset,Other equipment,Total: Irritant spray,Physical,0.0
-Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,Physical,:
-Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,Physical,:
+Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,Physical,
+Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,Physical,
 Irritant spray not stated,Avon & Somerset,,,Physical,0.0
 Spit and bite guard,Avon & Somerset,Other equipment,Spit and bite guard,Physical,0.0
 Shield,Avon & Somerset,Other equipment,Shield,Physical,0.0
@@ -1664,8 +1664,8 @@ AEP not stated,Avon & Somerset,,,Physical,0.0
 *Total Firearms,Avon & Somerset,Firearms,Total: Firearms,Physical,0.0
 *Total Other,Avon & Somerset,Other,Total: Other,Physical,0.0
 "Dog use, of which",Avon & Somerset,Other,Total: Dog,Physical,0.0
-Dog deployed,Avon & Somerset,Other,Dog: deployed,Physical,:
-Dog bite,Avon & Somerset,Other,Dog: bite,Physical,:
+Dog deployed,Avon & Somerset,Other,Dog: deployed,Physical,
+Dog bite,Avon & Somerset,Other,Dog: bite,Physical,
 Dog not stated,Avon & Somerset,,,Physical,0.0
 Other / improvised,Avon & Somerset,Other,Other / improvised,Physical,0.0
 *Total Not reported,Avon & Somerset,Not reported,Total: Not reported,Physical,0.0
@@ -1901,8 +1901,8 @@ Tactical communication,Cumbria,Excluded: Tactical Communication,Tactical Communi
 *Total Tactics,Derbyshire,Total,Total: all,Physical,46.0
 *Total Restraint,Derbyshire,Restraint,Total: Restraint,Physical,25.0
 "Handcuffing, of which",Derbyshire,Restraint,Total: Handcuffing,Physical,17.0
-Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,Physical,:
-Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,Physical,:
+Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,Physical,
+Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,Physical,
 Handcuffing not stated,Derbyshire,,,Physical,17.0
 Limb / Body restraints,Derbyshire,Restraint,Limb / body restraints,Physical,7.0
 Ground restraint,Derbyshire,Restraint,Ground restraint,Physical,1.0
@@ -2369,8 +2369,8 @@ Baton drawn,Kent,Other equipment,Baton: drawn,Physical,0.0
 Baton used,Kent,Other equipment,Baton: used,Physical,1.0
 Baton not stated,Kent,,,Physical,0.0
 "Irritant spray, of which",Kent,Other equipment,Total: Irritant spray,Physical,0.0
-Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,Physical,:
-Irritant spray - used,Kent,Other equipment,Irritant spray: used,Physical,:
+Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,Physical,
+Irritant spray - used,Kent,Other equipment,Irritant spray: used,Physical,
 Irritant spray not stated,Kent,,,Physical,0.0
 Spit and bite guard,Kent,Other equipment,Spit and bite guard,Physical,0.0
 Shield,Kent,Other equipment,Shield,Physical,0.0
@@ -2395,8 +2395,8 @@ Tactical communication,Kent,Excluded: Tactical Communication,Tactical Communicat
 *Total Tactics,Lancashire,Total,Total: all,Physical,93.0
 *Total Restraint,Lancashire,Restraint,Total: Restraint,Physical,40.0
 "Handcuffing, of which",Lancashire,Restraint,Total: Handcuffing,Physical,35.0
-Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,Physical,:
-Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,Physical,:
+Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,Physical,
+Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,Physical,
 Handcuffing not stated,Lancashire,,,Physical,35.0
 Limb / Body restraints,Lancashire,Restraint,Limb / body restraints,Physical,1.0
 Ground restraint,Lancashire,Restraint,Ground restraint,Physical,4.0
@@ -2604,8 +2604,8 @@ Spit and bite guard,Norfolk,Other equipment,Spit and bite guard,Physical,1.0
 Shield,Norfolk,Other equipment,Shield,Physical,0.0
 *Total Less lethal weapons,Norfolk,Less lethal weapons,Total: Less lethal weapons,Physical,1.0
 CED of which,Norfolk,,,Physical,1.0
-CED non-discharge,Norfolk,,,Physical,:
-CED discharge,Norfolk,,,Physical,:
+CED non-discharge,Norfolk,,,Physical,
+CED discharge,Norfolk,,,Physical,
 CED not stated,Norfolk,,,Physical,1.0
 "AEP, of which",Norfolk,Less lethal weapons,Total: AEP,Physical,0.0
 AEP drawn,Norfolk,,,Physical,0.0
@@ -2889,8 +2889,8 @@ Tactical communication,South Yorkshire,Excluded: Tactical Communication,Tactical
 *Total Tactics,Staffordshire,Total,Total: all,Physical,32.0
 *Total Restraint,Staffordshire,Restraint,Total: Restraint,Physical,16.0
 "Handcuffing, of which",Staffordshire,Restraint,Total: Handcuffing,Physical,9.0
-Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,Physical,:
-Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,Physical,:
+Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,Physical,
+Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,Physical,
 Handcuffing not stated,Staffordshire,,,Physical,9.0
 Limb / Body restraints,Staffordshire,Restraint,Limb / body restraints,Physical,3.0
 Ground restraint,Staffordshire,Restraint,Ground restraint,Physical,4.0
@@ -2946,8 +2946,8 @@ Spit and bite guard,Suffolk,Other equipment,Spit and bite guard,Physical,2.0
 Shield,Suffolk,Other equipment,Shield,Physical,1.0
 *Total Less lethal weapons,Suffolk,Less lethal weapons,Total: Less lethal weapons,Physical,0.0
 CED of which,Suffolk,,,Physical,0.0
-CED non-discharge,Suffolk,,,Physical,:
-CED discharge,Suffolk,,,Physical,:
+CED non-discharge,Suffolk,,,Physical,
+CED discharge,Suffolk,,,Physical,
 CED not stated,Suffolk,,,Physical,0.0
 "AEP, of which",Suffolk,Less lethal weapons,Total: AEP,Physical,0.0
 AEP drawn,Suffolk,,,Physical,0.0
@@ -3003,8 +3003,8 @@ Tactical communication,Surrey,Excluded: Tactical Communication,Tactical Communic
 *Total Tactics,Sussex,Total,Total: all,Physical,132.0
 *Total Restraint,Sussex,Restraint,Total: Restraint,Physical,79.0
 "Handcuffing, of which",Sussex,Restraint,Total: Handcuffing,Physical,74.0
-Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,Physical,:
-Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,Physical,:
+Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,Physical,
+Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,Physical,
 Handcuffing not stated,Sussex,,,Physical,74.0
 Limb / Body restraints,Sussex,Restraint,Limb / body restraints,Physical,1.0
 Ground restraint,Sussex,Restraint,Ground restraint,Physical,4.0
@@ -3049,8 +3049,8 @@ Ground restraint,Thames Valley,Restraint,Ground restraint,Physical,13.0
 *Total Unarmed skills,Thames Valley,Unarmed skills,Total: unarmed skills,Physical,30.0
 *Total Other equipment,Thames Valley,Other equipment,Total: Other equipment,Physical,2.0
 "Baton, of which",Thames Valley,Other equipment,Total: Baton,Physical,1.0
-Baton drawn,Thames Valley,Other equipment,Baton: drawn,Physical,:
-Baton used,Thames Valley,Other equipment,Baton: used,Physical,:
+Baton drawn,Thames Valley,Other equipment,Baton: drawn,Physical,
+Baton used,Thames Valley,Other equipment,Baton: used,Physical,
 Baton not stated,Thames Valley,,,Physical,1.0
 "Irritant spray, of which",Thames Valley,Other equipment,Total: Irritant spray,Physical,1.0
 Irritant spray - drawn,Thames Valley,Other equipment,Irritant spray: drawn,Physical,0.0
@@ -3070,8 +3070,8 @@ AEP not stated,Thames Valley,,,Physical,0.0
 *Total Firearms,Thames Valley,Firearms,Total: Firearms,Physical,0.0
 *Total Other,Thames Valley,Other,Total: Other,Physical,11.0
 "Dog use, of which",Thames Valley,Other,Total: Dog,Physical,1.0
-Dog deployed,Thames Valley,Other,Dog: deployed,Physical,:
-Dog bite,Thames Valley,Other,Dog: bite,Physical,:
+Dog deployed,Thames Valley,Other,Dog: deployed,Physical,
+Dog bite,Thames Valley,Other,Dog: bite,Physical,
 Dog not stated,Thames Valley,,,Physical,1.0
 Other / improvised,Thames Valley,Other,Other / improvised,Physical,10.0
 *Total Not reported,Thames Valley,Not reported,Total: Not reported,Physical,0.0
@@ -3097,10 +3097,10 @@ Irritant spray not stated,Warwickshire,,,Physical,0.0
 Spit and bite guard,Warwickshire,Other equipment,Spit and bite guard,Physical,0.0
 Shield,Warwickshire,Other equipment,Shield,Physical,0.0
 *Total Less lethal weapons,Warwickshire,Less lethal weapons,Total: Less lethal weapons,Physical,0.0
-CED of which,Warwickshire,,,Physical,:
-CED non-discharge,Warwickshire,,,Physical,:
-CED discharge,Warwickshire,,,Physical,:
-CED not stated,Warwickshire,,,Physical,:
+CED of which,Warwickshire,,,Physical,
+CED non-discharge,Warwickshire,,,Physical,
+CED discharge,Warwickshire,,,Physical,
+CED not stated,Warwickshire,,,Physical,
 "AEP, of which",Warwickshire,Less lethal weapons,Total: AEP,Physical,0.0
 AEP drawn,Warwickshire,,,Physical,0.0
 AEP used,Warwickshire,,,Physical,0.0
@@ -3135,10 +3135,10 @@ Irritant spray not stated,West Mercia,,,Physical,0.0
 Spit and bite guard,West Mercia,Other equipment,Spit and bite guard,Physical,1.0
 Shield,West Mercia,Other equipment,Shield,Physical,0.0
 *Total Less lethal weapons,West Mercia,Less lethal weapons,Total: Less lethal weapons,Physical,0.0
-CED of which,West Mercia,,,Physical,:
-CED non-discharge,West Mercia,,,Physical,:
-CED discharge,West Mercia,,,Physical,:
-CED not stated,West Mercia,,,Physical,:
+CED of which,West Mercia,,,Physical,
+CED non-discharge,West Mercia,,,Physical,
+CED discharge,West Mercia,,,Physical,
+CED not stated,West Mercia,,,Physical,
 "AEP, of which",West Mercia,Less lethal weapons,Total: AEP,Physical,0.0
 AEP drawn,West Mercia,,,Physical,0.0
 AEP used,West Mercia,,,Physical,0.0
@@ -3163,12 +3163,12 @@ Ground restraint,West Midlands,Restraint,Ground restraint,Physical,8.0
 *Total Unarmed skills,West Midlands,Unarmed skills,Total: unarmed skills,Physical,28.0
 *Total Other equipment,West Midlands,Other equipment,Total: Other equipment,Physical,6.0
 "Baton, of which",West Midlands,Other equipment,Total: Baton,Physical,0.0
-Baton drawn,West Midlands,Other equipment,Baton: drawn,Physical,:
-Baton used,West Midlands,Other equipment,Baton: used,Physical,:
+Baton drawn,West Midlands,Other equipment,Baton: drawn,Physical,
+Baton used,West Midlands,Other equipment,Baton: used,Physical,
 Baton not stated,West Midlands,,,Physical,0.0
 "Irritant spray, of which",West Midlands,Other equipment,Total: Irritant spray,Physical,4.0
-Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,Physical,:
-Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,Physical,:
+Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,Physical,
+Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,Physical,
 Irritant spray not stated,West Midlands,,,Physical,4.0
 Spit and bite guard,West Midlands,Other equipment,Spit and bite guard,Physical,1.0
 Shield,West Midlands,Other equipment,Shield,Physical,1.0
@@ -3184,8 +3184,8 @@ AEP not stated,West Midlands,,,Physical,0.0
 *Total Firearms,West Midlands,Firearms,Total: Firearms,Physical,5.0
 *Total Other,West Midlands,Other,Total: Other,Physical,5.0
 "Dog use, of which",West Midlands,Other,Total: Dog,Physical,1.0
-Dog deployed,West Midlands,Other,Dog: deployed,Physical,:
-Dog bite,West Midlands,Other,Dog: bite,Physical,:
+Dog deployed,West Midlands,Other,Dog: deployed,Physical,
+Dog bite,West Midlands,Other,Dog: bite,Physical,
 Dog not stated,West Midlands,,,Physical,1.0
 Other / improvised,West Midlands,Other,Other / improvised,Physical,4.0
 *Total Not reported,West Midlands,Not reported,Total: Not reported,Physical,0.0
@@ -3268,20 +3268,20 @@ Other / improvised,Wiltshire,Other,Other / improvised,Physical,0.0
 *Total Tactics,Avon & Somerset,Total,Total: all,Physical and mental,0.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,Physical and mental,0.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,Physical and mental,0.0
-Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,Physical and mental,:
-Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,Physical and mental,:
+Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,Physical and mental,
+Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,Physical and mental,
 Handcuffing not stated,Avon & Somerset,,,Physical and mental,0.0
 Limb / Body restraints,Avon & Somerset,Restraint,Limb / body restraints,Physical and mental,0.0
 Ground restraint,Avon & Somerset,Restraint,Ground restraint,Physical and mental,0.0
 *Total Unarmed skills,Avon & Somerset,Unarmed skills,Total: unarmed skills,Physical and mental,0.0
 *Total Other equipment,Avon & Somerset,Other equipment,Total: Other equipment,Physical and mental,0.0
 "Baton, of which",Avon & Somerset,Other equipment,Total: Baton,Physical and mental,0.0
-Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,Physical and mental,:
-Baton used,Avon & Somerset,Other equipment,Baton: used,Physical and mental,:
+Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,Physical and mental,
+Baton used,Avon & Somerset,Other equipment,Baton: used,Physical and mental,
 Baton not stated,Avon & Somerset,,,Physical and mental,0.0
 "Irritant spray, of which",Avon & Somerset,Other equipment,Total: Irritant spray,Physical and mental,0.0
-Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,Physical and mental,:
-Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,Physical and mental,:
+Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,Physical and mental,
+Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,Physical and mental,
 Irritant spray not stated,Avon & Somerset,,,Physical and mental,0.0
 Spit and bite guard,Avon & Somerset,Other equipment,Spit and bite guard,Physical and mental,0.0
 Shield,Avon & Somerset,Other equipment,Shield,Physical and mental,0.0
@@ -3297,8 +3297,8 @@ AEP not stated,Avon & Somerset,,,Physical and mental,0.0
 *Total Firearms,Avon & Somerset,Firearms,Total: Firearms,Physical and mental,0.0
 *Total Other,Avon & Somerset,Other,Total: Other,Physical and mental,0.0
 "Dog use, of which",Avon & Somerset,Other,Total: Dog,Physical and mental,0.0
-Dog deployed,Avon & Somerset,Other,Dog: deployed,Physical and mental,:
-Dog bite,Avon & Somerset,Other,Dog: bite,Physical and mental,:
+Dog deployed,Avon & Somerset,Other,Dog: deployed,Physical and mental,
+Dog bite,Avon & Somerset,Other,Dog: bite,Physical and mental,
 Dog not stated,Avon & Somerset,,,Physical and mental,0.0
 Other / improvised,Avon & Somerset,Other,Other / improvised,Physical and mental,0.0
 *Total Not reported,Avon & Somerset,Not reported,Total: Not reported,Physical and mental,0.0
@@ -3534,8 +3534,8 @@ Tactical communication,Cumbria,Excluded: Tactical Communication,Tactical Communi
 *Total Tactics,Derbyshire,Total,Total: all,Physical and mental,70.0
 *Total Restraint,Derbyshire,Restraint,Total: Restraint,Physical and mental,25.0
 "Handcuffing, of which",Derbyshire,Restraint,Total: Handcuffing,Physical and mental,18.0
-Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,Physical and mental,:
-Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,Physical and mental,:
+Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,Physical and mental,
+Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,Physical and mental,
 Handcuffing not stated,Derbyshire,,,Physical and mental,18.0
 Limb / Body restraints,Derbyshire,Restraint,Limb / body restraints,Physical and mental,4.0
 Ground restraint,Derbyshire,Restraint,Ground restraint,Physical and mental,3.0
@@ -4002,8 +4002,8 @@ Baton drawn,Kent,Other equipment,Baton: drawn,Physical and mental,0.0
 Baton used,Kent,Other equipment,Baton: used,Physical and mental,0.0
 Baton not stated,Kent,,,Physical and mental,0.0
 "Irritant spray, of which",Kent,Other equipment,Total: Irritant spray,Physical and mental,0.0
-Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,Physical and mental,:
-Irritant spray - used,Kent,Other equipment,Irritant spray: used,Physical and mental,:
+Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,Physical and mental,
+Irritant spray - used,Kent,Other equipment,Irritant spray: used,Physical and mental,
 Irritant spray not stated,Kent,,,Physical and mental,0.0
 Spit and bite guard,Kent,Other equipment,Spit and bite guard,Physical and mental,0.0
 Shield,Kent,Other equipment,Shield,Physical and mental,0.0
@@ -4028,8 +4028,8 @@ Tactical communication,Kent,Excluded: Tactical Communication,Tactical Communicat
 *Total Tactics,Lancashire,Total,Total: all,Physical and mental,64.0
 *Total Restraint,Lancashire,Restraint,Total: Restraint,Physical and mental,26.0
 "Handcuffing, of which",Lancashire,Restraint,Total: Handcuffing,Physical and mental,19.0
-Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,Physical and mental,:
-Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,Physical and mental,:
+Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,Physical and mental,
+Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,Physical and mental,
 Handcuffing not stated,Lancashire,,,Physical and mental,19.0
 Limb / Body restraints,Lancashire,Restraint,Limb / body restraints,Physical and mental,3.0
 Ground restraint,Lancashire,Restraint,Ground restraint,Physical and mental,4.0
@@ -4237,8 +4237,8 @@ Spit and bite guard,Norfolk,Other equipment,Spit and bite guard,Physical and men
 Shield,Norfolk,Other equipment,Shield,Physical and mental,0.0
 *Total Less lethal weapons,Norfolk,Less lethal weapons,Total: Less lethal weapons,Physical and mental,2.0
 CED of which,Norfolk,,,Physical and mental,2.0
-CED non-discharge,Norfolk,,,Physical and mental,:
-CED discharge,Norfolk,,,Physical and mental,:
+CED non-discharge,Norfolk,,,Physical and mental,
+CED discharge,Norfolk,,,Physical and mental,
 CED not stated,Norfolk,,,Physical and mental,2.0
 "AEP, of which",Norfolk,Less lethal weapons,Total: AEP,Physical and mental,0.0
 AEP drawn,Norfolk,,,Physical and mental,0.0
@@ -4522,8 +4522,8 @@ Tactical communication,South Yorkshire,Excluded: Tactical Communication,Tactical
 *Total Tactics,Staffordshire,Total,Total: all,Physical and mental,14.0
 *Total Restraint,Staffordshire,Restraint,Total: Restraint,Physical and mental,7.0
 "Handcuffing, of which",Staffordshire,Restraint,Total: Handcuffing,Physical and mental,5.0
-Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,Physical and mental,:
-Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,Physical and mental,:
+Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,Physical and mental,
+Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,Physical and mental,
 Handcuffing not stated,Staffordshire,,,Physical and mental,5.0
 Limb / Body restraints,Staffordshire,Restraint,Limb / body restraints,Physical and mental,0.0
 Ground restraint,Staffordshire,Restraint,Ground restraint,Physical and mental,2.0
@@ -4579,8 +4579,8 @@ Spit and bite guard,Suffolk,Other equipment,Spit and bite guard,Physical and men
 Shield,Suffolk,Other equipment,Shield,Physical and mental,0.0
 *Total Less lethal weapons,Suffolk,Less lethal weapons,Total: Less lethal weapons,Physical and mental,9.0
 CED of which,Suffolk,,,Physical and mental,9.0
-CED non-discharge,Suffolk,,,Physical and mental,:
-CED discharge,Suffolk,,,Physical and mental,:
+CED non-discharge,Suffolk,,,Physical and mental,
+CED discharge,Suffolk,,,Physical and mental,
 CED not stated,Suffolk,,,Physical and mental,9.0
 "AEP, of which",Suffolk,Less lethal weapons,Total: AEP,Physical and mental,0.0
 AEP drawn,Suffolk,,,Physical and mental,0.0
@@ -4636,8 +4636,8 @@ Tactical communication,Surrey,Excluded: Tactical Communication,Tactical Communic
 *Total Tactics,Sussex,Total,Total: all,Physical and mental,147.0
 *Total Restraint,Sussex,Restraint,Total: Restraint,Physical and mental,66.0
 "Handcuffing, of which",Sussex,Restraint,Total: Handcuffing,Physical and mental,54.0
-Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,Physical and mental,:
-Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,Physical and mental,:
+Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,Physical and mental,
+Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,Physical and mental,
 Handcuffing not stated,Sussex,,,Physical and mental,54.0
 Limb / Body restraints,Sussex,Restraint,Limb / body restraints,Physical and mental,5.0
 Ground restraint,Sussex,Restraint,Ground restraint,Physical and mental,7.0
@@ -4682,8 +4682,8 @@ Ground restraint,Thames Valley,Restraint,Ground restraint,Physical and mental,13
 *Total Unarmed skills,Thames Valley,Unarmed skills,Total: unarmed skills,Physical and mental,21.0
 *Total Other equipment,Thames Valley,Other equipment,Total: Other equipment,Physical and mental,1.0
 "Baton, of which",Thames Valley,Other equipment,Total: Baton,Physical and mental,1.0
-Baton drawn,Thames Valley,Other equipment,Baton: drawn,Physical and mental,:
-Baton used,Thames Valley,Other equipment,Baton: used,Physical and mental,:
+Baton drawn,Thames Valley,Other equipment,Baton: drawn,Physical and mental,
+Baton used,Thames Valley,Other equipment,Baton: used,Physical and mental,
 Baton not stated,Thames Valley,,,Physical and mental,1.0
 "Irritant spray, of which",Thames Valley,Other equipment,Total: Irritant spray,Physical and mental,0.0
 Irritant spray - drawn,Thames Valley,Other equipment,Irritant spray: drawn,Physical and mental,0.0
@@ -4703,8 +4703,8 @@ AEP not stated,Thames Valley,,,Physical and mental,0.0
 *Total Firearms,Thames Valley,Firearms,Total: Firearms,Physical and mental,0.0
 *Total Other,Thames Valley,Other,Total: Other,Physical and mental,9.0
 "Dog use, of which",Thames Valley,Other,Total: Dog,Physical and mental,0.0
-Dog deployed,Thames Valley,Other,Dog: deployed,Physical and mental,:
-Dog bite,Thames Valley,Other,Dog: bite,Physical and mental,:
+Dog deployed,Thames Valley,Other,Dog: deployed,Physical and mental,
+Dog bite,Thames Valley,Other,Dog: bite,Physical and mental,
 Dog not stated,Thames Valley,,,Physical and mental,0.0
 Other / improvised,Thames Valley,Other,Other / improvised,Physical and mental,9.0
 *Total Not reported,Thames Valley,Not reported,Total: Not reported,Physical and mental,0.0
@@ -4730,10 +4730,10 @@ Irritant spray not stated,Warwickshire,,,Physical and mental,0.0
 Spit and bite guard,Warwickshire,Other equipment,Spit and bite guard,Physical and mental,0.0
 Shield,Warwickshire,Other equipment,Shield,Physical and mental,0.0
 *Total Less lethal weapons,Warwickshire,Less lethal weapons,Total: Less lethal weapons,Physical and mental,0.0
-CED of which,Warwickshire,,,Physical and mental,:
-CED non-discharge,Warwickshire,,,Physical and mental,:
-CED discharge,Warwickshire,,,Physical and mental,:
-CED not stated,Warwickshire,,,Physical and mental,:
+CED of which,Warwickshire,,,Physical and mental,
+CED non-discharge,Warwickshire,,,Physical and mental,
+CED discharge,Warwickshire,,,Physical and mental,
+CED not stated,Warwickshire,,,Physical and mental,
 "AEP, of which",Warwickshire,Less lethal weapons,Total: AEP,Physical and mental,0.0
 AEP drawn,Warwickshire,,,Physical and mental,0.0
 AEP used,Warwickshire,,,Physical and mental,0.0
@@ -4768,10 +4768,10 @@ Irritant spray not stated,West Mercia,,,Physical and mental,0.0
 Spit and bite guard,West Mercia,Other equipment,Spit and bite guard,Physical and mental,0.0
 Shield,West Mercia,Other equipment,Shield,Physical and mental,0.0
 *Total Less lethal weapons,West Mercia,Less lethal weapons,Total: Less lethal weapons,Physical and mental,0.0
-CED of which,West Mercia,,,Physical and mental,:
-CED non-discharge,West Mercia,,,Physical and mental,:
-CED discharge,West Mercia,,,Physical and mental,:
-CED not stated,West Mercia,,,Physical and mental,:
+CED of which,West Mercia,,,Physical and mental,
+CED non-discharge,West Mercia,,,Physical and mental,
+CED discharge,West Mercia,,,Physical and mental,
+CED not stated,West Mercia,,,Physical and mental,
 "AEP, of which",West Mercia,Less lethal weapons,Total: AEP,Physical and mental,0.0
 AEP drawn,West Mercia,,,Physical and mental,0.0
 AEP used,West Mercia,,,Physical and mental,0.0
@@ -4796,12 +4796,12 @@ Ground restraint,West Midlands,Restraint,Ground restraint,Physical and mental,7.
 *Total Unarmed skills,West Midlands,Unarmed skills,Total: unarmed skills,Physical and mental,18.0
 *Total Other equipment,West Midlands,Other equipment,Total: Other equipment,Physical and mental,3.0
 "Baton, of which",West Midlands,Other equipment,Total: Baton,Physical and mental,0.0
-Baton drawn,West Midlands,Other equipment,Baton: drawn,Physical and mental,:
-Baton used,West Midlands,Other equipment,Baton: used,Physical and mental,:
+Baton drawn,West Midlands,Other equipment,Baton: drawn,Physical and mental,
+Baton used,West Midlands,Other equipment,Baton: used,Physical and mental,
 Baton not stated,West Midlands,,,Physical and mental,0.0
 "Irritant spray, of which",West Midlands,Other equipment,Total: Irritant spray,Physical and mental,1.0
-Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,Physical and mental,:
-Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,Physical and mental,:
+Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,Physical and mental,
+Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,Physical and mental,
 Irritant spray not stated,West Midlands,,,Physical and mental,1.0
 Spit and bite guard,West Midlands,Other equipment,Spit and bite guard,Physical and mental,2.0
 Shield,West Midlands,Other equipment,Shield,Physical and mental,0.0
@@ -4817,8 +4817,8 @@ AEP not stated,West Midlands,,,Physical and mental,0.0
 *Total Firearms,West Midlands,Firearms,Total: Firearms,Physical and mental,0.0
 *Total Other,West Midlands,Other,Total: Other,Physical and mental,1.0
 "Dog use, of which",West Midlands,Other,Total: Dog,Physical and mental,0.0
-Dog deployed,West Midlands,Other,Dog: deployed,Physical and mental,:
-Dog bite,West Midlands,Other,Dog: bite,Physical and mental,:
+Dog deployed,West Midlands,Other,Dog: deployed,Physical and mental,
+Dog bite,West Midlands,Other,Dog: bite,Physical and mental,
 Dog not stated,West Midlands,,,Physical and mental,0.0
 Other / improvised,West Midlands,Other,Other / improvised,Physical and mental,1.0
 *Total Not reported,West Midlands,Not reported,Total: Not reported,Physical and mental,0.0
@@ -4901,20 +4901,20 @@ Other / improvised,Wiltshire,Other,Other / improvised,Physical and mental,0.0
 *Total Tactics,Avon & Somerset,Total,Total: all,None,19278.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,None,9097.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,None,7082.0
-Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,None,:
-Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,None,:
+Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,None,
+Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,None,
 Handcuffing not stated,Avon & Somerset,,,None,7082.0
 Limb / Body restraints,Avon & Somerset,Restraint,Limb / body restraints,None,762.0
 Ground restraint,Avon & Somerset,Restraint,Ground restraint,None,1253.0
 *Total Unarmed skills,Avon & Somerset,Unarmed skills,Total: unarmed skills,None,7326.0
 *Total Other equipment,Avon & Somerset,Other equipment,Total: Other equipment,None,864.0
 "Baton, of which",Avon & Somerset,Other equipment,Total: Baton,None,58.0
-Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,None,:
-Baton used,Avon & Somerset,Other equipment,Baton: used,None,:
+Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,None,
+Baton used,Avon & Somerset,Other equipment,Baton: used,None,
 Baton not stated,Avon & Somerset,,,None,58.0
 "Irritant spray, of which",Avon & Somerset,Other equipment,Total: Irritant spray,None,572.0
-Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,None,:
-Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,None,:
+Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,None,
+Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,None,
 Irritant spray not stated,Avon & Somerset,,,None,572.0
 Spit and bite guard,Avon & Somerset,Other equipment,Spit and bite guard,None,234.0
 Shield,Avon & Somerset,Other equipment,Shield,None,0.0
@@ -4930,8 +4930,8 @@ AEP not stated,Avon & Somerset,,,None,0.0
 *Total Firearms,Avon & Somerset,Firearms,Total: Firearms,None,22.0
 *Total Other,Avon & Somerset,Other,Total: Other,None,966.0
 "Dog use, of which",Avon & Somerset,Other,Total: Dog,None,14.0
-Dog deployed,Avon & Somerset,Other,Dog: deployed,None,:
-Dog bite,Avon & Somerset,Other,Dog: bite,None,:
+Dog deployed,Avon & Somerset,Other,Dog: deployed,None,
+Dog bite,Avon & Somerset,Other,Dog: bite,None,
 Dog not stated,Avon & Somerset,,,None,14.0
 Other / improvised,Avon & Somerset,Other,Other / improvised,None,952.0
 *Total Not reported,Avon & Somerset,Not reported,Total: Not reported,None,149.0
@@ -5167,8 +5167,8 @@ Tactical communication,Cumbria,Excluded: Tactical Communication,Tactical Communi
 *Total Tactics,Derbyshire,Total,Total: all,None,2755.0
 *Total Restraint,Derbyshire,Restraint,Total: Restraint,None,1391.0
 "Handcuffing, of which",Derbyshire,Restraint,Total: Handcuffing,None,1046.0
-Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,None,:
-Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,None,:
+Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,None,
+Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,None,
 Handcuffing not stated,Derbyshire,,,None,1046.0
 Limb / Body restraints,Derbyshire,Restraint,Limb / body restraints,None,172.0
 Ground restraint,Derbyshire,Restraint,Ground restraint,None,173.0
@@ -5635,8 +5635,8 @@ Baton drawn,Kent,Other equipment,Baton: drawn,None,82.0
 Baton used,Kent,Other equipment,Baton: used,None,40.0
 Baton not stated,Kent,,,None,0.0
 "Irritant spray, of which",Kent,Other equipment,Total: Irritant spray,None,383.0
-Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,None,:
-Irritant spray - used,Kent,Other equipment,Irritant spray: used,None,:
+Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,None,
+Irritant spray - used,Kent,Other equipment,Irritant spray: used,None,
 Irritant spray not stated,Kent,,,None,383.0
 Spit and bite guard,Kent,Other equipment,Spit and bite guard,None,197.0
 Shield,Kent,Other equipment,Shield,None,27.0
@@ -5661,8 +5661,8 @@ Tactical communication,Kent,Excluded: Tactical Communication,Tactical Communicat
 *Total Tactics,Lancashire,Total,Total: all,None,9005.0
 *Total Restraint,Lancashire,Restraint,Total: Restraint,None,4277.0
 "Handcuffing, of which",Lancashire,Restraint,Total: Handcuffing,None,3686.0
-Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,None,:
-Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,None,:
+Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,None,
+Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,None,
 Handcuffing not stated,Lancashire,,,None,3686.0
 Limb / Body restraints,Lancashire,Restraint,Limb / body restraints,None,139.0
 Ground restraint,Lancashire,Restraint,Ground restraint,None,452.0
@@ -5870,8 +5870,8 @@ Spit and bite guard,Norfolk,Other equipment,Spit and bite guard,None,76.0
 Shield,Norfolk,Other equipment,Shield,None,13.0
 *Total Less lethal weapons,Norfolk,Less lethal weapons,Total: Less lethal weapons,None,549.0
 CED of which,Norfolk,,,None,527.0
-CED non-discharge,Norfolk,,,None,:
-CED discharge,Norfolk,,,None,:
+CED non-discharge,Norfolk,,,None,
+CED discharge,Norfolk,,,None,
 CED not stated,Norfolk,,,None,527.0
 "AEP, of which",Norfolk,Less lethal weapons,Total: AEP,None,22.0
 AEP drawn,Norfolk,,,None,22.0
@@ -6155,8 +6155,8 @@ Tactical communication,South Yorkshire,Excluded: Tactical Communication,Tactical
 *Total Tactics,Staffordshire,Total,Total: all,None,6319.0
 *Total Restraint,Staffordshire,Restraint,Total: Restraint,None,2724.0
 "Handcuffing, of which",Staffordshire,Restraint,Total: Handcuffing,None,1841.0
-Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,None,:
-Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,None,:
+Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,None,
+Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,None,
 Handcuffing not stated,Staffordshire,,,None,1841.0
 Limb / Body restraints,Staffordshire,Restraint,Limb / body restraints,None,169.0
 Ground restraint,Staffordshire,Restraint,Ground restraint,None,714.0
@@ -6212,8 +6212,8 @@ Spit and bite guard,Suffolk,Other equipment,Spit and bite guard,None,61.0
 Shield,Suffolk,Other equipment,Shield,None,5.0
 *Total Less lethal weapons,Suffolk,Less lethal weapons,Total: Less lethal weapons,None,343.0
 CED of which,Suffolk,,,None,321.0
-CED non-discharge,Suffolk,,,None,:
-CED discharge,Suffolk,,,None,:
+CED non-discharge,Suffolk,,,None,
+CED discharge,Suffolk,,,None,
 CED not stated,Suffolk,,,None,321.0
 "AEP, of which",Suffolk,Less lethal weapons,Total: AEP,None,22.0
 AEP drawn,Suffolk,,,None,18.0
@@ -6269,8 +6269,8 @@ Tactical communication,Surrey,Excluded: Tactical Communication,Tactical Communic
 *Total Tactics,Sussex,Total,Total: all,None,16539.0
 *Total Restraint,Sussex,Restraint,Total: Restraint,None,9246.0
 "Handcuffing, of which",Sussex,Restraint,Total: Handcuffing,None,7985.0
-Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,None,:
-Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,None,:
+Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,None,
+Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,None,
 Handcuffing not stated,Sussex,,,None,7985.0
 Limb / Body restraints,Sussex,Restraint,Limb / body restraints,None,443.0
 Ground restraint,Sussex,Restraint,Ground restraint,None,818.0
@@ -6315,8 +6315,8 @@ Ground restraint,Thames Valley,Restraint,Ground restraint,None,4657.0
 *Total Unarmed skills,Thames Valley,Unarmed skills,Total: unarmed skills,None,6656.0
 *Total Other equipment,Thames Valley,Other equipment,Total: Other equipment,None,1268.0
 "Baton, of which",Thames Valley,Other equipment,Total: Baton,None,243.0
-Baton drawn,Thames Valley,Other equipment,Baton: drawn,None,:
-Baton used,Thames Valley,Other equipment,Baton: used,None,:
+Baton drawn,Thames Valley,Other equipment,Baton: drawn,None,
+Baton used,Thames Valley,Other equipment,Baton: used,None,
 Baton not stated,Thames Valley,,,None,243.0
 "Irritant spray, of which",Thames Valley,Other equipment,Total: Irritant spray,None,749.0
 Irritant spray - drawn,Thames Valley,Other equipment,Irritant spray: drawn,None,201.0
@@ -6336,8 +6336,8 @@ AEP not stated,Thames Valley,,,None,2.0
 *Total Firearms,Thames Valley,Firearms,Total: Firearms,None,35.0
 *Total Other,Thames Valley,Other,Total: Other,None,1479.0
 "Dog use, of which",Thames Valley,Other,Total: Dog,None,78.0
-Dog deployed,Thames Valley,Other,Dog: deployed,None,:
-Dog bite,Thames Valley,Other,Dog: bite,None,:
+Dog deployed,Thames Valley,Other,Dog: deployed,None,
+Dog bite,Thames Valley,Other,Dog: bite,None,
 Dog not stated,Thames Valley,,,None,78.0
 Other / improvised,Thames Valley,Other,Other / improvised,None,1401.0
 *Total Not reported,Thames Valley,Not reported,Total: Not reported,None,0.0
@@ -6363,10 +6363,10 @@ Irritant spray not stated,Warwickshire,,,None,0.0
 Spit and bite guard,Warwickshire,Other equipment,Spit and bite guard,None,0.0
 Shield,Warwickshire,Other equipment,Shield,None,0.0
 *Total Less lethal weapons,Warwickshire,Less lethal weapons,Total: Less lethal weapons,None,0.0
-CED of which,Warwickshire,,,None,:
-CED non-discharge,Warwickshire,,,None,:
-CED discharge,Warwickshire,,,None,:
-CED not stated,Warwickshire,,,None,:
+CED of which,Warwickshire,,,None,
+CED non-discharge,Warwickshire,,,None,
+CED discharge,Warwickshire,,,None,
+CED not stated,Warwickshire,,,None,
 "AEP, of which",Warwickshire,Less lethal weapons,Total: AEP,None,0.0
 AEP drawn,Warwickshire,,,None,0.0
 AEP used,Warwickshire,,,None,0.0
@@ -6401,10 +6401,10 @@ Irritant spray not stated,West Mercia,,,None,0.0
 Spit and bite guard,West Mercia,Other equipment,Spit and bite guard,None,0.0
 Shield,West Mercia,Other equipment,Shield,None,0.0
 *Total Less lethal weapons,West Mercia,Less lethal weapons,Total: Less lethal weapons,None,0.0
-CED of which,West Mercia,,,None,:
-CED non-discharge,West Mercia,,,None,:
-CED discharge,West Mercia,,,None,:
-CED not stated,West Mercia,,,None,:
+CED of which,West Mercia,,,None,
+CED non-discharge,West Mercia,,,None,
+CED discharge,West Mercia,,,None,
+CED not stated,West Mercia,,,None,
 "AEP, of which",West Mercia,Less lethal weapons,Total: AEP,None,0.0
 AEP drawn,West Mercia,,,None,0.0
 AEP used,West Mercia,,,None,0.0
@@ -6429,12 +6429,12 @@ Ground restraint,West Midlands,Restraint,Ground restraint,None,1990.0
 *Total Unarmed skills,West Midlands,Unarmed skills,Total: unarmed skills,None,5528.0
 *Total Other equipment,West Midlands,Other equipment,Total: Other equipment,None,1471.0
 "Baton, of which",West Midlands,Other equipment,Total: Baton,None,237.0
-Baton drawn,West Midlands,Other equipment,Baton: drawn,None,:
-Baton used,West Midlands,Other equipment,Baton: used,None,:
+Baton drawn,West Midlands,Other equipment,Baton: drawn,None,
+Baton used,West Midlands,Other equipment,Baton: used,None,
 Baton not stated,West Midlands,,,None,237.0
 "Irritant spray, of which",West Midlands,Other equipment,Total: Irritant spray,None,910.0
-Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,None,:
-Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,None,:
+Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,None,
+Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,None,
 Irritant spray not stated,West Midlands,,,None,910.0
 Spit and bite guard,West Midlands,Other equipment,Spit and bite guard,None,306.0
 Shield,West Midlands,Other equipment,Shield,None,18.0
@@ -6450,8 +6450,8 @@ AEP not stated,West Midlands,,,None,0.0
 *Total Firearms,West Midlands,Firearms,Total: Firearms,None,592.0
 *Total Other,West Midlands,Other,Total: Other,None,596.0
 "Dog use, of which",West Midlands,Other,Total: Dog,None,91.0
-Dog deployed,West Midlands,Other,Dog: deployed,None,:
-Dog bite,West Midlands,Other,Dog: bite,None,:
+Dog deployed,West Midlands,Other,Dog: deployed,None,
+Dog bite,West Midlands,Other,Dog: bite,None,
 Dog not stated,West Midlands,,,None,91.0
 Other / improvised,West Midlands,Other,Other / improvised,None,505.0
 *Total Not reported,West Midlands,Not reported,Total: Not reported,None,0.0
@@ -6534,20 +6534,20 @@ Other / improvised,Wiltshire,Other,Other / improvised,None,0.0
 *Total Tactics,Avon & Somerset,Total,Total: all,Not reported,0.0
 *Total Restraint,Avon & Somerset,Restraint,Total: Restraint,Not reported,0.0
 "Handcuffing, of which",Avon & Somerset,Restraint,Total: Handcuffing,Not reported,0.0
-Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,Not reported,:
-Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,Not reported,:
+Compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: compliant,Not reported,
+Non-compliant handcuffing,Avon & Somerset,Restraint,Handcuffing: non-compliant,Not reported,
 Handcuffing not stated,Avon & Somerset,,,Not reported,0.0
 Limb / Body restraints,Avon & Somerset,Restraint,Limb / body restraints,Not reported,0.0
 Ground restraint,Avon & Somerset,Restraint,Ground restraint,Not reported,0.0
 *Total Unarmed skills,Avon & Somerset,Unarmed skills,Total: unarmed skills,Not reported,0.0
 *Total Other equipment,Avon & Somerset,Other equipment,Total: Other equipment,Not reported,0.0
 "Baton, of which",Avon & Somerset,Other equipment,Total: Baton,Not reported,0.0
-Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,Not reported,:
-Baton used,Avon & Somerset,Other equipment,Baton: used,Not reported,:
+Baton drawn,Avon & Somerset,Other equipment,Baton: drawn,Not reported,
+Baton used,Avon & Somerset,Other equipment,Baton: used,Not reported,
 Baton not stated,Avon & Somerset,,,Not reported,0.0
 "Irritant spray, of which",Avon & Somerset,Other equipment,Total: Irritant spray,Not reported,0.0
-Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,Not reported,:
-Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,Not reported,:
+Irritant spray - drawn,Avon & Somerset,Other equipment,Irritant spray: drawn,Not reported,
+Irritant spray - used,Avon & Somerset,Other equipment,Irritant spray: used,Not reported,
 Irritant spray not stated,Avon & Somerset,,,Not reported,0.0
 Spit and bite guard,Avon & Somerset,Other equipment,Spit and bite guard,Not reported,0.0
 Shield,Avon & Somerset,Other equipment,Shield,Not reported,0.0
@@ -6563,8 +6563,8 @@ AEP not stated,Avon & Somerset,,,Not reported,0.0
 *Total Firearms,Avon & Somerset,Firearms,Total: Firearms,Not reported,0.0
 *Total Other,Avon & Somerset,Other,Total: Other,Not reported,0.0
 "Dog use, of which",Avon & Somerset,Other,Total: Dog,Not reported,0.0
-Dog deployed,Avon & Somerset,Other,Dog: deployed,Not reported,:
-Dog bite,Avon & Somerset,Other,Dog: bite,Not reported,:
+Dog deployed,Avon & Somerset,Other,Dog: deployed,Not reported,
+Dog bite,Avon & Somerset,Other,Dog: bite,Not reported,
 Dog not stated,Avon & Somerset,,,Not reported,0.0
 Other / improvised,Avon & Somerset,Other,Other / improvised,Not reported,0.0
 *Total Not reported,Avon & Somerset,Not reported,Total: Not reported,Not reported,0.0
@@ -6800,8 +6800,8 @@ Tactical communication,Cumbria,Excluded: Tactical Communication,Tactical Communi
 *Total Tactics,Derbyshire,Total,Total: all,Not reported,0.0
 *Total Restraint,Derbyshire,Restraint,Total: Restraint,Not reported,0.0
 "Handcuffing, of which",Derbyshire,Restraint,Total: Handcuffing,Not reported,0.0
-Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,Not reported,:
-Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,Not reported,:
+Compliant handcuffing,Derbyshire,Restraint,Handcuffing: compliant,Not reported,
+Non-compliant handcuffing,Derbyshire,Restraint,Handcuffing: non-compliant,Not reported,
 Handcuffing not stated,Derbyshire,,,Not reported,0.0
 Limb / Body restraints,Derbyshire,Restraint,Limb / body restraints,Not reported,0.0
 Ground restraint,Derbyshire,Restraint,Ground restraint,Not reported,0.0
@@ -7268,8 +7268,8 @@ Baton drawn,Kent,Other equipment,Baton: drawn,Not reported,0.0
 Baton used,Kent,Other equipment,Baton: used,Not reported,0.0
 Baton not stated,Kent,,,Not reported,0.0
 "Irritant spray, of which",Kent,Other equipment,Total: Irritant spray,Not reported,0.0
-Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,Not reported,:
-Irritant spray - used,Kent,Other equipment,Irritant spray: used,Not reported,:
+Irritant spray - drawn,Kent,Other equipment,Irritant spray: drawn,Not reported,
+Irritant spray - used,Kent,Other equipment,Irritant spray: used,Not reported,
 Irritant spray not stated,Kent,,,Not reported,0.0
 Spit and bite guard,Kent,Other equipment,Spit and bite guard,Not reported,0.0
 Shield,Kent,Other equipment,Shield,Not reported,0.0
@@ -7294,8 +7294,8 @@ Tactical communication,Kent,Excluded: Tactical Communication,Tactical Communicat
 *Total Tactics,Lancashire,Total,Total: all,Not reported,371.0
 *Total Restraint,Lancashire,Restraint,Total: Restraint,Not reported,24.0
 "Handcuffing, of which",Lancashire,Restraint,Total: Handcuffing,Not reported,21.0
-Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,Not reported,:
-Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,Not reported,:
+Compliant handcuffing,Lancashire,Restraint,Handcuffing: compliant,Not reported,
+Non-compliant handcuffing,Lancashire,Restraint,Handcuffing: non-compliant,Not reported,
 Handcuffing not stated,Lancashire,,,Not reported,21.0
 Limb / Body restraints,Lancashire,Restraint,Limb / body restraints,Not reported,1.0
 Ground restraint,Lancashire,Restraint,Ground restraint,Not reported,2.0
@@ -7503,8 +7503,8 @@ Spit and bite guard,Norfolk,Other equipment,Spit and bite guard,Not reported,0.0
 Shield,Norfolk,Other equipment,Shield,Not reported,0.0
 *Total Less lethal weapons,Norfolk,Less lethal weapons,Total: Less lethal weapons,Not reported,0.0
 CED of which,Norfolk,,,Not reported,0.0
-CED non-discharge,Norfolk,,,Not reported,:
-CED discharge,Norfolk,,,Not reported,:
+CED non-discharge,Norfolk,,,Not reported,
+CED discharge,Norfolk,,,Not reported,
 CED not stated,Norfolk,,,Not reported,0.0
 "AEP, of which",Norfolk,Less lethal weapons,Total: AEP,Not reported,0.0
 AEP drawn,Norfolk,,,Not reported,0.0
@@ -7788,8 +7788,8 @@ Tactical communication,South Yorkshire,Excluded: Tactical Communication,Tactical
 *Total Tactics,Staffordshire,Total,Total: all,Not reported,368.0
 *Total Restraint,Staffordshire,Restraint,Total: Restraint,Not reported,50.0
 "Handcuffing, of which",Staffordshire,Restraint,Total: Handcuffing,Not reported,30.0
-Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,Not reported,:
-Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,Not reported,:
+Compliant handcuffing,Staffordshire,Restraint,Handcuffing: compliant,Not reported,
+Non-compliant handcuffing,Staffordshire,Restraint,Handcuffing: non-compliant,Not reported,
 Handcuffing not stated,Staffordshire,,,Not reported,30.0
 Limb / Body restraints,Staffordshire,Restraint,Limb / body restraints,Not reported,5.0
 Ground restraint,Staffordshire,Restraint,Ground restraint,Not reported,15.0
@@ -7845,8 +7845,8 @@ Spit and bite guard,Suffolk,Other equipment,Spit and bite guard,Not reported,0.0
 Shield,Suffolk,Other equipment,Shield,Not reported,0.0
 *Total Less lethal weapons,Suffolk,Less lethal weapons,Total: Less lethal weapons,Not reported,0.0
 CED of which,Suffolk,,,Not reported,0.0
-CED non-discharge,Suffolk,,,Not reported,:
-CED discharge,Suffolk,,,Not reported,:
+CED non-discharge,Suffolk,,,Not reported,
+CED discharge,Suffolk,,,Not reported,
 CED not stated,Suffolk,,,Not reported,0.0
 "AEP, of which",Suffolk,Less lethal weapons,Total: AEP,Not reported,0.0
 AEP drawn,Suffolk,,,Not reported,0.0
@@ -7902,8 +7902,8 @@ Tactical communication,Surrey,Excluded: Tactical Communication,Tactical Communic
 *Total Tactics,Sussex,Total,Total: all,Not reported,0.0
 *Total Restraint,Sussex,Restraint,Total: Restraint,Not reported,0.0
 "Handcuffing, of which",Sussex,Restraint,Total: Handcuffing,Not reported,0.0
-Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,Not reported,:
-Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,Not reported,:
+Compliant handcuffing,Sussex,Restraint,Handcuffing: compliant,Not reported,
+Non-compliant handcuffing,Sussex,Restraint,Handcuffing: non-compliant,Not reported,
 Handcuffing not stated,Sussex,,,Not reported,0.0
 Limb / Body restraints,Sussex,Restraint,Limb / body restraints,Not reported,0.0
 Ground restraint,Sussex,Restraint,Ground restraint,Not reported,0.0
@@ -7948,8 +7948,8 @@ Ground restraint,Thames Valley,Restraint,Ground restraint,Not reported,0.0
 *Total Unarmed skills,Thames Valley,Unarmed skills,Total: unarmed skills,Not reported,1.0
 *Total Other equipment,Thames Valley,Other equipment,Total: Other equipment,Not reported,0.0
 "Baton, of which",Thames Valley,Other equipment,Total: Baton,Not reported,0.0
-Baton drawn,Thames Valley,Other equipment,Baton: drawn,Not reported,:
-Baton used,Thames Valley,Other equipment,Baton: used,Not reported,:
+Baton drawn,Thames Valley,Other equipment,Baton: drawn,Not reported,
+Baton used,Thames Valley,Other equipment,Baton: used,Not reported,
 Baton not stated,Thames Valley,,,Not reported,0.0
 "Irritant spray, of which",Thames Valley,Other equipment,Total: Irritant spray,Not reported,0.0
 Irritant spray - drawn,Thames Valley,Other equipment,Irritant spray: drawn,Not reported,0.0
@@ -7969,8 +7969,8 @@ AEP not stated,Thames Valley,,,Not reported,0.0
 *Total Firearms,Thames Valley,Firearms,Total: Firearms,Not reported,0.0
 *Total Other,Thames Valley,Other,Total: Other,Not reported,9.0
 "Dog use, of which",Thames Valley,Other,Total: Dog,Not reported,0.0
-Dog deployed,Thames Valley,Other,Dog: deployed,Not reported,:
-Dog bite,Thames Valley,Other,Dog: bite,Not reported,:
+Dog deployed,Thames Valley,Other,Dog: deployed,Not reported,
+Dog bite,Thames Valley,Other,Dog: bite,Not reported,
 Dog not stated,Thames Valley,,,Not reported,0.0
 Other / improvised,Thames Valley,Other,Other / improvised,Not reported,9.0
 *Total Not reported,Thames Valley,Not reported,Total: Not reported,Not reported,0.0
@@ -8062,12 +8062,12 @@ Ground restraint,West Midlands,Restraint,Ground restraint,Not reported,0.0
 *Total Unarmed skills,West Midlands,Unarmed skills,Total: unarmed skills,Not reported,1.0
 *Total Other equipment,West Midlands,Other equipment,Total: Other equipment,Not reported,0.0
 "Baton, of which",West Midlands,Other equipment,Total: Baton,Not reported,0.0
-Baton drawn,West Midlands,Other equipment,Baton: drawn,Not reported,:
-Baton used,West Midlands,Other equipment,Baton: used,Not reported,:
+Baton drawn,West Midlands,Other equipment,Baton: drawn,Not reported,
+Baton used,West Midlands,Other equipment,Baton: used,Not reported,
 Baton not stated,West Midlands,,,Not reported,0.0
 "Irritant spray, of which",West Midlands,Other equipment,Total: Irritant spray,Not reported,0.0
-Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,Not reported,:
-Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,Not reported,:
+Irritant spray - drawn,West Midlands,Other equipment,Irritant spray: drawn,Not reported,
+Irritant spray - used,West Midlands,Other equipment,Irritant spray: used,Not reported,
 Irritant spray not stated,West Midlands,,,Not reported,0.0
 Spit and bite guard,West Midlands,Other equipment,Spit and bite guard,Not reported,0.0
 Shield,West Midlands,Other equipment,Shield,Not reported,0.0
@@ -8083,8 +8083,8 @@ AEP not stated,West Midlands,,,Not reported,0.0
 *Total Firearms,West Midlands,Firearms,Total: Firearms,Not reported,0.0
 *Total Other,West Midlands,Other,Total: Other,Not reported,0.0
 "Dog use, of which",West Midlands,Other,Total: Dog,Not reported,0.0
-Dog deployed,West Midlands,Other,Dog: deployed,Not reported,:
-Dog bite,West Midlands,Other,Dog: bite,Not reported,:
+Dog deployed,West Midlands,Other,Dog: deployed,Not reported,
+Dog bite,West Midlands,Other,Dog: bite,Not reported,
 Dog not stated,West Midlands,,,Not reported,0.0
 Other / improvised,West Midlands,Other,Other / improvised,Not reported,0.0
 *Total Not reported,West Midlands,Not reported,Total: Not reported,Not reported,0.0
