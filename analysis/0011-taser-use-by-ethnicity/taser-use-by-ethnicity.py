@@ -9,8 +9,7 @@ df_2020 = pd.read_csv(
 
 df_2019['ytd'] = '2019-03-31'
 df_2020['ytd'] = '2020-03-31'
-df = pd.concat([df_2019, df_2020])
-df = df.loc[df['Tactic'] == 'CED']
+df = pd.concat([df_2019[df_2019['Tactic'] == 'CED'], df_2020[df_2020['Tactic'] == 'CED of which']])
 df = df[df['Police Force'] != "Total England and Wales"]
 df = df.melt(id_vars=['Police Force', 'Tactic', 'ytd'], value_vars=['White', 'Black (or Black British)', 'Asian (or Asian British)', 'Chinese', 'Mixed', 'Other', "Don't know", 'Not reported'])
 
