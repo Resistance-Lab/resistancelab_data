@@ -1,6 +1,6 @@
 flake8
 pandas
 pandas-ods-reader
-great-expectations
+great-expectations==0.15.50  # tests use the V2 DataContext API, removed in later releases
 nose
 # requests  # Commented out because great-expectations needs a very specific version
